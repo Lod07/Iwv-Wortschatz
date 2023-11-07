@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-18" url="2019-09-05_14-00_412.xml">
+   <title>Missbrauch: 2 Männer müssen lange ins Gefängnis</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-09-05_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-09-05_14-00_412-full.png" type="screenshot" url="2019-09-05_14-00_412-full.png"/>
+      <resource id="2" name="2019-09-05_14-00_412_plaintext.txt" type="plaintext" url="2019-09-05_14-00_412_plaintext.txt"/>
+      <resource id="3" name="2019-09-05_14-00_412_quellcode.txt" type="sourcecode" url="2019-09-05_14-00_412_quellcode.txt"/>
+      <resource id="4" name="2019-09-05_14-00_412.docx" type="formatedText" url="2019-09-05_14-00_412.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Missbrauch: 2 Männer müssen lange ins Gefängnis</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Nordrhein-Westfalen war ein Prozess.</statement>	
+               <explanations>				
+                  <explanation id="1">		
+                     <statement><style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <enumeration_marker>					
+                        <enumeration_intro>	
+                           <statement>Bei einem Prozess entscheidet das Gericht:</statement>
+                        </enumeration_intro> 
+                        <enumerations>			
+                           <enumeration id="1">	
+                              <question>• Hat ein Mensch etwas Verbotenes getan?</question>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+                  <explanation id="3">
+                     <enumeration_marker>					
+                        <enumeration_intro>	
+                           <statement>Dann bekommt dieser Mensch eine Strafe.</statement>
+                        </enumeration_intro> 
+                        <enumerations>			
+                           <enumeration id="1">	
+                              <question>• Oder hat ein Mensch nichts Verbotenes getan?</question>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Dann bekommt dieser Mensch <style_element type="hb">keine</style_element> Strafe.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieser Prozess war in Detmold.</statement>	
+                  <explanations>				
+                     <explanation id="1">		
+                        <statement>
+                           <style_element type="hi">Detmold ist eine Stadt in der Nähe von Niedersachsen.</style_element>
+                        </statement>
+                     </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Prozess hat das Gericht 2 Männer verurteilt.</statement>
+            <explanation_marker>
+               <statement>Diese 2 Männer haben nämlich sehr viele Kinder sexuell missbraucht.</statement>	
+               <explanations>				
+                  <explanation id="1">	
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>	
+                  </explanation>
+                  <explanation id="2">		
+                     <statement>
+                        <style_element type="hi">Die 2 Männer haben die Kinder zu sexuellen Dingen gezwungen.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Jetzt müssen die 2 Männer lange ins Gefängnis.</statement>	
+            <statement>Der eine Mann muss für 12 Jahre ins Gefängnis.</statement>
+            <statement>Und der andere Mann muss für 13 Jahre ins Gefängnis.</statement>
+         </section>
+         <section id="2">	
+            <subheadline>Was ist passiert?</subheadline>
+            <speech_marker>					
+               <speech_intro>			
+                  <statement>Das Gericht hat gesagt:</statement>
+               </speech_intro>
+               <speeches>					
+                  <speech id="1">			
+                     <statement>Die 2 Männer haben 32 Kinder sexuell missbraucht.</statement>
+                  </speech>
+                  <speech id="2">			
+                     <statement>Einige von diesen Kindern haben die Männer mehrfach sexuell missbraucht.</statement>
+                  </speech>
+                  <speech id="3">			
+                     <statement>Und einige von diesen Kindern haben die 2 Männer auch vergewaltigt.</statement>
+                  </speech>
+                  <speech id="4">			
+                     <statement>Einige von diesen Kindern waren noch sehr jung.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <explanation_marker>
+               <statement>Die Taten waren auf einem Camping·platz.</statement>	
+               <explanations>				
+                  <explanation id="1">		
+                     <statement>
+                        <style_element type="hi">Auf einem Camping·platz stehen zum Beispiel Zelte.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">		
+                     <statement>
+                        <style_element type="hi">Und Wohn·wagen.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieser Camping·platz ist in Lügde.</statement>	
+               <explanations>				
+                  <explanation id="1">		
+                     <explanation_marker>
+                        <statement><style_element type="hi">Lügde ist ein Ort in der Nähe von Bad Pyrmont.</style_element></statement>	
+                        <explanations>				
+                           <explanation id="1">		
+                              <statement>
+                                 <style_element type="hi">Bad Pyrmont ist eine Stadt in Niedersachsen.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="3">
+            <subheadline>Das Urteil</subheadline>
+            <speech_marker>					
+               <speech_intro>			
+                  <statement>Das Gericht hat gesagt:</statement>
+               </speech_intro>
+               <speeches>					
+                  <speech id="1">			
+                     <statement>Die 2 Männer haben sehr schlimme Sachen mit den Kindern gemacht.</statement>
+                  </speech>
+                  <speech id="2">			
+                     <statement>Deshalb müssen die 2 Männer jetzt lange ins Gefängnis.</statement>
+                  </speech>
+                  <speech id="3">			
+                     <statement>Der eine Mann muss für 12 Jahre ins Gefängnis.</statement>
+                  </speech>
+                  <speech id="4">			
+                     <statement>Und der andere Mann muss für 13 Jahre ins Gefängnis.</statement>
+                  </speech>
+                  <speech id="5">
+                     <speech_marker>					
+                        <speech_intro>			
+                           <statement>Aber wir glauben:</statement>
+                        </speech_intro>
+                        <speeches>					
+                           <speech id="1">			
+                              <statement>Die 2 Männer sind sehr gefährlich.</statement>
+                           </speech>
+                           <speech id="2">			
+                              <statement>Und vielleicht machen die 2 Männer nach der Strafe wieder schlimme Sachen.</statement>
+                           </speech>
+                           <speech id="3">			
+                              <statement>Deshalb kommen die 2 Männer nach der Strafe <style_element type="hb">nicht</style_element> frei.</statement>
+                           </speech>
+                           <speech id="4">			
+                              <statement>Die 2 Männer werden nach der Strafe weiter bewacht.</statement>
+                           </speech>
+                           <speech id="5">			
+                              <statement> Ein anderes Wort dafür ist Sicherungs·verwahrung.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

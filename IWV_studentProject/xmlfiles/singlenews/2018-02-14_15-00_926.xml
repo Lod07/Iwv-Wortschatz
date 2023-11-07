@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-28" url="2018-02-14_15-00_926.xml">
+   <title>Olaf Scholz ist der Chef von der SPD</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-02-14_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-02-14_15-00_926-full.png" type="screenshot" url="2018-02-14_15-00_926-full.png"/>
+      <resource id="2" name="2018-02-14_15-00_926_plaintext.txt" type="plaintext" url="2018-02-14_15-00_926_plaintext.txt"/>
+      <resource id="3" name="2018-02-14_15-00_926_quellcode.txt" type="sourcecode" url="2018-02-14_15-00_926_quellcode.txt"/>
+      <resource id="4" name="2018-02-14_15-00_926.docx" type="formatedText" url="2018-02-14_15-00_926.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Olaf Scholz ist der Chef von der SPD</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Olaf Scholz hat eine neue Aufgabe.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Olaf Scholz ist der Bürger·meister von Hamburg.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Ein Bürger·meister ist der Chef von einer Stadt.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Olaf Scholz ist jetzt der Chef von der SPD.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">SPD ist die Abkürzung für Sozial·demokratische Partei Deutschlands.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Olaf Scholz ist aber nur kommissarisch der Chef von der SPD.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>Das heißt:</headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>Olaf Scholz ist nur für kurze Zeit der Chef von der SPD.</statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Am 22. April wählt die SPD nämlich einen neuen Chef.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Martin Schulz ist zurück·getreten</subheadline>
+               <statement>Der alte Chef von der SPD war Martin Schulz.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Aber viele Menschen haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Martin Schulz ist <style_element type="hb">kein</style_element> guter Chef von der SPD.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <explanation_marker>
+                  <statement>Deshalb ist Martin Schulz zurück·getreten.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword>Das heißt:</headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement>Martin Schulz wollte <style_element type="hb">nicht</style_element> mehr der Chef von der SPD sein.</statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <section id="3">
+            <subheadline>Die SPD wählt einen neuen Chef</subheadline>
+               <statement>Am 22. April wählt die SPD einen neuen Chef.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Viele Fach·leute sagen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Wahrscheinlich wird Andrea Nahles die neue Chefin von der SPD.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Andrea Nahles ist eine wichtige Politikerin von der SPD.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <explanation_marker>
+                                    <statement><style_element type="hi">Andrea Nahles war zum Beispiel Ministerin.</style_element></statement>
+                                    <explanations>
+                                       <explanation id="1">
+                                          <explanation_marker>
+                                             <statement><style_element type="hi">Eine Ministerin ist die Chefin von einem bestimmten Bereich in der Politik.</style_element></statement>
+                                             <explanations>
+                                                <explanation id="1">
+                                                   <enumeration_marker>
+                                                      <enumeration_intro>
+                                                         <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                                                      </enumeration_intro>
+                                                      <enumerations>
+                                                         <enumeration id="1">
+                                                            <headword><style_element type="hi">• Arbeit.</style_element></headword>
+                                                         </enumeration>
+                                                         <enumeration id="2">
+                                                            <headword><style_element type="hi">• Oder Wirtschaft.</style_element></headword>
+                                                         </enumeration>
+                                                      </enumerations>
+                                                   </enumeration_marker>
+                                                </explanation>
+                                             </explanations>
+                                          </explanation_marker>
+                                       </explanation>
+                                    </explanations>
+                                 </explanation_marker>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

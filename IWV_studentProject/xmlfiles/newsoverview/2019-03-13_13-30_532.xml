@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-17" url="2019-03-13_13-30_532.xml">
+   <title>Mehr Nachrichten vom 13.03.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-03-13_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-03-13_13-30_532-full.png" type="screenshot" url="2019-03-13_13-30_532-full.png"/>
+      <resource id="2" name="2019-03-13_13-30_532_plaintext.txt" type="plaintext" url="2019-03-13_13-30_532_plaintext.txt"/>
+      <resource id="3" name="2019-03-13_13-30_532_quellcode.txt" type="sourcecode" url="2019-03-13_13-30_532_quellcode.txt"/>
+      <resource id="4" name="2019-03-13_13-30_532.docx" type="formatedText" url="2019-03-13_13-30_532.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 13.03.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: VfL Wolfsburg braucht neuen Trainer</subheadline>
+               <explanation_marker>
+                  <statement>Der VfL Wolfsburg braucht einen neuen Trainer.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Der VfL Wolfsburg ist ein Fußball·verein aus Niedersachsen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Der Trainer vom VfL Wolfsburg ist Bruno Labbadia.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Aber jetzt hat Bruno Labbadia gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ich habe Probleme mit anderen wichtigen Mitarbeitern vom VfL Wolfsburg.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb möchte ich <style_element type="hb">nicht</style_element> mehr der Trainer vom VfL Wolfsburg sein.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker> 
+               <statement>Der Chef vom VfL Wolfsburg ist Jörg Schmadtke.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Jörg Schmadtke hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Bruno Labbadia verlässt den VfL Wolfsburg im Sommer.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Das ist sehr schade.</statement>
+                     </speech>
+                     <speech id="3">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Wir wissen noch <style_element type="hb">nicht</style_element>:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1"> 
+                                 <question>Wer wird der neue Trainer vom VfL Wolfsburg?</question>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker> 
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Unfall auf der A7</subheadline>
+               <explanation_marker>
+                  <statement>Auf der A7 war ein Unfall.</statement>
+                  <explanations>
+                     <explanation id="1"> 
+                        <statement><style_element type="hi">A7 ist die Abkürzung für <style_element type="hb">A</style_element>utobahn <style_element type="hb">7</style_element>.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei dem Unfall wurde eine Frau schwer verletzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ein Lkw-Fahrer ist mit seinem Lkw auf der rechten Fahr·spur von der A7 gefahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann ist der Lkw-Fahrer auf die linke Fahr·spur gefahren.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Aber auf der linken Fahr·spur war ein Auto.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und der Lkw-Fahrer ist gegen das Auto gefahren.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>In dem Auto war eine Frau.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Diese Frau wurde schwer verletzt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <explanation_marker>
+                  <statement>Nach dem Unfall hat die Polizei die A7 für einige Stunden gesperrt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2"> 
+                        <statement><style_element type="hi">Auf der A7 durfte <style_element type="hb">kein</style_element> Auto mehr fahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Deshalb war ein langer Stau.</statement>
+               <statement>Und deshalb mussten viele Menschen lange warten.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

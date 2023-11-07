@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-23" url="2018-07-24_15-00_785.xml">
+   <title>Bombe in der Ostsee gesprengt</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-07-24_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-07-24_15-00_785-full.png" type="screenshot" url="2018-07-24_15-00_785-full.png"/>
+      <resource id="2" name="2018-07-24_15-00_785_plaintext.txt" type="plaintext" url="2018-07-24_15-00_785_plaintext.txt"/>
+      <resource id="3" name="2018-07-24_15-00_785_quellcode.txt" type="sourcecode" url="2018-07-24_15-00_785_quellcode.txt"/>
+      <resource id="4" name="2018-07-24_15-00_785.docx" type="formatedText" url="2018-07-24_15-00_785.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Bombe in der Ostsee gesprengt</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In der Ostsee haben Fach∙leute eine Bombe gesprengt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Bombe ist unter Wasser explodiert.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Bombe war 17 Meter tief im Wasser.</statement>
+            <explanation_marker>
+               <statement>Und die Bombe war in der Kieler Förde.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die Kieler Förde ist ein Teil von der Ostsee.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Und die Kieler Förde ist in der Nähe von Kiel.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Kiel ist die Haupt·stadt von Schleswig-Holstein.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Bombe war gefährlich.</statement>
+            <statement>Aber jetzt ist die Bombe <style_element type="hb">nicht</style_element> mehr gefährlich.</statement>
+            <statement>Bei der Sprengung wurde <style_element type="hb">kein</style_element> Mensch verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Die Bombe war aus dem 2. Welt·krieg.</subheadline>
+               <statement>Im 2. Welt∙krieg haben Flugzeuge viele Bomben abgeworfen.</statement>
+               <statement>Auch über der Ostsee.</statement>
+               <statement>Aber manche Bomben sind <style_element type="hb">nicht</style_element> explodiert.</statement>
+               <statement>Diese Bomben heißen: Blind·gänger.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Taucher haben die Bombe in der Ostsee entdeckt.</statement>
+               <statement>Dann haben Fach·leute die Bombe untersucht.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Diese Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Bombe ist sehr gefährlich.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Die Bombe kann nämlich explodieren.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und die Bombe kann Schiffe zerstören.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb müssen wir die Bombe ungefährlich machen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Aber wir können die Bombe <style_element type="hb">nicht</style_element> aus der Ostsee holen.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Deshalb müssen wir die Bombe in der Ostsee sprengen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Vor der Sprengung haben Fach·leute gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Sprengung kann gefährlich sein.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <explanation_marker>
+               <statement>Deshalb hat die Polizei die Kieler Förde gesperrt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Auf der Kieler Förde durfte <style_element type="hb">kein</style_element> Schiff fahren.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und in der Kieler Förde durfte <style_element type="hb">kein</style_element> Mensch schwimmen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und die Polizei hat die Strände an der Kieler Förde gesperrt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">An den Stränden dufte <style_element type="hb">kein</style_element> Mensch sein.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Nach der Sprengung durften die Schiffe wieder auf der Kieler Förde fahren.</statement>
+            <statement>Die Menschen durften wieder schwimmen.</statement>
+            <statement>Und am Strand sein.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

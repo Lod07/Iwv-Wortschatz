@@ -1,0 +1,187 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-20" url="2018-07-16_15-00_699.xml">
+   <title>Kerber gewinnt Wimbledon</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-07-16_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-07-16_15-00_699-full.png" type="screenshot" url="2018-07-16_15-00_699-full.png"/>
+      <resource id="2" name="2018-07-16_15-00_699_plaintext.txt" type="plaintext" url="2018-07-16_15-00_699_plaintext.txt"/>
+      <resource id="3" name="2018-07-16_15-00_699_quellcode.txt" type="sourcecode" url="2018-07-16_15-00_699_quellcode.txt"/>
+      <resource id="4" name="2018-07-16_15-00_699.docx" type="formatedText" url="2018-07-16_15-00_699.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Kerber gewinnt Wimbledon</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Angelique Kerber hat das wichtigste Tennis·turnier gewonnen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Angelique Kerber ist eine Tennis·spielerin aus Kiel.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Kiel ist die Haupt·stadt von Schleswig-Holstein.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Das Tennis·turnier heißt Wimbledon.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Wimbledon ist in London.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">London ist die Haupt·stadt von England.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Angelique Kerber hat Wimbledon zum ersten Mal gewonnen.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Wimbledon</subheadline>
+               <statement>In Wimbledon gibt es viele Tennis·spiele.</statement>
+               <statement>Deshalb dauert Wimbledon 2 Wochen.</statement>
+               <statement>Alle Tennis·spiele in Wimbledon sind auf Rasen.</statement>
+               <statement>In Wimbledon spielen die besten Tennis·spieler von der Welt.</statement>
+               <statement>Nur die Gewinner von den Tennis·spielen dürfen bei Wimbledon weiter·spielen.</statement>
+               <statement>Am Ende von Wimbledon gibt es ein End·spiel.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Das End·spiel</subheadline>
+               <statement>In diesem Jahr war Angelique Kerber im End·spiel.</statement>
+               <explanation_marker>
+                  <statement>Und Serena Williams war im End·spiel.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Serena Williams ist eine Tennis·spielerin aus Amerika.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Angelique Kerber hat das End·spiel gegen Serena Williams gewonnen.</statement>
+               <statement>Angelique Kerber hat den 1. Satz mit 6:3 gewonnen.</statement>
+               <statement>Dann hat Angelique Kerber auch den 2. Satz mit 6:3 gewonnen.</statement>
+         </section>
+         <section id="4">
+            <statement>Angelique Kerber hat sich sehr gefreut.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Angelique Kerber hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Ich habe immer viel trainiert.</statement>
+                  </speech>
+                  <speech id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Jetzt hat sich mein Traum erfüllt:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Ich habe Wimbledon gewonnen.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="5">
+            <subheadline>Platz 4 in der Welt·rangliste</subheadline>
+               <explanation_marker>
+                  <statement>Nach Wimbledon ist Angelique Kerber auf Platz 4 in der Welt·rangliste.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Die Welt·rangliste ist eine Tabelle.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Für jeden Sieg bekommt ein Tennis·spieler Punkte.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Gute Tennis·spieler haben viele Punkte.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Der Tennis·spieler mit den meisten Punkten ist auf Platz 1.</style_element></statement>
+                     </explanation>
+                     <explanation id="5">
+                        <statement><style_element type="hi">Dieser Tennis·spieler ist der beste Tennis·spieler von der Welt.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Vor Wimbledon war Angelique Kerber auf Platz 10 in der Welt·rangliste.</statement>
+         </section>
+         <section id="6">
+            <subheadline>Viele Glück·wünsche</subheadline>
+               <statement>Viele Menschen freuen sich über den Sieg von Angelique Kerber.</statement>
+               <statement>Und viele Menschen haben Angelique Kerber schon gratuliert.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <headword>Zum Beispiel:</headword>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <explanation_marker>
+                           <headword>• Boris Becker.</headword>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Boris Becker ist ein sehr bekannter Tennis·spieler.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                     <enumeration id="2">
+                        <explanation_marker>
+                           <headword>• Angela Merkel.</headword>
+                           <explanations>
+                              <explanation id="1">
+                                 <explanation_marker>
+                                    <statement><style_element type="hi">Angela Merkel ist die Bundes·kanzlerin von Deutschland.</style_element></statement>
+                                    <explanations>
+                                       <explanation id="1">
+                                          <statement><style_element type="hi">Die Bundes·kanzlerin ist die wichtigste Politikerin in Deutschland.</style_element></statement>
+                                       </explanation>
+                                    </explanations>
+                                 </explanation_marker>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                     <enumeration id="3">
+                        <explanation_marker>
+                           <statement>• Und Daniel Günther.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <explanation_marker>
+                                    <statement><style_element type="hi">Daniel Günther ist der Minister·präsident von Schleswig-Holstein.</style_element></statement>
+                                    <explanations>
+                                       <explanation id="1">
+                                          <statement><style_element type="hi">Ein Minister·präsident ist der Chef von einem Bundes·land.</style_element></statement>
+                                       </explanation>
+                                    </explanations>
+                                 </explanation_marker>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

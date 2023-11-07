@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2019-09-11_13-30_417.xml">
+   <title>Mehr Nachrichten vom 11.09.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-09-11_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-09-11_13-30_417-full.png" type="screenshot" url="2019-09-11_13-30_417-full.png"/>
+      <resource id="2" name="2019-09-11_13-30_417_plaintext.txt" type="plaintext" url="2019-09-11_13-30_417_plaintext.txt"/>
+      <resource id="3" name="2019-09-11_13-30_417_quellcode.txt" type="sourcecode" url="2019-09-11_13-30_417_quellcode.txt"/>
+      <resource id="4" name="2019-09-11_13-30_417.docx" type="formatedText" url="2019-09-11_13-30_417.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 11.09.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Schule geschlossen</subheadline>
+            <statement>In Salzgitter ist seit Mittwoch eine Schule geschlossen.</statement>
+            <explanation_marker>
+               <statement>In dieser Schule haben Fach·leute nämlich Schad·stoffe gefunden.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Schad·stoffe sind gefährliche Stoffe.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Schad·stoffe sind zum Beispiel schlecht für die Natur.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und für die Menschen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Schad·stoffe können Menschen sehr krank machen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In der Schule waren Bau·arbeiten.</statement>
+                  </speech>
+                  <speech id="2">
+                     <explanation_marker>
+                        <statement>Bei den Bau·arbeiten ist Asbest in die Luft gekommen.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Asbest ist zum Beispiel in alten Häusern.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Arbeiter haben früher nämlich beim Bauen von Häusern Asbest benutzt.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <speech_marker>
+                                 <speech_intro>
+                                    <statement><style_element type="hi">Aber dann haben Fach·leute herausgefunden:</style_element></statement>
+                                 </speech_intro>
+                                 <speeches>
+                                    <speech id="1">
+                                       <statement><style_element type="hi">Asbest ist gefährlich.</style_element></statement>
+                                    </speech>
+                                    <speech id="2">
+                                       <statement><style_element type="hi">In Asbest sind nämlich Schad·stoffe.</style_element></statement>
+                                    </speech>
+                                 </speeches>
+                              </speech_marker>
+                           </explanation>
+                           <explanation id="4">
+                              <statement><style_element type="hi">Deshalb ist Asbest beim Bauen von Häusern jetzt verboten.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="3">
+                     <statement>Jetzt müssen Fach·leute das Asbest entfernen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Noch weiß <style_element type="hb">kein</style_element> Mensch:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wann kann die Schule wieder öffnen?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Handball·spieler bleibt in Kiel</subheadline>
+            <explanation_marker>
+               <statement>Ein wichtiger Spieler bleibt bis 2022 beim THW Kiel.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Der THW Kiel ist ein Hand·ball·verein aus Kiel.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Kiel ist die Haupt·stadt von Schleswig-Holstein.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser wichtige Spieler ist Domagoj Duvnjak.</statement>
+            <statement>Domagoj Duvnjak ist aus Kroatien.</statement>
+            <statement>Und Domagoj Duvnjak spielt seit 2014 beim THW Kiel.</statement>
+            <statement>Der Trainer vom THW Kiel ist Filip Jicha.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Filip Jicha hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Domagoj Duvnjak ist einer von den besten Spielern von der Welt.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Jetzt hat Domagoj Duvnjak seinen Vertrag beim THW Kiel verlängert.</statement>                     
+                  </speech>
+                  <speech id="3">
+                     <statement>Das ist eine sehr gute Nachricht für den THW Kiel.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Niedersachsen: 5 Verletzte bei Feuer</subheadline>
+            <statement>In Delmenhorst war ein großes Feuer.</statement>
+            <statement>Das Feuer war in einer Wohnung.</statement>
+            <statement>Diese Wohnung ist in einem großen Haus.</statement>
+            <statement>Und diese Wohnung ist im 5. Stock von dem großen Haus.</statement>
+            <statement>Bei dem Feuer wurden 5 Menschen verletzt.</statement>
+            <statement>Diese Menschen haben bei dem Feuer nämlich giftigen Rauch eingeatmet.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Feuer·wehr hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>130 Feuer·wehr·leute haben bei dem Einsatz geholfen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Wir mussten viele Menschen mit Leitern aus dem Haus retten.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Die Wohnung wurde bei dem Feuer zerstört.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

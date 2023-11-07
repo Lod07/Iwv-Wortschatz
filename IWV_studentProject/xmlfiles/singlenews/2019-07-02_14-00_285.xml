@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-07-02_14-00_285.xml">
+   <title>Bundeswehr untersucht Absturz von Hubschrauber</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-07-02_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-07-02_14-00_285-full.png" type="screenshot" url="2019-07-02_14-00_285-full.png"/>
+      <resource id="2" name="2019-07-02_14-00_285_plaintext.txt" type="plaintext" url="2019-07-02_14-00_285_plaintext.txt"/>
+      <resource id="3" name="2019-07-02_14-00_285_quellcode.txt" type="sourcecode" url="2019-07-02_14-00_285_quellcode.txt"/>
+      <resource id="4" name="2019-07-02_14-00_285.docx" type="formatedText" url="2019-07-02_14-00_285.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Bundeswehr untersucht Absturz von Hubschrauber</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Am Montag ist in Aerzen ein Hubschrauber abgestürzt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Aerzen ist ein Ort in Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieser Hubschrauber war von der Bundeswehr.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die Bundeswehr ist die Armee von Deutschland.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Pilotin von dem Hubschrauber ist bei dem Absturz gestorben.</statement>
+            <statement>Jetzt untersuchen Fach·leute von der Bundeswehr den Absturz.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Fach·leute wollen nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum ist der Hubschrauber abgestürzt?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Hubschrauber stürzt auf Feld</subheadline>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>In dem Hubschrauber waren 2 Menschen:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Die Pilotin.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <explanation_marker>
+                           <statement>• Und der Co-Pilot.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Der Co-Pilot ist der zweite Pilot.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Der Co-Pilot hilft zum Beispiel dem Piloten.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Die Pilotin ist bei dem Absturz gestorben.</statement>
+               <statement>Und der Co-Pilot wurde schwer verletzt.</statement>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Ein Sprecher von der Bundeswehr hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Der Hubschrauber war wahrscheinlich im Tief·flug.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Der Hubschrauber ist dicht über dem Boden geflogen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die Pilotin wollte nämlich den Tief·flug üben.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dann ist der Hubschrauber auf ein Feld gestürzt.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und dann hat der Hubschrauber gebrannt.</statement>
+                  </speech>
+                  <speech id="5">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Wir wissen <style_element type="hb">nicht</style_element>:</statement> 
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Warum ist der Hubschrauber abgestürzt?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="6">
+                     <statement>Deshalb untersuchen Fach·leute von der Bundeswehr jetzt den Absturz.</statement>
+                  </speech>
+                  <speech id="7">
+                     <statement>Die Fach·leute untersuchen zum Beispiel die Absturz·stelle.</statement>
+                  </speech>
+                  <speech id="8">
+                     <statement>Und die Fach·leute untersuchen Teile von dem Hubschrauber.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <statement>Die Chefin von der Bundeswehr ist Ursula von der Leyen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Ursula von der Leyen hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir sind sehr traurig.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die Pilotin und der Co-Pilot waren erfahren.</statement>
+                  </speech>
+                  <speech id="3">
+                     <explanation_marker>
+                        <statement>Und die Pilotin und der Co-Pilot wollten Flug·lehrer werden.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Die Pilotin und der Co-Pilot wollten anderen Menschen das Fliegen beibringen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

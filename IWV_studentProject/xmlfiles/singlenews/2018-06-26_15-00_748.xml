@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-18" url="2018-06-26_15-00_748.xml">
+   <title>Schwere Lkw-Unfälle bei Bremen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-06-26_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-06-26_15-00_748-full.png" type="screenshot" url="2018-06-26_15-00_748-full.png"/>
+      <resource id="2" name="2018-06-26_15-00_748_plaintext.txt" type="plaintext" url="2018-06-26_15-00_748_plaintext.txt"/>
+      <resource id="3" name="2018-06-26_15-00_748_quellcode.txt" type="sourcecode" url="2018-06-26_15-00_748_quellcode.txt"/>
+      <resource id="4" name="2018-06-26_15-00_748.docx" type="formatedText" url="2018-06-26_15-00_748.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Schwere Lkw-Unfälle bei Bremen</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Auf der A1 in Bremen war ein Unfall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">A1 ist die Abkürzung für Auto·bahn 1.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei diesem Unfall sind mehrere Lkw ineinander gefahren.</statement>
+            <statement>Und bei diesem Unfall wurde der Fahrer von einem Lkw schwer verletzt.</statement>
+            <statement>Dann hat die Polizei die A1 gesperrt.</statement>
+            <statement>Und dann hat es noch einen Unfall gegeben.</statement>
+            <explanation_marker>
+               <statement>Dieser Unfall war bei Posthausen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Posthausen ist ein Ort in Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Unfall an Baustelle</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Auf der A1 in Bremen ist eine Baustelle.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb mussten die Auto·fahrer auf der A1 langsamer fahren.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Der Fahrer von einem Lkw hat wahrscheinlich zu spät gebremst.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb ist der Fahrer von dem Lkw gegen einen anderen Lkw gefahren.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Dabei wurde der Fahrer von dem Lkw schwer verletzt.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Dann hat die Polizei die A1 gesperrt.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Deshalb war auf der A1 ein langer Stau.</statement>
+                     </speech>
+                     <speech id="8">
+                        <statement>Am Ende von dem Stau hat es noch einen Unfall gegeben.</statement>
+                     </speech>
+                     <speech id="9">
+                        <statement>Dieser Unfall war bei Posthausen.</statement>
+                     </speech>
+                     <speech id="10">
+                        <statement>Bei diesem Unfall wurde noch ein anderer Lkw-Fahrer schwer verletzt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Probleme für Polizei</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Bei dem Unfall waren viele Gaffer.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Gaffer sind neugierige Auto·fahrer.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Gaffer machen verbotene Sachen.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <enumeration_marker>
+                                    <enumeration_intro>
+                                       <statement><style_element type="hi">Dabei stören Gaffer oft die Arbeit:</style_element></statement>
+                                    </enumeration_intro>
+                                    <enumerations>
+                                       <enumeration id="1">
+                                          <statement><style_element type="hi">• Von der Polizei.</style_element></statement>
+                                       </enumeration>
+                                       <enumeration id="2">
+                                          <statement><style_element type="hi">• Von der Feuerwehr.</style_element></statement>
+                                       </enumeration>
+                                       <enumeration id="3">
+                                          <statement><style_element type="hi">• Oder von den Rettungs·diensten.</style_element></statement>
+                                       </enumeration>
+                                    </enumerations>
+                                 </enumeration_marker>
+                              </explanation>
+                              <explanation id="4">
+                                 <statement><style_element type="hi">Gaffer fahren langsam an Unfall·stellen vorbei.</style_element></statement>
+                              </explanation>
+                              <explanation id="5">
+                                 <statement><style_element type="hi">Oder halten an.</style_element></statement>
+                              </explanation>
+                              <explanation id="6">
+                                 <statement><style_element type="hi">Oft versperren Gaffer den Weg zu einer Unfall·stelle.</style_element></statement>
+                              </explanation>
+                              <explanation id="7">
+                                 <statement><style_element type="hi">Aber Gaffer wollen den Menschen bei einem Unfall <style_element type="hb">nicht</style_element> helfen.</style_element></statement>
+                              </explanation>
+                              <explanation id="8">
+                                 <statement><style_element type="hi">Gaffer machen zum Beispiel Filme von Verletzten oder Toten.</style_element></statement>
+                              </explanation>
+                              <explanation id="9">
+                                 <statement><style_element type="hi">Und diese Filme stellen Gaffer dann oft ins Internet.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb konnten wir den Verletzten nicht so schnell helfen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und deshalb konnten die Rettungs·wagen nicht so schnell zum Unfall kommen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <speech_marker>
+                           <speech_intro>
+                              <headword>Wir wissen:</headword>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question>Wer sind die Gaffer?</question>
+                              </speech>
+                              <speech id="2">
+                                 <statement>Vielleicht bekommen diese Gaffer jetzt eine Strafe.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

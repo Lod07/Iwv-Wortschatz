@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-09-26_15-00_708.xml">
+   <title>Neue Moschee in Hamburg</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-09-26_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-09-26_15-00_708-full.png" type="screenshot" url="2018-09-26_15-00_708-full.png"/>
+      <resource id="2" name="2018-09-26_15-00_708_plaintext.txt" type="plaintext" url="2018-09-26_15-00_708_plaintext.txt"/>
+      <resource id="3" name="2018-09-26_15-00_708_quellcode.txt" type="sourcecode" url="2018-09-26_15-00_708_quellcode.txt"/>
+      <resource id="4" name="2018-09-26_15-00_708.docx" type="formatedText" url="2018-09-26_15-00_708.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Neue Moschee in Hamburg</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Hamburg hat eine neue Moschee eröffnet.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Moschee ist ein besonderes Gebäude.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">In einer Moschee beten Muslime.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Muslime gehören zum Islam.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">Der Islam ist eine von den 5 großen Religionen.</style_element></statement>
+                                    </explanation>
+                                    <explanation id="2">
+                                       <enumeration_marker>
+                                          <enumeration_intro>
+                                             <statement><style_element type="hi">Die 4 anderen großen Religionen sind:</style_element></statement>
+                                          </enumeration_intro>
+                                          <enumerations>
+                                             <enumeration id="1">
+                                                <headword><style_element type="hi">• Das Christentum.</style_element></headword>
+                                             </enumeration>
+                                             <enumeration id="2">
+                                                <headword><style_element type="hi">• Der Hinduismus.</style_element></headword>
+                                             </enumeration>
+                                             <enumeration id="3">
+                                                <headword><style_element type="hi">• Der Buddhismus.</style_element></headword>
+                                             </enumeration>
+                                             <enumeration id="4">
+                                                <statement><style_element type="hi">• Und das Judentum.</style_element></statement>
+                                             </enumeration>
+                                          </enumerations>
+                                       </enumeration_marker>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Diese neue Moschee ist in Hamburg-Horn.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Horn ist ein Stadt·teil von Hamburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und diese Moschee war früher eine Kirche.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Evangelische Kirche verkauft Gebäude</subheadline>
+               <statement>Bis zum Jahr 2002 war das Gebäude eine Kirche.</statement>
+               <statement>Der Name von der Kirche war Kapernaum-Kirche.</statement>
+               <statement>Die Kirche war von der Evangelischen Kirche.</statement>
+               <statement>Aber dann hat die Evangelische Kirche mehrere Kirchen verkauft.</statement>
+               <statement>Auch die Kapernaum-Kirche.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Evangelische Kirche hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Früher waren immer sehr viele Menschen in unseren Kirchen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber jetzt sind <style_element type="hb">nicht</style_element> mehr so viele Menschen in unseren Kirchen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb brauchen wir <style_element type="hb">nicht</style_element> mehr so viele Kirchen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und deshalb haben wir einige von unseren Kirchen verkauft.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>5 Jahre Umbau</subheadline>
+               <statement>Im Jahr 2012 hat ein Verein das Gebäude gekauft.</statement>
+               <statement>Dieser Verein ist ein islamischer Verein.</statement>
+               <statement>Der Umbau von dem Gebäude hat 5 Jahre gedauert.</statement>
+               <statement>Und der Umbau von dem Gebäude hat 4 Millionen Euro gekostet.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Ein Sprecher von der Moschee hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir freuen uns über die Eröffnung von der Moschee.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber die Moschee ist noch <style_element type="hb">nicht</style_element> fertig.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Wir müssen nämlich zum Beispiel noch den Turm von der Moschee reparieren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

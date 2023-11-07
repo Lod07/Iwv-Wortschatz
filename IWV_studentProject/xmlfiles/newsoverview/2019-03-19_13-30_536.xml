@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-19" url="2019-03-19_13-30_536.xml">
+   <title>Mehr Nachrichten vom 19.03.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-03-19_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-03-19_13-30_536-full.png" type="screenshot" url="2019-03-19_13-30_536-full.png"/>
+      <resource id="2" name="2019-03-19_13-30_536_plaintext.txt" type="plaintext" url="2019-03-19_13-30_536_plaintext.txt"/>
+      <resource id="3" name="2019-03-19_13-30_536_quellcode.txt" type="sourcecode" url="2019-03-19_13-30_536_quellcode.txt"/>
+      <resource id="4" name="2019-03-19_13-30_536.docx" type="formatedText" url="2019-03-19_13-30_536.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 19.03.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Fähre fährt nach Helgoland</subheadline>
+               <explanation_marker>
+                  <statement>Seit Dienstag fährt wieder jeden Tag ein Schiff von Hamburg nach Helgoland.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Helgoland ist eine Insel.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Helgoland ist in der Nordsee.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und Helgoland gehört zu Schleswig-Holstein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Dieses Schiff ist eine Fähre.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Fähre transportiert zum Beispiel Menschen.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <headword><style_element type="hi">Oder Autos.</style_element></headword>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Am Anfang haben die Besitzer gedacht:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Fähre fährt am Sonnabend zum ersten Mal in diesem Jahr nach Helgoland.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Aber am Sonnabend haben Arbeiter die Fähre noch repariert.</statement>
+               <statement>Und am Sonntag und Montag war sehr schlechtes Wetter.</statement>
+               <statement>Am Dienstag war sehr gutes Wetter.</statement>
+               <statement>Deshalb konnte die Fähre am Dienstag nach Helgoland fahren.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern:  6 besondere Schiffe</subheadline>
+               <statement>Eine Werft hat 6 besondere Schiffe gebaut.</statement>
+               <explanation_marker>
+                  <statement>Diese Schiffe sind Fluss·kreuz·fahrt·schiffe.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Auf einem Kreuz·fahrt·schiff können Menschen Urlaub machen.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Ein Fluss·kreuz·fahrt·schiff fährt nur auf Flüssen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Werft ist die Neptun Werft.</statement>
+               <explanation_marker>
+                  <statement>Die Neptun Werft ist in Warnemünde.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Warnemünde ist ein Stadt·teil von Rostock.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und Warnemünde ist an der Ostsee.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Auf den Schiffen können 190 Menschen mitfahren.</statement>
+               <statement>Die Schiffe fahren bald auf großen Flüssen.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <headword>Zum Beispiel:</headword>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <statement>• Auf dem Rhein.</statement>
+                     </enumeration>
+                     <enumeration id="2">
+                        <statement>• Und auf der Donau.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Hamburg: Fahrrad·fahrer stirbt bei Unfall</subheadline>
+               <statement>In Hamburg war ein schwerer Unfall.</statement>
+               <statement>Der Unfall war im Stadt·teil Stellingen.</statement>
+               <statement>Bei dem Unfall hat ein Lkw-Fahrer einen Fahrrad·fahrer überfahren.</statement>
+               <statement>Der Fahrrad·fahrer ist bei dem Unfall gestorben.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1"> 
+                        <statement>Der Lkw-Fahrer ist an einer Kreuzung nach rechts abgebogen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Wahrscheinlich hat der Lkw-Fahrer den Fahrrad·fahrer <style_element type="hb">nicht</style_element> gesehen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und wahrscheinlich hat der Lkw-Fahrer den Fahrrad·fahrer deshalb überfahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

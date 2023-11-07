@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-20" url="2019-04-02_14-00_479.xml">
+   <title>Bomben·drohung in Zug</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-04-02_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-04-02_14-00_479-full.png" type="screenshot" url="2019-04-02_14-00_479-full.png"/>
+      <resource id="2" name="2019-04-02_14-00_479_plaintext.txt" type="plaintext" url="2019-04-02_14-00_479_plaintext.txt"/>
+      <resource id="3" name="2019-04-02_14-00_479_quellcode.txt" type="sourcecode" url="2019-04-02_14-00_479_quellcode.txt"/>
+      <resource id="4" name="2019-04-02_14-00_479.docx" type="formatedText" url="2019-04-02_14-00_479.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Bomben·drohung in Zug</headline>
+      <sections>
+         <section id="1">
+            <statement>In Schleswig-Holstein war ein Polizei·einsatz.</statement>
+            <statement>Der Polizei·einsatz war in einem Zug.</statement>
+            <explanation_marker>
+               <statement>Der Zug war auf dem Weg von Hamburg nach Kiel.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Kiel ist eine Stadt in Schleswig-Holstein.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und der Zug war im Bahnhof von Neumünster.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Neumünster ist eine Stadt in Schleswig-Holstein.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir haben einen Hinweis bekommen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Nach diesem Hinweis haben wir gedacht:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>In dem Zug ist vielleicht eine Bombe.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker> 
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Dann hat die Polizei den Zug durchsucht.</statement>
+            <statement>Aber die Polizei hat <style_element type="hb">keine</style_element> Bombe gefunden.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Polizei bringt Menschen in Sicherheit</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ein Mensch hat Worte auf einen Spiegel geschrieben.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dieser Spiegel ist in einer Toilette von dem Zug.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Die Worte waren: Bombe im Zug.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Ein Fahr·gast hat diese Worte gelesen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Und der Fahr·gast hat einer Mitarbeiterin von der Bahn von den Worten erzählt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Die Mitarbeiterin von der Bahn hat die Polizei gerufen.</statement>
+               <statement>Die Polizei hat den Zug im Bahnhof von Neumünster gestoppt.</statement>
+               <statement>Dann hat die Polizei die Fahr·gäste von dem Zug in Sicherheit gebracht.</statement>
+               <statement>Und die Polizei hat die Menschen im Bahnhof in Sicherheit gebracht.</statement>
+               <explanation_marker>
+                  <statement>Dann hat die Polizei den Bahnhof gesperrt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi"><style_element type="hb">Kein</style_element> Mensch durfte in dem Bahnhof sein.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und <style_element type="hb">kein</style_element> Zug durfte durch den Bahnhof fahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker> 
+               <statement>Und dann hat die Polizei den Zug durchsucht.</statement>
+               <statement>Aber die Polizei hat <style_element type="hb">keine</style_element> Bombe gefunden.</statement>
+               <statement>Nach der Durchsuchung ist der Zug nach Kiel gefahren.</statement>
+               <statement>In Kiel wird der Zug noch mal gründlich durchsucht.</statement>
+         </section>
+         <section id="3">
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wer hat die Worte auf den Spiegel von der Toilette geschrieben?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

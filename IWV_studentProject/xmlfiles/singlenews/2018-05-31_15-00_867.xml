@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-31" url="2018-05-31_15-00_867.xml">
+   <title>Polizistin erschießt Mann im Zug</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-05-31_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-05-31_15-00_867-full.png" type="screenshot" url="2018-05-31_15-00_867-full.png"/>
+      <resource id="2" name="2018-05-31_15-00_867_plaintext.txt" type="plaintext" url="2018-05-31_15-00_867_plaintext.txt"/>
+      <resource id="3" name="2018-05-31_15-00_867_quellcode.txt" type="sourcecode" url="2018-05-31_15-00_867_quellcode.txt"/>
+      <resource id="4" name="2018-05-31_15-00_867.docx" type="formatedText" url="2018-05-31_15-00_867.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Polizistin erschießt Mann im Zug</headline>
+      <sections>
+         <section id="1">
+            <statement>Eine Polizistin hat einen Mann erschossen.</statement>
+            <statement>Dieser Mann hat nämlich einen anderen Mann mit einem Messer angegriffen.</statement>
+            <statement>Und dieser Mann hat auch die Polizistin mit einem Messer angegriffen.</statement>
+            <statement>Die Tat war in Schleswig-Holstein.</statement>
+            <statement>Und die Tat war in einem Zug.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Zug ist nach Flensburg gefahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Kurz vor dem Bahnhof in Flensburg hat es im Zug einen Streit gegeben.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Dieser Streit war zwischen 2 Männern.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Bei dem Streit hat ein Mann einen anderen Mann mit einem Messer angegriffen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Dieser Mann hat den anderen Mann schwer verletzt.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Im Zug war auch eine Polizistin.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Diese Polizistin wollte dem anderen Mann helfen.</statement>
+                     </speech>
+                     <speech id="8">
+                        <statement>Dann hat der Mann auch die Polizistin mit einem Messer angegriffen.</statement>
+                     </speech>
+                     <speech id="9">
+                        <statement>Und der Mann hat die Polizistin schwer verletzt.</statement>
+                     </speech>
+                     <speech id="10">
+                        <statement>Deshalb hat die Polizistin auf den Mann geschossen.</statement>
+                     </speech>
+                     <speech id="11">
+                        <statement>Jetzt ist der Mann tot.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Mann ist aus Afrika.</statement>
+                  </speech>
+                  <speech id="2">
+                     <explanation_marker>
+                        <statement>Und der Mann ist ein Flüchtling.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Flüchtlinge sind Menschen aus einem anderen Land.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Flüchtlingen geht es in ihren eigenen Ländern <style_element type="hb">nicht</style_element> gut.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">In vielen von diesen Ländern ist nämlich Krieg.</style_element></statement>
+                           </explanation>
+                           <explanation id="4">
+                              <statement><style_element type="hi">Deshalb verlassen die Flüchtlinge diese Länder.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="3">
+                     <statement>Der Mann ist vor 3 Jahren nach Deutschland geflüchtet.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <explanation_marker>
+               <statement>Daniel Günther ist der Minister·präsident von Schleswig-Holstein.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Minister·präsident ist der Chef von einem Bundes·land.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Daniel Günther hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Polizistin war sehr mutig.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Hoffentlich wird die Polizistin bald wieder gesund.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="5">
+            <statement>Die Polizei untersucht jetzt den Zug.</statement>
+            <statement>Und die Polizei sucht Zeugen von dem Streit im Zug.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum haben sich die beiden Männer im Zug gestritten?</question>
+                  </speech>
+                  <speech id="2">
+                     <question>Und warum hat der Mann den anderen Mann mit einem Messer angegriffen?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

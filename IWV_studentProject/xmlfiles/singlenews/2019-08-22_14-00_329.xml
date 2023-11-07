@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-03" url="2019-08-22_14-00_329.xml">
+   <title>Mann muss lange ins Gefängnis</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-08-22_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-08-22_14-00_329-full.png" type="screenshot" url="2019-08-22_14-00_329-full.png"/>
+      <resource id="2" name="2019-08-22_14-00_329_plaintext.txt" type="plaintext" url="2019-08-22_14-00_329_plaintext.txt"/>
+      <resource id="3" name="2019-08-22_14-00_329_quellcode.txt" type="sourcecode" url="2019-08-22_14-00_329_quellcode.txt"/>
+      <resource id="4" name="2019-08-22_14-00_329.docx" type="formatedText" url="2019-08-22_14-00_329.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mann muss lange ins Gefängnis</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Niedersachsen war ein Prozess.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Bei einem Prozess entscheidet das Gericht:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question><style_element type="hi">• Hat ein Mensch etwas Verbotenes getan?</style_element></question>
+                           </speech>
+                           <speech id="2">
+                              <statement><style_element type="hi">Dann bekommt dieser Mensch eine Strafe.</style_element></statement>
+                           </speech>
+                           <speech id="3">
+                              <question>
+                                 <style_element type="hi">• Oder hat ein Mensch 
+                                 <style_element type="hb">nichts</style_element> 
+                                 Verbotenes getan?</style_element>
+                              </question>
+                           </speech>
+                           <speech id="4">
+                              <statement>
+                                 <style_element type="hi">Dann bekommt dieser Mensch 
+                                 <style_element type="hb">keine</style_element> 
+                                 Strafe.</style_element>
+                              </statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Prozess war in Braunschweig.</statement>
+            <statement>Bei dem Prozess hat das Gericht einen Mann verurteilt.</statement>
+            <explanation_marker>
+               <statement>Der Mann hat nämlich 2 Mädchen sexuell missbraucht.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Der Mann hat die 2 Mädchen zu sexuellen Dingen gezwungen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Jetzt muss der Mann für 9 Jahre ins Gefängnis.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Gericht hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Der Mann war ein Nachhilfe·lehrer.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Ein Nachhilfe·lehrer ist ein besonderer Lehrer.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Ein Nach·hilfelehrer arbeitet meistens <style_element type="hb">nicht</style_element> in der Schule.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Ein Nachhilfe·lehrer hilft Kindern meistens zu Hause.</style_element></statement>
+                           </explanation>
+                           <explanation id="4">
+                              <statement><style_element type="hi">Zum Beispiel bei Schul·aufgaben.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="2">
+                     <explanation_marker>
+                        <statement>Und der Mann hat den 2 Mädchen Nachhilfe gegeben.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Der Mann hat den 2 Mädchen zum Beispiel bei Schul·aufgaben geholfen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="3">
+                     <statement>Diese Nachhilfe war bei den 2 Mädchen zu Hause.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Bei der Nachhilfe hat der Mann die 2 Mädchen sexuell missbraucht.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Der Mann hat die 2 Mädchen mehrere Jahre lang sexuell missbraucht.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Ein Mädchen war 12 Jahre alt.</statement>
+                  </speech>
+                  <speech id="7">
+                     <statement>Und das andere Mädchen war 13 Jahre alt.</statement>
+                  </speech>
+                  <speech id="8">
+                     <statement>Der sexuelle Missbrauch war sehr schlimm.</statement>
+                  </speech>
+                  <speech id="9">
+                     <statement>Deshalb muss der Mann jetzt lange ins Gefängnis.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Der Mann hat bei dem Prozess die Taten zugegeben.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Mann war schon im Gefängnis</subheadline>
+            <statement>Der Mann hat schon früher viele schlimme Sachen gemacht.</statement>
+            <statement>Der Mann wollte zum Beispiel einen Menschen töten.</statement>
+            <explanation_marker>
+               <statement>Und der Mann hat eine Frau vergewaltigt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Der Mann hat die Frau zum Sex gezwungen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Deshalb war der Mann schon 11 Jahre im Gefängnis.</statement>
+            <statement>Danach hat ein Gericht den Mann noch einmal verurteilt.</statement>
+            <statement>Der Mann hat nämlich ein anderes Mädchen sexuell missbraucht.</statement>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Deshalb hat das Gericht jetzt gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Mann muss für 9 Jahre ins Gefängnis.</statement>
+                  </speech>
+                  <speech id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Aber wir glauben:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Der Mann ist sehr gefährlich.</statement>
+                           </speech>
+                           <speech id="2">
+                              <statement>Und der Mann macht vielleicht noch mehr schlimme Sachen.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Deshalb kommt der Mann nach den 9 Jahren <style_element type="hb">nicht</style_element> frei.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

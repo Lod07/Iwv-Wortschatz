@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-31" url="2018-06-06_15-00_734.xml">
+   <title>Großes Feuer auf Müll-Deponie</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-06-06_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-06-06_15-00_734-full.png" type="screenshot" url="2018-06-06_15-00_734-full.png"/>
+      <resource id="2" name="2018-06-06_15-00_734_plaintext.txt" type="plaintext" url="2018-06-06_15-00_734_plaintext.txt"/>
+      <resource id="3" name="2018-06-06_15-00_734_quellcode.txt" type="sourcecode" url="2018-06-06_15-00_734_quellcode.txt"/>
+      <resource id="4" name="2018-06-06_15-00_734.docx" type="formatedText" url="2018-06-06_15-00_734.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Großes Feuer auf Müll-Deponie</headline>
+      <sections>
+         <section id="1">
+            <statement>In Mecklenburg-Vorpommern war ein großes Feuer.</statement>
+            <statement>Das Feuer war in der Nähe von Rostock.</statement>
+            <explanation_marker>
+               <statement>Und das Feuer war auf einer Müll-Deponie.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Auf einer Müll-Deponie lagert Müll.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword><style_element type="hi">• Altes Holz.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword><style_element type="hi">• Altes Plastik.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="3">
+                              <headword><style_element type="hi">• Oder Metall.</style_element></headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>160 Feuerwehr·leute waren im Einsatz.</statement>
+            <statement>Diese Feuerwehr·leute konnten das Feuer erst nach vielen Stunden löschen.</statement>
+            <statement>Bei dem Feuer wurden <style_element type="hb">keine</style_element> Menschen verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Das Feuer war auf einer Müll-Deponie.</statement>
+               <statement>Auf dieser Müll-Deponie sind große Berge aus Müll.</statement>
+               <statement>Einer von diesen Bergen aus Müll hat gebrannt.</statement>
+               <statement>Der Berg aus Müll hat sehr schnell gebrannt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Auf dem Gelände von der Müll-Deponie war <style_element type="hb">nicht</style_element> genug Lösch·wasser.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb mussten wir Lösch·wasser aus einem Nachbar·ort holen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Das Holen von dem Lösch·wasser hat lange gedauert.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb konnten wir das Feuer erst nach vielen Stunden löschen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will jetzt wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum hat der Berg aus Müll gebrannt?</question>
+                  </speech>
+                  <speech id="2">
+                     <question>Hat vielleicht ein Mensch den Berg aus Müll angezündet?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

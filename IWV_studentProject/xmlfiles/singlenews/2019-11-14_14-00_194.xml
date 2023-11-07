@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-29" url="2019-11-14_14-00_194.xml">
+   <title>4000 Trecker in Hamburg</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-11-14_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-11-14_14-00_194-full.png" type="screenshot" url="2019-11-14_14-00_194-full.png"/>
+      <resource id="2" name="2019-11-14_14-00_194_plaintext.txt" type="plaintext" url="2019-11-14_14-00_194_plaintext.txt"/>
+      <resource id="3" name="2019-11-14_14-00_194_quellcode.txt" type="sourcecode" url="2019-11-14_14-00_194_quellcode.txt"/>
+      <resource id="4" name="2019-11-14_14-00_194.docx" type="formatedText" url="2019-11-14_14-00_194.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>4000 Trecker in Hamburg</headline>
+      <sections>
+         <section id="1">
+            <statement>In Hamburg haben viele Bauern protestiert.</statement>
+            <statement>Diese Bauern sind nämlich unzufrieden mit neuen Gesetzen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Bauern sagen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Regierung hat neue Gesetze gemacht.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Diese neuen Gesetze sind schlecht für die Bauern.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Deshalb sind viele Bauern mit ihren Treckern in die Innen·stadt von Hamburg gefahren.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese Bauern waren zum Beispiel aus:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Schleswig-Holstein.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Niedersachsen.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <headword>• Und Mecklenburg-Vorpommern.</headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="2">
+            <statement>Die Bauern waren mit 4000 Treckern in Hamburg.</statement>
+            <statement>Mit diesen Treckern haben die Bauern viele große Straßen versperrt.</statement>
+            <statement>Deshalb waren in Hamburg viele Staus.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Warum protestieren die Bauern?</subheadline>
+            <statement>Die Regierung hat neue Gesetze gemacht.</statement>
+            <statement>Diese Gesetze sind zum Beispiel für mehr Tier·schutz.</statement>
+            <statement>Und für mehr Umwelt·schutz.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Regierung hat zum Beispiel gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Bauern verteilen sehr viel Dünger auf den Feldern.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Mit dem Dünger wachsen Pflanzen besser.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Aber zu viel Dünger auf den Feldern ist schlecht.</statement>
+                  </speech>
+                  <speech id="4">
+                     <explanation_marker>
+                        <statement>Im Dünger sind nämlich viele Schad·stoffe.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Schad·stoffe sind gefährliche Stoffe.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Manche Schad·stoffe machen die Luft schmutzig.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Oder das Meer.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="5">
+                     <statement>Fach·leute haben diese Schad·stoffe zum Beispiel in Flüssen gefunden.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Deshalb dürfen die Bauern jetzt <style_element type="hb">nicht</style_element> mehr so viel Dünger verteilen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Bauern haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Ohne Dünger wachsen die Pflanzen <style_element type="hb">nicht</style_element> so schnell.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb verkaufen wir zum Beispiel weniger Gemüse.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und deshalb verdienen wir weniger Geld.</statement>
+                  </speech>
+                  <speech id="4">
+                     <question>Die Regierung verändert die neuen Gesetze <style_element type="hb">nicht</style_element>?</question>
+                  </speech>
+                  <speech id="5">
+                     <statement>Dann verlieren viele Bauern ihre Arbeit.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Deshalb protestieren wir gegen die neuen Gesetze.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section> 
+      </sections>
+   </content>
+</annotation>

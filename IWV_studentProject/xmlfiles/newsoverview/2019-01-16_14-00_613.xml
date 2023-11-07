@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-10" url="2019-01-16_14-00_613.xml">
+   <title>Mehr Nachrichten vom 16.01.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-01-16_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-01-16_14-00_613-full.png" type="screenshot" url="2019-01-16_14-00_613-full.png"/>
+      <resource id="2" name="2019-01-16_14-00_613_plaintext.txt" type="plaintext" url="2019-01-16_14-00_613_plaintext.txt"/>
+      <resource id="3" name="2019-01-16_14-00_613_quellcode.txt" type="sourcecode" url="2019-01-16_14-00_613_quellcode.txt"/>
+      <resource id="4" name="2019-01-16_14-00_613.docx" type="formatedText" url="2019-01-16_14-00_613.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 16.01.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Mann getötet</subheadline>
+               <statement>In Hamburg ist ein Mann gestorben.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei glaubt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Mann wurde getötet.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <explanation_marker>
+                  <statement>Fußgänger haben den Mann am Dienstag in Harburg gefunden.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Harburg ist ein Stadt·teil von Hamburg.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Der Mann war in einer Fußgänger·zone.</statement>
+               <statement>Und der Mann war schwer verletzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Verletzungen waren wahrscheinlich von einem Messer.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Ein Kranken·wagen hat den Mann ins Kranken·haus gebracht.</statement>
+               <statement>Im Kranken·haus ist der Mann gestorben.</statement>
+               <statement>Jetzt sucht die Polizei nach Zeugen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei will nämlich wissen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Wer hat den Mann getötet?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Unfall mit Traktor</subheadline>
+               <explanation_marker>
+                  <statement>In der Nähe von Drentwede war ein schwerer Unfall.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Drentwede ist ein Ort.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Drentwede ist in der Nähe von Vechta.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Der Unfall war auf der B51.</statement>
+                  <explanations>
+                     <explanation id="1"> 
+                        <statement><style_element type="hi"><style_element type="hb">B51</style_element> ist die Abkürzung für <style_element type="hb">B</style_element>undes·straße <style_element type="hb">51</style_element>.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei dem Unfall ist ein Transporter gegen einen Traktor gefahren.</statement>
+               <statement>Der Fahrer von  dem Traktor wurde schwer verletzt.</statement>
+               <statement>Und der Fahrer von dem Transporter wurde leicht verletzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Transporter ist von hinten gegen den Traktor gefahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Die Wucht von dem Aufprall war wahrscheinlich sehr groß.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Der Fahrer von dem Traktor wurde nämlich vom Sitz geschleudert.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und der Traktor wurde in 2 Teile gerissen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Nach dem Unfall hat die Polizei die B51 lange gesperrt.</statement>
+               <statement>Jetzt ermittelt die Polizei.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei will nämlich wissen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Wieso ist der Transporter gegen den Traktor gefahren?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

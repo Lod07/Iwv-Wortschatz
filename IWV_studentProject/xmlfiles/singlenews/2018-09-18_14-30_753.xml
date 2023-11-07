@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-25" url="2018-09-18_14-30_753.xml">
+   <title>Mehr Nachrichten vom 18.09.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-09-18_14-30</vdate>
+   <resources>
+      <resource id="1" name="2018-09-18_14-30_753-full.png" type="screenshot" url="2018-09-18_14-30_753-full.png"/>
+      <resource id="2" name="2018-09-18_14-30_753_plaintext.txt" type="plaintext" url="2018-09-18_14-30_753_plaintext.txt"/>
+      <resource id="3" name="2018-09-18_14-30_753_quellcode.txt" type="sourcecode" url="2018-09-18_14-30_753_quellcode.txt"/>
+      <resource id="4" name="2018-09-18_14-30_753.docx" type="formatedText" url="2018-09-18_14-30_753.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 18.09.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Kohl·tage haben begonnen</subheadline>
+               <explanation_marker>
+                  <statement>In Dithmarschen hat ein großes Fest begonnen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Dithmarschen ist eine Region an der Nordsee.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Dieses Fest heißt Kohl·tage.</statement>
+               <statement>Mit den Kohl·tagen feiern die Menschen den Beginn von der Kohl·ernte.</statement>
+               <statement>Kohl ist ein Gemüse.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Es gibt zum Beispiel:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Weiß·kohl.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <headword>• Und Rot·kohl</headword>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>In Dithmarschen gibt es sehr viel Kohl.</statement>
+               <statement>Deshalb ist Kohl sehr wichtig für Dithmarschen.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Bei dem großen Fest können die Menschen zum Beispiel:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Kohl essen.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <statement>• Und Kohl·brot backen.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Die Kohl·tage dauern eine Woche.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Niedersachsen: Großes Feuer im Möbelhaus</subheadline>
+               <explanation_marker>
+                  <statement>In Jaderberg war ein Feuer.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Jaderberg ist eine Stadt in Niedersachsen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Das Feuer war in einem großen Möbel·haus.</statement>
+               <statement>Das Feuer hat das Möbel·haus zerstört.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>100 Feuer·wehr·leute waren im Einsatz.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber die 100 Feuer·wehr·leute konnten das Feuer <style_element type="hb">nicht</style_element> löschen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Wir wissen noch nicht:</statement>
+                     </speech>
+                     <speech id="4">
+                        <question>Wie ist das Feuer im Möbel·haus entstanden?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Das Feuer hat <style_element type="hb">keine</style_element> Menschen verletzt.</statement>
+               <statement>Es ist aber ein großer Schaden entstanden.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

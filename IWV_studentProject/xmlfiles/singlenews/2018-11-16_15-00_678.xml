@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-09" url="2018-11-16_15-00_678.xml">
+   <title>Unfall in der Nordsee</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-11-16_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-11-16_15-00_678-full.png" type="screenshot" url="2018-11-16_15-00_678-full.png"/>
+      <resource id="2" name="2018-11-16_15-00_678_plaintext.txt" type="plaintext" url="2018-11-16_15-00_678_plaintext.txt"/>
+      <resource id="3" name="2018-11-16_15-00_678_quellcode.txt" type="sourcecode" url="2018-11-16_15-00_678_quellcode.txt"/>
+      <resource id="4" name="2018-11-16_15-00_678.docx" type="formatedText" url="2018-11-16_15-00_678.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Unfall in der Nordsee</headline>
+      <sections>
+         <section id="1">
+            <statement>In der Nordsee war ein Unfall.</statement>
+            <explanation_marker>
+               <statement>Der Unfall war in der Nähe von Borkum.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Borkum ist eine Insel in der Nordsee.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Borkum gehört zu Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Bei dem Unfall sind 2 Frachter zusammen·gestoßen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Frachter sind Schiffe.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Und Frachter transportieren Güter.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <enumeration_marker>
+                                 <enumeration_intro>
+                                    <statement><style_element type="hi">Güter sind zum Beispiel:</style_element></statement>
+                                 </enumeration_intro>
+                                 <enumerations>
+                                    <enumeration id="1">
+                                       <headword><style_element type="hi">• Autos.</style_element></headword>
+                                    </enumeration>
+                                    <enumeration id="2">
+                                       <headword><style_element type="hi">• Oder Getreide.</style_element></headword>
+                                    </enumeration>
+                                 </enumerations>
+                              </enumeration_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die 2 Frachter wurden beschädigt.</statement>
+            <statement>Aber bei dem Unfall wurde <style_element type="hb">kein</style_element> Mensch verletzt.</statement>
+         </section> 
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der eine Frachter ist gegen den anderen Frachter gefahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann hat der eine Frachter in dem anderen Frachter festgesteckt.</statement>
+                     </speech>
+                     <speech id="3">
+                        <explanation_marker>
+                           <statement>Deshalb musste ein Schlepper kommen.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Ein Schlepper ist ein kleines Schiff.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Aber ein Schlepper hat einen sehr starken Motor.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Deshalb kann ein Schlepper zum Beispiel große Schiffe ziehen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="4">
+                        <statement>Dieser Schlepper hat den einen Frachter aus dem anderen Frachter rausgezogen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Jetzt müssen die 2 Frachter repariert werden.</statement>
+            <statement>Der eine Frachter ist nämlich vorne verbogen.</statement>
+            <statement>Und in dem anderen Frachter ist ein Loch.</statement>
+         </section>
+         <section id="4">
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum ist der eine Frachter gegen den anderen Frachter gefahren?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

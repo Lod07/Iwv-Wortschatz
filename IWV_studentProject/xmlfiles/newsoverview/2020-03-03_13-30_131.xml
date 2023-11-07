@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-24" url="2020-03-03_13-30_131.xml">
+   <title>Mehr Nachrichten vom 03.03.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-03-03_13-30</vdate>
+   <resources>
+      <resource id="1" name="2020-03-03_13-30_131-full.png" type="screenshot" url="2020-03-03_13-30_131-full.png"/>
+      <resource id="2" name="2020-03-03_13-30_131_plaintext.txt" type="plaintext" url="2020-03-03_13-30_131_plaintext.txt"/>
+      <resource id="3" name="2020-03-03_13-30_131_quellcode.txt" type="sourcecode" url="2020-03-03_13-30_131_quellcode.txt"/>
+      <resource id="4" name="2020-03-03_13-30_131.docx" type="formatedText" url="2020-03-03_13-30_131.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 03.03.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Auto·fahrer frei·gesprochen</subheadline>
+            <explanation_marker>
+               <statement>Ein Gericht in Lübeck hat einen Mann frei·gesprochen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>
+                        <style_element type="hi">Das heißt:</style_element>
+                     </headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Der Mann bekommt <style_element type="hb">keine</style_element> Strafe.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Mann war angeklagt.</statement>
+            <statement>Der Mann ist nämlich auf der Auto·bahn mit seinem Auto in die falsche Richtung gefahren.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Gericht hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Mann war mit seinem Auto auf der Auto·bahn A 1.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Auf der A 1 war ein Unfall.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Wegen diesem Unfall war auf der A 1 eine Sperrung.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb hat der Mann vor der Sperrung gewendet.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Und der Mann ist in die falsche Richtung gefahren.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Wir wissen jetzt:</statement>
+                  </speech>
+                  <speech id="7">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Die Polizei hat zu dem Mann gesagt:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Fahren Sie zurück.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Deshalb bekommt der Mann <style_element type="hb">keine</style_element> Strafe.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Großer Polizei·einsatz gegen Schleuser</subheadline>
+            <statement>In 7 Bundes·ländern war ein großer Polizei·einsatz.</statement>
+            <statement>Auch in Niedersachsen.</statement>
+            <statement>Die Polizei ermittelt nämlich gegen 13 Menschen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <question>Sind diese 13 Menschen vielleicht Schleuser?</question>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Schleuser bringen Menschen <style_element type="hb">ohne</style_element> Genehmigung in andere Länder.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">Schleuser geben Menschen gefälschte Papiere.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement>
+                                 <style_element type="hi">Dafür bezahlen die Menschen den Schleusern viel Geld.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei glaubt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Die 13 Menschen haben mindestens 155 Menschen aus Vietnam nach Deutschland gebracht.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Vietnam ist ein Land in Süd·ost·asien.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>     
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <explanation_marker>
+               <statement>Deshalb hat die Polizei in Zetel ein Haus durchsucht.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Zetel ist eine Gemeinde in Niedersachsen.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und die Polizei hat in Zetel ein Restaurant durchsucht.</statement>
+            <statement>Die Polizei hat Beweise gefunden.</statement>
+            <statement>Und die Polizei hat 5 Menschen verhaftet.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

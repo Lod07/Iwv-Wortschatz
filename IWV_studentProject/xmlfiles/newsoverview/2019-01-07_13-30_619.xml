@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-30" url="2019-01-07_13-30_619.xml">
+   <title>Mehr Nachrichten vom 07.01.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-01-07_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-01-07_13-30_619-full.png" type="screenshot" url="2019-01-07_13-30_619-full.png"/>
+      <resource id="2" name="2019-01-07_13-30_619_plaintext.txt" type="plaintext" url="2019-01-07_13-30_619_plaintext.txt"/>
+      <resource id="3" name="2019-01-07_13-30_619_quellcode.txt" type="sourcecode" url="2019-01-07_13-30_619_quellcode.txt"/>
+      <resource id="4" name="2019-01-07_13-30_619.docx" type="formatedText" url="2019-01-07_13-30_619.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 07.01.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Mann muss ins Gefängnis</subheadline>
+               <explanation_marker>
+                  <statement>In Aurich war ein Prozess.</statement>
+                  <explanations>
+                     <explanation id="1"> 
+                        <statement><style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement><style_element type="hi">Bei einem Prozess entscheidet das Gericht:</style_element></statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question><style_element type="hi">• Hat ein Mensch etwas Verbotenes getan?</style_element></question>
+                              </speech>
+                              <speech id="2">
+                                 <statement><style_element type="hi">Dann bekommt dieser Mensch eine Strafe.</style_element></statement>
+                              </speech>
+                              <speech id="3">
+                                 <question><style_element type="hi">• Oder hat ein Mensch <style_element type="hb">nichts</style_element> Verbotenes getan?</style_element></question>
+                              </speech>
+                              <speech id="4">
+                                 <statement><style_element type="hi">Dann bekommt dieser Mensch <style_element type="hb">keine</style_element> Strafe.</style_element></statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>                       
+               <statement>Bei dem Prozess hat das Gericht einen Mann verurteilt.</statement>
+               <statement>Der Mann hat nämlich seine Frau ermordet.</statement>
+               <statement>Der Mann hat seiner Frau mit einem Hammer auf den Kopf geschlagen.</statement>
+               <statement>Und der Mann hat seine Frau gewürgt.</statement>
+               <explanation_marker>
+                  <statement>Deshalb muss der Mann jetzt lebens·lang ins Gefängnis.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Der Mann muss für mindestens 15 Jahre ins Gefängnis.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Ehe·paar stirbt bei Unfall</subheadline>
+               <statement>In Wilhelmshaven war ein Unfall.</statement>
+               <statement>Bei diesem Unfall ist ein Ehe·paar gestorben.</statement>
+               <statement>Der Mann war 81 Jahre alt.</statement>
+               <statement>Und die Frau war 79 Jahre alt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Unfall war am Hafen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Das Ehe·paar ist mit seinem Auto ins Wasser gefahren.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und das Ehe·paar ist mit seinem Auto im Wasser versunken.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Rettungs·kräfte haben das Ehe·paar aus dem Wasser geholt.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber der Mann war schon tot.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und die Frau war sehr schwer verletzt.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Die Frau ist in ein Kranken·haus gekommen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>In dem Kranken·haus ist die Frau gestorben.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Mecklenburg-Vorpommern: Mädchen ausgesetzt</subheadline>
+               <explanation_marker>
+                  <statement>Auf Rügen hat ein Mann ein Mädchen ausgesetzt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Der Mann hat das Mädchen mit einem Auto an einen Ort gebracht.</style_element></statement>
+                     </explanation>
+                     <explanation id="3"> 
+                        <statement><style_element type="hi">Dann ist der Mann <style_element type="hb">ohne</style_element> das Mädchen weggefahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Das Mädchen ist die Tochter von dem Mann.</statement>
+               <statement>Und das Mädchen ist 9 Jahre alt.</statement>
+               <speech_marker>
+                  <speech_intro> 
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Das Mädchen wollte <style_element type="hb">nicht</style_element> einschlafen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb war der Mann wütend.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und deshalb hat der Mann das Mädchen ausgesetzt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Das Mädchen hat bei Menschen geklingelt.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Diese Menschen haben die Polizei gerufen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und die Polizei hat das Mädchen abgeholt.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Jetzt ist das Mädchen wieder bei seiner Mutter.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Und der Mann wird vielleicht bestraft.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement><style_element type="hb">Kein</style_element> Mensch darf nämlich ein Kind aussetzen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

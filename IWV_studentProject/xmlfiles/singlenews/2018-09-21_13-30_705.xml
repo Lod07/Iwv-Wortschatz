@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-09-21_13-30_705.xml">
+   <title>Mehr Nachrichten vom 21.09.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-09-21_13-30</vdate>
+   <resources>
+      <resource id="1" name="2018-09-21_13-30_705-full.png" type="screenshot" url="2018-09-21_13-30_705-full.png"/>
+      <resource id="2" name="2018-09-21_13-30_705_plaintext.txt" type="plaintext" url="2018-09-21_13-30_705_plaintext.txt"/>
+      <resource id="3" name="2018-09-21_13-30_705_quellcode.txt" type="sourcecode" url="2018-09-21_13-30_705_quellcode.txt"/>
+      <resource id="4" name="2018-09-21_13-30_705.docx" type="formatedText" url="2018-09-21_13-30_705.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 21.09.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Mecklenburg-Vorpommern: Neues Gehege</subheadline>
+               <statement>Im Zoo in Rostock ist ein Fest.</statement>
+               <explanation_marker>
+                  <statement>Der Zoo in Rostock hat nämlich ein neues Gehege.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">In einem Gehege leben Tiere.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">An der Grenze von dem Gehege sind Mauern.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <headword><style_element type="hi">Oder Zäune.</style_element></headword>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>In dem neuen Gehege leben verschiedene Tiere.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <headword>Zum Beispiel:</headword>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Eis·bären.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <headword>• Oder Pinguine.</headword>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Eisbären leben eigentlich am Nord·pol.</statement>
+               <statement>Und Pinguine leben eigentlich am Süd·pol.</statement>
+               <statement>Deshalb heißt das neue Gehege Polarium.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Großes Ruder·rennen</subheadline>
+               <explanation_marker>
+                  <statement>In Schleswig-Holstein ist ein großes Ruder·rennen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Ruder·rennen ist ein Sport·wettbewerb.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Bei einem Ruder·rennen rudern Sportler in Booten.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Das Ruder·rennen ist am Sonntag.</statement>
+               <statement>Das Ruder·rennen heißt Kanal-Cup.</statement>
+               <explanation_marker>
+                  <statement>Und das Ruder·rennen ist auf dem Nord-Ostsee-Kanal.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Der Nord-Ostsee-Kanal ist ein künstlicher Fluss.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Menschen haben den Nord-Ostsee-Kanal gebaut.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Der Nord-Ostsee-Kanal verbindet die Nordsee mit der Ostsee.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Bei dem Ruder·rennen sind 4 Boote:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Aus Deutschland.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <headword>• Aus England.</headword>
+                     </enumeration>
+                     <enumeration id="3">
+                        <headword>• Aus Amerika.</headword>
+                     </enumeration>
+                     <enumeration id="4">
+                        <statement>• Und aus Holland.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <explanation_marker>
+                  <statement>Diese 4 Boote sind Achter.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">In einem Achter rudern 8 Sportler.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Der NDR macht eine Fernseh·sendung über den Kanal-Cup.</statement>
+               <statement>Diese Sendung ist am Sonntag um 14 Uhr.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Mecklenburg-Vorpommern: Großes Musik·festival</subheadline>
+               <explanation_marker>
+                  <statement>In Usedom ist ein großes Musik·festival.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Bei einem Musik·festival gibt es viele Musik·konzerte.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Dieses Musik·festival beginnt am Sonnabend.</statement>
+               <statement>Und dieses Musik·festival endet am 13. Oktober.</statement>
+               <statement>Bei diesem Musik·festival sind viele bekannte Künstler.</statement>
+               <statement>Diese Künstler kommen aus 10 Ländern.</statement>
+               <statement>Diese 10 Ländern sind alle an der Ost·see.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

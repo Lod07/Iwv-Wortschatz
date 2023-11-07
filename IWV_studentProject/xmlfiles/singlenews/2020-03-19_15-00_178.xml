@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-24" url="2020-03-19_15-00_178.xml">
+   <title>Angela Merkel spricht über das Corona-Virus</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-03-19_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-03-19_15-00_178-full.png" type="screenshot" url="2020-03-19_15-00_178-full.png"/>
+      <resource id="2" name="2020-03-19_15-00_178_plaintext.txt" type="plaintext" url="2020-03-19_15-00_178_plaintext.txt"/>
+      <resource id="3" name="2020-03-19_15-00_178_quellcode.txt" type="sourcecode" url="2020-03-19_15-00_178_quellcode.txt"/>
+      <resource id="4" name="2020-03-19_15-00_178.docx" type="formatedText" url="2020-03-19_15-00_178.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Angela Merkel spricht über das Corona-Virus</headline>
+      <sections>
+         <section id="1">
+            <statement>Viele Menschen haben Angst vor dem Corona-Virus.</statement>
+            <statement>Das Corona-Virus kann Menschen nämlich krank machen.</statement>
+            <statement>Deshalb wollen viele Menschen Informationen zum Corona-Virus haben.</statement>
+            <explanation_marker>
+               <statement>Und deshalb hat die Bundes·kanzlerin über das Corona-Virus gesprochen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die Bundes·kanzlerin ist die Chefin von der Regierung in Deutschland.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Bundes·kanzlerin ist Angela Merkel.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Angela Merkel hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Alle Menschen sollen das Corona-Virus ernst nehmen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und alle Menschen sollen die Regeln beachten.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dann bekommen nicht so viele Menschen das Corona-Virus.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Die Regeln sind zum Beispiel:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <statement>• Oft Hände waschen.</statement>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Anderen Menschen <style_element type="hb">nicht</style_element> die Hand geben.</statement>
+                  </enumeration>
+                  <enumeration id="3">
+                     <statement>• Abstand zu anderen Menschen halten.</statement>
+                  </enumeration>
+                  <enumeration id="4">
+                     <statement>• Die Menschen sollen wenig aus dem Haus gehen.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="3">
+            <subheadline>Viele Firmen haben Angst</subheadline>
+            <statement>Viele Firmen in Deutschland haben Angst.</statement>
+            <statement>Viele Menschen in den Firmen können jetzt nämlich <style_element type="hb">nicht</style_element> arbeiten.</statement>
+            <statement>Deshalb verdienen diese Firmen nur wenig Geld.</statement>
+            <statement>Oder <style_element type="hb">kein</style_element> Geld.</statement>
+            <statement>Diese Firmen sind kleine Firmen.</statement>
+            <statement>Und diese Firmen sind große Firmen.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <explanation_marker>
+                        <headword>• VW.</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi"><style_element type="hb">VW</style_element> ist die Abkürzung von <style_element type="hb">V</style_element>olks<style_element type="hb">w</style_element>agen.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">VW baut Autos.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <headword>• Oder Lufthansa.</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Die Lufthansa ist eine große Flug·gesellschaft.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der Chef von der Lufthansa hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Menschen sollen <style_element type="hb">nicht</style_element> im Ausland Urlaub machen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dann können sich die Menschen <style_element type="hb">nicht</style_element> im Ausland mit dem Corona-Virus anstecken.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb fliegen <style_element type="hb">keine</style_element>Menschen mehr ins Ausland.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und deshalb müssen wir viele Flüge streichen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <headword>Das heißt:</headword>
+                  </speech>
+                  <speech id="6">
+                     <statement>Die Flugzeuge können <style_element type="hb">nicht</style_element> fliegen.</statement>
+                  </speech>
+                  <speech id="7">
+                     <statement>Und die Lufthansa verdient <style_element type="hb">kein</style_element> Geld.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Die Regierung in Deutschland will den Firmen helfen.</statement>
+            <statement>Die Regierung will den Firmen viel Geld geben.</statement>
+            <statement>Mit dem Geld können die Firmen zum Beispiel die Löhne bezahlen.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

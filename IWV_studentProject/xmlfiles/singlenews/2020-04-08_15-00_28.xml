@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2020-04-08_15-00_28.xml">
+   <title>100.000 Menschen in Deutschland haben Corona-Virus</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-04-08_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-04-08_15-00_28-full.png" type="screenshot" url="2020-04-08_15-00_28-full.png"/>
+      <resource id="2" name="2020-04-08_15-00_28_plaintext.txt" type="plaintext" url="2020-04-08_15-00_28_plaintext.txt"/>
+      <resource id="3" name="2020-04-08_15-00_28_quellcode.txt" type="sourcecode" url="2020-04-08_15-00_28_quellcode.txt"/>
+      <resource id="4" name="2020-04-08_15-00_28.docx" type="formatedText" url="2020-04-08_15-00_28.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>100.000 Menschen in Deutschland haben Corona-Virus</headline>
+      <sections>
+         <section id="1">
+            <statement>Das Corona-Virus ist sehr ansteckend.</statement>
+            <statement>Deshalb haben immer mehr Menschen auf der Welt das Corona-Virus.</statement>
+            <statement>Auch in Deutschland.</statement>
+            <statement>In Deutschland haben jetzt mehr als 100.000 Menschen das Corona-Virus.</statement>
+            <explanation_marker>
+               <statement>Das hat das Robert Koch-Institut am Mittwoch·morgen gesagt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Das Robert Koch-Institut ist eine Behörde.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Am Robert Koch-Institut arbeiten viele Forscher.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Diese Forscher erforschen bestimmte Krankheiten.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>
+                              <style_element type="hi">Die Forscher wollen zum Beispiel wissen:</style_element>
+                           </statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>
+                                 <style_element type="hi">Wie viele Menschen haben eine bestimmte Krankheit?</style_element>
+                              </question>
+                           </speech>
+                           <speech id="2">
+                              <question>
+                                 <style_element type="hi">Wie können sich Menschen vor Krankheiten schützen?</style_element>
+                              </question>
+                           </speech>
+                           <speech id="3">
+                              <question>
+                                 <style_element type="hi">Und wie können Menschen Krankheiten heilen?</style_element>
+                              </question>
+                           </speech>
+                           <speech id="4">
+                              <statement>
+                                 <style_element type="hi">Die Abkürzung für <style_element type="hb">R</style_element>obert <style_element type="hb">K</style_element>och-<style_element type="hb">I</style_element>nstitut ist RKI.</style_element>
+                              </statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Robert Koch-Institut hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Menschen sollen sich <style_element type="hb">nicht</style_element> mit dem Corona-Virus anstecken.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb haben wir viele Regeln.</statement>
+                  </speech>
+                  <speech id="3">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword>Zum Beispiel:</headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <statement>• Viele Geschäfte haben geschlossen.</statement>
+                           </enumeration>
+                           <enumeration id="2">
+                              <statement>• Und die Menschen sollen Abstand zu anderen Menschen halten.</statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </speech>
+                  <speech id="4">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Jetzt wissen wir:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Die Regeln helfen.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker> 
+                  </speech>
+                  <speech id="5">
+                     <statement>Aber es stecken sich immer noch viele Menschen mit dem Corona-Virus an.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Deshalb brauchen wir die Regeln noch.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <statement>In Deutschland sind fast 2000 Menschen am Corona-Virus gestorben.</statement>
+            <explanation_marker>
+               <statement>Und 36.000 Menschen sind wieder genesen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>Das heißt:</headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>Diese Menschen hatten das Corona-Virus.</statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>Und jetzt sind diese Menschen wieder gesund.</statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker> 
+            <question>Ist ein Mensch genesen?</question>
+            <statement>Dann kann dieser Mensch wahrscheinlich <style_element type="hb">nicht</style_element> wieder das Corona-Virus bekommen.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

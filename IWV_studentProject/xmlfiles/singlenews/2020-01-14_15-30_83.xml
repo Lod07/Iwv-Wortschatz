@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2020-01-14_15-30_83.xml">
+   <title>Trauer·feier für Jan Fedder</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-01-14_15-30</vdate>
+   <resources>
+      <resource id="1" name="2020-01-14_15-30_83-full.png" type="screenshot" url="2020-01-14_15-30_83-full.png"/>
+      <resource id="2" name="2020-01-14_15-30_83_plaintext.txt" type="plaintext" url="2020-01-14_15-30_83_plaintext.txt"/>
+      <resource id="3" name="2020-01-14_15-30_83_quellcode.txt" type="sourcecode" url="2020-01-14_15-30_83_quellcode.txt"/>
+      <resource id="4" name="2020-01-14_15-30_83.docx" type="formatedText" url="2020-01-14_15-30_83.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Trauer·feier für Jan Fedder</headline>
+      <sections>
+         <section id="1">
+            <statement>In Hamburg war eine große Trauer·feier.</statement>
+            <explanation_marker>
+               <statement>Die Trauer·feier war im Hamburger Michel.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Der Hamburger Michel ist die größte Kirche in Hamburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und die Trauer·feier war für Jan Fedder.</statement>
+            <statement>Jan Fedder war ein bekannter Schauspieler.</statement>
+            <statement>Jan Fedder ist am 30. Dezember 2019 gestorben.</statement>
+            <statement>Und Jan Fedder war 64 Jahre alt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Die Trauer·feier</subheadline>
+               <statement>Sehr viele Menschen haben Jan Fedder gemocht.</statement>
+               <statement>Sehr viele Menschen haben Jan Fedder gemocht.</statement>
+               <statement>Auch viele bekannte Menschen.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <headword>Zum Beispiel:</headword>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <explanation_marker>
+                           <headword>• Peter Tschentscher.</headword>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Peter Tschentscher ist der Bürgermeister von Hamburg.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                     <enumeration id="2">
+                        <explanation_marker>
+                           <headword>• Heinz Hönig.</headword>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Heinz Hönig ist ein Schauspieler.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                     <enumeration id="3">
+                        <explanation_marker>
+                           <statement>• Und Tim Mälzer.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Tim Mälzer ist ein Fernseh-Koch.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Auch Lutz Mamor war bei der Trauer·feier.</statement>
+               <statement>Lutz Mamor war 12 Jahre lang der Chef vom NDR.</statement>
+               <statement>Der NDR hat viele Fernseh·sendungen mit Jan Fedder gemacht.</statement>
+               <statement>Zum Beispiel Großstadtrevier.</statement>
+               <statement>Und Neues aus Büttenwarder.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Viele Fans</subheadline>
+               <statement>Der NDR hat die Trauer·feier von Jan Fedder im Fernsehen gezeigt.</statement>
+               <statement>Jan Fedder hat nämlich sehr viele Fans.</statement>
+               <statement>Viele von diesen Fans sind auch zum Hamburger Michel gefahren.</statement>
+               <statement>Am Hamburger Michel war nämlich eine große Leinwand.</statement>
+               <statement>Auf dieser Leinwand konnten die Fans die Trauer·feier sehen.</statement>
+         </section>
+         <section id="4">
+            <subheadline>Leichen·wagen fährt durch St. Pauli</subheadline>
+               <explanation_marker>
+                  <statement>Nach der Trauer·feier haben Menschen den Sarg mit Jan Fedder zu einem Leichen·wagen gebracht.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Leichen·wagen ist ein besonderes Auto.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Ein Leichen·wagen transportiert Tote.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Zum Beispiel zum Friedhof.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Dieser Leichen·wagen ist dann durch Hamburg gefahren.</statement>
+               <statement>Zum Beispiel durch den Stadt·teil St. Pauli.</statement>
+               <statement>Deshalb waren auch viele Fans von Jan Fedder auf St. Pauli.</statement>
+               <statement>Auf St. Pauli wurde Jan Fedder geboren.</statement>
+               <statement>Auf St. Pauli hat Jan Fedder gelebt.</statement>
+               <statement>Und auf St. Pauli ist Jan Fedder gestorben.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

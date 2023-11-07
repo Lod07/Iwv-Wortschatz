@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-19" url="2019-03-27_14-00_526.xml">
+   <title>Bombe in Rostock entschärft</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-03-27_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-03-27_14-00_526-full.png" type="screenshot" url="2019-03-27_14-00_526-full.png"/>
+      <resource id="2" name="2019-03-27_14-00_526_plaintext.txt" type="plaintext" url="2019-03-27_14-00_526_plaintext.txt"/>
+      <resource id="3" name="2019-03-27_14-00_526_quellcode.txt" type="sourcecode" url="2019-03-27_14-00_526_quellcode.txt"/>
+      <resource id="4" name="2019-03-27_14-00_526.docx" type="formatedText" url="2019-03-27_14-00_526.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Bombe in Rostock entschärft</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Mecklenburg-Vorpommern haben Fach·leute eine Bombe entschärft.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Bombe war gefährlich.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Aber Fach·leute haben die Bombe ungefährlich gemacht.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Jetzt kann die Bombe <style_element type="hb">nicht</style_element> mehr explodieren.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker> 
+            <statement>Die Bombe war in Rostock.</statement>
+            <statement>Und die Bombe war in der Innen·stadt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Polizei sperrt Innen·stadt</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Bombe ist sehr groß.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und die Bombe kann jederzeit explodieren.</statement>
+                     </speech>
+                     <speech id="3">
+                        <explanation_marker>
+                           <statement>Deshalb müssen wir die Innen·stadt sperren.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2"> 
+                                 <statement><style_element type="hi"><style_element type="hb">Kein</style_element> Mensch darf in der Innen·stadt sein.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <statement>10.000 Menschen mussten ihre Wohnungen verlassen.</statement>
+            <statement>Die Wohnungen waren nämlich in der Nähe von der Bombe.</statement>
+            <statement>Und Schulen und Kinder·gärten waren geschlossen.</statement>
+            <statement>Und viele Läden waren geschlossen.</statement>
+            <explanation_marker>
+               <statement>Die Polizei hat auch viele Straßen in der Nähe von der Bombe gesperrt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword> 
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Auf diesen Straßen durften <style_element type="hb">keine</style_element> Autos fahren.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und auf diesen Straßen durften <style_element type="hb">keine</style_element> Busse und Straßen·bahnen fahren.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dann haben die Fach·leute die Bombe entschärft.</statement>
+            <statement>Und dann konnten die Menschen in ihre Wohnungen zurück.</statement>
+         </section>
+         <section id="4">
+            <subheadline>Bombe aus dem 2. Welt·krieg</subheadline>
+               <statement>Bau·arbeiter haben die Bombe im Boden gefunden.</statement>
+               <statement>Die Bombe war aus dem 2. Welt·krieg.</statement>
+               <statement>Im 2. Welt·krieg haben Flugzeuge über vielen Städten Bomben abgeworfen.</statement>
+               <statement>Auch über Rostock.</statement>
+               <statement>Aber manche Bomben sind <style_element type="hb">nicht</style_element> explodiert.</statement>
+               <statement>Diese Bomben heißen: Blind·gänger.</statement>
+         </section> 
+      </sections>
+   </content>
+</annotation>

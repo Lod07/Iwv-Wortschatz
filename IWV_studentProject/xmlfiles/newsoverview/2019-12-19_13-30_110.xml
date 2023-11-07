@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-27" url="2019-12-19_13-30_110.xml">
+   <title>Mehr Nachrichten vom 19.12.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-12-19_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-12-19_13-30_110-full.png" type="screenshot" url="2019-12-19_13-30_110-full.png"/>
+      <resource id="2" name="2019-12-19_13-30_110_plaintext.txt" type="plaintext" url="2019-12-19_13-30_110_plaintext.txt"/>
+      <resource id="3" name="2019-12-19_13-30_110_quellcode.txt" type="sourcecode" url="2019-12-19_13-30_110_quellcode.txt"/>
+      <resource id="4" name="2019-12-19_13-30_110.docx" type="formatedText" url="2019-12-19_13-30_110.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 19.12.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Mecklenburg-Vorpommern: Polizist muss nicht ins Gefängnis</subheadline>
+            <explanation_marker>
+               <statement>Ein Gericht in Schwerin hat einen Mann verurteilt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Schwerin ist die Haupt·stadt von Mecklenburg-Vorpommern.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Mann war früher Polizist.</statement>
+            <statement>Aber dann hat der Mann verbotene Dinge gemacht.</statement>
+            <statement>Der Mann hat nämlich verbotene Waffen gesammelt.</statement>
+            <explanation_marker>
+               <statement>Deshalb hat die Polizei den Mann entlassen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Der Mann hat <style_element type="hb">nicht</style_element> mehr bei der Polizei gearbeitet.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Im Juni haben Polizisten das Haus von dem Mann noch einmal durchsucht.</statement>
+            <statement>Bei der Durchsuchung haben die Polizisten wieder verbotene Waffen gefunden.</statement>
+            <statement>Und verbotene Munition.</statement>
+            <statement>Deshalb hat die Polizei den Mann festgenommen.</statement>
+            <explanation_marker>
+               <statement>Jetzt hat der Mann eine Strafe auf Bewährung bekommen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Der Mann muss <style_element type="hb">nicht</style_element> ins Gefängnis.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Aber der Mann darf <style_element type="hb">nichts</style_element> Verbotenes mehr machen.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <question><style_element type="hi">Der Mann macht trotzdem etwas Verbotenes?</style_element></question>
+                  </explanation>
+                  <explanation id="5">
+                     <statement><style_element type="hi">Dann muss der Mann ins Gefängnis.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Strafe auf Bewährung dauert ein Jahr und 9 Monate.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Besondere Auszeichnung</subheadline>
+            <explanation_marker>
+               <statement>Hamburg hat eine wichtige Auszeichnung verliehen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Auszeichnung ist ein wichtiger Preis.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Diese Auszeichnung war für Kirsten Boie.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Kirsten Boie ist aus Hamburg.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Und Kirsten Boie ist eine Autorin.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Autoren schreiben Bücher.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Kirsten Boie ist jetzt Ehren·bürgerin von Hamburg.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Nur wenige Menschen werden Ehren·bürger.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Menschen haben zum Beispiel besonders viel für eine Stadt gemacht.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Diese Menschen haben zum Beispiel anderen Menschen geholfen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Kirsten Boie hat die Auszeichnung bei einer großen Feier bekommen.</statement>
+            <statement>Diese Feier war im Rathaus von Hamburg.</statement>
+            <explanation_marker>
+               <statement>Peter Tschentscher hat Kirsten Boie bei der Feier sehr gelobt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Peter Tschentscher ist der Bürger·meister von Hamburg.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Der Bürger·meister ist der Chef von einer Stadt.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Peter Tschentscher hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Kirsten Boie schreibt Bücher für Kinder.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Diese Bücher geben Kindern Mut und Selbstvertrauen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und Kirsten Boie setzt sich für die Rechte von Kindern ein.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb ist Hamburg sehr stolz auf Kirsten Boie.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

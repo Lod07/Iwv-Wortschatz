@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-05" url="2019-09-04_14-00_410.xml">
+   <title>Vermisste Frau ist tot</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-09-04_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-09-04_14-00_410-full.png" type="screenshot" url="2019-09-04_14-00_410-full.png"/>
+      <resource id="2" name="2019-09-04_14-00_410_plaintext.txt" type="plaintext" url="2019-09-04_14-00_410_plaintext.txt"/>
+      <resource id="3" name="2019-09-04_14-00_410_quellcode.txt" type="sourcecode" url="2019-09-04_14-00_410_quellcode.txt"/>
+      <resource id="4" name="2019-09-04_14-00_410.docx" type="formatedText" url="2019-09-04_14-00_410.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Vermisste Frau ist tot</headline>
+      <sections>
+         <section id="1">
+            <statement>Am vergangenen Wochen·ende hat die Polizei eine tote Frau gefunden.</statement>
+            <statement>Die tote Frau hat auf einem Feld gelegen.</statement>
+            <explanation_marker>
+               <statement>Dieses Feld ist in der Nähe von Humptrup.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Humptrup ist ein kleiner Ort in Schleswig-Holstein.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Und Humptrup ist an der Grenze zu Dänemark.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Dänemark ist ein Land in Nord·europa.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Fach·leute haben die tote Frau untersucht.</statement>
+            <statement>Nach dieser Untersuchung ist klar:</statement>
+            <statement> Die tote Frau ist Nathalie M.</statement>
+            <explanation_marker>
+               <statement>Nathalie M. ist aus Stadum.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Stadum ist ein kleiner Ort in Schleswig-Holstein.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Stadum ist in der Nähe von Humptrup.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Nathalie M. war 23 Jahre alt.</statement>
+            <statement>Und Nathalie M. wurde seit dem 17. August vermisst.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei glaubt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Ein Mann hat Nathalie M. ermordet.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Mann festgenommen</subheadline>
+            <statement>Vor 2 Wochen hat die Polizei einen Mann festgenommen.</statement>
+            <statement>Dieser Mann ist 46 Jahre alt.</statement>
+            <statement>Und dieser Mann wohnt in Humptrup.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei glaubt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Dieser Mann hat Nathalie M. ermordet.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <explanation_marker>
+               <statement>Jetzt ist der Mann in Untersuchungs·haft.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bei einer Untersuchungs∙haft ist ein Mensch im Gefängnis.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und die Polizei muss beweisen:</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Der Mensch hat ein Verbrechen gemacht.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Dann muss der Mensch vielleicht vor Gericht.</style_element></statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement><style_element type="hi">Und dann bekommt der Mensch vielleicht eine Strafe.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Polizei ermittelt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich zum Beispiel wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum wurde Nathalie M. getötet?</question>
+                  </speech>
+                  <speech id="2">
+                     <question>Und wie wurde Nathalie M. getötet?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

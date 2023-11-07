@@ -1,0 +1,174 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-24" url="2018-08-23_15-00_796.xml">
+   <title>Preis für Finder von Schatz</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-08-23_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-08-23_15-00_796-full.png" type="screenshot" url="2018-08-23_15-00_796-full.png"/>
+      <resource id="2" name="2018-08-23_15-00_796_plaintext.txt" type="plaintext" url="2018-08-23_15-00_796_plaintext.txt"/>
+      <resource id="3" name="2018-08-23_15-00_796_quellcode.txt" type="sourcecode" url="2018-08-23_15-00_796_quellcode.txt"/>
+      <resource id="4" name="2018-08-23_15-00_796.docx" type="formatedText" url="2018-08-23_15-00_796.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Preis für Finder von Schatz</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Eine Gruppe auf Rügen kann sich freuen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Rügen ist eine Insel in der Ostsee.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Rügen gehört zu Mecklenburg-Vorpommern.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Gruppe bekommt nämlich einen Preis.</statement>
+            <statement>Dieser Preis heißt Denkmal·preis.</statement>
+            <statement>Mitglieder von der Gruppe haben im April einen Schatz gefunden.</statement>
+            <statement>Dieser Schatz heißt Blauzahn-Schatz.</statement>
+         </section>
+         <section id="2">
+            <explanation_marker>
+               <statement>Die Gruppe heißt: De Ackerlöper.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">De Ackerlöper ist plattdeutsch.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">De Ackerlöper bedeutet: Die Acker·läufer.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Mitglieder von der Gruppe interessieren sich für die Geschichte von Rügen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Mitglieder wollen zum Beispiel wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>• Wie haben die Menschen auf Rügen früher gelebt?</question>
+                  </speech>
+                  <speech id="2">
+                     <question>• Und welche Spuren haben diese Menschen auf Rügen hinterlassen?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Der Blauzahn-Schatz</subheadline>
+               <statement>Im April haben zwei Mitglieder von der Gruppe eine alte Münze gefunden.</statement>
+               <statement>Diese Münze war auf einem Acker.</statement>
+               <statement>Dann haben Forscher die Münze untersucht.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Und dann haben die Forscher gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Diese Münze ist sehr alt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Dann haben die Forscher noch tiefer in dem Acker gegraben.</statement>
+               <statement>Und dann haben die Forscher noch viel mehr Münzen gefunden.</statement>
+               <statement>Und sehr viel Schmuck.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Forscher haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Die Münzen sind aus der Zeit von König Blauzahn.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <explanation_marker>
+                                    <statement><style_element type="hi">Harald Blauzahn war ein König von Dänemark.</style_element></statement>
+                                    <explanations>
+                                       <explanation id="1">
+                                          <statement><style_element type="hi">Dänemark ist ein Land im Norden von Europa.</style_element></statement>
+                                       </explanation>
+                                    </explanations>
+                                 </explanation_marker>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Harald Blauzahn hat vor mehr als 1000 Jahren gelebt.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb nennen wir die Münzen Blauzahn-Schatz.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Der Blauzahn-Schatz soll bald in ein Museum kommen.</statement>
+         </section>
+         <section id="4">
+            <subheadline>Der Denkmal·preis</subheadline>
+               <statement>Jedes Jahr gibt es einen Denkmal·preis.</statement>
+               <statement>Der Gewinner von dem Denkmal·preis bekommt 4000 Euro.</statement>
+               <question>Wer bekommt den Denkmal·preis?</question>
+               <explanation_marker>
+                  <statement>Das entscheidet die Kultus·ministerin.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Kultus·ministerin ist eine wichtige Politikerin.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <statement><style_element type="hi">Eine Kultus·ministerin kümmert sich zum Beispiel:</style_element></statement>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <headword><style_element type="hi">• Um Theater.</style_element></headword>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <headword><style_element type="hi">• Oder Museen.</style_element></headword>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Kultus·ministerin von Mecklenburg-Vorpommern ist Birgit Hesse.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Birgit Hesse hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Blauzahn-Schatz ist für Mecklenburg-Vorpommern sehr wichtig.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Die Mitglieder von der Gruppe haben den Blauzahn-Schatz gefunden.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Aber die Mitglieder von der Gruppe haben <style_element type="hb">keine</style_element> Belohnung bekommen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Die Gesetze in Mecklenburg-Vorpommern verbieten nämlich eine Belohnung.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Aber wir wollen uns bei der Gruppe bedanken.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Deshalb bekommt die Gruppe den Denkmal·preis.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

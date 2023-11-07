@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-18" url="2019-10-14_13-30_217.xml">
+   <title>Mehr Nachrichten vom 14.10.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-14_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-10-14_13-30_217-full.png" type="screenshot" url="2019-10-14_13-30_217-full.png"/>
+      <resource id="2" name="2019-10-14_13-30_217_plaintext.txt" type="plaintext" url="2019-10-14_13-30_217_plaintext.txt"/>
+      <resource id="3" name="2019-10-14_13-30_217_quellcode.txt" type="sourcecode" url="2019-10-14_13-30_217_quellcode.txt"/>
+      <resource id="4" name="2019-10-14_13-30_217.docx" type="formatedText" url="2019-10-14_13-30_217.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 14.10.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Gefesselte Frau gefunden</subheadline>
+            <statement>Am Sonnabend hat ein Mann eine junge Frau gefunden.</statement>
+            <statement>Die junge Frau war in der Nähe von Lübeck.</statement>
+            <statement>Und die junge Frau hat in einem Graben gelegen.</statement>
+            <statement>Die junge Frau war gefesselt.</statement>
+            <statement>Und die junge Frau war verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Am Freitag·abend war die Frau auf einer Feier.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dann ist die Frau verschwunden.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Am nächsten Tag hat ein Mann die Frau in dem Graben gefunden.</statement>
+                  </speech>
+                  <speech id="4">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Die Frau kann sich <style_element type="hb">nicht</style_element> erinnern:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Was ist passiert?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="5">
+                     <statement>Vielleicht wurde die Frau betäubt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <explanation_marker>
+               <statement>Und die Polizei sucht Zeugen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Zeugen gibt es zum Beispiel bei einer Straf·tat.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Die Zeugen haben die Straf·tat vielleicht gesehen.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Deshalb können die Zeugen vielleicht wichtige Hinweise zu der Straf·tat geben.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <style_element type="line"/>
+         <section id="2">
+            <subheadline>Niedersachsen: Mann auf Gleise gelegt</subheadline>
+            <statement>In Hannover war am Sonnabend eine schlimme Tat.</statement>
+            <statement>Bei dieser Tat haben 2 Männer einen Mann auf die Gleise von einer Straßen·bahn gelegt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die 3 Männer haben wahrscheinlich zusammen gefeiert.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dann hatten die 3 Männer Streit.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und die 3 Männer hatten eine Schlägerei.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Bei der Schlägerei wurde ein Mann am Kopf verletzt.</statement>
+                  </speech>
+                  <speech id="5">
+                     <explanation_marker>
+                        <statement>Dann war der Mann bewusstlos.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword>
+                                 <style_element type="hi">Das heißt:</style_element>
+                              </headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">Der Mann konnte sich <style_element type="hb">nicht</style_element> mehr bewegen.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement>
+                                 <style_element type="hi">Und der Mann war <style_element type="hb">nicht</style_element> ansprechbar.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="6">
+                     <statement>Und dann haben die 2 anderen Männer den Mann auf die Gleise gelegt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Ein Taxi·fahrer hat die Tat gesehen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Der Taxi·fahrer hat die Polizei gerufen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Die Polizei hat eine Straßen·bahn gestoppt.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und die Polizei hat den Mann von den Gleisen geholt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <explanation_marker>
+               <statement>Und die Polizei sucht Zeugen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Zeugen gibt es zum Beispiel bei einer Straf·tat.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Die Zeugen haben die Straf·tat vielleicht gesehen.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Deshalb können die Zeugen vielleicht wichtige Hinweise zu der Straf·tat geben.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <style_element type="line"/>
+      </sections>
+   </content>
+</annotation>

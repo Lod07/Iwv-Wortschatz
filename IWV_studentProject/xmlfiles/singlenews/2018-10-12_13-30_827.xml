@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-10-12_13-30_827.xml">
+   <title>Mehr Nachrichten vom 12.10.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-10-12_13-30</vdate>
+   <resources>
+      <resource id="1" name="2018-10-12_13-30_827-full.png" type="screenshot" url="2018-10-12_13-30_827-full.png"/>
+      <resource id="2" name="2018-10-12_13-30_827_plaintext.txt" type="plaintext" url="2018-10-12_13-30_827_plaintext.txt"/>
+      <resource id="3" name="2018-10-12_13-30_827_quellcode.txt" type="sourcecode" url="2018-10-12_13-30_827_quellcode.txt"/>
+      <resource id="4" name="2018-10-12_13-30_827.docx" type="formatedText" url="2018-10-12_13-30_827.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 12.10.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Mann stirbt auf Mallorca</subheadline>
+               <explanation_marker>
+                  <statement>In Spanien war ein Unwetter.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <statement><style_element type="hi">Unwetter sind zum Beispiel:</style_element></statement>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <headword><style_element type="hi">• Starke Gewitter.</style_element></headword>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <statement><style_element type="hi">• Oder starke Stürme.</style_element></statement>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Das Unwetter war auf Mallorca.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Mallorca ist eine Insel.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Auf Mallorca machen viele Menschen aus Deutschland Urlaub.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Bei dem Unwetter waren zum Beispiel viele Straßen überschwemmt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Auf diesen Straßen war sehr viel Wasser.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei diesen Überschwemmungen sind Menschen gestorben.</statement>
+               <statement>Diese Menschen sind nämlich zum Beispiel in ihren Autos ertrunken.</statement>
+               <statement>Einer von diesen Menschen ist ein Mann aus Hannover.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Aber die Polizei auf Mallorca weiß noch <style_element type="hb">nicht</style_element>:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Warum ist der Mann bei den Überschwemmungen gestorben?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Deshalb ermittelt jetzt die Polizei aus Mallorca.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: 6000 Brot·dosen für Schulkinder</subheadline>
+               <statement>In Mecklenburg-Vorpommern verteilen Politiker 6000 Brot·dosen.</statement>
+               <statement>Die Brot·dosen verteilen die Politiker an Schulkinder.</statement>
+               <statement>Und die Brot·dosen verteilen die Politiker am nächsten Mittwoch.</statement>
+               <statement>In den Brot·dosen ist gesundes Frühstück.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <headword>Zum Beispiel:</headword>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Brot.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <headword>• Eine Möhre.</headword>
+                     </enumeration>
+                     <enumeration id="3">
+                        <headword>• Müsli.</headword>
+                     </enumeration>
+                     <enumeration id="4">
+                        <headword>• Und Weintrauben.</headword>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <explanation_marker>
+                  <statement>Einer von den Politikern ist Till Backhaus.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Till Backhaus ist der Landwirtschafts·minister von Mecklenburg-Vorpommern.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Till Backhaus hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Mit den Brot·dosen wollen wir zeigen:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>So sieht gesundes Frühstück aus.</statement>
+                              </speech>
+                              <speech id="2">
+                                 <statement>Gesundes Frühstück ist nämlich wichtig für Schulkinder.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

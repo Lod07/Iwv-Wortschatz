@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-31" url="2018-06-04_15-00_732.xml">
+   <title>Stromausfall im Flughafen Hamburg</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-06-04_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-06-04_15-00_732-full.png" type="screenshot" url="2018-06-04_15-00_732-full.png"/>
+      <resource id="2" name="2018-06-04_15-00_732_plaintext.txt" type="plaintext" url="2018-06-04_15-00_732_plaintext.txt"/>
+      <resource id="3" name="2018-06-04_15-00_732_quellcode.txt" type="sourcecode" url="2018-06-04_15-00_732_quellcode.txt"/>
+      <resource id="4" name="2018-06-04_15-00_732.docx" type="formatedText" url="2018-06-04_15-00_732.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Stromausfall im Flughafen Hamburg</headline>
+      <sections>
+         <section id="1">
+            <statement>Im Flughafen von Hamburg war am Sonntag ein Stromausfall.</statement>
+            <statement>Deshalb haben viele Sachen am Flughafen <style_element type="hb">nicht</style_element> mehr funktioniert:</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Die Anzeige·tafeln.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <statement>• Oder die Sicherheits·schleusen.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">In einer Sicherheits·schleuse kontrollieren Mitarbeiter vom Flughafen:</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <question><style_element type="hi">Hat ein Mensch gefährliche Gegenstände bei sich?</style_element></question>
+                                    </explanation>
+                                    <explanation id="2">
+                                       <statement><style_element type="hi">Zum Beispiel Waffen.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Und deshalb durften <style_element type="hb">keine</style_element> Flugzeuge starten.</statement>
+            <headword>Oder landen.</headword>
+         </section>
+         <section id="2">
+            <subheadline>Viele Menschen im Flughafen</subheadline>
+               <statement>Der Stromausfall war um 10 Uhr am Morgen.</statement>
+               <statement>Viele Menschen haben im Flughafen gewartet.</statement>
+               <statement>Und Mitarbeiter vom Flughafen haben den Grund für den Stromausfall gesucht.</statement>
+               <statement>Dann sind immer mehr Menschen zum Flughafen gekommen.</statement>
+               <statement>Diese Menschen wollten nämlich auch wegfliegen.</statement>
+               <statement>Aber <style_element type="hb">kein</style_element> Flugzeug durfte starten.</statement>
+               <statement>Deshalb mussten auch diese Menschen warten.</statement>
+               <statement>Und deshalb war es im Flughafen sehr voll.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Menschen schlafen im Flughafen</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Am Nachmittag hat der Flughafen gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Heute darf gar <style_element type="hb">kein</style_element> Flugzeug mehr starten.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Wir haben nämlich den Grund für den Stromausfall noch <style_element type="hb">nicht</style_element> gefunden.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Erst dann haben die meisten Menschen den Flughafen verlassen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Aber einige Menschen haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir wohnen <style_element type="hb">nicht</style_element> in Hamburg.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und wir wollten heute wegfliegen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Jetzt wissen wir <style_element type="hb">nicht</style_element>:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question>Wo sollen wir schlafen?</question>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Für diese Menschen haben Helfer Betten im Flughafen aufgestellt.</statement>
+               <statement>Und diese Menschen haben im Flughafen geschlafen.</statement>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Am Montag hat der Flughafen gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir haben den Schaden repariert.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Jetzt haben wir wieder Strom.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb dürfen wieder Flugzeuge starten.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Aber einige Flüge müssen noch ausfallen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Und einige Flüge sind zu spät.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Aber bald sind alle Flüge wieder normal.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-31" url="2018-05-09_14-00_956.xml">
+   <title>Hamburg feiert Hafen·geburtstag</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-05-09_14-00</vdate>
+   <resources>
+      <resource id="1" name="2018-05-09_14-00_956-full.png" type="screenshot" url="2018-05-09_14-00_956-full.png"/>
+      <resource id="2" name="2018-05-09_14-00_956_plaintext.txt" type="plaintext" url="2018-05-09_14-00_956_plaintext.txt"/>
+      <resource id="3" name="2018-05-09_14-00_956_quellcode.txt" type="sourcecode" url="2018-05-09_14-00_956_quellcode.txt"/>
+      <resource id="4" name="2018-05-09_14-00_956.docx" type="formatedText" url="2018-05-09_14-00_956.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Hamburg feiert Hafen·geburtstag</headline>
+      <sections>
+         <section id="1">
+            <statement>In Hamburg ist ein großes Fest.</statement>
+            <statement>Dieses große Fest heißt Hafen·geburtstag.</statement>
+            <statement>Der Hafen·geburtstag ist von Donnerstag bis Sonntag.</statement>
+            <statement>Hamburg feiert in diesem Jahr schon den 829. Hafen·geburtstag.</statement>
+            <statement>Der Hafen·geburtstag in Hamburg ist das größte Hafen·fest auf der Welt.</statement>
+         </section>
+         <section id="2">
+            <statement>Zum Hafen·geburtstag kommen 300 Schiffe nach Hamburg.</statement>
+            <statement>Und zum Hafen·geburtstag kommen viele besondere Schiffe.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <statement>• Sehr alte Schiffe.</statement>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Segel·schiffe.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <explanation_marker>
+                        <headword>• Und Kreuzfahrt·schiffe.</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Auf einem Kreuzfahrt·schiff können Menschen Urlaub machen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Viele von diesen Schiffen sind aus Deutschland.</statement>
+            <statement>Und manche Schiffe sind aus anderen Ländern.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Aus England.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Aus Japan.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <statement>• Und aus Russland.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="3">
+            <explanation_marker>
+               <statement>Beim Hafen·geburtstag können alle Menschen diese besonderen Schiffe besichtigen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Menschen können zum Beispiel auf diese besonderen Schiffe gehen.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Dann können die Menschen diese besonderen Schiffe genau angucken.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Deshalb kommen immer sehr viele Menschen zum Hafen·geburtstag.</statement>
+            <statement>Im vergangenen Jahr waren 1 Million Menschen beim Hafen·geburtstag.</statement>
+         </section>
+         <section id="4">
+            <subheadline>Viel Musik beim Hafen·geburtstag</subheadline>
+               <statement>Beim Hafen·geburtstag können die Menschen <style_element type="hb">nicht</style_element> nur Schiffe besichtigen.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Die Menschen können zum Beispiel auch:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Karussell fahren.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <statement>• Essen und Trinken.</statement>
+                     </enumeration>
+                     <enumeration id="3">
+                        <statement>• Und Musik hören.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Beim Hafen·geburtstag sind nämlich viele Bühnen.</statement>
+               <statement>Und auf diesen Bühnen spielen viele bekannte Musiker.</statement>
+         </section>
+         <section id="5">
+            <statement>Viele Menschen freuen sich auch auf den Sonnabend.</statement>
+            <statement>Dann ist ein großes Feuerwerk im Hafen.</statement>
+            <statement>Dieses Feuerwerk ist am Abend.</statement>
+            <statement>Und dieses Feuerwerk ist besonders schön.</statement>
+         </section>
+         <section id="6">
+            <statement>Der NDR macht viele Sendungen über den Hafen·geburtstag.</statement>
+            <explanation_marker>
+               <statement>Zum Beispiel am Donnerstag im Hamburg Journal.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Das Hamburg Journal ist eine Fernsehsendung vom NDR.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Fernsehsendung ist immer um 19.30 Uhr.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

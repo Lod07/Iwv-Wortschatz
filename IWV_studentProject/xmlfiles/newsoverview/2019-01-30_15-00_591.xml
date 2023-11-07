@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-10" url="2019-01-30_15-00_591.xml">
+   <title>Mehr Nachrichten vom 30.01.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-01-30_15-00</vdate>
+   <resources>
+      <resource id="1" name="2019-01-30_15-00_591-full.png" type="screenshot" url="2019-01-30_15-00_591-full.png"/>
+      <resource id="2" name="2019-01-30_15-00_591_plaintext.txt" type="plaintext" url="2019-01-30_15-00_591_plaintext.txt"/>
+      <resource id="3" name="2019-01-30_15-00_591_quellcode.txt" type="sourcecode" url="2019-01-30_15-00_591_quellcode.txt"/>
+      <resource id="4" name="2019-01-30_15-00_591.docx" type="formatedText" url="2019-01-30_15-00_591.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 30.01.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Mann muss lebens·lang ins Gefängnis</subheadline>
+               <statement>In Braunschweig war ein Prozess.</statement>
+               <statement>Bei dem Prozess hat das Gericht einen Mann verurteilt.</statement>
+               <statement>Der Mann hat nämlich eine Frau ermordet.</statement>
+               <explanation_marker>
+                  <statement>Deshalb muss der Mann lebens·lang ins Gefängnis.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Der Mann muss für mindestens 15 Jahre ins Gefängnis.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Das Gericht hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Früher war der Mann mit der Frau zusammen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und der Mann hat mit der Frau 4 Kinder.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Dann haben sich der Mann und die Frau getrennt.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und der Mann und die Frau hatten Streit wegen der Kinder.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Deshalb ist der Mann zu der Frau gefahren.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Dann hat der Mann die Frau erschossen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Schlimmer Gestank</subheadline>
+               <statement>Sehr viele Menschen haben bei der Polizei angerufen.</statement>
+               <statement>Und sehr viele Menschen haben bei der Feuerwehr angerufen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Diese Menschen haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Es stinkt schlimm in Hamburg.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr wollte wissen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Warum stinkt es so schlimm in Hamburg?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker> 
+               <statement>Deshalb hat die Feuerwehr nach dem Grund für den Gestank gesucht.</statement>
+               <statement>Aber die Feuerwehr hat den Grund für den Gestank <style_element type="hb">nicht</style_element> gefunden.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir haben die Luft in Hamburg untersucht.</statement>
+                     </speech>
+                     <speech id="1">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Und jetzt wissen wir:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Der Gestank war <style_element type="hb">nicht</style_element> gefährlich für Menschen.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

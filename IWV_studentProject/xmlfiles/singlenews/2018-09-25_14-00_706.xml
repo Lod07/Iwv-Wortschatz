@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-09-25_14-00_706.xml">
+   <title>Große Messe in Hamburg</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-09-25_14-00</vdate>
+   <resources>
+      <resource id="1" name="2018-09-25_14-00_706-full.png" type="screenshot" url="2018-09-25_14-00_706-full.png"/>
+      <resource id="2" name="2018-09-25_14-00_706_plaintext.txt" type="plaintext" url="2018-09-25_14-00_706_plaintext.txt"/>
+      <resource id="3" name="2018-09-25_14-00_706_quellcode.txt" type="sourcecode" url="2018-09-25_14-00_706_quellcode.txt"/>
+      <resource id="4" name="2018-09-25_14-00_706.docx" type="formatedText" url="2018-09-25_14-00_706.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Große Messe in Hamburg</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Hamburg hat am Dienstag eine Messe begonnen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Messe ist eine große Ausstellung.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Bei einer Messe zeigen Firmen ihre neuen Produkte.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword><style_element type="hi">• Neue Autos.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <statement><style_element type="hi">• Oder neue Kleidung.</style_element></statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Fach·leute erklären diese neuen Produkte.</style_element></statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement><style_element type="hi">Viele Menschen interessieren sich für diese neuen Produkte.</style_element></statement>
+                  </explanation>
+                  <explanation id="6">
+                     <statement><style_element type="hi">Deshalb sind bei einer Messe oft viele Besucher.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Messe heißt WindEnergy.</statement>
+            <explanation_marker>
+               <statement>Die WindEnergy ist eine Messe für Wind·energie.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Wind·energie ist Energie.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Energie ist zum Beispiel Strom.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Energie entsteht durch Wind.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Und diese Energie entsteht in Wind·kraft·anlagen.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Eine Wind·kraft·anlage ist ein sehr hoher Turm.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Auf diesem Turm ist eine Maschine.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">An der Maschine ist ein großes Wind·rad.</style_element></statement>
+                           </explanation>
+                           <explanation id="4">
+                              <statement><style_element type="hi">Das Wind·rad hat sehr lange Flügel.</style_element></statement>
+                           </explanation>
+                           <explanation id="5">
+                              <statement><style_element type="hi">Die Flügel drehen sich im Wind.</style_element></statement>
+                           </explanation>
+                           <explanation id="6">
+                              <statement><style_element type="hi">So macht das Wind·rad Strom.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die WindEnergy ist die größte Messe für Wind·energie auf der Welt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der Chef von der WindEnergy hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In diesem Jahr kommen wahrscheinlich 35000 Besucher.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und in diesem Jahr kommen 1400 Firmen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Diese Firmen kommen aus 40 Ländern.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und diese Firmen zeigen ihre neuen Produkte.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Zum Beispiel neue Flügel für Wind·räder.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

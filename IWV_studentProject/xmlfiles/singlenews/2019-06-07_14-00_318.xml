@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-06-07_14-00_318.xml">
+   <title>Fußball: Welt·meisterschaft der Frauen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-06-07_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-06-07_14-00_318-full.png" type="screenshot" url="2019-06-07_14-00_318-full.png"/>
+      <resource id="2" name="2019-06-07_14-00_318_plaintext.txt" type="plaintext" url="2019-06-07_14-00_318_plaintext.txt"/>
+      <resource id="3" name="2019-06-07_14-00_318_quellcode.txt" type="sourcecode" url="2019-06-07_14-00_318_quellcode.txt"/>
+      <resource id="4" name="2019-06-07_14-00_318.docx" type="formatedText" url="2019-06-07_14-00_318.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Fußball: Welt·meisterschaft der Frauen</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Frankreich ist ein großes Fußball·turnier für Frauen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Frankreich ist ein Land.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Frankreich ist im Süd·westen von Europa.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieses Fußball·turnier ist die WM.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">WM ist die Abkürzung für <style_element type="hb">W</style_element>elt·<style_element type="hb">m</style_element>eisterschaft.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Bei der WM spielen die besten 24 National·mannschaften von der ganzen Welt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">In einer National·mannschaft spielen die besten Spielerinnen aus einem Land.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die WM ist alle 4 Jahre.</statement>
+            <statement>Auch Deutschland ist bei der Fußball-WM.</statement>
+            <explanation_marker>
+               <statement>Die Chefin von der deutschen National·mannschaft ist Alexandra Popp.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement>Alexandra Popp spielt beim VfL Wolfsburg.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Wolfsburg ist eine Stadt in Niedersachsen.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Der VfL Wolfsburg ist Deutscher Meister.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>3. WM für Alexandra Popp</subheadline>
+            <statement>Alexandra Popp ist 28 Jahre alt.</statement>
+            <explanation_marker>
+               <statement>Alexandra Popp ist eine Stürmerin.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Alexandra Popp soll viele Tore schießen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und Alexandra Popp ist die Kapitänin von der deutschen National·mannschaft.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die Kapitänin ist die Chefin von einer Mannschaft.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Kapitänin von einer Mannschaft hat oft sehr viel Erfahrung.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Die Kapitänin sagt zum Beispiel zu ihren Mit·spielerinnen:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement><style_element type="hi">Diese Sachen müssen wir besser machen.</style_element></statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Alexandra Popp ist zum 3. Mal bei einer WM.</statement>
+            <statement>Aber Alexandra Popp war noch nie Kapitänin bei einer WM.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Alexandra Popp hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Ich bin zum 1. Mal Kapitänin von der National·mannschaft.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Das ist für mich eine große Ehre.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>1. Spiel gegen China</subheadline>
+            <statement>Die WM dauert 4 Wochen.</statement>
+            <explanation_marker>
+               <statement>Das Endspiel von der WM ist am 7. Juli.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">In einem Endspiel sind die 2 besten Mannschaften von einem Turnier.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Der Sieger von dem Endspiel hat das Turnier gewonnen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Das 1. Spiel von der deutschen National·mannschaft ist am Sonnabend.</statement>
+            <explanation_marker>
+               <statement>Dann spielt die deutsche National·mannschaft gegen China.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">China ist ein Land ist Asien.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker> 
+         </section>
+         <section id="4">
+            <statement>Sie können das Spiel gegen China im Fernsehen gucken.</statement>
+            <statement>Das Erste zeigt das Spiel am Sonnabend um 14.30 Uhr.</statement>
+         </section>
+         <section id="5">
+            <question><style_element type="hb">Sie wollen mehr zu der WM in Frankreich wissen?</style_element></question>
+            <statement><style_element type="hb">Dann klicken Sie <ref><style_element type="hu">hier</style_element></ref></style_element></statement>
+            <statement><style_element type="hb">Die Informationen sind aber nicht in Leichter Sprache.</style_element></statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

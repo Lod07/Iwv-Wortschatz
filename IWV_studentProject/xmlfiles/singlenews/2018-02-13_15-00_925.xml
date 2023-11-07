@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-28" url="2018-02-13_15-00_925.xml">
+   <title>Zug·unglück in Rendsburg</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-02-13_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-02-13_15-00_925-full.png" type="screenshot" url="2018-02-13_15-00_925-full.png"/>
+      <resource id="2" name="2018-02-13_15-00_925_plaintext.txt" type="plaintext" url="2018-02-13_15-00_925_plaintext.txt"/>
+      <resource id="3" name="2018-02-13_15-00_925_quellcode.txt" type="sourcecode" url="2018-02-13_15-00_925_quellcode.txt"/>
+      <resource id="4" name="2018-02-13_15-00_925.docx" type="formatedText" url="2018-02-13_15-00_925.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Zug·unglück in Rendsburg</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Rendsburg war ein Zug·unglück.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Rendsburg ist eine Stadt in Schleswig-Holstein.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Bei dem Zug·unglück ist ein Zug entgleist.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Der Zug ist von den Schienen gerutscht.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Zug konnte <style_element type="hb">nicht</style_element> mehr weiter·fahren.</statement>
+            <statement>Und der Zug hat anderen Zügen den Weg versperrt.</statement>
+            <statement>Deshalb konnte <style_element type="hb">kein</style_element> Zug mehr durch Rendsburg fahren.</statement>
+            <statement>Bei dem Zug·unglück wurde <style_element type="hb">niemand</style_element> verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Das Zug·unglück war im Bahn·hof von Rendsburg.</statement>
+               <statement>Ein Zug wollte aus dem Bahn·hof fahren.</statement>
+               <statement>Und der Zug wollte nach Hamburg fahren.</statement>
+               <statement>Aber dann ist der Zug entgleist.</statement>
+         </section>
+         <section id="3">
+            <statement>In dem Zug waren 100 Menschen.</statement>
+            <statement>Diese Menschen wurden <style_element type="hb">nicht</style_element> verletzt.</statement>
+         </section>
+         <section id="4">
+            <subheadline>Zug·ausfälle</subheadline>
+               <statement>Viele Bahn·strecken mussten gesperrt werden.</statement>
+               <statement>Deshalb konnten viele Züge <style_element type="hb">nicht</style_element>  mehr fahren.</statement>
+               <statement>Und deshalb mussten viele Menschen lange warten.</statement>
+               <statement>Viele Menschen sind auch zu spät zur Arbeit gekommen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Noch weiß <style_element type="hb">niemand</style_element>:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Warum ist der Zug entgleist?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Deshalb untersuchen Fach·leute jetzt den Zug.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

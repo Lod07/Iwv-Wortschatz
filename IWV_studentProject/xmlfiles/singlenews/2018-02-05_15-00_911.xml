@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-28" url="2018-02-05_15-00_911.xml">
+   <title>Viele Menschen feiern Karneval</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-02-05_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-02-05_15-00_911-full.png" type="screenshot" url="2018-02-05_15-00_911-full.png"/>
+      <resource id="2" name="2018-02-05_15-00_911_plaintext.txt" type="plaintext" url="2018-02-05_15-00_911_plaintext.txt"/>
+      <resource id="3" name="2018-02-05_15-00_911_quellcode.txt" type="sourcecode" url="2018-02-05_15-00_911_quellcode.txt"/>
+      <resource id="4" name="2018-02-05_15-00_911.docx" type="formatedText" url="2018-02-05_15-00_911.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Viele Menschen feiern Karneval</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Viele Menschen in Nord·deutschland haben jetzt Karneval gefeiert.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Karneval ist ein großes Fest.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Beim Karneval verkleiden sich viele Menschen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Das ist etwas Besonderes.</statement>
+            <statement>Die meisten Menschen feiern Karneval nämlich erst in einer Woche.</statement>
+         </section>
+         <section id="2">
+            <explanation_marker>
+               <statement>Beim Karneval gibt es einen Karnevals·umzug.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bei einem Karnevals·umzug treffen sich viele verkleidete Menschen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und die verkleideten Menschen laufen gemeinsam durch die Stadt.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement><style_element type="hi">Bei einem Karnevals·umzug gibt es auch:</style_element></statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword><style_element type="hi">• Bunte Karnevals·wagen.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword><style_element type="hi">• Tanz·gruppen.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="3">
+                              <headword><style_element type="hi">• Und Musik·gruppen.</style_element></headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>In Nord·deutschland waren jetzt mehrere Karnevals·umzüge:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• In Bremen.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <statement>• Und in Damme.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Damme ist eine Stadt in Niedersachsen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="3">
+            <subheadline>Samba in Bremen</subheadline>
+               <explanation_marker>
+                  <statement>Der Karneval in Bremen heißt Samba-Karneval.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Samba ist ein Tanz.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und Samba kommt aus Süd·amerika.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Viele Menschen haben beim Samba-Karneval Musik gemacht.</statement>
+               <statement>Und viele Menschen haben zu dieser Musik getanzt.</statement>
+               <statement>In Bremen waren 40.000 Menschen beim Samba-Karneval.</statement>
+         </section>
+         <section id="4">
+            <subheadline>2 Karnevals·umzüge in Damme</subheadline>
+               <statement>In Damme waren 2 Karnevals·umzüge.</statement>
+               <statement>Ein Karnevals·umzug war am Sonntag.</statement>
+               <statement>Bei diesem Karnevals·umzug waren 15.000 Menschen.</statement>
+               <statement>Und ein Karnevals·umzug war am Montag.</statement>
+               <statement>Bei diesem Karnevals·umzug waren 9.000 Menschen.</statement>
+         </section>
+         <section id="5">
+            <subheadline>Mehr Karnevals·umzüge</subheadline>
+               <statement>Die meisten Karnevals·umzüge in Deutschland sind in einer Woche.</statement>
+               <statement>Und die meisten Karnevals·umzüge sind in Nordrhein-Westfalen.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <headword>Zum Beispiel:</headword>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• In Köln.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <statement>• Und in Düsseldorf.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Aber auch in Nord·deutschland sind noch mehr Karnevals·umzüge.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <headword>Zum Beispiel:</headword>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <explanation_marker>
+                           <headword>• In Marne.</headword>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Marne ist eine Stadt in Schleswig-Holstein.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                     <enumeration id="2">
+                        <explanation_marker>
+                           <statement>• Und in Braunschweig.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Braunschweig ist eine Stadt in Niedersachsen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+         </section>
+         <section id="6">
+            <statement>In Braunschweig ist der größte Karneval·umzug in Nord·deutschland.</statement>
+            <statement>Und der Karneval·umzug in Braunschweig ist am Sonntag.</statement>
+            <statement>Der NDR zeigt den Karneval·umzug in Braunschweig ab 13 Uhr im Fernsehen.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

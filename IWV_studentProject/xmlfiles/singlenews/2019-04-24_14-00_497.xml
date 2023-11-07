@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-25" url="2019-04-24_14-00_497.xml">
+   <title>Hamburg: Ärzte streiken</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-04-24_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-04-24_14-00_497-full.png" type="screenshot" url="2019-04-24_14-00_497-full.png"/>
+      <resource id="2" name="2019-04-24_14-00_497_plaintext.txt" type="plaintext" url="2019-04-24_14-00_497_plaintext.txt"/>
+      <resource id="3" name="2019-04-24_14-00_497_quellcode.txt" type="sourcecode" url="2019-04-24_14-00_497_quellcode.txt"/>
+      <resource id="4" name="2019-04-24_14-00_497.docx" type="formatedText" url="2019-04-24_14-00_497.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Hamburg: Ärzte streiken</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Am Mittwoch haben in Hamburg viele Ärzte gestreikt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Ärzte haben <style_element type="hb">nicht</style_element> gearbeitet.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Ärzte sind Klinik·ärzte.</statement> 
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Ärzte arbeiten in Kranken·häusern.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Zum Beispiel im UKE.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">UKE ist die Abkürzung für <style_element type="hb">U</style_element>niversitäts·<style_element type="hb">k</style_element>linikum Hamburg-<style_element type="hb">E</style_element>ppendorf.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Das UKE ist das größte Kranken·haus in Hamburg.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Ärzte sind durch Hamburg gegangen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Und die Ärzte haben zum Beispiel gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir wollen mehr Geld für unsere Arbeit.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Hilfe für Menschen im Notfall</subheadline>
+               <explanation_marker>
+                  <statement>Eine Gewerkschaft hilft den Ärzten bei dem Streik.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Gewerkschaft ist zum Beispiel eine Vereinigung von Arbeitern.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Eine Gewerkschaft hilft Arbeitern zum Beispiel bei einem Streit mit der Firma.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Diese Gewerkschaft ist der Marburger Bund.</statement>
+               <statement>Und diese Gewerkschaft ist nur für Ärzte.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Chefin vom Marburger Bund hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Am Mittwoch haben 1000 Ärzte gestreikt.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb konnten diese Ärzte den Menschen nicht helfen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <explanation_marker>
+                           <statement>Und deshalb haben die Ärzte zum Beispiel Operationen verschoben.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Die Ärzte machen die Operationen an einem anderen Tag.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="4">
+                        <question>Hatten Menschen einen Notfall?</question>
+                     </speech>
+                     <speech id="5">
+                        <statement>Dann haben andere Ärzte diesen Menschen geholfen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

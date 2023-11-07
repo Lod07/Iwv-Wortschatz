@@ -1,0 +1,169 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-24" url="2020-01-21_15-00_67.xml">
+   <title>Mehr Nachrichten vom 21.01.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-01-21_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-01-21_15-00_67-full.png" type="screenshot" url="2020-01-21_15-00_67-full.png"/>
+      <resource id="2" name="2020-01-21_15-00_67_plaintext.txt" type="plaintext" url="2020-01-21_15-00_67_plaintext.txt"/>
+      <resource id="3" name="2020-01-21_15-00_67_quellcode.txt" type="sourcecode" url="2020-01-21_15-00_67_quellcode.txt"/>
+      <resource id="4" name="2020-01-21_15-00_67.docx" type="formatedText" url="2020-01-21_15-00_67.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 21.01.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Tote Schafe</subheadline>
+               <explanation_marker>
+                  <statement>In Löningen haben Menschen 4 tote Schafe gefunden.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Löningen ist eine Stadt im Westen von Niedersachsen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Und die Menschen haben 16 verletzte Schafe gefunden.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Schafe waren hinter einem Zaun.</statement>
+                     </speech>
+                     <speech id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Aber wir glauben:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Wölfe sind über den Zaun gesprungen.</statement>
+                              </speech>
+                              <speech id="2">
+                                 <statement>Diese Wölfe haben die 4 Schafe getötet.</statement>
+                              </speech>
+                              <speech id="3">
+                                 <statement>Und diese Wölfe haben die 16 Schafe verletzt.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Wir haben nämlich Spuren gefunden.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Diese Spuren sind wahrscheinlich Wolfs·spuren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Die 16 Schafe waren sehr schwer verletzt.</statement>
+               <explanation_marker>
+                  <statement>Deshalb musste ein Tier·arzt die 16 Schafe einschläfern.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Der Tier·arzt hat den 16 Schafen eine Spritze gegeben.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">In der Spritze war ein Medikament.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Von diesem Medikament sind die 16 Schafe gestorben.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Fach·leute haben auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In Niedersachsen sind oft Probleme mit Wölfen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>In Niedersachsen sind nämlich viele Wölfe.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Diese Wölfe haben schon viele Tiere getötet.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Großer Feuerwehr·einsatz</subheadline>
+               <statement>In Hamburg war ein großer Feuerwehr·einsatz.</statement>
+               <statement>Der Feuerwehr·einsatz war im Stadt·teil Altona.</statement>
+               <statement>Und der Feuerwehr·einsatz war in einem großen Haus.</statement>
+               <statement>In diesem Haus sind viele Wohnungen.</statement>
+               <statement>Und in diesem Haus sind zum Beispiel Supermärkte.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Im Keller von dem Haus war ein Feuer.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb haben Bewohner von dem Haus Hilfe gerufen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Einige Bewohner waren noch in dem Haus.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Aber die Bewohner waren <style_element type="hb">nicht</style_element> in Gefahr.</statement> 
+                     </speech>
+                     <speech id="5">
+                        <statement>Und bei dem Feuer wurde <style_element type="hb">kein</style_element> Mensch verletzt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Bei dem Feuer war viel Rauch.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Der Rauch war im Keller.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und der Rauch war im Erdgeschoss.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Im Erdgeschoss von dem Haus sind Supermärkte.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Diese Supermärkte haben wir gesperrt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Jetzt ermittelt die Polizei.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei will nämlich wissen: </statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Wieso war das Feuer in dem Haus?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

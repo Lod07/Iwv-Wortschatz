@@ -1,0 +1,213 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-28" url="2018-02-07_15-00_921.xml">
+   <title>Braucht Hamburg einen neuen Bürger·meister?</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-02-07_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-02-07_15-00_921-full.png" type="screenshot" url="2018-02-07_15-00_921-full.png"/>
+      <resource id="2" name="2018-02-07_15-00_921_plaintext.txt" type="plaintext" url="2018-02-07_15-00_921_plaintext.txt"/>
+      <resource id="3" name="2018-02-07_15-00_921_quellcode.txt" type="sourcecode" url="2018-02-07_15-00_921_quellcode.txt"/>
+      <resource id="4" name="2018-02-07_15-00_921.docx" type="formatedText" url="2018-02-07_15-00_921.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Braucht Hamburg einen neuen Bürger·meister?</headline>
+      <sections>
+         <section id="1">
+            <statement>Deutschland hat vielleicht bald eine neue Regierung.</statement>
+            <explanation_marker>
+               <statement>Diese Regierung hat viele Minister.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Minister ist ein wichtiger Politiker.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und ein Minister hat bestimmte Aufgaben.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Ein Minister ist nämlich der Chef von einem bestimmten Bereich in der Politik.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword><style_element type="hi">• Wirtschaft.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword><style_element type="hi">• Oder Bildung.</style_element></headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Experten haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                      <explanation_marker>
+                         <statement>Einer von den Ministern ist vielleicht Olaf Scholz.</statement>
+                         <explanations>
+                            <explanation id="1">
+                               <explanation_marker>
+                                  <statement><style_element type="hi">Olaf Scholz ist der Bürger·meister von Hamburg.</style_element></statement>
+                                  <explanations>
+                                     <explanation id="1">
+                                        <statement><style_element type="hi">Ein Bürger·meister ist der Chef von einer Stadt.</style_element></statement>
+                                     </explanation>
+                                  </explanations>
+                               </explanation_marker>
+                            </explanation>
+                            <explanation id="2">
+                               <explanation_marker>
+                                  <statement><style_element type="hi">Und Olaf Scholz ist von der SPD.</style_element></statement>
+                                  <explanations>
+                                     <explanation id="1">
+                                        <statement><style_element type="hi">SPD ist die Abkürzung für Sozial·demokratische Partei Deutschlands.</style_element></statement>
+                                     </explanation>
+                                  </explanations>
+                               </explanation_marker>
+                            </explanation>
+                         </explanations>
+                      </explanation_marker>               
+                  </speech>
+                  <speech id="2">
+                     <explanation_marker>
+                        <statement>Olaf Scholz soll der Finanz·minister von der neuen Regierung werden.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Ein Finanz·minister kümmert sich um die Finanzen von der Regierung.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">Finanzen ist ein anderes Wort für Geld.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>In der neuen Regierung sind wahrscheinlich 3 Parteien:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <explanation_marker>
+                        <headword>• Die CDU.</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">CDU ist die Abkürzung für Christlich Demokratische Union Deutschlands.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <headword>• Die CSU.</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">CSU ist die Abkürzung für Christlich-Soziale Union in Bayern.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="3">
+                     <statement>• Und die SPD.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="3">
+            <subheadline>Olaf Scholz ist bald Finanz·minister?</subheadline>
+               <explanation_marker>
+                  <statement>Der Finanz·minister von der neuen Regierung arbeitet in Berlin.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Berlin ist die Hauptstadt von Deutschland.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <question>Olaf Scholz ist bald Finanz·minister in Berlin?</question>
+               <statement>Dann verlässt Olaf Scholz Hamburg.</statement>
+               <statement>Und dann braucht Hamburg einen neuen Bürger·meister.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Experten haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Vielleicht ist Andreas Dressel bald der neue Bürger·meister von Hamburg.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Andreas Dressel ist ein Politiker in Hamburg.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Und Andreas Dressel ist von der SPD.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Wie geht es weiter?</subheadline>
+               <statement>In den nächsten Wochen ist eine große Abstimmung.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Bei dieser Abstimmung entscheiden die Mitglieder von der SPD:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir wollen eine Regierung mit der CDU und der CSU.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Oder wir wollen <style_element type="hb">keine</style_element> Regierung mit der CDU und der CSU.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Experten haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Erst nach der Abstimmung wissen wir:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question>Hat Deutschland bald eine neue Regierung?</question>
+                              </speech>
+                              <speech id="2">
+                                 <question>Und braucht Hamburg einen neuen Bürger·meister?</question>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

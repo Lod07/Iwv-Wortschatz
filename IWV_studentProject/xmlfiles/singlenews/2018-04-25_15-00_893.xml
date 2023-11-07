@@ -1,0 +1,183 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-30" url="2018-04-25_15-00_893.xml">
+   <title>700 Polizisten bei Übung in Lübeck</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-04-25_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-04-25_15-00_893-full.png" type="screenshot" url="2018-04-25_15-00_893-full.png"/>
+      <resource id="2" name="2018-04-25_15-00_893_plaintext.txt" type="plaintext" url="2018-04-25_15-00_893_plaintext.txt"/>
+      <resource id="3" name="2018-04-25_15-00_893_quellcode.txt" type="sourcecode" url="2018-04-25_15-00_893_quellcode.txt"/>
+      <resource id="4" name="2018-04-25_15-00_893.docx" type="formatedText" url="2018-04-25_15-00_893.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>700 Polizisten bei Übung in Lübeck</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Lübeck war eine besondere Übung.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Lübeck ist eine Stadt in Schleswig-Holstein.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei der Übung haben 700 Polizisten mitgemacht.</statement>
+            <explanation_marker>
+               <statement>Und die Übung war eine Anti-Terror-Übung.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Bei einer Anti-Terror-Übung üben Polizisten den Kampf gegen Terroristen.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Terroristen wollen allen Menschen Angst machen.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Deshalb machen die Terroristen Anschläge.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">Zum Beispiel mit Bomben.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Bei diesen Anschlägen haben die Terroristen schon viele Menschen getötet.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Polizisten üben Einsatz</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In Europa hat es schon viele Anschläge von Terroristen gegeben.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Wir haben <style_element type="hb">keine</style_element> Hinweise auf einen Anschlag in Nord·deutschland.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Aber wir wollen uns trotzdem auf einen Anschlag vorbereiten.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb haben wir jetzt einen Einsatz gegen Terroristen geübt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Bei der Übung in Lübeck haben 700 Polizisten mitgemacht.</statement>
+            <statement>Diese 700 Polizisten waren aus verschiedenen Bundesländern.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement>Wir wollten wissen:</statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <question>• Arbeiten unsere Polizisten gut zusammen?</question>
+                           </enumeration>
+                           <enumeration id="2">
+                              <question>• Und verhalten sich unsere Polizisten bei einem Anschlag richtig?</question>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb haben wir diese große Übung gemacht.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <statement>Die Übung war nachts am Lübecker Bahnhof.</statement>
+            <explanation_marker>
+               <statement>Die Polizei hat den Lübecker Bahnhof für die Übung gesperrt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword><style_element type="hi">Das heißt:</style_element></headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <statement><style_element type="hi">• Es durften <style_element type="hb">keine</style_element> Menschen in den Bahnhof. </style_element></statement>
+                           </enumeration>
+                           <enumeration id="2">
+                              <statement><style_element type="hi">• Und es durften <style_element type="hb">keine</style_element> Züge fahren.</style_element></statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="5">
+            <subheadline>Übung war erfolgreich</subheadline>
+               <statement>Bei der Übung haben auch besondere Polizisten mitgemacht.</statement>
+               <explanation_marker>
+                  <statement>Diese besonderen Polizisten heißen Spezial·kräfte.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Spezial·kräfte haben eine besondere Ausbildung.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und Spezial·kräfte haben eine besondere Ausrüstung.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <section id="6">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat nach der Übung gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Übung war sehr wichtig.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und die Übung war sehr erfolgreich.</statement>
+                  </speech>
+                  <speech id="3">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Wir wissen jetzt:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Diese Dinge haben die Polizisten gut gemacht.</statement>
+                           </speech>
+                           <speech id="2">
+                              <statement>Und diese Dinge müssen die Polizisten noch besser machen.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

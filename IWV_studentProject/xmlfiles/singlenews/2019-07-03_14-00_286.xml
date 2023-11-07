@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-07-03_14-00_286.xml">
+   <title>Großes Feuer: Menschen können in Orte zurück</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-07-03_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-07-03_14-00_286-full.png" type="screenshot" url="2019-07-03_14-00_286-full.png"/>
+      <resource id="2" name="2019-07-03_14-00_286_plaintext.txt" type="plaintext" url="2019-07-03_14-00_286_plaintext.txt"/>
+      <resource id="3" name="2019-07-03_14-00_286_quellcode.txt" type="sourcecode" url="2019-07-03_14-00_286_quellcode.txt"/>
+      <resource id="4" name="2019-07-03_14-00_286.docx" type="formatedText" url="2019-07-03_14-00_286.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Großes Feuer: Menschen können in Orte zurück</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Lübtheen ist ein großes Feuer.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Lübtheen ist eine Stadt in Mecklenburg-Vorpommern.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieses Feuer ist in einem Wald.</statement>
+            <statement>Und dieses Feuer ist gefährlich.</statement>
+            <explanation_marker>
+               <statement>Deshalb hat die Feuerwehr 4 Orte in der Nähe von dem Feuer evakuiert.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Alle Menschen mussten diese 4 Orte verlassen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese 4 Orte waren nämlich <style_element type="hb">nicht</style_element> sicher vor dem Feuer.</statement> 
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt hat die Feuerwehr gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Feuer ist noch <style_element type="hb">nicht</style_element> gelöscht.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Aber das Feuer ist <style_element type="hb">nicht</style_element> mehr so groß.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb können die Menschen wieder in 2 von den 4 Orten zurück.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Der Wald·brand</subheadline>
+               <statement>Das Feuer in dem Wald brennt seit einigen Tagen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Das Feuer ist sehr groß.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>In Mecklenburg-Vorpommern war noch <style_element type="hb">nie</style_element> so ein großes Feuer.</statement> 
+                     </speech>
+                     <speech id="3">
+                        <statement>Und das Löschen von dem Feuer ist schwierig.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb dauert das Löschen von dem Feuer lange.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Das Löschen von dem Feuer ist gefährlich.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>In dem Wald war früher nämlich ein Übungs·platz für Soldaten.</statement>
+                     </speech>
+                     <speech id="3">
+                        <explanation_marker>
+                           <statement>Deshalb ist in dem Wald noch viel Munition.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Munition ist für eine Waffe.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Mit Munition laden zum Beispiel Soldaten ihre Waffen.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Dann können die Soldaten mit ihren Waffen schießen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="4">
+                        <statement>Die Munition explodiert bei dem Feuer immer wieder.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wie ist das Feuer entstanden?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei glaubt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Ein Brand·stifter hat das Feuer gemacht.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Brand·stifter sind Menschen.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Diese Menschen machen absichtlich Feuer.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <headword><style_element type="hi">Das heißt:</style_element></headword>
+                                    </explanation>
+                                    <explanation id="2">
+                                       <statement><style_element type="hi">Die Menschen zünden zum Beispiel ein Haus an.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Brand·stifter wollen zum Beispiel anderen Menschen Angst machen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

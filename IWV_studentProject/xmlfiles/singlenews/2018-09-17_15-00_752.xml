@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-25" url="2018-09-17_15-00_752.xml">
+   <title>Polizei kontrolliert Auto·fahrer</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-09-17_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-09-17_15-00_752-full.png" type="screenshot" url="2018-09-17_15-00_752-full.png"/>
+      <resource id="2" name="2018-09-17_15-00_752_plaintext.txt" type="plaintext" url="2018-09-17_15-00_752_plaintext.txt"/>
+      <resource id="3" name="2018-09-17_15-00_752_quellcode.txt" type="sourcecode" url="2018-09-17_15-00_752_quellcode.txt"/>
+      <resource id="4" name="2018-09-17_15-00_752.docx" type="formatedText" url="2018-09-17_15-00_752.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Polizei kontrolliert Auto·fahrer</headline>
+      <sections>
+         <section id="1">
+            <statement>Die Polizei in Schleswig-Holstein macht viele Kontrollen.</statement>
+            <statement>Bei diesen Kontrollen kontrolliert die Polizei Auto·fahrer.</statement>
+            <statement>Die Polizei will nämlich wissen:</statement>
+            <question>Benutzen die Auto·fahrer beim Auto·fahren ein Handy?</question>
+            <statement>Das Benutzen von einem Handy beim Auto·fahren ist sehr gefährlich.</statement>
+            <statement>Deshalb ist das Benutzen von einem Handy beim Auto·fahren verboten.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Handy·verbot für Auto·fahrer</subheadline>
+               <explanation_marker>
+                  <statement>Viele Auto·fahrer benutzen beim Auto·fahren ein Handy.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Diese Auto·fahrer lesen zum Beispiel auf dem Handy Nachrichten.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Oder diese Auto·fahrer schreiben auf dem Handy Nachrichten.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Oder diese Auto·fahrer telefonieren mit dem Handy in der Hand.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Aber Auto·fahrer dürfen beim Auto·fahren <style_element type="hb">kein</style_element> Handy benutzen.</statement>
+               <statement>Das Benutzen von einem Handy ist für Auto·fahrer nämlich meistens verboten.</statement>
+               <statement>Das Benutzen von einem Handy ist für Auto·fahrer aber <style_element type="hb">nicht</style_element> immer verboten.</statement>
+               <explanation_marker>
+                  <statement>Manche Auto·fahrer haben in ihrem Auto nämlich eine Freisprech·anlage.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Freisprech·anlage ist ein besonderes Gerät.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Mit einer Freisprech·anlage können Menschen telefonieren.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Eine Freisprech·anlage ist im Auto befestigt.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Deshalb haben Auto·fahrer beim Telefonieren beide Hände frei.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Im vergangenen Jahr haben wir auch schon viele Kontrollen gemacht.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Bei diesen Kontrollen haben 13.000 Auto·fahrer beim Auto·fahren ein Handy benutzt.</statement>
+                  </speech>
+                  <speech id="3">
+                     <question>Auto·fahrer benutzen bei der Auto·fahrt ein Handy?</question>
+                  </speech>
+                  <speech id="4">
+                     <statement>Dann sind diese Auto·fahrer oft abgelenkt.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Und dann können diese Auto·fahrer <style_element type="hb">nicht</style_element> mehr so schnell reagieren.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Deshalb können diese Auto·fahrer zum Beispiel <style_element type="hb">nicht</style_element> rechtzeitig bremsen.</statement>
+                  </speech>
+                  <speech id="7">
+                     <statement>Und deshalb machen diese Auto·fahrer viele Unfälle.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Strafen für Auto·fahrer</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In dieser Woche machen wir viele Kontrollen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Bei diesen Kontrollen wollen wir wissen:</statement>
+                     </speech>
+                     <speech id="3">
+                        <question>Benutzen die Auto·fahrer beim Auto·fahren ein Handy?</question>
+                     </speech>
+                     <speech id="4">
+                        <statement>Dann bekommen diese Auto·fahrer eine Strafe.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

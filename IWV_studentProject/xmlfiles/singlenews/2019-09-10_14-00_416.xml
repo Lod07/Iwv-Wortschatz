@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2019-09-10_14-00_416.xml">
+   <title>Manuela Schwesig ist krank</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-09-10_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-09-10_14-00_416-full.png" type="screenshot" url="2019-09-10_14-00_416-full.png"/>
+      <resource id="2" name="2019-09-10_14-00_416_plaintext.txt" type="plaintext" url="2019-09-10_14-00_416_plaintext.txt"/>
+      <resource id="3" name="2019-09-10_14-00_416_quellcode.txt" type="sourcecode" url="2019-09-10_14-00_416_quellcode.txt"/>
+      <resource id="4" name="2019-09-10_14-00_416.docx" type="formatedText" url="2019-09-10_14-00_416.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Manuela Schwesig ist krank</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Manuela Schwesig hat eine wichtige Entscheidung getroffen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Manuela Schwesig ist Chefin von der SPD in Deutschland.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">SPD ist die Abkürzung für <style_element type="hb">S</style_element>ozial·demokratische <style_element type="hb">P</style_element>artei <style_element type="hb">D</style_element>eutschlands.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Und Manuela Schwesig ist die Minister·präsidentin von Mecklenburg-Vorpommern.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">Eine Minister·präsidentin ist die Chefin von einem Bundesland.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Manuela Schwesig will <style_element type="hb">nicht</style_element> mehr Chefin von der SPD in Deutschland sein.</statement>
+            <statement>Manuela Schwesig ist nämlich krank.</statement>
+         </section>
+         <section id="2">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Manuela Schwesig hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Ich habe Brust·krebs.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Brust·krebs ist eine schlimme Krankheit.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb muss ich jetzt oft zum Arzt gehen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb habe ich jetzt wenig Zeit.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und deshalb kann ich nicht mehr Chefin von der SPD in Deutschland sein.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Manuela Schwesig bleibt Minister·präsidentin</subheadline>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Manuela Schwesig hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <speech_marker>
+                        <speech_intro>
+                           <headword>Ich glaube:</headword>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement> Ich bin bald wieder gesund.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb bleibe ich Minister·präsidentin von Mecklenburg-Vorpommern.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und ich bleibe Chefin von der SPD in Mecklenburg-Vorpommern.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <statement><style_element type="hb">Manuela Schwesig ist erst im Juni Chefin von der SPD in Deutschland geworden.</style_element></statement>
+            <statement><style_element type="hb">Dazu gibt es auch einen Text in Leichter Sprache.</style_element></statement>
+            <question><style_element type="hb">Sie wollen diesen Text lesen?</style_element></question>
+            <question><style_element type="hb">Oder hören?</style_element></question>
+            <statement>
+               <ref>
+                  <style_element type="hb">Dann klicken Sie hier.</style_element>
+               </ref>
+            </statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

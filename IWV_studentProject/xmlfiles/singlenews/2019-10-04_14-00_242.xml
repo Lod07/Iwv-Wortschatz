@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-30" url="2019-10-04_14-00_242.xml">
+   <title>Hamburg: 2 Verletzte bei Feuer</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-04_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-10-04_14-00_242-full.png" type="screenshot" url="2019-10-04_14-00_242-full.png"/>
+      <resource id="2" name="2019-10-04_14-00_242_plaintext.txt" type="plaintext" url="2019-10-04_14-00_242_plaintext.txt"/>
+      <resource id="3" name="2019-10-04_14-00_242_quellcode.txt" type="sourcecode" url="2019-10-04_14-00_242_quellcode.txt"/>
+      <resource id="4" name="2019-10-04_14-00_242.docx" type="formatedText" url="2019-10-04_14-00_242.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Hamburg: 2 Verletzte bei Feuer</headline>
+      <sections>
+         <section id="1">
+            <statement>In Hamburg war ein großes Feuer.</statement>
+            <statement>Dieses Feuer war im Keller von einem Hoch·haus.</statement>
+            <explanation_marker>
+               <statement>Das Hoch·haus ist in Mümmelmannsberg.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Mümmelmannsberg ist im Stadt·teil Billstedt.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In Mümmelmannsberg sind sehr viele Hoch·häuser.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Feuer wurden 2 Menschen verletzt.</statement>
+            <statement>Bei dem Feuer war nämlich sehr viel giftiger Rauch.</statement>
+            <statement>Diesen giftigen Rauch haben die 2 Menschen eingeatmet.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Feuerwehr rettet Menschen</subheadline>
+            <statement>Die Feuerwehr hat 10 Menschen aus dem Hoch·haus gerettet.</statement>
+            <statement>Dann hat die Feuerwehr das Feuer gelöscht.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Feuerwehr hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Bei dem Feuer war sehr viel giftiger Rauch.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dieser giftige Rauch war im Keller.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und im Treppenhaus.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb konnte <style_element type="hb">kein</style_element> Mensch durch das Treppen·haus nach draußen laufen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Dann hat die Feuerwehr besondere Masken an einige von den Menschen verteilt.</statement>
+            <explanation_marker>
+               <statement>Diese Masken heißen Flucht·hauben.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Flucht·hauben schützen Menschen vor giftigem Rauch.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Oder vor giftigem Gas.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Menschen haben die Masken aufgesetzt.</statement>
+            <statement>Dann konnten diese Menschen durch das Treppen·haus nach draußen laufen.</statement>
+            <statement>Andere Menschen hat die Feuerwehr mit Leitern gerettet.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Polizei ermittelt</subheadline>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Einige von den Menschen im Hoch·haus glauben:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Feuer war <style_element type="hb">kein</style_element> Unfall.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Wahrscheinlich hat ein Mensch das Feuer mit Absicht gemacht.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>In dem Hoch·haus waren nämlich schon andere Feuer.</statement>
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen.</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum war das Feuer im Hoch·haus?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

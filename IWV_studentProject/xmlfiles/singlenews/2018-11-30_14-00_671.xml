@@ -1,0 +1,202 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-25" url="2018-11-30_14-00_671.xml">
+   <title>Mann muss ins Gefängnis</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-11-30_14-00</vdate>
+   <resources>
+      <resource id="1" name="2018-11-30_14-00_671-full.png" type="screenshot" url="2018-11-30_14-00_671-full.png"/>
+      <resource id="2" name="2018-11-30_14-00_671_plaintext.txt" type="plaintext" url="2018-11-30_14-00_671_plaintext.txt"/>
+      <resource id="3" name="2018-11-30_14-00_671_quellcode.txt" type="sourcecode" url="2018-11-30_14-00_671_quellcode.txt"/>
+      <resource id="4" name="2018-11-30_14-00_671.docx" type="formatedText" url="2018-11-30_14-00_671.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mann muss ins Gefängnis</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Hamburg war ein Prozess.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Bei einem Prozess entscheidet das Gericht:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question><style_element type="hi">• Hat ein Mensch etwas Verbotenes getan?</style_element></question>
+                           </speech>
+                           <speech id="2">
+                              <statement><style_element type="hi">Dann bekommt dieser Mensch eine Strafe.</style_element></statement>
+                           </speech>
+                           <speech id="3">
+                              <question><style_element type="hi">• Oder hat ein Mensch <style_element type="hb">nichts</style_element> Verbotenes getan?</style_element></question>
+                           </speech>
+                           <speech id="4">
+                              <statement><style_element type="hi">Dann bekommt dieser Mensch <style_element type="hb">keine</style_element> Strafe.</style_element></statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Prozess hat das Gericht einen Mann verurteilt.</statement>
+            <statement>Dieser Mann ist 20 Jahre alt.</statement>
+            <explanation_marker>
+               <statement>Und dieser Mann ist aus Syrien.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Syrien ist ein Land in Asien.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Gericht hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Mann wollte eine Bombe bauen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Mit der Bombe wollte der Mann viele Menschen töten.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Jetzt muss der Mann für 6 Jahre und 6 Monate ins Gefängnis.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+            <statement>In Syrien ist Krieg.</statement>
+            <statement>Deshalb hat der Mann Syrien verlassen.</statement>
+            <statement>Und der Mann ist nach Deutschland gekommen.</statement>
+            <explanation_marker>
+               <statement>In Deutschland hat der Mann in einer Unterkunft für Flüchtlinge gewohnt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Flüchtlinge sind Menschen aus anderen Ländern.</style_element></statement>
+                  </explanation>
+                  <explanation id="2"> 
+                     <statement><style_element type="hi">Den Flüchtlingen geht es in ihren eigenen Ländern <style_element type="hb">nicht</style_element> gut.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">In vielen von diesen Ländern ist nämlich Krieg.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Deshalb verlassen die Flüchtlinge diese Länder.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Unterkunft für Flüchtlinge war in Schwerin.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Schwerin ist die Haupt·stadt von Mecklenburg-Vorpommern.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="3">
+            <statement>2017 hat die Polizei den Mann fest·genommen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir haben Hinweise bekommen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Diese Hinweise haben gezeigt:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <explanation_marker>
+                                 <statement>Der Mann findet den IS gut.</statement>
+                                 <explanations>
+                                    <explanation id="1"> 
+                                       <statement><style_element type="hi">IS ist die Abkürzung für <style_element type="hb">I</style_element>slamischer <style_element type="hb">S</style_element>taat.</style_element></statement>
+                                    </explanation>
+                                    <explanation id="2">
+                                       <statement><style_element type="hi">Den IS gibt es zum Beispiel in Syrien.</style_element></statement>
+                                    </explanation>
+                                    <explanation id="3">
+                                       <explanation_marker>
+                                          <statement><style_element type="hi">Und der IS ist eine Terror·gruppe.</style_element></statement>
+                                          <explanations>
+                                             <explanation id="1">
+                                                <explanation_marker>
+                                                   <statement><style_element type="hi">In einer Terror·gruppe sind Terroristen.</style_element></statement>
+                                                   <explanations>
+                                                      <explanation id="1">
+                                                         <statement><style_element type="hi">Terroristen wollen allen Menschen Angst machen.</style_element></statement>
+                                                      </explanation>
+                                                      <explanation id="2">
+                                                         <statement><style_element type="hi">Deshalb machen die Terroristen Anschläge.</style_element></statement>
+                                                      </explanation>
+                                                      <explanation id="3">
+                                                         <statement><style_element type="hi">Zum Beispiel mit Bomben.</style_element></statement>
+                                                      </explanation>
+                                                      <explanation id="4">
+                                                         <statement><style_element type="hi">Terroristen haben schon viele Menschen getötet.</style_element></statement>
+                                                      </explanation>
+                                                   </explanations>
+                                                </explanation_marker>
+                                             </explanation>
+                                          </explanations>
+                                       </explanation_marker>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </speech>
+                           <speech id="2">
+                              <statement>Und der Mann wollte eine Bombe bauen.</statement>
+                           </speech>
+                           <speech id="3">
+                              <statement>Mit der Bombe wollte der Mann viele Menschen töten.</statement>
+                           </speech>
+                           <speech id="4">
+                              <statement>Deshalb haben wir den Mann fest·genommen.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Der Prozess</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>In dem Prozess hat der Mann gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ich wollte <style_element type="hb">keine</style_element> Bombe bauen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und ich wollte <style_element type="hb">keine</style_element> Menschen töten.</statement>
+                     </speech>
+                  </speeches> 
+               </speech_marker>
+               <statement>Aber das Gericht hat dem Mann <style_element type="hb">nicht</style_element> geglaubt.</statement>
+               <statement>Das Gericht hat nämlich den Hinweisen von der Polizei geglaubt.</statement>
+               <statement>Deshalb muss der Mann jetzt lange ins Gefängnis.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

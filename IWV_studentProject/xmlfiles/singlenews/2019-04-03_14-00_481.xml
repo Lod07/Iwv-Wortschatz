@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-20" url="2019-04-03_14-00_481.xml">
+   <title>Flensburg: Polizei nimmt Schüler fest</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-04-03_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-04-03_14-00_481-full.png" type="screenshot" url="2019-04-03_14-00_481-full.png"/>
+      <resource id="2" name="2019-04-03_14-00_481_plaintext.txt" type="plaintext" url="2019-04-03_14-00_481_plaintext.txt"/>
+      <resource id="3" name="2019-04-03_14-00_481_quellcode.txt" type="sourcecode" url="2019-04-03_14-00_481_quellcode.txt"/>
+      <resource id="4" name="2019-04-03_14-00_481.docx" type="formatedText" url="2019-04-03_14-00_481.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Flensburg: Polizei nimmt Schüler fest</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Flensburg hat die Polizei einen Schüler festgenommen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">In Flensburg hat die Polizei einen Schüler festgenommen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei glaubt nämlich:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Schüler wollte mehrere Menschen an seiner Schule töten.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Und die Polizei hat mehrere Messer bei dem Schüler gefunden.</statement>
+            <statement>Der Schüler ist 17 Jahre alt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Polizei bekommt Hinweis</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir haben einen Hinweis bekommen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <explanation_marker>
+                           <statement>Dieser Hinweis war aus einem Chat.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Ein Chat ist eine Unterhaltung im Internet.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Bei einem Chat schreiben sich Menschen zum Beispiel Nachrichten im Internet.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Chat ist englisch.</style_element></statement>
+                              </explanation>
+                              <explanation id="4">
+                                 <statement><style_element type="hi">Und Chat heißt: Unterhaltung.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="3">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>In diesem Chat hat ein Mensch gedroht:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Am Mittwoch töte ich mehrere Menschen an meiner Schule.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb hat ein anderer Mensch aus diesem Chat die Polizei informiert.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir haben den Hinweis sehr ernst genommen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb haben wir am Mittwoch alle Menschen an den Eingängen von der Schule kontrolliert.</statement>
+                     </speech>
+                     <speech id="3">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Wir wollten nämlich zum Beispiel wissen:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question>Hat ein Mensch eine Waffe?</question>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="4">
+                        <statement>Bei dieser Kontrolle haben wir den Schüler festgenommen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Der Schüler hatte nämlich mehrere Messer.</statement>
+                     </speech>
+                     <speech id="6">
+                        <speech_marker>
+                           <speech_intro>
+                              <headword>Wir glauben:</headword>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Der Schüler hat die Drohung in dem Chat gemacht.</statement>
+                              </speech>
+                              <speech id="2">
+                                 <statement>Und der Schüler wollte mehrere Menschen töten.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

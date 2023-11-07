@@ -1,0 +1,245 @@
+<?xml version="1.0" ?>
+<annotation adate="" url="2020-08-20_14-00_54.xml">
+   <title>Waffen dürfen nicht im Boden bleiben</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-12-03_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-12-03_14-00_54-full.png" type="screenshot" url="2019-12-03_14-00_54-full.png"/>
+      <resource id="2" name="2019-12-03_14-00_54_plaintext.txt" type="plaintext" url="2019-12-03_14-00_54_plaintext.txt"/>
+      <resource id="3" name="2019-12-03_14-00_54_quellcode.txt" type="sourcecode" url="2019-12-03_14-00_54_quellcode.txt"/>
+      <resource id="4" name="2019-12-03_14-00_54.docx" type="formatedText" url="2019-12-03_14-00_54.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>
+         Waffen dürfen nicht im Boden bleiben
+      </headline>
+      <sections>
+         <section id="1">
+            <statement>
+               In Niedersachsen untersuchen Fach·leute ein besonderes Gebiet.
+            </statement>
+            <explanation_marker>
+               <statement>
+                  Dieses Gebiet ist in der Nähe von Munster.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Munster ist eine kleine Stadt in Niedersachsen.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">
+                           Und Munster ist zwischen Hamburg und Hannover.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und dieses Gebiet heißt Dethlinger Teich.</statement>
+            <statement>Der Dethlinger Teich war früher 60 Meter breit.</statement>
+            <statement>Und im Dethlinger Teich war früher Wasser.</statement>
+            <statement>Aber jetzt ist im Dethlinger Teich <style_element type="hb">kein</style_element> Wasser mehr.</statement>
+            <statement>Nach dem Zweiten Weltkrieg haben nämlich Menschen viele Waffen in den Teich geworfen.</statement>
+            <statement>Zum Beispiel Granaten.</statement>
+            <statement>Später haben Menschen den Teich zugeschüttet.</statement>
+            <statement>Die Menschen hatten Angst vor den Waffen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Die Menschen wussten nämlich:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        In den Waffen sind sehr giftige Stoffe.
+                     </statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>
+                        Zum Beispiel giftige Gase.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Jetzt haben Politiker gesagt:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        Diese giftigen Stoffe sind sehr gefährlich für die Umwelt.
+                     </statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>
+                        Und diese giftigen Stoffe sind sehr gefährlich für den Menschen.
+                     </statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>
+                        Deshalb dürfen diese giftigen Stoffe <style_element type="hb">nicht</style_element> im Boden bleiben.
+                     </statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>
+                        Und deshalb müssen Fach·leute die giftigen Stoffe aus dem Boden holen.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>
+               Was ist passiert?
+            </subheadline>
+            <explanation_marker>
+               <statement>
+                  Nach dem Zweiten Weltkrieg waren in Deutschland sehr viele Waffen.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword>
+                              <style_element type="hi">
+                                 Zum Beispiel:
+                              </style_element>
+                           </headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword>
+                                 <style_element type="hi">
+                                    Bomben.
+                                 </style_element>
+                              </headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword>
+                                 <style_element type="hi">
+                                    Oder Granaten.
+                                 </style_element>
+                              </headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>
+               Viele Waffen haben die Menschen nach dem Krieg <style_element type="hb">nicht</style_element> zerstört.
+            </statement>
+            <statement>
+               Diese Waffen haben die Menschen zum Beispiel einfach ins Wasser geworfen.
+            </statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>
+                     Zum Beispiel:
+                  </headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>
+                        In die Nordsee.
+                     </headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>
+                        In die Ostsee.
+                     </headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <headword>
+                        Oder in Seen.
+                     </headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="3">
+            <subheadline>
+               Forscher finden Tausende Granaten
+            </subheadline>
+            <statement>
+               Im September haben Fach·leute mit der Untersuchung von dem Dethlinger Teich begonnen.
+            </statement>
+            <statement>
+               Deshalb haben die Fach·leute ein großes Loch gebohrt.
+            </statement>
+            <statement>
+               In diesem Loch haben die Fach·leute Tausende giftige Granaten gefunden.
+            </statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Die Fach·leute haben gesagt:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <headword>
+                        Wir wussten:
+                     </headword>
+                  </speech>
+                  <speech id="2">
+                     <statement>
+                        Im Boden vom Dethlinger Teich sind viele Granaten.
+                     </statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>
+                        Aber so viele Granaten haben wir <style_element type="hb">nicht</style_element> erwartet.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Jetzt haben Politiker gesagt:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        Fach·leute müssen alle Granaten aus dem Boden holen.
+                     </statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>
+                        Und der vergiftete Boden muss ausgetauscht werden.
+                     </statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>
+                        Die Sanierung kostet 50 Millionen Euro.
+                     </statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>
+                        Und die Sanierung dauert mehrere Jahre.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

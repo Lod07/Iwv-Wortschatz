@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2019-09-06_14-00_272.xml">
+   <title>Mord auf Usedom: 2 Männer verurteilt</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-09-06_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-09-06_14-00_272-full.png" type="screenshot" url="2019-09-06_14-00_272-full.png"/>
+      <resource id="2" name="2019-09-06_14-00_272_plaintext.txt" type="plaintext" url="2019-09-06_14-00_272_plaintext.txt"/>
+      <resource id="3" name="2019-09-06_14-00_272_quellcode.txt" type="sourcecode" url="2019-09-06_14-00_272_quellcode.txt"/>
+      <resource id="4" name="2019-09-06_14-00_272.docx" type="formatedText" url="2019-09-06_14-00_272.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mord auf Usedom: 2 Männer verurteilt</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Ein Gericht in Stralsund hat 2 Männer verurteilt.</statement>	
+               <explanations>				
+                  <explanation id="1">		
+                     <statement>
+                        <style_element type="hi">Stralsund ist eine Stadt in Mecklenburg-Vorpommern.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese 2 Männer haben nämlich eine junge Frau getötet.</statement>
+            <explanation_marker>
+               <statement>Jetzt muss der eine Mann lebenslang ins Gefängnis.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Das heißt:</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Der Mann muss für mindestens 15 Jahre ins Gefängnis.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und der andere Mann muss in eine Psychiatrie.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Psychiatrie ist ein besonderes Kranken·haus.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In diesem Kranken·haus sind zum Beispiel Menschen mit einer kranken Seele.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Deshalb brauchen diese Menschen Hilfe.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Für gefährliche Menschen gibt es eine geschlossene Psychiatrie.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">In einer geschlossenen Psychiatrie sind die Menschen eingesperrt.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+            <statement>Der eine Mann ist 19 Jahre alt.</statement>
+            <statement>Und der andere Mann ist 21 Jahre alt.</statement>
+            <statement>Die 2 Männer haben im März eine Frau getötet.</statement>
+            <statement>Diese Frau hieß Maria.</statement>
+            <statement>Diese Frau war 18 Jahre alt.</statement>
+            <explanation_marker>
+               <statement>Und diese Frau hat in Zinnowitz gelebt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Zinnowitz ist ein Ort auf Usedom.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Usedom ist eine Insel in der Ostsee.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Frau war eine Bekannte von den 2 Männern.</statement>
+            <statement>Die 2 Männer sind zu der Wohnung von der Frau gefahren.</statement>
+            <statement>Dann haben die 2 Männer die Frau überfallen.</statement>
+            <statement>Und dann hat einer von den 2 Männern die Frau mit 35 Messer·stichen getötet.</statement>
+            <statement>Im April hat die Polizei die 2 Männer fest·genommen.</statement>
+            <statement>Und im Mai hat einer von den 2 Männern die Tat zugegeben.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Das Urteil</subheadline>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Gericht hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die 2 Männer sind sehr gefährlich.</statement>
+                  </speech>
+                  <speech id="2">
+                     <explanation_marker>
+                        <statement>Die 2 Männer haben die Frau aus Mord·lust getötet.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Die 2 Männer hatten Lust zum Töten.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="3">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Und die 2 Männer haben die Frau mit Heim·tücke getötet.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi"> Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Die Frau wusste zum Beispiel <style_element type="hb">nicht</style_element>:</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <question><style_element type="hi">Was wollen die Männer von mir?</style_element></question>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Und die Frau konnte sich <style_element type="hb">nicht</style_element> wehren.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="4">
+                     <statement><style_element type="hi">Deshalb müssen die 2 Männer lange ins Gefängnis.</style_element></statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

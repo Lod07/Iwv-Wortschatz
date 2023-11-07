@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2019-10-15_13-30_219.xml">
+   <title>Mehr Nachrichten vom 15.10.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-15_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-10-15_13-30_219-full.png" type="screenshot" url="2019-10-15_13-30_219-full.png"/>
+      <resource id="2" name="2019-10-15_13-30_219_plaintext.txt" type="plaintext" url="2019-10-15_13-30_219_plaintext.txt"/>
+      <resource id="3" name="2019-10-15_13-30_219_quellcode.txt" type="sourcecode" url="2019-10-15_13-30_219_quellcode.txt"/>
+      <resource id="4" name="2019-10-15_13-30_219.docx" type="formatedText" url="2019-10-15_13-30_219.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 15.10.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Nord·deutschland: Fischer dürfen weniger Fische fangen</subheadline>
+            <statement>Viele Fischer in Nord·deutschland machen sich Sorgen.</statement>
+            <statement>Diese Fischer fischen in der Ostsee.</statement>
+            <statement>Und diese Fischer dürfen im nächsten Jahr <style_element type="hb">nicht</style_element> mehr so viele Fische fangen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben nämlich gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Von einigen Fisch·arten sind nur noch wenige Fische in der Ostsee.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb müssen wir diese Fisch·arten schützen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <explanation_marker>
+                        <statement>Und deshalb gibt es für diese Fisch·arten eine Fang·quote.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Eine Fang·quote ist eine Vorschrift.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="2">
+                              <explanation_marker>
+                                 <statement>
+                                    <style_element type="hi"> In dieser Vorschrift steht:</style_element>
+                                 </statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement>
+                                          <style_element type="hi">So viele Fische von einer bestimmten Fisch·art dürfen die Fischer fangen.</style_element>
+                                       </statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>                    
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jedes Jahr sagen die Fach·leute:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Diese Fang·quote gibt es.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt haben die Fach·leute entschieden:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Von 2 Fisch·arten dürfen die Fischer <style_element type="hb">nicht</style_element> mehr so viele Fische fangen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement>Diese 2 Fisch·arten sind:</statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword>• Hering.</headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword>• Und Dorsch.</headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>                  
+                  </speech>
+               </speeches>
+            </speech_marker>
+           <statement>Deshalb können die Fischer im nächsten Jahr <style_element type="hb">nicht</style_element> mehr so viele Fische verkaufen.</statement> 
+           <statement>Und deshalb verdienen die Fischer im nächsten Jahr wahrscheinlich <style_element type="hb">weniger</style_element> Geld.</statement>
+         </section>
+         <style_element type="line"/>
+         <section id="2">
+            <subheadline>Niedersachsen: Autobahn gesperrt</subheadline>
+            <explanation_marker>
+               <statement>Auf der A7 sind ab Mittwoch Arbeiten.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">A7 ist die Abkürzung für <style_element type="hb">A</style_element>utobahn <style_element type="hb">7</style_element>.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Bei diesen Arbeiten machen Arbeiter Markierungen auf die A7.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>
+                        <style_element type="hi"> Das heißt:</style_element>
+                     </headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Die Arbeiter malen zum Beispiel Pfeile auf die Fahr·spuren.</style_element> 
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi"> Diese Pfeile zeigen zum Beispiel:</style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">In diese Richtung müssen die Auto·fahrer fahren.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>                    
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Diese Arbeiten sind auf der Strecke zwischen Nörten-Hardenberg und Northeim.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Nörten-Hardenberg und Northeim sind Städte in der Nähe von Göttingen.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Deshalb ist die A7 auf dieser Strecke ab Mittwoch·abend gesperrt.</statement>
+            <statement>Die Sperrung ist bis Donnerstag·morgen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Arbeiter haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die A7 hat auf dieser Strecke nur 4 Fahr·spuren.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Aber wir machen die A7 größer.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Die A7 bekommt nämlich 6 Fahr·spuren.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb sind viele Arbeiten an der A7.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Diese Arbeiten sind wahrscheinlich bis Ende 2021.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>                       
+         </section>
+         <style_element type="line"/>
+      </sections>
+   </content>
+</annotation>

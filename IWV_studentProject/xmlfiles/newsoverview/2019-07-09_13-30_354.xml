@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-05" url="2019-07-09_13-30_354.xml">
+   <title>Mehr Nachrichten vom 09.07.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-07-09_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-07-09_13-30_354-full.png" type="screenshot" url="2019-07-09_13-30_354-full.png"/>
+      <resource id="2" name="2019-07-09_13-30_354_plaintext.txt" type="plaintext" url="2019-07-09_13-30_354_plaintext.txt"/>
+      <resource id="3" name="2019-07-09_13-30_354_quellcode.txt" type="sourcecode" url="2019-07-09_13-30_354_quellcode.txt"/>
+      <resource id="4" name="2019-07-09_13-30_354.docx" type="formatedText" url="2019-07-09_13-30_354.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 09.07.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Mecklenburg-Vorpommern: Feuer kein Katastrophen·fall mehr</subheadline>
+            <statement>In Lübtheen ist ein Feuer.</statement>
+            <statement>Das Feuer ist in einem Wald.</statement>
+            <explanation_marker>
+               <statement>Und das Feuer war ein Katastrophen·fall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bei einem Kastastrophen·fall sind meistens viele Menschen in Gefahr.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement><style_element type="hi">Ein Katastrophen·fall ist zum Beispiel:</style_element></statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword><style_element type="hi">• Ein Erdbeben.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <statement><style_element type="hi">• Oder eine Überschwemmung.</style_element></statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Das Feuer war nämlich sehr groß.</statement>
+            <statement>Und das Feuer war sehr gefährlich.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt haben Fach·leute gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Feuer ist <style_element type="hb">nicht</style_element> mehr so groß.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und das Feuer ist <style_element type="hb">nicht</style_element> mehr gefährlich.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Deshalb ist das Feuer <style_element type="hb">kein</style_element> Katastrophen·fall mehr.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Fach·leute haben aber auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Feuer ist noch <style_element type="hb">nicht</style_element> ganz gelöscht.</statement>
+                  </speech>
+                  <speech id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Wir wissen <style_element type="hb">nicht</style_element>:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Wann ist das Feuer ganz gelöscht?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <statement>Zu dem Feuer gibt es noch einen Text in Leichter Sprache.</statement>
+            <question>Sie wollen diesen Text lesen?</question>
+            <headword>Oder hören?</headword>
+            <statement>
+               <ref><style_element type="hu">Dann klicken Sie hier.</style_element></ref>
+            </statement>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Hamburg: Schäden an 130 Autos</subheadline>
+            <statement>In Hamburg haben Unbekannte Schäden an 130 Autos gemacht.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Unbekannten haben zum Beispiel die Reifen von den Autos kaputtgemacht.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und die Unbekannten haben zum Beispiel Kratzer an die Autos gemacht.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Autos waren in der Nähe vom Flughafen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die meisten von den Autos waren im Stadt·teil Groß Borstel.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und die meisten von den Autos waren aus einer anderen Stadt.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement> Oder aus einem anderen Land.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Jetzt sucht die Polizei die Unbekannten.</statement>
+            <explanation_marker>
+               <statement>Und die Polizei sucht Zeugen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Zeugen gibt es zum Beispiel bei einer Straf·tat.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Zeugen haben die Straf·tat vielleicht gesehen.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Deshalb können die Zeugen vielleicht Hinweise zu der Straf·tat geben.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

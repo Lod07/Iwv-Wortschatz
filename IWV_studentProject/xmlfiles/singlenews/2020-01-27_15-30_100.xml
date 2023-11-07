@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-05" url="2020-01-27_15-30_100.xml">
+   <title>Demonstration mit Treckern</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-01-27_15-30</vdate>
+   <resources>
+      <resource id="1" name="2020-01-27_15-30_100-full.png" type="screenshot" url="2020-01-27_15-30_100-full.png"/>
+      <resource id="2" name="2020-01-27_15-30_100_plaintext.txt" type="plaintext" url="2020-01-27_15-30_100_plaintext.txt"/>
+      <resource id="3" name="2020-01-27_15-30_100_quellcode.txt" type="sourcecode" url="2020-01-27_15-30_100_quellcode.txt"/>
+      <resource id="4" name="2020-01-27_15-30_100.docx" type="formatedText" url="2020-01-27_15-30_100.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Demonstration mit Treckern</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Niedersachsen war eine Demonstration.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bei einer Demonstration treffen sich viele Menschen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Menschen sind mit etwas <style_element type="hb">nicht</style_element> einverstanden.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und diese Menschen sagen laut ihre Meinung.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Diese Demonstration war in Wiefelstede.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Wiefelstede ist ein Ort in der Nähe von Oldenburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und diese Demonstration war von Bauern.</statement>
+            <statement>Die Bauern haben sich mit ihren Treckern vor ein großes Lager gestellt.  </statement>
+            <explanation_marker>
+               <statement>Dieses große Lager ist von Edeka.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Edeka ist eine große Firma.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Edeka hat viele Supermärkte.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <statement>Die Demonstration war in der Nacht.</statement>
+            <statement>Und die Demonstration war 6 Stunden lang.</statement>
+            <statement>Bei der Demonstration waren 250 Bauern.</statement>
+            <statement>Diese Bauern ärgern sich über Edeka.</statement>
+            <statement>Edeka hat nämlich eine neue Werbung gemacht.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>In dieser Werbung sagt Edeka:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Essen soll einen sehr niedrigen Preis haben.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Aber die Bauern sagen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Essen ist sehr wichtig für alle Menschen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Das müssen die Menschen wissen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb darf Essen <style_element type="hb">keinen</style_element> sehr niedrigen Preis haben.</statement>
+                  </speech>
+                  <speech id="4">
+                     <question>Essen hat einen sehr niedrigen Preis?</question>
+                  </speech>
+                  <speech id="5">
+                     <statement>Dann verdienen wir auch zu wenig Geld.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Deshalb haben die Bauern vor dem Lager von Edeka demonstriert.</statement>
+            <statement>Die Bauern haben sich mit ihren Treckern vor das Lager gestellt.</statement>
+            <statement>Deshalb konnte <style_element type="hb">kein</style_element> Lkw zu dem Lager fahren.</statement>
+            <statement>Und <style_element type="hb">kein</style_element> Lkw konnte von dem Lager wegfahren.</statement>
+            <statement>Und deshalb konnten die Lkw <style_element type="hb">nichts</style_element> an die Supermärkte liefern.</statement>
+         </section>      
+      </sections>
+   </content>
+</annotation>

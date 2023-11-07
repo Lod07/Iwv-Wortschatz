@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-06-26_14-00_377.xml">
+   <title>S-Bahn-Strecken in Hamburg gesperrt</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-06-26_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-06-26_14-00_377-full.png" type="screenshot" url="2019-06-26_14-00_377-full.png"/>
+      <resource id="2" name="2019-06-26_14-00_377_plaintext.txt" type="plaintext" url="2019-06-26_14-00_377_plaintext.txt"/>
+      <resource id="3" name="2019-06-26_14-00_377_quellcode.txt" type="sourcecode" url="2019-06-26_14-00_377_quellcode.txt"/>
+      <resource id="4" name="2019-06-26_14-00_377.docx" type="formatedText" url="2019-06-26_14-00_377.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>S-Bahn-Strecken in Hamburg gesperrt</headline>
+      <sections>
+         <section id="1">
+            <statement>In Hamburg ist bald eine große Baustelle.</statement>
+            <explanation_marker>
+               <statement>Diese Baustelle ist in der Nähe vom Bahnhof Altona.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Altona ist ein Stadt·teil von Hamburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Wegen dieser Baustelle sind 3 S-Bahn-Strecken gesperrt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Auf diesen Strecken dürfen <style_element type="hb">keine</style_element> S-Bahnen fahren.</style_element></statement> 
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der Chef von den S-Bahnen hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Bauarbeiten sind am Lessing·tunnel.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Durch den Lessing·tunnel fahren zum Beispiel Autos.</statement> 
+                  </speech>
+                  <speech id="3">
+                     <statement>Und über den Lessing·tunnel fahren viele S-Bahnen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Wegen der Bauarbeiten dürfen <style_element type="hb">keine</style_element> Autos durch den Lessing·tunnel fahren.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Und es dürfen <style_element type="hb">keine</style_element> S-Bahnen über den Lessing·tunnel fahren.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Sperrung dauert 6 Wochen</subheadline>
+               <statement>Die Bauarbeiten sind ab Donnerstag.</statement>
+               <statement>Und die Bauarbeiten dauern 6 Wochen.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>In diesen 6 Wochen fahren auf 3 Strecken <style_element type="hb">keine</style_element> S-Bahnen:</statement> 
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <statement>• Zwischen Altona und Othmarschen.</statement>
+                     </enumeration>
+                     <enumeration id="2">
+                        <statement>• Zwischen Altona und Diebsteich.</statement>
+                     </enumeration>
+                     <enumeration id="3">
+                        <statement>• Und zwischen Altona und Holstenstraße.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der Chef von den S-Bahnen hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Auf diesen 3 Strecken fahren jeden Tag 50.000 Menschen S-Bahn.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Ab Donnerstag können diese Menschen <style_element type="hb">nicht</style_element> mehr S-Bahn fahren.</statement> 
+                  </speech>
+                  <speech id="3">
+                     <statement>Aber diese Menschen können zum Beispiel Bus fahren.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Diese Menschen müssen beachten:</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Die Fahrt mit dem Bus dauert viel länger.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

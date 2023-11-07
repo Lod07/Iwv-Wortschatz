@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-23" url="2018-08-02_15-00_757.xml">
+   <title>Baden in vielen Seen verboten</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-08-02_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-08-02_15-00_757-full.png" type="screenshot" url="2018-08-02_15-00_757-full.png"/>
+      <resource id="2" name="2018-08-02_15-00_757_plaintext.txt" type="plaintext" url="2018-08-02_15-00_757_plaintext.txt"/>
+      <resource id="3" name="2018-08-02_15-00_757_quellcode.txt" type="sourcecode" url="2018-08-02_15-00_757_quellcode.txt"/>
+      <resource id="4" name="2018-08-02_15-00_757.docx" type="formatedText" url="2018-08-02_15-00_757.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Baden in vielen Seen verboten</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In vielen Seen in Niedersachsen ist das Baden verboten.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In diesen Seen dürfen <style_element type="hb">keine</style_element> Menschen baden.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>In diesen Seen sind nämlich viele Blau·algen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Blau·algen sind Bakterien.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Bakterien sind sehr kleine Lebewesen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Bakterien sind im Wasser.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und diese Bakterien sind für Menschen gefährlich.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Diese Bakterien machen Menschen nämlich krank.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese Seen sind zum Beispiel:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <statement>• Der Seeburger See.</statement>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Der Dümmer.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <statement>• Und die Thülsfelder Tal·sperre.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="2">
+            <subheadline>Viele Blau·algen durch Hitze</subheadline>
+               <statement>In Nord·deutschland ist es sehr heiß.</statement>
+               <statement>Und in Nord·deutschland ist es sehr trocken.</statement>
+               <statement>In Nord·deutschland hat es nämlich wenig geregnet.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fachleute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Bei diesem Wetter können im Wasser Blau·algen entstehen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Blau·algen sind giftig.</statement>
+                     </speech>
+                     <speech id="3">
+                        <question>Menschen schlucken beim Baden Blau·algen?</question>
+                     </speech>
+                     <speech id="4">
+                        <statement>Dann können diese Menschen krank werden.</statement>
+                     </speech>
+                     <speech id="5">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <statement>Diese Menschen bekommen zum Beispiel:</statement>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <headword>• Durchfall.</headword>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <headword>• Oder Erbrechen.</headword>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </speech>
+                     <speech id="6">
+                        <statement>Besonders gefährlich sind Blau·algen für Kinder.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Viele Bade·stellen gesperrt</subheadline>
+               <statement>Fach·leute haben Seen in Niedersachsen untersucht.</statement>
+               <statement>Die Fachleute wollten zum Beispiel wissen:</statement>
+               <question>Ist das Wasser von den Seen sauber?</question>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Jetzt haben die Fach·leute gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Im Wasser von vielen Seen sind Blau·algen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb ist das Baden in diesen Seen verboten.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Die Blau·algen sind auch für Tiere gefährlich.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb sollen auch <style_element type="hb">keine</style_element> Tiere in den Seen baden.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Im letzten Jahr sind nämlich mehrere Hunde durch Blau·algen gestorben.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

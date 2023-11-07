@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-30" url="2018-03-28_15-00_885.xml">
+   <title>Neuer Bürger·meister in Hamburg</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-03-28_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-03-28_15-00_885-full.png" type="screenshot" url="2018-03-28_15-00_885-full.png"/>
+      <resource id="2" name="2018-03-28_15-00_885_plaintext.txt" type="plaintext" url="2018-03-28_15-00_885_plaintext.txt"/>
+      <resource id="3" name="2018-03-28_15-00_885_quellcode.txt" type="sourcecode" url="2018-03-28_15-00_885_quellcode.txt"/>
+      <resource id="4" name="2018-03-28_15-00_885.docx" type="formatedText" url="2018-03-28_15-00_885.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Neuer Bürger·meister in Hamburg</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Hamburg hat einen neuen Bürger·meister.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Bürger·meister ist der Chef von einer Stadt.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser neue Bürger·meister heißt Peter Tschentscher.</statement>
+            <explanation_marker>
+               <statement>Peter Tschentscher ist von der SPD.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">SPD ist die Abkürzung für Sozial·demokratische Partei Deutschlands.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und Peter Tschentscher war vorher der Finanz·senator von Hamburg.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Ein Finanz·senator kümmert sich um die Finanzen von einer Stadt.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Finanzen ist ein anderes Wort für Geld.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Olaf Scholz arbeitet jetzt in Berlin</subheadline>
+               <statement>Der alte Bürger·meister war Olaf Scholz.</statement>
+               <statement>Aber Olaf Scholz hat jetzt eine neue Arbeit.</statement>
+               <explanation_marker>
+                  <statement>Olaf Scholz arbeitet jetzt nämlich für die Regierung von Deutschland.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Die Regierung von Deutschland ist in Berlin.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Berlin ist die Haupt·stadt von Deutschland.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Olaf Scholz ist der Finanz·minister von der Regierung.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Finanz·minister kümmert sich um die Finanzen von einem Land.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Deshalb musste Olaf Scholz Hamburg verlassen.</statement>
+               <statement>Und deshalb hat Hamburg einen neuen Bürger·meister gebraucht.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Politiker wählen neuen Bürger·meister</subheadline>
+               <explanation_marker>
+                  <statement>Am Mittwoch war in der Bürgerschaft von Hamburg eine Wahl.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Die Bürgerschaft ist das Parlament von Hamburg.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">In der Bürgerschaft arbeiten viele Politiker.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement><style_element type="hi">Diese Politiker sagen zum Beispiel:</style_element></statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement><style_element type="hi">Dafür soll Hamburg Geld ausgeben.</style_element></statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei dieser Wahl haben die Politiker einen neuen Bürger·meister gewählt.</statement>
+               <statement>Die meisten Politiker haben Peter Tschentscher gewählt.</statement>
+               <statement>Deshalb ist Peter Tschentscher jetzt neuer Bürger·meister von Hamburg.</statement>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Nach der Wahl hat Olaf Scholz gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Peter Tschentscher ist ein sehr guter Politiker.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und Peter Tschentscher hat viel Erfahrung.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb ist Peter Tschentscher ein guter Bürger·meister für Hamburg.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

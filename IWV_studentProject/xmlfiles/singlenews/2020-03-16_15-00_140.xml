@@ -1,0 +1,188 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-24" url="2020-03-16_15-00_140.xml">
+   <title>Urlauber müssen Inseln verlassen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-03-16_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-03-16_15-00_140-full.png" type="screenshot" url="2020-03-16_15-00_140-full.png"/>
+      <resource id="2" name="2020-03-16_15-00_140_plaintext.txt" type="plaintext" url="2020-03-16_15-00_140_plaintext.txt"/>
+      <resource id="3" name="2020-03-16_15-00_140_quellcode.txt" type="sourcecode" url="2020-03-16_15-00_140_quellcode.txt"/>
+      <resource id="4" name="2020-03-16_15-00_140.docx" type="formatedText" url="2020-03-16_15-00_140.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Urlauber müssen Inseln verlassen</headline>
+      <sections>
+         <section id="1">
+            <statement>Viele Menschen haben Angst vor dem Corona-Virus.</statement>
+            <statement>Das Corona-Virus kann Menschen nämlich krank machen.</statement>
+            <statement>Und das Corona-Virus ist sehr ansteckend.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt haben die Bundes·länder in Nord·deutschland gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Viele Menschen machen im Frühling Urlaub in Nord·deutschland.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Zum Beispiel auf den Inseln in der Nordsee.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und in der Ostsee.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Aber auf den Inseln sind nur wenige Ärzte.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Und auf den Inseln sind nur wenige Kranken·haus·betten.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Wir wollen die Menschen auf den Inseln vor dem Corona-Virus schützen.</statement>
+                  </speech>
+                  <speech id="7">
+                     <statement>Deshalb müssen jetzt alle Urlauber die Inseln verlassen.</statement>
+                  </speech>
+                  <speech id="8">
+                     <statement>Und <style_element type="hb">keine</style_element> Urlauber dürfen mehr auf die Inseln kommen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Inseln sind gesperrt</subheadline>
+            <explanation_marker>
+               <statement>3 Minister·präsidenten haben sich am Sonntag getroffen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Minister·präsident ist der Chef von einem Bundes·land.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese 3 Minister·präsidenten sind aus:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Niedersachsen.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Schleswig-Holstein.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <headword>• Und Mecklenburg-Vorpommern.</headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Diese 3 Bundes·länder liegen an der Küste.</statement>
+            <statement>Und diese 3 Bundes·länder haben Inseln.</statement>
+            <statement>Diese Inseln sind in der Nordsee.</statement>
+            <statement>Und in der Ostsee.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Nach dem Treffen haben die Minister·präsidenten gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Auf den Inseln sind nur wenige Ärzte für kranke Menschen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <question> Auf einer Insel steckt sich ein Mensch mit dem Corona-Virus an?</question>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dann können sich sehr viele Menschen auf der Insel mit dem Corona-Virus anstecken.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und dann können wir diesen Menschen <style_element type="hb">nicht</style_element> helfen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Deshalb sperren wir jetzt die Inseln für Urlauber.</statement>
+                  </speech>
+                  <speech id="6">
+                     <headword>Das heißt:</headword>
+                  </speech>
+                  <speech id="7">
+                     <statement>Alle Urlauber müssen die Inseln verlassen.</statement>
+                  </speech>
+                  <speech id="8">
+                     <statement>Und <style_element type="hb">keine</style_element> Urlauber dürfen mehr auf die Inseln kommen.</statement>
+                  </speech>
+                  <speech id="9">
+                     <statement>Dann sind auf den Inseln nur noch wenige Menschen.</statement>
+                  </speech>
+                  <speech id="10">
+                     <statement>Diese Menschen wohnen auf den Inseln.</statement>
+                  </speech>
+                  <speech id="11">
+                     <statement>Oder arbeiten auf den Inseln.</statement>
+                  </speech>
+                  <speech id="12">
+                     <statement>Wir wissen noch <style_element type="hb">nicht</style_element>:</statement>
+                  </speech>
+                  <speech id="13">
+                     <question>Wie lange dauert die Sperrung?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Viele Grenzen geschlossen</subheadline>
+            <statement>Politiker haben viele Maßnahmen gegen das Corona-Virus beschlossen.</statement>
+            <statement>In vielen Bundes·ländern sind zum Beispiel viele Einrichtungen geschlossen.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Schulen.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Kindergärten.</headword>
+                  </enumeration>
+                   <enumeration id="3">
+                     <headword>• Restaurants.</headword>
+                  </enumeration>
+                   <enumeration id="4">
+                     <headword>• Kinos.</headword>
+                  </enumeration>
+                   <enumeration id="5">
+                     <headword>• Und Schwimm·bäder.</headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Und Deutschland hat viele Grenzen zu anderen Ländern geschlossen.</statement>
+            <statement>Zum Beispiel nach Dänemark.</statement>
+            <statement>Und nach Polen.</statement>
+            <statement>An diesen Grenzen kontrolliert die Polizei zum Beispiel Auto·fahrer.</statement>
+            <statement>Viele Menschen dürfen nämlich <style_element type="hb">nicht</style_element> mehr über die Grenze fahren.</statement>
+            <statement>Diese Menschen wollen zum Beispiel einen Urlaub machen.</statement>
+            <headword>Oder einkaufen.</headword>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir lassen nur noch besondere Menschen über die Grenze fahren.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement> Diese Menschen arbeiten zum Beispiel in einem anderen Land.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Oder diese Menschen bringen zum Beispiel Lebens·mittel in ein anderes Land.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-23" url="2018-11-27_13-30_658.xml">
+   <title>Mehr Nachrichten vom 27.11.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-11-27_13-30</vdate>
+   <resources>
+      <resource id="1" name="2018-11-27_13-30_658-full.png" type="screenshot" url="2018-11-27_13-30_658-full.png"/>
+      <resource id="2" name="2018-11-27_13-30_658_plaintext.txt" type="plaintext" url="2018-11-27_13-30_658_plaintext.txt"/>
+      <resource id="3" name="2018-11-27_13-30_658_quellcode.txt" type="sourcecode" url="2018-11-27_13-30_658_quellcode.txt"/>
+      <resource id="4" name="2018-11-27_13-30_658.docx" type="formatedText" url="2018-11-27_13-30_658.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 27.11.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Wichtiger Fußball·spieler fehlt dem HSV</subheadline>
+               <explanation_marker>
+                  <statement>Dem HSV fehlt für einige Wochen ein wichtiger Fußball·spieler.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Der HSV ist ein Fußball·verein.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">HSV ist die Abkürzung für Hamburger Sport-Verein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Dieser wichtige Fußball·spieler ist Pierre-Michel Lasogga.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Pierre-Michel Lasogga ist ein Stürmer.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <explanation_marker>
+                                    <statement><style_element type="hi">Stürmer spielen im Angriff.</style_element></statement>
+                                    <explanations>
+                                       <explanation id="1">
+                                          <statement><style_element type="hi">Und Stürmer sollen Tore schießen.</style_element></statement>
+                                       </explanation>
+                                    </explanations>
+                                 </explanation_marker>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und Pierre-Michel Lasogga hat schon viele Tore für den HSV geschossen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Pierre-Michel Lasogga ist an der Wade verletzt.</statement>
+               <statement>Deshalb kann Pierre-Michel Lasogga für einige Wochen <style_element type="hb">nicht</style_element> Fußball spielen.</statement>
+         </section> 
+         <section id="2">
+            <subheadline>Hamburg: Mann muss lange ins Gefängnis</subheadline>
+               <explanation_marker>
+               <statement>In Hamburg war ein Prozess.</statement>
+               <explanations>
+                  <explanation id="1">
+                    <speech_marker>
+                       <speech_intro>
+                          <statement><style_element type="hi">Bei einem Prozess entscheidet das Gericht:</style_element></statement>
+                       </speech_intro>
+                       <speeches>
+                          <speech id="1">
+                             <question><style_element type="hi">• Hat ein Mensch etwas Verbotenes getan?</style_element></question>
+                          </speech>
+                          <speech id="2">
+                             <statement><style_element type="hi">Dann bekommt dieser Mensch eine Strafe.</style_element></statement>
+                          </speech>
+                          <speech id="3">
+                             <question><style_element type="hi">• Oder hat ein Mensch <style_element type="hb">nichts</style_element> Verbotenes getan?</style_element></question>
+                          </speech>
+                          <speech id="4">
+                             <statement><style_element type="hi">Dann bekommt dieser Mensch <style_element type="hb">keine</style_element> Strafe.</style_element></statement>
+                          </speech>
+                       </speeches>
+                    </speech_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Prozess hat das Gericht einen Mann verurteilt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Gericht hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Mann hatte Streit mit einer Frau.</statement>
+                  </speech>
+                  <speech id="2">
+                     <explanation_marker>
+                        <statement>Die Frau ist die Ex-Frau von dem Mann.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Die Frau war früher die Ehe·frau von dem Mann.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Aber dann haben die Frau und der Mann sich getrennt.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und der Mann hatte Streit mit dem neuen Freund von der Frau.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Dann hat der Mann den neuen Freund von der Frau ermordet.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Der Mann hat den neuen Freund von der Frau mit einem Messer erstochen.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Deshalb muss der Mann jetzt für 9 Jahre und 6 Monate ins Gefängnis.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

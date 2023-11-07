@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-30" url="2019-01-15_14-00_616.xml">
+   <title>Mehr Nachrichten vom 15.01.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-01-15_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-01-15_14-00_616-full.png" type="screenshot" url="2019-01-15_14-00_616-full.png"/>
+      <resource id="2" name="2019-01-15_14-00_616_plaintext.txt" type="plaintext" url="2019-01-15_14-00_616_plaintext.txt"/>
+      <resource id="3" name="2019-01-15_14-00_616_quellcode.txt" type="sourcecode" url="2019-01-15_14-00_616_quellcode.txt"/>
+      <resource id="4" name="2019-01-15_14-00_616.docx" type="formatedText" url="2019-01-15_14-00_616.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 15.01.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Fußball: Spieler verletzt</subheadline>
+               <explanation_marker>
+                  <statement>Ein Spieler von Holstein Kiel hat sich verletzt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Holstein Kiel ist ein Fußball·verein aus Schleswig-Holstein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker> 
+               <statement>Der Spieler ist David Kinsombi.</statement>
+               <statement>David Kinsombi hat sich beim Training das Bein gebrochen.</statement>
+               <statement>Jetzt kann David Kinsombi wahrscheinlich 3 Monate lang <style_element type="hb">nicht</style_element> spielen.</statement>
+               <statement>Der Bein·bruch von David Kinsombi ist schlecht für Holstein Kiel.</statement>
+               <statement>David Kinsombi ist nämlich ein sehr guter Spieler.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Nord·deutschland: Viele Flüge ausgefallen</subheadline>
+               <statement>Am Flug·hafen in Hamburg sind am Dienstag über 200 Flüge ausgefallen.</statement>
+               <explanation_marker>
+                  <statement>Am Flug·hafen von Hamburg haben nämlich Arbeiter gestreikt.</statement>
+                  <explanations>
+                     <explanation id="1"> 
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Die Arbeiter am Flug·hafen haben <style_element type="hb">nicht</style_element> gearbeitet.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Die Arbeiter wollen nämlich zum Beispiel mehr Geld.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Auch an anderen Flug·häfen haben Arbeiter gestreikt.</statement>
+               <statement>Zum Beispiel in Hannover und Bremen.</statement>
+               <statement>Deshalb sind auch in Hannover und Bremen viele Flüge ausgefallen.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

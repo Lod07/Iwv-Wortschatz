@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-25" url="2019-04-26_13-30_500.xml">
+   <title>Mehr Nachrichten vom 26.04.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-04-26_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-04-26_13-30_500-full.png" type="screenshot" url="2019-04-26_13-30_500-full.png"/>
+      <resource id="2" name="2019-04-26_13-30_500_plaintext.txt" type="plaintext" url="2019-04-26_13-30_500_plaintext.txt"/>
+      <resource id="3" name="2019-04-26_13-30_500_quellcode.txt" type="sourcecode" url="2019-04-26_13-30_500_quellcode.txt"/>
+      <resource id="4" name="2019-04-26_13-30_500.docx" type="formatedText" url="2019-04-26_13-30_500.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 26.04.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Arbeiten am Tunnel</subheadline>
+               <explanation_marker>
+                  <statement>Im Alten Elb·tunnel waren Arbeiten.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Der Alte Elb·tunnel ist ein Tunnel unter der Elbe.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Die Elbe ist ein Fluss.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Der Tunnel ist sehr alt.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und der Tunnel ist 426 Meter lang.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Diese Arbeiten waren an einer Röhre.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Der Alte Elb·tunnel hat 2 Röhren.</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Die Ost·röhre.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <statement>• Und die West·röhre.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Durch diese Röhren kommen Menschen von einer Seite auf die andere Seite von der Elbe.</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Zu Fuß.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <statement>• Mit dem Fahr·rad.</statement>
+                     </enumeration>
+                     <enumeration id="3">
+                        <statement>• Oder mit dem Auto.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Die Ost·röhre war lange Zeit kaputt.</statement>
+               <statement>Fach·leute haben die Ost·röhre 8 Jahre lang repariert.</statement>
+               <statement>Jetzt können die Menschen die Ost·röhre wieder nutzen.</statement>
+               <statement>Bald wird auch die West·röhre repariert.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Unfall mit Straßen·bahn</subheadline>
+               <statement>In Rostock war ein Unfall.</statement>
+               <statement>Dieser Unfall war mit einer Straßen·bahn.</statement>
+               <statement>Bei dem Unfall wurden 15 Menschen verletzt.</statement>
+               <statement>Die Straßen·bahn ist mit einem Auto·transporter zusammengestoßen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wahrscheinlich hat der Fahrer von dem Auto·transporter einen Fehler gemacht.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb ist der Auto·transporter in die Straßen·bahn gefahren.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Dabei sind viele Fenster von der Straßen·bahn kaputt gegangen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Der Unfall war mitten in der Stadt.</statement>
+               <statement>Nach dem Unfall waren viele Staus in Rostock.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

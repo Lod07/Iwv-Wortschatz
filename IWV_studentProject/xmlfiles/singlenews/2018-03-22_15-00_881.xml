@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-29" url="2018-03-22_15-00_881.xml">
+   <title>Viele Züge fahren nicht</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-03-22_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-03-22_15-00_881-full.png" type="screenshot" url="2018-03-22_15-00_881-full.png"/>
+      <resource id="2" name="2018-03-22_15-00_881_plaintext.txt" type="plaintext" url="2018-03-22_15-00_881_plaintext.txt"/>
+      <resource id="3" name="2018-03-22_15-00_881_quellcode.txt" type="sourcecode" url="2018-03-22_15-00_881_quellcode.txt"/>
+      <resource id="4" name="2018-03-22_15-00_881.docx" type="formatedText" url="2018-03-22_15-00_881.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Viele Züge fahren nicht</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Schleswig-Holstein fallen viele Züge aus.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Viele Züge fahren <style_element type="hb">nicht</style_element>.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>In Schleswig-Holstein sind nämlich Bau·arbeiten bei der Bahn.</statement>
+            <statement>Bei den Bau·arbeiten baut die Bahn zum Beispiel neue Gleise.</statement>
+            <statement>Oder die Bahn repariert Gleise.</statement>
+            <statement>Die Bau·arbeiten beginnen am Freitag.</statement>
+            <statement>Und die Bau·arbeiten dauern bis zum 8. Mai.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Wo fallen Züge aus?</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Bahn hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Bau·arbeiten sind auf vielen Strecken.</statement>
+                     </speech>
+                     <speech id="2">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <statement>Diese Strecken sind:</statement>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <explanation_marker>
+                                    <statement>• Zwischen Hamburg und Sylt.</statement>
+                                    <explanations>
+                                       <explanation id="1">
+                                          <statement><style_element type="hi">Sylt ist eine Insel in der Nordsee.</style_element></statement>
+                                       </explanation>
+                                    </explanations>
+                                 </explanation_marker>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <statement>• Zwischen Hamburg und Kiel.</statement>
+                              </enumeration>
+                              <enumeration id="3">
+                                 <statement>• Zwischen Hamburg und Flensburg.</statement>
+                              </enumeration>
+                              <enumeration id="4">
+                                 <statement>• Zwischen Hamburg und Elmshorn.</statement>
+                              </enumeration>
+                              <enumeration id="5">
+                                 <statement>• Und in Itzehoe.</statement>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Bahn hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Bis zum 8. Mai können nur wenige Züge in Schleswig-Holstein fahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb sind in diesen Zügen sehr viele Menschen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und deshalb sind diese Züge sehr voll.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Die Züge haben auch neue Fahr·zeiten.</statement>
+                     </speech>
+                     <speech id="5">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Deshalb sollen sich die Menschen informieren:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question>Wie sind die neuen Fahr·zeiten?</question>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="6">
+                        <statement>Die neuen Fahr·zeiten finden die Menschen zum Beispiel in den Bahn·höfen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

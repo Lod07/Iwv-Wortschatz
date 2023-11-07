@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-27" url="2019-12-13_13-30_42.xml">
+   <title>Mehr Nachrichten vom 13.12.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-12-13_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-12-13_13-30_42-full.png" type="screenshot" url="2019-12-13_13-30_42-full.png"/>
+      <resource id="2" name="2019-12-13_13-30_42_plaintext.txt" type="plaintext" url="2019-12-13_13-30_42_plaintext.txt"/>
+      <resource id="3" name="2019-12-13_13-30_42_quellcode.txt" type="sourcecode" url="2019-12-13_13-30_42_quellcode.txt"/>
+      <resource id="4" name="2019-12-13_13-30_42.docx" type="formatedText" url="2019-12-13_13-30_42.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 13.12.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Nord·deutschland: Spenden·tag beim NDR</subheadline>
+            <statement>Am Freitag macht der NDR eine besondere Fernseh·sendung.</statement>
+            <statement>Diese Fernseh·sendung ist um 20.15 Uhr.</statement>
+            <statement>Bei dieser Fernseh·sendung können Menschen beim NDR anrufen.</statement>
+            <statement>Und diese Menschen können Geld spenden.</statement>
+            <statement>Beim NDR ist nämlich eine große Spenden·aktion.</statement>
+            <statement>Diese Spenden·aktion heißt Hand in Hand für Nord·deutschland.</statement>
+            <statement>Bei dieser Spenden·aktion sammelt der NDR Geld.</statement>
+            <statement>Das Geld ist für besondere Vereine.</statement>
+            <explanation_marker>
+               <statement>Diese Vereine helfen Menschen mit Krebs.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Krebs ist eine schwere Krankheit.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <question><style_element type="hi">Ein Mensch hat Krebs?</style_element></question>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Dann sind Teile vom Körper sehr krank.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Zum Beispiel die Haut.</style_element></statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement><style_element type="hi">Oder bestimmte Körper·teile.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Viele Menschen mit Krebs bekommen besondere Behandlungen.</statement>
+            <statement>Diese Behandlungen sind sehr anstrengend.</statement>
+            <statement>Deshalb brauchen diese Menschen Hilfe von anderen Menschen.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Bau·arbeiten an Zug·strecke beendet</subheadline>
+            <statement>In Niedersachsen haben Arbeiter Bau·arbeiten beendet.</statement>
+            <statement>Diese Bau·arbeiten waren an einer Zug·strecke.</statement>
+            <statement>Diese Zug·strecke ist zwischen Hannover und Göttingen.</statement>
+            <statement>Diese Zug·strecke ist 89 Kilometer lang.</statement>
+            <explanation_marker>
+               <statement>Und diese Zug·strecke ist für ICE-Züge.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">ICE ist die Abkürzung für Inter·city-Express.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Der ICE ist der schnellste Zug in Deutschland.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Bau·arbeiten haben 6 Monate gedauert.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Ein Sprecher von der Bahn hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Bei den Bau·arbeiten wurden viele Dinge neu gemacht.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Zum Beispiel die Gleise.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Ab Sonntag können wieder ICE-Züge auf der Zug·strecke fahren.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Dann dauert die Fahrt zwischen Hannover und Göttingen nur noch eine halbe Stunde.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Vorher hat die Fahrt eine Stunde gedauert.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Mecklenburg-Vorpommern: Frau stirbt bei Unfall</subheadline>
+            <statement>In der Nähe von Malchin war ein Unfall.</statement>
+            <statement>Der Unfall war auf der Bundes·straße 104.</statement>
+            <statement>Bei dem Unfall ist eine Frau gestorben.</statement>
+            <statement>Und ein Mann wurde schwer verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Mann wollte mit seinem Auto ein anderes Auto überholen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb ist der Mann auf die andere Fahr·bahn gefahren.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Auf der anderen Fahr·bahn ist die Frau mit ihrem Auto gefahren.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Der Mann ist gegen das Auto von der Frau gefahren.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>  
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

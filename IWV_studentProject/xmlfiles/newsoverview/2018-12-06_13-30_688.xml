@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-28" url="2018-12-06_13-30_688.xml">
+   <title>Mehr Nachrichten vom 06.12.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-12-06_13-30</vdate>
+   <resources>
+      <resource id="1" name="2018-12-06_13-30_688-full.png" type="screenshot" url="2018-12-06_13-30_688-full.png"/>
+      <resource id="2" name="2018-12-06_13-30_688_plaintext.txt" type="plaintext" url="2018-12-06_13-30_688_plaintext.txt"/>
+      <resource id="3" name="2018-12-06_13-30_688_quellcode.txt" type="sourcecode" url="2018-12-06_13-30_688_quellcode.txt"/>
+      <resource id="4" name="2018-12-06_13-30_688.docx" type="formatedText" url="2018-12-06_13-30_688.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 06.12.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Preis für Musiker</subheadline>
+               <explanation_marker>
+                  <statement>Klaus Meine hat einen besonderen Preis bekommen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Klaus Meine ist Musiker.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und Klaus Meine ist aus Hannover.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Klaus Meine ist der Sänger von einer bekannten Musik·gruppe.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Diese bekannte Musik·gruppe heißt Scorpions.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Die Scorpions machen Rock·musik.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Und die Scorpions machen schon sehr lange Musik.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Der besondere Preis heißt Leibniz-Ring.</statement>
+               <statement>Den Leibniz-Ring gibt es seit 1997.</statement>
+               <statement>Und den Leibniz-Ring gibt es für besondere Leistungen.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Mann stirbt bei Unfall</subheadline>
+               <explanation_marker>
+                  <statement>In Thuine war ein Unfall.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Thuine ist ein Ort im Emsland.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei dem Unfall ist ein alter Mann gestorben.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ein junger Mann ist mit seinem Auto in eine Kurve gefahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann ist der junge Mann mit seinem Auto auf die andere Fahr·bahn gerutscht.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Auf der anderen Fahr·bahn ist der alte Mann mit seinem Auto gefahren.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und der junge Mann ist mit seinem Auto gegen das Auto von dem alten Mann gefahren.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Bei dem Unfall ist der alte Mann gestorben.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Und der junge Mann wurde leicht verletzt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Jetzt ermittelt die Polizei.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei will nämlich wissen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Warum ist der junge Mann mit seinem Auto auf die andere Fahr·bahn gerutscht?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

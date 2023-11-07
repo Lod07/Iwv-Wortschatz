@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-09" url="2018-11-19_15-00_680.xml">
+   <title>Alexander Zverev gewinnt wichtiges Tennis·turnier</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-11-19_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-11-19_15-00_680-full.png" type="screenshot" url="2018-11-19_15-00_680-full.png"/>
+      <resource id="2" name="2018-11-19_15-00_680_plaintext.txt" type="plaintext" url="2018-11-19_15-00_680_plaintext.txt"/>
+      <resource id="3" name="2018-11-19_15-00_680_quellcode.txt" type="sourcecode" url="2018-11-19_15-00_680_quellcode.txt"/>
+      <resource id="4" name="2018-11-19_15-00_680.docx" type="formatedText" url="2018-11-19_15-00_680.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Alexander Zverev gewinnt wichtiges Tennis·turnier</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Alexander Zverev hat ein wichtiges Tennis·turnier gewonnen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Alexander Zverev ist ein Tennis·spieler aus Hamburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Das Tennis·turnier heißt ATP-Finale.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">ATP ist eine Abkürzung.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">ATP ist Englisch.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und ATP heißt: Vereinigung von Tennis·spielern.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Das End·spiel war gegen den besten Tennis·spieler von der Welt.</statement>
+            <explanation_marker>
+               <statement>Der beste Tennis·spieler von der Welt heißt Novak Djokovic.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Novak Djokovic ist aus Serbien.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Serbien ist ein Land in Europa.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Das ATP-Finale</subheadline>
+               <statement>Das ATP-Finale ist jedes Jahr.</statement>
+               <explanation_marker>
+                  <statement>Dieses Jahr war das ATP-Finale in London.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">London ist die Haupt·stadt von England.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Beim ATP-Finale sind 8 Tennis·spieler.</statement>
+               <explanation_marker>
+                  <statement>Diese 8 Tennis·spieler sind die besten 8 Tennis·spieler von der Saison.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Saison dauert fast ein Jahr.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Am Ende von der Saison spielen diese 8 Tennis·spieler gegeneinander.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Das End·spiel</subheadline>
+               <statement>In diesem Jahr war Alexander Zverev im End·spiel.</statement>
+               <statement>Und Novak Djokovic war im End·spiel.</statement>
+               <statement>Alexander Zverev hat das End·spiel gegen Novak Djokovic gewonnen.</statement>
+               <statement>Zuerst hat Alexander Zverev einen Satz mit 6:4 gewonnen.</statement>
+               <statement>Dann hat Alexander Zverev noch einen Satz mit 6:3 gewonnen.</statement>
+               <statement>Deshalb hat Alexander Zverev auch das End·spiel gewonnen.</statement>
+         </section>
+         <section id="4">
+            <statement>Nach dem End·spiel haben viele Menschen Alexander Zverev gratuliert.</statement>
+            <explanation_marker>
+               <statement>Zum Beispiel Angela Merkel.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Angela Merkel ist die Bundes·kanzlerin von Deutschland.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Die Bundes·kanzlerin ist die Chefin von der Bundes·regierung.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und Boris Becker.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Boris Becker war früher ein sehr guter Tennis·spieler.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Boris Becker ist aus Deutschland.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Boris Becker hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Ich habe das ATP-Finale 1995 gewonnen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Das ist lange her.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement> Aber jetzt hat wieder ein Deutscher das ATP-Finale gewonnen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Ich freue mich sehr für Alexander Zverev.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

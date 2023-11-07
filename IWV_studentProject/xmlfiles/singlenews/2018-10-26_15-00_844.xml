@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-10-26_15-00_844.xml">
+   <title>Mädchen vor 18 Jahren verschwunden: Neue Ermittlungen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-10-26_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-10-26_15-00_844-full.png" type="screenshot" url="2018-10-26_15-00_844-full.png"/>
+      <resource id="2" name="2018-10-26_15-00_844_plaintext.txt" type="plaintext" url="2018-10-26_15-00_844_plaintext.txt"/>
+      <resource id="3" name="2018-10-26_15-00_844_quellcode.txt" type="sourcecode" url="2018-10-26_15-00_844_quellcode.txt"/>
+      <resource id="4" name="2018-10-26_15-00_844.docx" type="formatedText" url="2018-10-26_15-00_844.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mädchen vor 18 Jahren verschwunden: Neue Ermittlungen</headline>
+      <sections>
+         <section id="1">
+            <statement>In Niedersachsen ist ein Mädchen verschwunden.</statement>
+            <statement>Dieses Mädchen ist schon seit 18 Jahren verschwunden.</statement>
+            <statement>Dieses Mädchen ist Katrin Konert.</statement>
+            <explanation_marker>
+               <statement>Katrin Konert ist aus dem Wendland.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Das Wendland ist eine Region in Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Vor 18 Jahren war Katrin Konert 15 Jahre alt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement><style_element type="hb">Kein</style_element> Mensch weiß:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wo ist Katrin Konert?</question>
+                  </speech>
+                  <speech id="2">
+                     <question>Ist Katrin Konert vielleicht tot?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Die Polizei sucht schon sehr lange nach Katrin Konert.</statement>
+            <statement>Aber jetzt will die Polizei noch mehr tun.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Polizei befragt Menschen</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Vor 18 Jahren hat ein Mensch Katrin Konert in Bergen an der Dumme gesehen.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Bergen an der Dumme ist ein Ort in Niedersachsen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Danach ist Katrin Konert verschwunden.</statement>
+                     </speech>
+                     <speech id="3">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Wir haben die Menschen in Bergen an der Dumme befragt:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question>Haben Sie Katrin Konert gesehen?</question>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="4">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Die Menschen haben gesagt:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <headword>Nein.</headword>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="5">
+                        <statement>Jetzt wollen wir die Menschen noch mal befragen.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Vielleicht bekommen wir dann neue Hinweise.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir wollen Katrin Konert finden.</statement>
+                     </speech>
+                     <speech id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Aber wir glauben:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Katrin Konert ist tot.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="3">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Und wir glauben:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Ein Mensch hat Katrin Konert getötet.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="4">
+                        <statement>Diesen Menschen wollen wir auch finden.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Die Polizei ermittelt schon sehr lange.</statement>
+            <statement>Aber jetzt will die Polizei noch mehr tun.</statement>
+            <explanation_marker>
+               <statement>Ab Montag steht zum Beispiel eine mobile Wache in Bergen an der Dumme.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Mobile Wachen sind große Fahrzeuge.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In diesen großen Fahrzeugen sind Polizisten.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und in diesen großen Fahrzeugen sind zum Beispiel Computer.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Die Polizei kann entscheiden:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question><style_element type="hi">Wo steht die mobile Wache?</style_element></question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Zu dieser mobilen Wache können die Menschen in Bergen an der Dumme kommen.</statement>
+            <statement>Dann können die Menschen mit den Polizisten sprechen.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

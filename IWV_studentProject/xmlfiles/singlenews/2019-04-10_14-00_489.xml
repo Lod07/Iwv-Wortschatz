@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-25" url="2019-04-10_14-00_489.xml">
+   <title>Neuer Trainer beim FC St. Pauli</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-04-10_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-04-10_14-00_489-full.png" type="screenshot" url="2019-04-10_14-00_489-full.png"/>
+      <resource id="2" name="2019-04-10_14-00_489_plaintext.txt" type="plaintext" url="2019-04-10_14-00_489_plaintext.txt"/>
+      <resource id="3" name="2019-04-10_14-00_489_quellcode.txt" type="sourcecode" url="2019-04-10_14-00_489_quellcode.txt"/>
+      <resource id="4" name="2019-04-10_14-00_489.docx" type="formatedText" url="2019-04-10_14-00_489.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Neuer Trainer beim FC St. Pauli</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Der FC St. Pauli hat einen neuen Trainer.</statement> 
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Der FC St. Pauli ist ein Fußball·verein aus Hamburg.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi"><style_element type="hb">FC</style_element> ist die Abkürzung für <style_element type="hb">F</style_element>ußball-<style_element type="hb">C</style_element>lub.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">St. Pauli ist ein Stadt·teil von Hamburg.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und der FC St. Pauli spielt in der 2. Fußball-Bundesliga.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser neue Trainer ist Jos Luhukay.</statement>
+            <statement>Der alte Trainer war Markus Kauczinki.</statement>
+            <statement>Aber der FC St. Pauli hat mit Markus Kauczinski viele Spiele verloren.</statement>
+            <explanation_marker>
+               <statement>Deshalb hat der FC St. Pauli Markus Kauczinski entlassen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2"> 
+                     <statement><style_element type="hi">Markus Kauczinski arbeitet <style_element type="hb">nicht</style_element> mehr für den FC St. Pauli.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Jetzt ist Jos Luhukay Trainer vom FC St. Pauli.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Luhukay hat viel Erfahrung</subheadline>
+               <statement>Jos Luhukay ist 55 Jahre alt.</statement>
+               <explanation_marker>
+                  <statement>Und Jos Luhukay hat als Trainer schon für viele Vereine gearbeitet.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                <statement><style_element type="hi">• Für Borussia Mönchengladbach.</style_element></statement> 
+                              </enumeration>
+                              <enumeration id="2">
+                                <statement><style_element type="hi">• Und für Hertha BSC.</style_element></statement> 
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Der Chef vom FC St. Pauli ist Oke Göttlich.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Oke Göttlich hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1"> 
+                        <statement>Unsere Mannschaft hat in den vergangenen Wochen oft <style_element type="hb">nicht</style_element> gut gespielt.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb haben wir Markus Kauczinski entlassen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Jetzt ist Jos Luhukay unser Trainer.</statement>
+                     </speech>
+                     <speech id="4">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Wir glauben nämlich:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Jos Luhukay ist ein sehr guter Trainer.</statement>
+                              </speech>
+                              <speech id="2">
+                                 <statement>Und mit Jos Luhukay spielen wir wieder besser.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>St. Pauli entlässt auch Sport·chef</subheadline>
+               <statement>Der FC St. Pauli hat auch Uwe Stöver entlassen.</statement>
+               <explanation_marker>
+                  <statement>Uwe Stöver war der Sport·chef beim FC St. Pauli.</statement>
+                  <explanations>
+                     <explanation id="1">
+                       <statement><style_element type="hi">Ein Sport·chef hat wichtige Aufgaben bei einem Fußball·verein.</style_element></statement> 
+                     </explanation>
+                     <explanation id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement><style_element type="hi">Ein Sport·chef sagt zum Beispiel:</style_element></statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement><style_element type="hi">Diese Spieler soll der Fußball·verein kaufen.</style_element></statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Oke Göttlich hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir haben Uwe Stöver entlassen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb suchen wir jetzt einen neuen Sport·chef.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

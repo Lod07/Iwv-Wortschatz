@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-24" url="2018-08-10_15-00_763.xml">
+   <title>Sturm in Nord·deutschland</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-08-10_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-08-10_15-00_763-full.png" type="screenshot" url="2018-08-10_15-00_763-full.png"/>
+      <resource id="2" name="2018-08-10_15-00_763_plaintext.txt" type="plaintext" url="2018-08-10_15-00_763_plaintext.txt"/>
+      <resource id="3" name="2018-08-10_15-00_763_quellcode.txt" type="sourcecode" url="2018-08-10_15-00_763_quellcode.txt"/>
+      <resource id="4" name="2018-08-10_15-00_763.docx" type="formatedText" url="2018-08-10_15-00_763.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Sturm in Nord·deutschland</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Nord·deutschland war ein Sturm.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bei einem Sturm weht sehr starker Wind.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Sturm hat viele Schäden gemacht.</statement>
+            <statement>Zum Beispiel an Zug·strecken.</statement>
+            <statement>Deshalb konnten manche Züge <style_element type="hb">nicht</style_element> fahren.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Züge fahren nicht</subheadline>
+               <statement>Bei dem Sturm sind viele Bäume umgefallen.</statement>
+               <statement>Diese Bäume sind zum Beispiel auf Bahn·gleise gefallen.</statement>
+               <explanation_marker>
+                  <statement>Deshalb musste die Bahn viele Zug·strecken sperren.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Auf diesen Zug·strecken durften <style_element type="hb">keine</style_element> Züge mehr fahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Und deshalb mussten viele Menschen lange warten.</statement>
+               <statement>Einige von diesen Menschen mussten die ganze Nacht warten.</statement>
+               <statement>Und einige von diesen Menschen mussten im Bahnhof schlafen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Bahn hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Viele Arbeiter holen die Bäume von den Bahn·gleisen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Das dauert sehr lange.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb konnten viele Züge <style_element type="hb">nicht</style_element> fahren.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und deshalb haben noch immer viele Züge Verspätung.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Bei dem Sturm sind auch viele Bäume auf Autos gefallen.</statement>
+            <statement>Und bei dem Sturm sind viele Bäume auf Straßen gefallen.</statement>
+            <explanation_marker>
+               <statement>Zum Beispiel auf die A23.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">A23 ist die Abkürzung für Auto·bahn 23.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Deshalb hat die Polizei die A23 gesperrt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Auf der A23 durften <style_element type="hb">keine</style_element> Autos fahren.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="4">
+            <statement>In Hamburg ist ein Baum auf 2 Menschen gefallen.</statement>
+            <statement>Diese 2 Menschen wurden leicht verletzt.</statement>
+            <statement>Deshalb sind diese 2 Menschen in ein Kranken·haus gekommen.</statement>
+         </section>
+         <section id="5">
+            <statement>Bei dem Sturm waren sehr viele Feuerwehr·leute im Einsatz.</statement>
+            <statement>Die Feuerwehr·leute haben zum Beispiel die Bäume weggeräumt.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

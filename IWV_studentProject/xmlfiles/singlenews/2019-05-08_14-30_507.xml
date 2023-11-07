@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-26" url="2019-05-08_14-30_507.xml">
+   <title>Zug fährt gegen Lkw</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-05-08_14-30</vdate>
+   <resources>
+      <resource id="1" name="2019-05-08_14-30_507-full.png" type="screenshot" url="2019-05-08_14-30_507-full.png"/>
+      <resource id="2" name="2019-05-08_14-30_507_plaintext.txt" type="plaintext" url="2019-05-08_14-30_507_plaintext.txt"/>
+      <resource id="3" name="2019-05-08_14-30_507_quellcode.txt" type="sourcecode" url="2019-05-08_14-30_507_quellcode.txt"/>
+      <resource id="4" name="2019-05-08_14-30_507.docx" type="formatedText" url="2019-05-08_14-30_507.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Zug fährt gegen Lkw</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In der Nähe von Rendsburg war ein Unfall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Rendsburg ist eine Stadt in Schleswig-Holstein.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+             <explanation_marker>
+               <statement>Dieser Unfall war an einem Bahn·übergang.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bahn·übergänge gibt es an manchen Straßen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">An Bahn·übergängen können Fahrzeuge über Bahn·schienen fahren.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Unfall ist ein Zug gegen einen Lkw gefahren.</statement>
+            <statement>11 Menschen wurden verletzt.</statement>
+            <statement>3 von diesen 11 Menschen wurden schwer verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Lkw wollte über den Bahn·übergang fahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber der Lkw ist auf dem Bahn·übergang stehengeblieben.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Der Motor von dem Lkw war nämlich wahrscheinlich kaputt.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Dann ist der Zug gekommen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <explanation_marker>
+                           <statement>Der Lok·führer hat den Lkw gesehen.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Ein Lok·führer ist der Fahrer von einem Zug.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="6"> 
+                        <statement>Aber der Lok·führer konnte <style_element type="hb">nicht</style_element> mehr rechtzeitig bremsen.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Deshalb ist der Zug gegen den Lkw gefahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <explanation_marker>
+               <statement>Bei dem Unfall ist der Zug aus den Gleisen gesprungen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2"> 
+                     <statement><style_element type="hi">Der Zug war <style_element type="hb">nicht</style_element> mehr auf den Gleisen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und bei dem Unfall sind Teile von dem Lkw durch die Luft geflogen.</statement>
+            <statement>Ein Teil ist zum Beispiel gegen ein Haus geflogen.</statement>
+            <statement>Dieses Teil hat das Haus beschädigt.</statement>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Nach dem Unfall sind sehr viele Helfer gekommen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Diese Helfer haben zum Beispiel die verletzten Menschen in Kranken·häuser gebracht.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und diese Helfer haben zum Beispiel den Lok·führer aus dem Zug geholt.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Der Lok·führer war nämlich in dem Zug eingeklemmt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="5">
+            <subheadline>Bahn·strecke gesperrt</subheadline>
+               <explanation_marker>
+                  <statement>Der Unfall war auf der Bahn·strecke zwischen Rendsburg und Owschlag.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Owschlag ist ein Ort in Schleswig-Holstein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Die Polizei hat diese Bahn·strecke gesperrt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2"> 
+                        <statement><style_element type="hi">Auf der Bahn·strecke dürfen <style_element type="hb">keine</style_element> Züge fahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Jetzt müssen viele Arbeiter die Bahn·strecke reparieren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und die Arbeiter müssen den Zug von der Bahn·strecke holen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und den Lkw.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Diese Arbeiten dauern einige Tage.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Deshalb ist die Bahn·strecke wahrscheinlich bis Sonntag gesperrt.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Und deshalb fahren einige Züge <style_element type="hb">nicht</style_element>.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

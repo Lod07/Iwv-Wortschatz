@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-10" url="2019-02-07_15-00_570.xml">
+   <title>Mehr Nachrichten vom 07.02.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-02-07_15-00</vdate>
+   <resources>
+      <resource id="1" name="2019-02-07_15-00_570-full.png" type="screenshot" url="2019-02-07_15-00_570-full.png"/>
+      <resource id="2" name="2019-02-07_15-00_570_plaintext.txt" type="plaintext" url="2019-02-07_15-00_570_plaintext.txt"/>
+      <resource id="3" name="2019-02-07_15-00_570_quellcode.txt" type="sourcecode" url="2019-02-07_15-00_570_quellcode.txt"/>
+      <resource id="4" name="2019-02-07_15-00_570.docx" type="formatedText" url="2019-02-07_15-00_570.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 07.02.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Wolf tötet Fohlen</subheadline>
+               <explanation_marker>
+                  <statement>In der Nähe von Hannover hat ein Wolf ein Fohlen getötet.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Fohlen ist ein junges Pferd.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Das Fohlen war auf einer Weide.</statement>
+               <statement>Auf der Weide waren noch andere Pferde.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fachleute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>In der Nähe von der Weide lebt ein Wolfs·rudel.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">In einem Wolfs·rudel sind viele Wölfe.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Ein Wolfs·rudel ist wie eine große Familie von Wölfen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Jetzt wollen wir wissen:</statement>
+                     </speech>
+                     <speech id="3">
+                        <question>Haben Wölfe aus diesem Wolfs·rudel das Fohlen getötet?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Fußball: HSV und Bremen gewinnen im DFB-Pokal</subheadline>
+               <statement>2 Fußball·vereine aus Nord·deutschland haben wichtige Spiele gewonnen.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Die 2 Fußball·vereine sind:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Der HSV.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <statement>• Und Werder Bremen.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <explanation_marker>
+                  <statement>Die Spiele waren im DFB-Pokal.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Der DFB-Pokal ist ein wichtiger Wettbewerb im deutschen Fußball.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">DFB ist die Abkürzung für Deutscher Fußball-Bund.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Nur die Gewinner von den Spielen dürfen im DFB-Pokal weiter·spielen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Der HSV hat gegen Nürnberg gespielt.</statement>
+               <statement>Und der HSV hat mit 1:0 gewonnen.</statement>
+               <statement>Werder Bremen hat gegen Dortmund gespielt.</statement>
+               <statement>Und Werder Bremen hat mit 7:5 gewonnen.</statement>
+               <statement>Jetzt spielen noch 8 Fußball·vereine im DFB-Pokal.</statement>
+               <statement>Am Sonntag wissen diese 8 Fußball·vereine:</statement>
+               <statement>Gegen diese Mannschaft spielen wir in der nächsten Runde.</statement>
+               <statement>Am Sonntag ist nämlich die Aus·losung von der nächsten Runde.</statement>
+               <statement>Diese Aus·losung ist im Fernsehen in der Sport·schau.</statement>
+               <statement>Die Sport·schau ist um 18:15 Uhr.</statement>
+               <statement>Und die Sport·schau ist im ersten Fernseh·programm.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

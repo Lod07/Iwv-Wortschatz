@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-18" url="2019-10-11_13-30_243.xml">
+   <title>Mehr Nachrichten vom 11.10.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-11_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-10-11_13-30_243-full.png" type="screenshot" url="2019-10-11_13-30_243-full.png"/>
+      <resource id="2" name="2019-10-11_13-30_243_plaintext.txt" type="plaintext" url="2019-10-11_13-30_243_plaintext.txt"/>
+      <resource id="3" name="2019-10-11_13-30_243_quellcode.txt" type="sourcecode" url="2019-10-11_13-30_243_quellcode.txt"/>
+      <resource id="4" name="2019-10-11_13-30_243.docx" type="formatedText" url="2019-10-11_13-30_243.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 11.10.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Bomben·entschärfung in Göttingen</subheadline>
+            <statement>In Göttingen haben Bauarbeiter eine Bombe gefunden.</statement>
+            <explanation_marker>
+               <statement>Jetzt wollen Fach·leute diese Bombe entschärfen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>
+                        <style_element type="hi">Das heißt:</style_element>
+                     </headword>
+               </explanation>
+               <explanation id="2">
+                  <statement>
+                     <style_element type="hi">Die Fach·leute wollen die Bombe ungefährlich machen.</style_element>
+                  </statement>
+               </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Entschärfung von der Bombe ist am Sonnabend.</statement>
+            <statement>Und die Entschärfung von der Bombe ist vielleicht gefährlich.</statement>
+            <statement>Deshalb will die Polizei 14.000 Menschen in Sicherheit bringen.</statement>
+            <statement>Diese Menschen müssen zum Beispiel ihre Wohnungen verlassen.</statement>
+            <statement>Die Wohnungen sind nämlich in der Nähe von der Bombe.</statement>
+            <explanation_marker>
+               <statement>Die Polizei will auch eine Zug·strecke sperren.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>
+                        <style_element type="hi">Das heißt:</style_element>
+                     </headword>
+               </explanation>
+               <explanation id="2">
+                  <statement>
+                     <style_element type="hi">Auf dieser Bahn·strecke dürfen <style_element type="hb">keine Züge</style_element> fahren.</style_element>
+                  </statement>
+               </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Zug·strecke ist nämlich auch in der Nähe von der Bombe.</statement>
+         </section>
+         <style_element type="line"/>
+         <section id="2">
+            <subheadline>Hamburg: Mann stirbt bei Unfall</subheadline>
+            <statement>Im Stadt·teil Altona war ein schwerer Unfall.</statement>
+            <statement>Bei diesem Unfall ist ein Mann gestorben.</statement>           
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Ein Mann ist mit seinem Auto von der Fahrbahn abgekommen.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                <style_element type="hi">Das heißt:</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">Der Mann ist <style_element type="hb">ohne</style_element> Absicht von der Straße gefahren.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dann ist das Auto von dem Mann mit einem anderen Auto zusammen·gestoßen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Der Mann ist bei dem Unfall gestorben.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Der Fahrer von dem anderen Auto wurde schwer verletzt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt will die Polizei wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Warum ist der Mann mit seinem Auto von der Fahrbahn abgekommen?</statement>   
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line"/>
+      </sections>
+   </content>
+</annotation>

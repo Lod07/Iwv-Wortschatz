@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-25" url="2020-03-11_14-30_133.xml">
+   <title>Mehr Nachrichten vom 11.03.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-03-11_14-30</vdate>
+   <resources>
+      <resource id="1" name="2020-03-11_14-30_133-full.png" type="screenshot" url="2020-03-11_14-30_133-full.png"/>
+      <resource id="2" name="2020-03-11_14-30_133_plaintext.txt" type="plaintext" url="2020-03-11_14-30_133_plaintext.txt"/>
+      <resource id="3" name="2020-03-11_14-30_133_quellcode.txt" type="sourcecode" url="2020-03-11_14-30_133_quellcode.txt"/>
+      <resource id="4" name="2020-03-11_14-30_133.docx" type="formatedText" url="2020-03-11_14-30_133.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 11.03.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Fußball·spieler hat Corona-Virus.</subheadline>
+              <explanation_marker>
+                 <statement>Ein Fußball·spieler aus Hannover hat das Corona-Virus.</statement>
+                 <explanations>
+                    <explanation id="1">
+                       <statement><style_element type="hi">Das Corona-Virus kann Menschen krank machen.</style_element></statement>
+                    </explanation>
+                    <explanation id="2">
+                     <statement><style_element type="hi"> Und das Corona-Virus ist sehr ansteckend.</style_element></statement>
+                    </explanation>
+                 </explanations>
+              </explanation_marker>
+              <statement>Dieser Fußball·spieler ist Timo Hübers.</statement>
+              <explanation_marker>
+                 <statement>Timo Hübers spielt bei Hannover 96.</statement>
+                 <explanations>
+                    <explanation id="1">
+                       <statement><style_element type="hi">Hannover 96 spielt in der 2. Bundesliga.</style_element></statement>
+                    </explanation>
+                 </explanations>
+              </explanation_marker>
+              <speech_marker>
+                 <speech_intro>
+                    <statement>Hannover 96 hat gesagt:</statement>
+                 </speech_intro>
+                 <speeches>
+                    <speech id="1">
+                       <statement>Timo Hübers war auf einer Veranstaltung.</statement>
+                    </speech>
+                    <speech id="2">
+                     <statement>Auf dieser Veranstaltung hatte ein Mensch das Corona-Virus.</statement>
+                    </speech>
+                    <speech id="3">
+                     <statement>Deshalb war Timo Hübers bei einem Arzt.</statement>
+                    </speech>
+                    <speech id="4">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement> Und dieser Arzt hat gesagt:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Jetzt hat auch Timo Hübers das Corona-Virus.</statement>
+                           </speech>
+                           <speech id="2">
+                              <statement>Aber Timo Hübers geht es gut.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                    </speech>
+                 </speeches>
+              </speech_marker>
+              <speech_marker>
+                 <speech_intro>
+                    <statement>Hannover 96 hat auch gesagt:</statement>
+                 </speech_intro>
+                 <speeches>
+                    <speech id="1">
+                       <statement>Timo Hübers hat sich auf der Veranstaltung mit dem Corona-Virus angesteckt.</statement>
+                    </speech>
+                    <speech id="2">
+                     <statement>Danach hat Timo Hübers <style_element type="hb">keine</style_element> anderen Spieler von Hannover 96 getroffen.</statement>
+                    </speech>
+                    <speech id="3">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Deshalb glauben wir:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement> <style_element type="hb">Kein</style_element> anderer Spieler von Hannover 96 hat sich mit dem Corona-Virus angesteckt.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                    </speech>
+                 </speeches>
+              </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Frau bei Unfall verletzt</subheadline>
+            <explanation_marker>
+               <statement>In Schmalfeld war ein Unfall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Schmalfeld ist in der Nähe von Bad Segeberg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei diesem Unfall wurde eine Frau verletzt.</statement>
+            <statement>Diese Frau ist 19 Jahre alt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Frau war betrunken.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Trotzdem ist die Frau Auto gefahren.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Die Frau hat die Kontrolle über ihr Auto verloren.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Dann hat sich das Auto von der Frau überschlagen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement> Jetzt ist die Frau in einem Kranken·haus.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2020-02-13_14-30_7.xml">
+   <title>Mehr Nachrichten vom 13.02.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-02-13_14-30</vdate>
+   <resources>
+      <resource id="1" name="2020-02-13_14-30_7-full.png" type="screenshot" url="2020-02-13_14-30_7-full.png"/>
+      <resource id="2" name="2020-02-13_14-30_7_plaintext.txt" type="plaintext" url="2020-02-13_14-30_7_plaintext.txt"/>
+      <resource id="3" name="2020-02-13_14-30_7_quellcode.txt" type="sourcecode" url="2020-02-13_14-30_7_quellcode.txt"/>
+      <resource id="4" name="2020-02-13_14-30_7.docx" type="formatedText" url="2020-02-13_14-30_7.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 13.02.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Mann muss lebenslang ins Gefängnis</subheadline>
+            <statement>Ein Gericht in Braunschweig hat einen Mann verurteilt.</statement>
+            <statement>Dieser Mann hat nämlich einen anderen Mann erschossen.</statement>
+            <statement>Der andere Mann war der Freund von der Schwester von dem Mann.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Gericht hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Im Januar 2019 ist der Mann zu einem Park·platz gefahren.</statement>
+                  </speech>
+                  <speech id="2">
+                     <explanation_marker>
+                        <statement>Dieser Park·platz ist in Salzgitter.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Salzgitter ist eine Stadt in der Nähe von Braunschweig.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="3">
+                     <statement>Auf dem Park·platz hat der Mann auf den anderen Mann geschossen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Die Schüsse haben den anderen Mann schwer verletzt.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Deshalb ist der andere Mann im Kranken·haus gestorben.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Und deshalb haben wir den Mann verurteilt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <explanation_marker>
+               <statement>Jetzt muss der Mann lebenslang ins Gefängnis.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>
+                        <style_element type="hi">Das heißt:</style_element>
+                     </headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Das heißt:</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Und vielleicht kommt der Mann <style_element type="hb">nie</style_element> wieder frei.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Großer Schaden durch Feuer</subheadline>
+            <explanation_marker>
+               <statement>In Owschlag war ein großes Feuer.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Owschlag ist ein Ort nördlich von Rendsburg.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Das Feuer war in der Nacht.</statement>
+            <statement>Und das Feuer war in einer großen Halle.</statement>
+            <statement>Das Feuer hat einen großen Schaden gemacht.</statement>
+            <statement>In der großen Halle waren nämlich viele Fahrzeuge von Bauern.</statement>
+            <statement>Aber bei dem Feuer wurde <style_element type="hb">kein</style_element> Mensch verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Feuer hat die Halle zerstört.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und das Feuer hat die Fahr·zeuge in der Halle zerstört.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Bei dem Feuer waren 100 Feuerwehr·leute im Einsatz.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Das Löschen von dem Feuer hat mehrere Stunden gedauert.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei weiß noch <style_element type="hb">nicht</style_element>:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum war das Feuer in der Halle?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

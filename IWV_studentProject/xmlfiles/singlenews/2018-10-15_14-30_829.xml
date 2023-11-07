@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-10-15_14-30_829.xml">
+   <title>Mehr Nachrichten vom 15.10.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-10-15_14-30</vdate>
+   <resources>
+      <resource id="1" name="2018-10-15_14-30_829-full.png" type="screenshot" url="2018-10-15_14-30_829-full.png"/>
+      <resource id="2" name="2018-10-15_14-30_829_plaintext.txt" type="plaintext" url="2018-10-15_14-30_829_plaintext.txt"/>
+      <resource id="3" name="2018-10-15_14-30_829_quellcode.txt" type="sourcecode" url="2018-10-15_14-30_829_quellcode.txt"/>
+      <resource id="4" name="2018-10-15_14-30_829.docx" type="formatedText" url="2018-10-15_14-30_829.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 15.10.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Mecklenburg-Vorpommern: Mann muss lange ins Gefängnis</subheadline>
+               <statement>Ein Gericht in Neubrandenburg hat einen Mann verurteilt.</statement>
+               <statement>Dieser Mann hat nämlich 2 Menschen verletzt.</statement>
+               <statement>Jetzt muss der Mann 9 Jahre ins Gefängnis.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Das Gericht hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Mann hat die 2 Menschen vor einem Imbiss gesehen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <statement>Die 2 Menschen waren:</statement>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <statement>• Ein anderer Mann.</statement>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <explanation_marker>
+                                    <statement>• Und die Ex-Freundin von dem Mann.</statement>
+                                    <explanations>
+                                       <explanation id="1">
+                                         <headword><style_element type="hi">Das heißt:</style_element></headword> 
+                                       </explanation>
+                                       <explanation id="2">
+                                          <statement><style_element type="hi">Die Frau war früher die Freundin von dem Mann.</style_element></statement>
+                                       </explanation>
+                                       <explanation id="3">
+                                          <statement><style_element type="hi">Aber dann haben die Frau und der Mann sich getrennt.</style_element></statement>
+                                       </explanation>
+                                    </explanations>
+                                 </explanation_marker>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Dann hat der Mann ein langes Messer genommen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Mit diesem Messer hat der Mann die 2 Menschen angegriffen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Die 2 Menschen wurden schwer verletzt.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Die Tat war sehr schlimm.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Deshalb muss der Mann jetzt 9 Jahre ins Gefängnis.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Niedersachsen: Züge fahren wieder</subheadline>
+               <statement>2 Wochen lang sind in Hannover viele Züge <style_element type="hb">nicht</style_element> gefahren.</statement>
+               <statement>In Hannover war nämlich eine Baustelle.</statement>
+               <statement>Die Baustelle war an einer alten Brücke.</statement>
+               <statement>Über diese alte Brücke sind sehr viele Züge gefahren.</statement>
+               <statement>Aber die alte Brücke war sehr kaputt.</statement>
+               <statement>Deshalb haben Bauarbeiter die alte Brücke abgerissen.</statement>
+               <statement>Und jetzt haben die Bauarbeiter eine neue Brücke gebaut.</statement>
+               <statement>Die Bauarbeiten haben 2 Wochen gedauert.</statement>
+               <statement>Jetzt können wieder Züge in Hannover fahren.</statement>
+               <statement>Zu den Bauarbeiten in Hannover gibt es auch eine Nachricht in Leichter Sprache.</statement>
+               <question>Sie wollen diese Nachricht lesen?</question>
+               <statement>
+                  <ref>
+                     Dann klicken Sie <style_element type="hu">hier</style_element>.
+                  </ref>
+               </statement>
+         </section>
+         <section id="3">
+            <subheadline>Schleswig-Holstein: Polizei kontrolliert Lkw</subheadline>
+               <statement>In Schleswig-Holstein gibt es viele Lkw-Unfälle.</statement>
+               <statement>Und Unfälle mit Lkw sind sehr schlimm.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Deshalb hat die Polizei jetzt gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir wollen die Lkw besser kontrollieren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <statement>Wir kontrollieren zum Beispiel:</statement>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <question>• Sind die Lkw kaputt?</question>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <question>• Oder sind die Lkw-Fahrer müde?</question>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Eine Woche lang machen wir ganz viele Kontrollen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

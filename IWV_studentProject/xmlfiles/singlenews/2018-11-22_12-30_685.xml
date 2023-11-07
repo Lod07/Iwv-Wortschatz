@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-22" url="2018-11-22_12-30_685.xml">
+   <title>Mehr Nachrichten vom 22.11.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-11-22_12-30</vdate>
+   <resources>
+      <resource id="1" name="2018-11-22_12-30_685-full.png" type="screenshot" url="2018-11-22_12-30_685-full.png"/>
+      <resource id="2" name="2018-11-22_12-30_685_plaintext.txt" type="plaintext" url="2018-11-22_12-30_685_plaintext.txt"/>
+      <resource id="3" name="2018-11-22_12-30_685_quellcode.txt" type="sourcecode" url="2018-11-22_12-30_685_quellcode.txt"/>
+      <resource id="4" name="2018-11-22_12-30_685.docx" type="formatedText" url="2018-11-22_12-30_685.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 22.11.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Letzter Otto-Katalog</subheadline>
+               <explanation_marker>
+                  <statement>Otto macht seinen letzten Katalog.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Otto ist eine Firma aus Hamburg.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Otto verkauft viele verschiedene Sachen.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Zum Beispiel Kleidung.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Diese Sachen stehen zum Beispiel in dem Otto-Katalog.</style_element></statement>
+                     </explanation>
+                     <explanation id="5">
+                        <statement><style_element type="hi">Menschen können diese Sachen bei Otto bestellen.</style_element></statement>
+                     </explanation>
+                     <explanation id="6">
+                        <statement><style_element type="hi">Dann schickt Otto diese Sachen zu den Menschen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Otto hat nämlich gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Nur noch wenige Menschen nutzen unseren Katalog.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Die meisten Menschen gucken sich unsere Sachen im Internet an.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb machen wir jetzt den letzten Otto-Katalog.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Danach können die Menschen unsere Sachen nur noch im Internet sehen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Den Otto-Katalog gibt es seit fast 70 Jahren.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: S-Bahn fährt wieder</subheadline>
+               <explanation_marker>
+                  <statement>In Mecklenburg-Vorpommern war eine S-Bahn-Strecke lange gesperrt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Auf dieser Stecke konnten keine S-Bahnen fahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Strecke ist von Rostock nach Warnemünde.</statement>
+               <statement>Auf dieser Strecke waren nämlich Bauarbeiten.</statement>
+               <statement>Jetzt sind diese Bauarbeiten fertig.</statement>
+               <statement>Deshalb können wieder S-Bahnen zwischen Rostock und Warnemünde fahren.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

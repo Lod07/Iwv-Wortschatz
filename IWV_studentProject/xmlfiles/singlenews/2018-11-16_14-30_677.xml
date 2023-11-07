@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-09" url="2018-11-16_14-30_677.xml">
+   <title>Mehr Nachrichten vom 16.11.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-11-16_14-30</vdate>
+   <resources>
+      <resource id="1" name="2018-11-16_14-30_677-full.png" type="screenshot" url="2018-11-16_14-30_677-full.png"/>
+      <resource id="2" name="2018-11-16_14-30_677_plaintext.txt" type="plaintext" url="2018-11-16_14-30_677_plaintext.txt"/>
+      <resource id="3" name="2018-11-16_14-30_677_quellcode.txt" type="sourcecode" url="2018-11-16_14-30_677_quellcode.txt"/>
+      <resource id="4" name="2018-11-16_14-30_677.docx" type="formatedText" url="2018-11-16_14-30_677.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 16.11.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg:  Neue Fahrten nach Helgoland</subheadline>
+               <explanation_marker>
+                  <statement>In diesem Winter gibt es neue Fahrten nach Helgoland.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Helgoland ist eine Insel.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Helgoland ist in der Nordsee.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und Helgoland gehört zu Schleswig-Holstein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Diese Fahrten macht ein Katamaran.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Katamaran ist ein besonderes Schiff.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Ein Katamaran hat 2 Rümpfe.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Ein Rumpf ist ein Teil von einem Schiff.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Mit diesem Teil schwimmt ein Schiff im Wasser.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und ein Katamaran ist sehr leicht.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Deshalb kann ein Katamaran sehr schnell fahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Dieser Katamaran fährt in Hamburg los.</statement>
+               <explanation_marker>
+                  <statement>Und in Cuxhaven.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Cuxhaven ist eine Stadt an der Nordsee.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker> 
+               <statement>Eigentlich fährt der Katamaran im Winter <style_element type="hb">nicht</style_element> nach Helgoland.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Aber jetzt hat der Besitzer von dem Katamaran gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Viele Menschen sind im Sommer mit dem Katamaran nach Helgoland gefahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Deshalb glauben wir:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Vielleicht wollen auch einige Menschen im Winter mit dem Katamaran fahren.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und deshalb fährt der Katamaran in diesem Jahr zum ersten Mal auch im Winter.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Die erste Fahrt nach Helgoland ist am 27. Dezember.</statement>
+               <statement>Und die letzte Fahrt ist am 6. Januar 2019.</statement>
+               <statement>Dann macht der Katamaran eine Pause bis zum 23. März 2019.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Kiel kauft Schloss</subheadline>
+               <explanation_marker>
+                  <statement>Die Stadt Kiel hat das Kieler Schloss gekauft.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Das Kieler Schloss ist am Hafen.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Im Kieler Schloss ist ein Kultur·zentrum.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Im Kieler Schloss sind Konzerte.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Oder Theater·aufführungen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Stadt Kiel hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Das Kieler Schloss ist ein wichtiges Gebäude für Kiel.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb soll das Kieler Schloss der Stadt Kiel gehören.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Im Kieler Schloss ist zum Beispiel ein großer Konzert·saal.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Aber dieser Konzert·saal ist schon sehr alt.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Jetzt gehört das Kieler Schloss der Stadt Kiel.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Deshalb kann die Stadt Kiel jetzt den Konzert·saal neu machen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

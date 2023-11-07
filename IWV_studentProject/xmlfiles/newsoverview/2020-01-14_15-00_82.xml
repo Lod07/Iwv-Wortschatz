@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2020-01-14_15-00_82.xml">
+   <title>Mehr Nachrichten vom 14.01.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-01-14_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-01-14_15-00_82-full.png" type="screenshot" url="2020-01-14_15-00_82-full.png"/>
+      <resource id="2" name="2020-01-14_15-00_82_plaintext.txt" type="plaintext" url="2020-01-14_15-00_82_plaintext.txt"/>
+      <resource id="3" name="2020-01-14_15-00_82_quellcode.txt" type="sourcecode" url="2020-01-14_15-00_82_quellcode.txt"/>
+      <resource id="4" name="2020-01-14_15-00_82.docx" type="formatedText" url="2020-01-14_15-00_82.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>   
+      <headline>Mehr Nachrichten vom 14.01.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Bus·fahrer streiken</subheadline>
+               <explanation_marker>
+                  <statement>In Schleswig-Holstein ist ein Streik.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Bei einem Streik arbeiten Menschen <style_element type="hb">nicht</style_element>.</style_element></statement> 
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Diese Menschen sind nämlich mit ihrer Arbeit <style_element type="hb">nicht</style_element> zufrieden.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Die Menschen wollen zum Beispiel mehr Geld.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Der Streik ist von Bus·fahrern.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Und der Streik ist in 4 Städten:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• In Kiel.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <headword>• In Neumünster.</headword>
+                     </enumeration>
+                     <enumeration id="3">
+                        <headword>• In Flensburg.</headword>
+                     </enumeration>
+                     <enumeration id="4">
+                        <statement>• Und in Lübeck.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>In diesen 4 Städten fahren viele Busse <style_element type="hb">nicht</style_element>.</statement> 
+               <statement>Oder Busse kommen zu spät.</statement>
+               <explanation_marker>
+                  <statement>Eine Gewerkschaft hilft den Bus·fahrern bei dem Streik.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Gewerkschaft ist zum Beispiel eine Vereinigung von Arbeitern.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Eine Gewerkschaft hilft Arbeitern zum Beispiel bei einem Streit mit der Firma.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Diese Gewerkschaft ist ver.di.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Ver.di hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Bus·fahrer sollen mehr Geld für ihre Arbeit bekommen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Am Mittwoch trifft sich ver.di mit dem Arbeitgeber von den Bus·fahrern.</statement>
+               <statement>Vielleicht bekommen die Bus·fahrer nach dem Treffen mehr Geld.</statement>               
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Fach·leute entschärfen Bombe in Kiel</subheadline>
+               <statement>In Kiel entschärfen Fach·leute am Mittwoch eine Bombe.</statement>
+               <statement>Diese Bombe ist aus dem 2. Weltkrieg.</statement>
+               <explanation_marker>
+                  <statement>Bau·arbeiter haben die Bombe auf einer Werft gefunden.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Werft ist eine Firma.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Eine Werft baut zum Beispiel Schiffe. </style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Die Werft ist in der Nähe von der Alt·stadt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Die Alt·stadt ist im Zentrum von Kiel.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei der Entschärfung von der Bombe darf <style_element type="hb">kein</style_element> Mensch auf der Werft sein.</statement> 
+               <statement>Und auch in Teilen von der Alt·stadt darf <style_element type="hb">kein</style_element> Mensch sein.</statement> 
+               <statement>Deshalb sperrt die Polizei ein großes Gebiet in Kiel.</statement>
+               <statement>Und viele Menschen müssen ihre Häuser verlassen.</statement>
+               <statement>Die Sperrung beginnt am Mittwoch um 8 Uhr.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

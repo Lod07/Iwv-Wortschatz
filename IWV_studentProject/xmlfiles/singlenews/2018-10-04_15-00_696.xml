@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-10-04_15-00_696.xml">
+   <title>Großes Feuer in Dannenberg</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-10-04_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-10-04_15-00_696-full.png" type="screenshot" url="2018-10-04_15-00_696-full.png"/>
+      <resource id="2" name="2018-10-04_15-00_696_plaintext.txt" type="plaintext" url="2018-10-04_15-00_696_plaintext.txt"/>
+      <resource id="3" name="2018-10-04_15-00_696_quellcode.txt" type="sourcecode" url="2018-10-04_15-00_696_quellcode.txt"/>
+      <resource id="4" name="2018-10-04_15-00_696.docx" type="formatedText" url="2018-10-04_15-00_696.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Großes Feuer in Dannenberg</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Dannenberg war ein großes Feuer</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Dannenberg ist eine Stadt in Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Das Feuer hat 3 Häuser zerstört.</statement>
+            <statement>Und bei dem Feuer wurde ein Feuerwehr·mann leicht verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>In der Innen·stadt von Dannenberg stehen viele alte Häuser.</statement>
+               <statement>In einem von diesen alten Häusern hat zuerst das Dach gebrannt.</statement>
+               <statement>Dann ist das Feuer schnell größer geworden.</statement>
+               <statement>Und dann haben 3 Häuser gebrannt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>350 Feuerwehr·leute haben mehrere Stunden gegen das Feuer gekämpft.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann war das Feuer gelöscht.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Feuerwehr hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Bei dem Feuer war viel giftiger Rauch.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Ein Feuerwehr·mann hat zu viel von diesem giftigen Rauch eingeatmet.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb hat dieser Feuerwehr·mann eine leichte Rauch·vergiftung bekommen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>30 Menschen können nicht mehr in den Häusern wohnen</subheadline>
+               <statement>In den 3 Häusern haben 30 Menschen gewohnt.</statement>
+               <statement>Diese 30 Menschen haben die 3 Häuser bei dem Feuer rechtzeitig verlassen.</statement>
+               <statement>Deshalb wurde bei dem Feuer <style_element type="hb">keiner</style_element> von diesen 30 Menschen verletzt.</statement>
+               <statement>Aber das Feuer hat die 3 Häuser zerstört.</statement>
+               <statement>Deshalb können die 30 Menschen jetzt <style_element type="hb">nicht</style_element> mehr in den 3 Häusern wohnen.</statement>
+         </section>
+         <section id="5">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will jetzt wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum ist das Feuer ausgebrochen?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Deshalb untersucht die Polizei jetzt die 3 Häuser.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

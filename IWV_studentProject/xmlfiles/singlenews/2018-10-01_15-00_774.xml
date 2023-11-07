@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-10-01_15-00_774.xml">
+   <title>Hannover: Viele Züge fahren nicht</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-10-01_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-10-01_15-00_774-full.png" type="screenshot" url="2018-10-01_15-00_774-full.png"/>
+      <resource id="2" name="2018-10-01_15-00_774_plaintext.txt" type="plaintext" url="2018-10-01_15-00_774_plaintext.txt"/>
+      <resource id="3" name="2018-10-01_15-00_774_quellcode.txt" type="sourcecode" url="2018-10-01_15-00_774_quellcode.txt"/>
+      <resource id="4" name="2018-10-01_15-00_774.docx" type="formatedText" url="2018-10-01_15-00_774.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Hannover: Viele Züge fahren nicht</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Hannover ist eine große Bau·stelle.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Hannover ist die Haupt·stadt von Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese große Bau·stelle ist an einer alten Brücke.</statement>
+            <statement>Über diese alte Brücke fahren sehr viele Züge.</statement>
+            <explanation_marker>
+               <statement>Aber jetzt ist die alte Brücke gesperrt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Über die alte Brücke dürfen <style_element type="hb">keine</style_element> Züge mehr fahren.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die alte Brücke wird nämlich abgerissen.</statement>
+            <statement>Die Arbeiten an der alten Brücke dauern 2 Wochen.</statement>
+            <statement>In diesen 2 Wochen fallen jeden Tag 350 Züge aus.</statement>
+            <statement>Deshalb können viele Menschen <style_element type="hb">nicht</style_element> mit dem Zug fahren.</statement>
+            <explanation_marker>
+               <statement>170 Züge werden jeden Tag umgeleitet.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Züge müssen auf anderen Strecken fahren.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und diese Züge müssen in anderen Bahn·höfen halten.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Deshalb müssen viele Menschen zu anderen Bahn·höfen fahren.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Bau·arbeiten dauern lange</subheadline>
+               <statement>Die alte Brücke ist aus dem Jahr 1880.</statement>
+               <statement>Und die alte Brücke ist sehr kaputt.</statement>
+               <statement>Deshalb wird jetzt eine neue Brücke gebaut.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Bau von der neuen Brücke dauert sehr lange.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und der Bau von der neuen Brücke ist sehr schwierig.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb müssen wir die Brücke noch öfter sperren.</statement>
+                     </speech>
+                     <speech id="4">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <headword> Zum Beispiel:</headword>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <statement>• Im April 2019.</statement>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <statement>• Und im Juli 2019.</statement>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                        <statement>Die neue Brücke soll in einem Jahr fertig sein.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

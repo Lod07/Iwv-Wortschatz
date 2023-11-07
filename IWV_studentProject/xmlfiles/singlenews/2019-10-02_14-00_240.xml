@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-30" url="2019-10-02_14-00_240.xml">
+   <title>Herbst·ferien: Viele Staus</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-02_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-10-02_14-00_240-full.png" type="screenshot" url="2019-10-02_14-00_240-full.png"/>
+      <resource id="2" name="2019-10-02_14-00_240_plaintext.txt" type="plaintext" url="2019-10-02_14-00_240_plaintext.txt"/>
+      <resource id="3" name="2019-10-02_14-00_240_quellcode.txt" type="sourcecode" url="2019-10-02_14-00_240_quellcode.txt"/>
+      <resource id="4" name="2019-10-02_14-00_240.docx" type="formatedText" url="2019-10-02_14-00_240.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Herbst·ferien: Viele Staus</headline>
+      <sections>
+         <section id="1">
+            <statement>In Nord·deutschland beginnen am Freitag die Herbst·ferien.</statement>
+            <statement>In den Herbstferien ist <style_element type="hb">kein</style_element> Schul·unterricht.</statement>
+            <statement>Deshalb machen viele Menschen in den Herbst·ferien eine Reise.</statement>
+            <statement>Viele von diesen Menschen machen die Reise mit dem Auto.</statement>
+            <explanation_marker>
+               <statement>Deshalb sind wahrscheinlich viele Staus auf den Straßen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Viele Auto·fahrer müssen auf den Straßen lange warten.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Staus schon am Mittwoch</subheadline>
+            <explanation_marker>
+               <statement>Der ADAC warnt Auto·fahrer vor den Staus.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">ADAC ist die Abkürzung für <style_element type="hb">A</style_element>llgemeiner <style_element type="hb">D</style_element>eutscher <style_element type="hb">A</style_element>utomobil-<style_element type="hb">C</style_element>lub.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Der ADAC ist ein Verein.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Im ADAC sind viele Auto·fahrer.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Der ADAC hilft diesen Auto·fahrern.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Bei einem Unfall.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Oder bei einer Panne.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der ADAC hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <headword>Wir glauben:</headword>
+                  </speech>
+                  <speech id="2">
+                     <statement>Schon am Mittwoch sind Staus.</statement>
+                  </speech>
+                  <speech id="3">
+                     <explanation_marker>
+                        <statement>Am Donnerstag ist nämlich ein Feier·tag.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">An einem Feier·tag haben fast alle Menschen frei.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Und an einem Feier·tag müssen <style_element type="hb">keine</style_element> Schüler zur Schule.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und am Freitag müssen viele Menschen <style_element type="hb">keine</style_element> zur Arbeit.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Viele Menschen haben sich nämlich für Freitag Urlaub genommen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Viele Bau·stellen auf Auto·bahnen</subheadline>
+              <statement>Der ADAC warnt Auto·fahrer vor Staus auf den Auto·bahnen zur Nord·see.</statement> 
+               <statement>Und zur Ost·see.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Weitere Staus sind wahrscheinlich:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <statement>• Auf der Auto·bahn 7 zwischen Hamburg und Hannover.</statement>
+                     </enumeration>
+                     <enumeration id="2">
+                        <statement>• Und auf der Auto·bahn 1 zwischen Hamburg und Bremen.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der ADAC hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Auf vielen Auto·bahnen in Nord·deutschland sind Bau·stellen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Vor Bau·stellen sind oft Staus.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Am Ende von den Staus sind oft Unfälle.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Viele Auto·fahrer sehen den Stau nämlich zu spät.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Deshalb bremsen viele Auto·fahrer zu spät.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Und deshalb sollen Auto·fahrer vor Bau·stellen besonders vorsichtig fahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section> 
+      </sections>
+   </content>
+</annotation>

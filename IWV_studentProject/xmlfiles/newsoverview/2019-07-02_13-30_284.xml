@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-07-02_13-30_284.xml">
+   <title>Mehr Nachrichten vom 02.07.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-07-02_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-07-02_13-30_284-full.png" type="screenshot" url="2019-07-02_13-30_284-full.png"/>
+      <resource id="2" name="2019-07-02_13-30_284_plaintext.txt" type="plaintext" url="2019-07-02_13-30_284_plaintext.txt"/>
+      <resource id="3" name="2019-07-02_13-30_284_quellcode.txt" type="sourcecode" url="2019-07-02_13-30_284_quellcode.txt"/>
+      <resource id="4" name="2019-07-02_13-30_284.docx" type="formatedText" url="2019-07-02_13-30_284.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 02.07.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Gleis nach Unfall gesperrt</subheadline>
+               <statement>Auf der Bundes·straße 5 war ein Unfall.</statement>
+               <explanation_marker>
+                  <statement>Der Unfall war in Langenhorn.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Langenhorn ist ein Ort im Norden von Schleswig-Holstein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei dem Unfall wurde ein Lkw-Fahrer verletzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Lkw-Fahrer wollte mit seinem Lkw unter einer Brücke durchfahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Auf dem Lkw war ein Kran.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Dieser Kran war sehr groß.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb ist der Lkw mit dem Kran gegen die Brücke gefahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Auf der Brücke ist eine Zug·strecke.</statement>
+               <statement>Auf der Zug·strecke fahren Züge zwischen Hamburg und Sylt.</statement>
+               <statement>Nach dem Unfall sind Schäden an der Zug·strecke.</statement>
+               <explanation_marker>
+                  <statement>Deshalb hat die Polizei ein Gleis von der Zug·strecke gesperrt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Auf diesem Gleis darf <style_element type="hb">kein</style_element> Zug fahren.</style_element></statement> 
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Jetzt reparieren Arbeiter das Gleis.</statement>
+               <statement>Aber die Arbeiten dauern einige Tage.</statement>
+               <statement>Deshalb fallen einige Züge zwischen Hamburg und Sylt aus.</statement>
+               <statement>Und einige Züge haben Verspätung.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Mann festgenommen</subheadline>
+               <statement>In Oldenburg hat die Polizei einen Mann festgenommen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei glaubt nämlich:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Mann hat seine Freundin getötet.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Freundin war schwer verletzt.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und die Freundin ist zu ihren Nachbarn gegangen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Die Freundin wollte nämlich wahrscheinlich vor dem Mann flüchten.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Dann ist die Freundin gestorben.</statement>
+                     </speech>
+                     <speech id="5">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Wir wissen nicht:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question>Woran ist die Freundin gestorben?</question>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir wollten in die Wohnung von dem Mann gehen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber der Mann hat sich in seiner Wohnung eingeschlossen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und der Mann wollte uns <style_element type="hb">nicht</style_element> in die Wohnung lassen.</statement> 
+                     </speech>
+                     <speech id="4">
+                        <statement>Erst nach einigen Stunden hat der Mann uns in die Wohnung gelassen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Dann haben wir den Mann festgenommen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

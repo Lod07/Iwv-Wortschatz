@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-24" url="2020-03-18_15-00_176.xml">
+   <title>Angela Merkel spricht über Corona-Virus</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-03-18_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-03-18_15-00_176-full.png" type="screenshot" url="2020-03-18_15-00_176-full.png"/>
+      <resource id="2" name="2020-03-18_15-00_176_plaintext.txt" type="plaintext" url="2020-03-18_15-00_176_plaintext.txt"/>
+      <resource id="3" name="2020-03-18_15-00_176_quellcode.txt" type="sourcecode" url="2020-03-18_15-00_176_quellcode.txt"/>
+      <resource id="4" name="2020-03-18_15-00_176.docx" type="formatedText" url="2020-03-18_15-00_176.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Angela Merkel spricht über Corona-Virus</headline>
+      <sections>
+         <section id="1">
+            <statement>Viele Menschen haben Angst vor dem Corona-Virus.</statement>
+            <statement>Das Corona-Virus kann Menschen nämlich krank machen.</statement>
+            <statement>Deshalb wollen viele Menschen Informationen zum Corona-Virus haben.</statement>
+            <explanation_marker>
+               <statement>Und deshalb will die Bundes·kanzlerin heute über das Corona-Virus sprechen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die Bundes·kanzlerin ist die Chefin von der Regierung in Deutschland.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Bundes·kanzlerin ist Angela Merkel.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Angela Merkel will zum Beispiel sagen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wie gefährlich ist das Corona-Virus in Deutschland?</question>
+                  </speech>
+                  <speech id="2">
+                     <question>Und was können die Menschen gegen das Corona-Virus tun?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Das Erste zeigt die Rede von Angela Merkel im Fernsehen.</statement>
+            <statement>Die Rede ist um 20.15 Uhr.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Viele Menschen dürfen nicht nach Deutschland reisen</subheadline>
+            <statement>Das Corona-Virus ist sehr ansteckend.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Deshalb hat die Regierung in Deutschland gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Viele Menschen dürfen <style_element type="hb">nicht</style_element> nach Deutschland reisen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dann können sich diese Menschen <style_element type="hb">nicht</style_element>in Deutschland anstecken.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und diese Menschen können <style_element type="hb">keine</style_element> anderen Menschen in Deutschland anstecken.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Jetzt dürfen nur noch bestimmte Menschen nach Deutschland reisen.</statement>
+            <explanation_marker>
+               <statement>Diese Menschen müssen aus der EU sein.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">EU ist die Abkürzung für <style_element type="hb">E</style_element>uropäische <style_element type="hb">U</style_element>nion.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Europäische Union ist eine Gruppe von Ländern.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>In dieser Gruppe sind 27 Länder in Europa.</statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Oder diese Menschen müssen einen wichtigen Grund für die Reise haben.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <statement>• Diese Menschen wollen zu einer Beerdigung.</statement>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Oder diese Menschen müssen zu einem Gericht.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>  
+         <section id="4">
+            <statement>Die Polizei kontrolliert viele Menschen.</statement>
+            <statement>Zum Beispiel an Flug·häfen.</statement>
+            <question>Darf ein Mensch <style_element type="hb">nicht</style_element> nach Deutschland reisen?</question>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Dann sagt die Polizei zu diesem Menschen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Sie müssen Deutschland wieder verlassen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>    
+         <section id="5">
+            <subheadline>Keine Urlauber in Schleswig-Holstein</subheadline>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Regierung in Schleswig-Holstein hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement><style_element type="hb">Keine</style_element>Menschen sollen in Schleswig-Holstein Urlaub machen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die Polizei kontrolliert die Grenze nach Schleswig-Holstein.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und die Polizei lässt nur noch bestimmte Menschen nach Schleswig-Holstein.</statement>
+                  </speech>
+                  <speech id="4">
+                     <headword>Zum Beispiel:</headword>
+                  </speech>
+                  <speech id="5">
+                     <statement>Diese Menschen wohnen in Schleswig-Holstein.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Oder diese Menschen arbeiten in Schleswig-Holstein.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

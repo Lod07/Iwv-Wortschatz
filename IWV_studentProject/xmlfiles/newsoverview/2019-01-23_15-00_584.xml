@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-10" url="2019-01-23_15-00_584.xml">
+   <title>Mehr Nachrichten vom 23.01.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-01-23_15-00</vdate>
+   <resources>
+      <resource id="1" name="2019-01-23_15-00_584-full.png" type="screenshot" url="2019-01-23_15-00_584-full.png"/>
+      <resource id="2" name="2019-01-23_15-00_584_plaintext.txt" type="plaintext" url="2019-01-23_15-00_584_plaintext.txt"/>
+      <resource id="3" name="2019-01-23_15-00_584_quellcode.txt" type="sourcecode" url="2019-01-23_15-00_584_quellcode.txt"/>
+      <resource id="4" name="2019-01-23_15-00_584.docx" type="formatedText" url="2019-01-23_15-00_584.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 23.01.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Mann muss ins Gefängnis</subheadline>
+               <explanation_marker>
+                  <statement>In Kiel war ein Prozess.</statement> 
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement><style_element type="hi">Bei einem Prozess entscheidet das Gericht:</style_element></statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question><style_element type="hi">• Hat ein Mensch etwas Verbotenes getan?</style_element></question>
+                              </speech>
+                              <speech id="2">
+                                 <statement><style_element type="hi">Dann bekommt dieser Mensch eine Strafe.</style_element></statement>
+                              </speech>
+                              <speech id="3">
+                                 <question><style_element type="hi">• Oder hat ein Mensch <style_element type="hb">nichts</style_element> Verbotenes getan?</style_element></question>
+                              </speech>
+                              <speech id="4">
+                                 <statement><style_element type="hi">Dann bekommt dieser Mensch <style_element type="hb">keine</style_element> Strafe.</style_element></statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>     
+               <statement>Bei dem Prozess hat das Gericht einen Mann verurteilt.</statement>
+               <explanation_marker>
+                  <statement>Der Mann hat nämlich seine Tochter sexuell missbraucht.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Der Mann hat seine Tochter zu sexuellen Dingen gezwungen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Tochter war 11 Jahre alt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Das Gericht hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Missbrauch war sehr schlimm.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb muss der Mann 3 Jahre und 6 Monate ins Gefängnis.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: 10 Kinder verletzt</subheadline>
+               <explanation_marker>
+                  <statement>In Dörverden war ein Unfall.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Dörverden ist ein Ort in der Nähe von Verden.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei dem Unfall ist ein kleiner Lastwagen mit einem Bus zusammen·gestoßen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In dem Bus waren viele Kinder.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Diese Kinder waren auf dem Weg zur Schule.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>10 Kinder wurden bei dem Unfall leicht verletzt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Schleswig-Holstein: Bombe entschärft</subheadline>
+               <explanation_marker>
+                  <statement>In Kiel haben Fach·leute eine Bombe entschärft.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Fach·leute  haben die Bombe ungefährlich gemacht.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Bombe war im Stadt·teil Dietrichsdorf.</statement>
+               <statement>Für die Entschärfung hat die Polizei ein großes Gebiet gesperrt.</statement>
+               <statement>In diesem Gebiet wohnen 1000 Menschen.</statement>
+               <statement>Diese Menschen mussten ihre Häuser verlassen.</statement>
+               <statement>Nach der Entschärfung durften diese Menschen wieder in ihre Häuser gehen.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

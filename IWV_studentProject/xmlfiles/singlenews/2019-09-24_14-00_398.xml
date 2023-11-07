@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2019-09-24_14-00_398.xml">
+   <title>Teil von der Auto·bahn gesperrt</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-09-24_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-09-24_14-00_398-full.png" type="screenshot" url="2019-09-24_14-00_398-full.png"/>
+      <resource id="2" name="2019-09-24_14-00_398_plaintext.txt" type="plaintext" url="2019-09-24_14-00_398_plaintext.txt"/>
+      <resource id="3" name="2019-09-24_14-00_398_quellcode.txt" type="sourcecode" url="2019-09-24_14-00_398_quellcode.txt"/>
+      <resource id="4" name="2019-09-24_14-00_398.docx" type="formatedText" url="2019-09-24_14-00_398.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Teil von der Auto·bahn gesperrt</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Auf einem Teil von der A7 dürfen im Moment <style_element type="hb">keine</style_element> Autos fahren.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">A7 ist die Abkürzung für <style_element type="hb">A</style_element>uto·bahn <style_element type="hb">7</style_element>.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Teil ist in Schleswig-Holstein.</statement>
+            <statement>Und dieser Teil ist zwischen Bad Bramstedt und Kaltenkirchen.</statement>
+            <statement>An diesem Teil von der A7 sind nämlich Arbeiten.</statement>
+            <statement>Diese Arbeiten sind <style_element type="hb">nicht</style_element> auf der Auto·bahn.</statement>
+            <statement>Die Arbeiten sind an Strom·leitungen</statement>
+            <statement>Diese Arbeiten sind sehr gefährlich.</statement>
+            <statement>Bei diesen Arbeiten können nämlich Teile herunter·fallen.</statement>
+            <statement>Deshalb hat die Polizei die A7 bis Mittwoch gesperrt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Arbeiten an Strom·leitungen</subheadline>
+            <statement>An der A7 sind viele Strom·leitungen.</statement>
+            <statement>Diese Strom·leitungen hängen an hohen Masten.</statement>
+            <statement>Diese Strom·leitungen sind über der Auto·bahn.</statement>
+            <statement>Und neben der Auto·bahn.</statement>
+            <statement>Diese Strom·leitungen sind von einer Firma.</statement>
+            <statement>Diese Firma heißt Tennet.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Ein Sprecher von Tennet hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Strom·leitungen sind für Vögel sehr gefährlich.</statement>
+                  </speech>
+                  <speech id="2">
+                     <question>Vögel fliegen gegen die Strom·leitungen?</question>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dann sterben diese Vögel.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Deshalb hängen an den Strom·leitungen besondere Sachen.</statement>
+            <statement>Diese besonderen Sachen schützen Vögel.</statement>
+            <explanation_marker>
+               <statement>Und diese besonderen Sachen heißen Vogel·marker.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Vogel·marker bewegen sich im Wind.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Durch diese Bewegungen werden Vögel abgeschreckt.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Die Vögel haben Angst vor den Vogel·markern.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>                     
+                  </explanation>
+                  <explanation id="3">
+                     <statement>Deshalb setzen sich die Vögel zum Beispiel nicht auf die Stromleitungen.</statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Jetzt werden diese Vogel·marker erneuert.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Gefährliche Arbeiten mit Hubschrauber</subheadline>
+            <statement>Bei den Arbeiten an den Strom·leitungen ist ein Hubschrauber im Einsatz.</statement>
+            <statement>In dem Hubschrauber ist der Pilot von dem Hubschrauber.</statement>
+            <statement>Und ein Arbeiter.</statement>
+            <statement>Der Pilot von dem Hubschrauber fliegt ganz dicht an die Strom·leitung.</statement>
+            <statement>Dann kann der Arbeiter die Vogel·marker an der Strom·leitung fest·machen.</statement>
+            <statement>Diese Arbeiten sind sehr gefährlich.</statement>
+            <statement>Bei diesen Arbeiten können nämlich Teile herunter·fliegen.</statement>
+            <statement>Dann können diese Teile zum Beispiel Autos treffen.</statement>
+            <statement>Deshalb ist die Auto·bahn bis Mittwoch gesperrt.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

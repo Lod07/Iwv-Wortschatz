@@ -1,0 +1,202 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-27" url="2019-05-23_13-30_440.xml">
+   <title>Mehr Nachrichten vom 23.05.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-05-23_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-05-23_13-30_440-full.png" type="screenshot" url="2019-05-23_13-30_440-full.png"/>
+      <resource id="2" name="2019-05-23_13-30_440_plaintext.txt" type="plaintext" url="2019-05-23_13-30_440_plaintext.txt"/>
+      <resource id="3" name="2019-05-23_13-30_440_quellcode.txt" type="sourcecode" url="2019-05-23_13-30_440_quellcode.txt"/>
+      <resource id="4" name="2019-05-23_13-30_440.docx" type="formatedText" url="2019-05-23_13-30_440.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 23.05.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: 2 Männer nach Feuer festgenommen</subheadline>
+               <statement>In Göttingen war ein Feuer.</statement>
+               <statement>Das Feuer war in einem Wohn·haus.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>2 Männer haben wahrscheinlich Müll·container angezündet.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Müll·container sind große Kisten.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Diese großen Kisten sind für Müll.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Die Müll·container waren vor dem Wohn·haus.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Dann ist das Feuer wahrscheinlich größer geworden.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und dann war das Feuer auch in dem Wohn·haus.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir haben 34 Menschen in Sicherheit gebracht.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Diese 34 Menschen haben wir mit Leitern aus dem Wohn·haus geholt.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>2 von diesen 34 Menschen wurden verletzt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Die Polizei hat 2 Männer festgenommen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei glaubt nämlich:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Diese 2 Männer haben wahrscheinlich die Müll·container angezündet.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Mann angeschossen</subheadline>
+               <statement>In Hamburg war ein Verbrechen.</statement>
+               <statement>Das Verbrechen war im Stadt·teil Rahlstedt.</statement>
+               <statement>Bei dem Verbrechen wurde ein Mann schwer verletzt.</statement>
+               <statement>Ein anderer Mann hat den Mann nämlich angeschossen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Mann war mit einer Frau in einem Park.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann hat der Mann wahrscheinlich den anderen Mann getroffen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und der Mann hat mit dem anderen Mann gesprochen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Dann hat der andere Mann zu der Frau gesagt:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Leg dich auf den Boden.</statement>
+                              </speech>
+                               <speech id="2">
+                                 <statement>Und dreh dein Gesicht weg.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="5">
+                        <statement>Und dann hat der andere Mann dem Mann in die Schulter geschossen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Jetzt ist der andere Mann auf der Flucht.</statement>
+               <statement>Und die Polizei sucht den anderen Mann.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Mecklenburg-Vorpommern: Schüler streiten sich</subheadline>
+               <statement>In Wismar war ein schlimmer Streit.</statement>
+               <statement>Bei dem Streit haben sich 40 Schüler geprügelt.</statement>
+               <statement>Und bei dem Streit wurden 3 Schüler verletzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Streit war auf dem Markt·platz in Wismar.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Auf dem Markt·platz in Wismar waren 100 Schüler.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Diese Schüler sind aus 5 Schul·klassen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <statement>Und diese Schüler sind:</statement>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <headword>• Aus Hamburg.</headword>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <explanation_marker>
+                                    <statement>• Und aus Teltow.</statement>
+                                    <explanations>
+                                       <explanation id="1">
+                                          <explanation_marker>
+                                             <statement><style_element type="hi">Teltow ist eine Stadt in Brandenburg.</style_element></statement>
+                                             <explanations>
+                                                <explanation id="1">
+                                                   <statement><style_element type="hi">Brandenburg ist ein Bundes·land im Osten von Deutschland.</style_element></statement>
+                                                </explanation>
+                                             </explanations>
+                                          </explanation_marker>
+                                       </explanation>
+                                       <explanation id="2">
+                                          <explanation_marker>
+                                             <statement><style_element type="hi">Und Teltow ist in der Nähe von Berlin.</style_element></statement>
+                                             <explanations>
+                                                <explanation id="1">
+                                                   <statement><style_element type="hi">Berlin ist die Haupt·stadt von Deutschland.</style_element></statement>
+                                                </explanation>
+                                             </explanations>
+                                          </explanation_marker>
+                                       </explanation>
+                                    </explanations>
+                                 </explanation_marker>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </speech>
+                     <speech id="5">
+                        <statement>Einige von diesen Schülern haben sich gestritten.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Dann ist der Streit schlimmer geworden.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Und 40 Schüler haben sich geprügelt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-17" url="2019-02-22_13-30_607.xml">
+   <title>Mehr Nachrichten vom 22.02.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-02-22_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-02-22_13-30_607-full.png" type="screenshot" url="2019-02-22_13-30_607-full.png"/>
+      <resource id="2" name="2019-02-22_13-30_607_plaintext.txt" type="plaintext" url="2019-02-22_13-30_607_plaintext.txt"/>
+      <resource id="3" name="2019-02-22_13-30_607_quellcode.txt" type="sourcecode" url="2019-02-22_13-30_607_quellcode.txt"/>
+      <resource id="4" name="2019-02-22_13-30_607.docx" type="formatedText" url="2019-02-22_13-30_607.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 22.02.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Wolf kann getötet werden</subheadline>
+               <statement>Ein Wolf bei Nienburg kann getötet werden.</statement>
+               <statement>Das hat ein Gericht entschieden.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Das Gericht hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Fach·leute haben den Wolf genau beobachtet.</statement>
+                     </speech>
+                     <speech id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Und die Fach·leute haben gesagt:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Der Wolf ist gefährlich.</statement>
+                              </speech>
+                              <speech id="2">
+                                 <statement>Der Wolf hat nämlich viele Tiere getötet.</statement>
+                              </speech>
+                              <speech id="3">
+                                 <statement>Zum Beispiel Kühe.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Wir müssen die Tiere schützen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb kann der Wolf nun getötet werden.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Polizei nimmt Mann fest</subheadline>
+               <statement>Die Polizei hat in Schwerin einen Mann festgenommen.</statement>
+               <explanation_marker>
+                  <statement>Die Polizei hat nämlich Drogen bei dem Mann gefunden.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Drogen sind gefährlich für den Körper.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Deshalb sind Drogen verboten.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Mann ist in seinem Auto zu schnell gefahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb haben wir das Auto von dem Mann kontrolliert.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>In diesem Auto waren viele Drogen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb haben wir den Mann festgenommen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Später hat die Polizei auch die Wohnung von dem Mann kontrolliert.</statement>
+               <statement>Und die Polizei hat auch in der Wohnung Drogen gefunden.</statement>
+               <statement>Jetzt muss der Mann vielleicht ins Gefängnis.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

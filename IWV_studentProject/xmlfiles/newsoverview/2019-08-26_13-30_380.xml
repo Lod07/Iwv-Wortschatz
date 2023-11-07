@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-03" url="2019-08-26_13-30_380.xml">
+   <title>Mehr Nachrichten vom 26.08.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-08-26_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-08-26_13-30_380-full.png" type="screenshot" url="2019-08-26_13-30_380-full.png"/>
+      <resource id="2" name="2019-08-26_13-30_380_plaintext.txt" type="plaintext" url="2019-08-26_13-30_380_plaintext.txt"/>
+      <resource id="3" name="2019-08-26_13-30_380_quellcode.txt" type="sourcecode" url="2019-08-26_13-30_380_quellcode.txt"/>
+      <resource id="4" name="2019-08-26_13-30_380.docx" type="formatedText" url="2019-08-26_13-30_380.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 26.08.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Mecklenburg-Vorpommern: Weniger Äpfel</subheadline>
+            <statement>Die Apfel·ernte in Mecklenburg-Vorpommern ist in diesem Jahr sehr schlecht.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Bauern haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Im Mai haben die Apfel·bäume geblüht.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und im Mai waren die Nächte sehr kalt.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Die Kälte war <style_element type="hb">nicht</style_element> gut für die Blüten von den Apfel·bäumen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Viele Blüten sind bei der Kälte nämlich erfroren.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Deshalb sind an den Apfel·bäumen viel weniger Äpfel gewachsen.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Im vergangenen Jahr haben wir 44.000 Tonnen Äpfel geerntet.</statement>
+                  </speech>
+                  <speech id="7">
+                     <statement>In diesem Jahr ernten wir wahrscheinlich <style_element type="hb">nur</style_element> 15.000 Tonnen Äpfel.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Junge stirbt bei Bus·unfall</subheadline>
+            <statement>Am Sonntag war in Hamburg ein schwerer Unfall.</statement>
+            <statement>Der Unfall war im Stadt·teil Billstedt.</statement>
+            <statement>Und der Unfall war mit einem Bus.</statement>
+            <statement>Der Bus hat einen Jungen überfahren.</statement>
+            <statement>Der Junge war 5 Jahre alt.</statement>
+            <statement>Und der Junge ist bei dem Unfall gestorben.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Wir wissen noch <style_element type="hb">nicht</style_element> genau:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Wie ist der Unfall passiert?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Aber wir glauben:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Der Junge ist auf die Straße gelaufen.</statement>
+                           </speech>
+                           <speech id="2">
+                              <statement>Der Bus·fahrer hat den Jungen zu spät gesehen.</statement>
+                           </speech>
+                           <speech id="3">
+                              <statement>Deshalb konnte der Bus·fahrer <style_element type="hb">nicht</style_element> mehr rechtzeitig bremsen.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>  
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum ist der Junge auf die Straße gelaufen?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

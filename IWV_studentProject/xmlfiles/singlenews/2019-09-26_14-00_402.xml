@@ -1,0 +1,210 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2019-09-26_14-00_402.xml">
+   <title>Deutscher Radio·preis in Hamburg</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-09-26_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-09-26_14-00_402-full.png" type="screenshot" url="2019-09-26_14-00_402-full.png"/>
+      <resource id="2" name="2019-09-26_14-00_402_plaintext.txt" type="plaintext" url="2019-09-26_14-00_402_plaintext.txt"/>
+      <resource id="3" name="2019-09-26_14-00_402_quellcode.txt" type="sourcecode" url="2019-09-26_14-00_402_quellcode.txt"/>
+      <resource id="4" name="2019-09-26_14-00_402.docx" type="formatedText" url="2019-09-26_14-00_402.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Deutscher Radio·preis in Hamburg</headline>
+      <sections>
+         <section id="1">
+            <statement>In Hamburg war eine große Feier.</statement>
+            <statement>Bei dieser Feier haben Mit·arbeiter von Radio·sendern eine Auszeichnung bekommen.</statement>
+            <statement>Diese Auszeichnung heißt: Deutscher Radio·preis.</statement>
+            <statement>Der Deutsche Radio·preis ist jedes Jahr.</statement>
+            <statement>In diesem Jahr war der Deutsche Radio·preis zum 10. Mal.</statement>
+            <explanation_marker>
+               <statement>Beim Deutschen Radio·preis gibt es 12 Kategorien.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Kategorien sind bestimmte Bereiche.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese Kategorien heißen zum Beispiel:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Beste Sendung.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <statement>• Oder bester Moderator.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Moderator ist ein Beruf.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Moderatoren arbeiten zum Beispiel beim Radio.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Und Moderatoren machen zum Beispiel Interviews.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">Bei einem Interview stellt ein Mensch einem anderen Menschen Fragen.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>In jeder Kategorie waren Mitarbeiter von einem bestimmten Radio·sender besonders gut.</statement>
+            <statement>Deshalb haben diese Mitarbeiter einen Radio·preis in dieser Kategorie gewonnen.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Mitarbeiter vom NDR gewinnen Radio·preise</subheadline>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Auch Mit·arbeiter vom NDR haben Radio·preise gewonnen:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <explanation_marker>
+                        <statement>• Ein Mitarbeiter von NDR Info.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">NDR Info ist ein Radio·sender vom NDR.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">NDR Info sendet viele Informationen.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Zum Beispiel viele Nachrichten.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>                  
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <statement>• Und Mitarbeiter von N-JOY.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">N-JOY ist ein Radio·sender vom NDR.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Und N-JOY ist vor allem für junge Menschen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <explanation_marker>
+               <statement>Der Mit·arbeiter von NDR Info hat eine sehr gute Reportage gemacht.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Reportage ist so etwas wie eine Erzählung.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Eine Reportage ist meistens sehr lang.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und eine Reportage gibt es zum Beispiel im Radio.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Oder in einer Zeitung.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Mitarbeiter von NDR Info ist Holger Senzel.</statement>
+            <explanation_marker>
+               <statement>Die Mitarbeiter von N-JOY haben sehr gute Morgen·sendungen gemacht.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Morgen·sendung ist eine Sendung im Radio.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Sendung ist morgens.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und diese Sendung ist meistens lustig.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Die Mitarbeiter von N-JOY sind:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Andreas Kuhlage.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Und Jens Hardeland.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="3">
+            <subheadline>Die große Feier</subheadline>
+            <explanation_marker>
+               <statement>Die große Feier war in der Elb·philharmonie.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Die Elb·philharmonie ist ein großes Konzert·haus.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">In einem Konzert·haus sind Musik·konzerte.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und die Elb·philharmonie ist am Hafen von Hamburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei der Feier waren viele bekannte Menschen.</statement>
+            <explanation_marker>
+               <statement>Zum Beispiel Frank-Walter Steinmeier.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Frank-Walter Steinmeier ist der Bundes·präsident.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Der Bundes·präsident ist der Chef von Deutschland.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und bei der Feier haben viele bekannte Sänger gesungen.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Herbert Grönemeyer.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Und Udo Lindenberg.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

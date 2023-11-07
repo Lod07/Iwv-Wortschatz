@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-18" url="2019-08-02_13-30_274.xml">
+   <title>Mehr Nachrichten vom 02.08.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-08-02_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-08-02_13-30_274-full.png" type="screenshot" url="2019-08-02_13-30_274-full.png"/>
+      <resource id="2" name="2019-08-02_13-30_274_plaintext.txt" type="plaintext" url="2019-08-02_13-30_274_plaintext.txt"/>
+      <resource id="3" name="2019-08-02_13-30_274_quellcode.txt" type="sourcecode" url="2019-08-02_13-30_274_quellcode.txt"/>
+      <resource id="4" name="2019-08-02_13-30_274.docx" type="formatedText" url="2019-08-02_13-30_274.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 02.08.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Mann muss lange ins Gefängnis</subheadline>
+            <explanation_marker>
+               <statement>In Hamburg war ein Prozess.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Prozess hat ein Gericht einen Mann verurteilt.</statement>
+            <statement>Der Mann hat nämlich eine Frau getötet.</statement>
+            <explanation_marker>
+               <statement>Jetzt muss der Mann lebenslang ins Gefängnis.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Der Mann muss für mindestens 15 Jahre ins Gefängnis.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Und der Mann kommt vielleicht 
+                        <style_element type="hb">nie</style_element> 
+                        wieder frei.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Gericht hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Frau war früher mit dem Mann zusammen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die Frau hat 4 Kinder.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>2 von diesen 4 Kindern sind von dem Mann.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Aber die Frau hat sich von dem Mann getrennt.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Jetzt ist der Mann zu der Frau gegangen.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Und der Mann hatte ein Messer.</statement>
+                  </speech>
+                  <speech id="7">
+                     <statement>Mit diesem Messer hat der Mann 40 Mal zugestochen.</statement>
+                  </speech>
+                  <speech id="8">
+                     <statement>Dann ist die Frau gestorben.</statement>
+                  </speech>
+                  <speech id="9">
+                     <statement>Die Tat war sehr schlimm.</statement>
+                  </speech>
+                  <speech id="10">
+                     <statement>Deshalb muss der Mann sehr lange ins Gefängnis.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Viele Drogen gefunden</subheadline>
+            <explanation_marker>
+               <statement>Fach·leute haben im Hafen eine große Menge Kokain gefunden.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Kokain ist eine Droge.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Drogen sind gefährlich für den Körper.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Deshalb sind Drogen verboten.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Diese Fach·leute sind vom Zoll.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Der Zoll macht Kontrollen an besonderen Orten.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword><style_element type="hi">• Am Flug·hafen.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <statement><style_element type="hi">• Oder im Hafen.</style_element></statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+                  <explanation id="3">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Der Zoll will nämlich wissen:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question><style_element type="hi">Bringen Menschen verbotene Sachen ins Land?</style_element></question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der Zoll hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir haben im Hafen einen Container kontrolliert.</statement>
+                  </speech>
+                  <speech id="2">
+                     <explanation_marker>
+                        <statement>In diesem Container haben wir 4,5 Tonnen Kokain gefunden.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Eine Tonne sind 1000 Kilo.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="3">
+                     <explanation_marker>
+                        <statement>Das Kokain ist fast eine Milliarde Euro wert.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Eine Milliarde sind 1000 Millionen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="4">
+                     <statement>Noch nie hat der Zoll in Deutschland so viel Kokain gefunden.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

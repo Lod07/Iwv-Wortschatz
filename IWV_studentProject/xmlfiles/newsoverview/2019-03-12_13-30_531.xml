@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-17" url="2019-03-12_13-30_531.xml">
+   <title>Mehr Nachrichten vom 12.03.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-03-12_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-03-12_13-30_531-full.png" type="screenshot" url="2019-03-12_13-30_531-full.png"/>
+      <resource id="2" name="2019-03-12_13-30_531_plaintext.txt" type="plaintext" url="2019-03-12_13-30_531_plaintext.txt"/>
+      <resource id="3" name="2019-03-12_13-30_531_quellcode.txt" type="sourcecode" url="2019-03-12_13-30_531_quellcode.txt"/>
+      <resource id="4" name="2019-03-12_13-30_531.docx" type="formatedText" url="2019-03-12_13-30_531.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 12.03.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Fach·leute warnen vor Sturm</subheadline>
+               <explanation_marker>
+                  <statement>In Niedersachsen ist ein Sturm.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Bei einem Sturm weht sehr starker Wind.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Deshalb sind manche Stürme gefährlich.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Dieser Sturm ist von Dienstagnachmittag bis Mittwochmorgen.</statement>
+               <statement>Und dieser Sturm ist wahrscheinlich sehr stark.</statement>
+               <explanation_marker>
+                  <statement>Im Harz ist dieser Sturm wahrscheinlich besonders stark.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Der Harz ist ein Gebirge.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Deshalb haben Fach·leute die Menschen im Harz vor dem Sturm gewarnt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <headword>Achtung!</headword>
+                     </speech>
+                     <speech id="2">
+                        <statement>Es kommt wahrscheinlich ein gefährlicher Sturm.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb sollen die Menschen sehr vorsichtig sein.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und die Menschen sollen in ihren Häusern bleiben.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Probleme im Hafen</subheadline>
+               <statement>Im Hamburger Hafen hat es am Dienstag Probleme gegeben.</statement>
+               <explanation_marker>
+                  <statement>Im Hamburger Hafen sind nämlich Computer ausgefallen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi"><style_element type="hb">Kein</style_element> Mensch konnte an den Computern arbeiten.</style_element></statement>
+                     </explanation>
+                  </explanations> 
+               </explanation_marker>
+               <statement>Diese Computer sind von einem großen Unternehmen.</statement>
+               <explanation_marker>
+                  <statement>Dieses Unternehmen verlädt zum Beispiel Container im Hamburger Hafen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Container sind große Kisten.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">In den Kisten sind Waren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Aber ohne die Arbeit am Computer kann das Unternehmen <style_element type="hb">keine</style_element> Container verladen.</statement>
+               <statement>Deshalb mussten viele Lkw im Hamburger Hafen warten.</statement>
+               <statement>Die Lkw konnten ihre Waren nämlich <style_element type="hb">nicht</style_element> abladen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Dann hat eine Sprecherin von dem Unternehmen gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Jetzt können wir wieder an den Computern arbeiten.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und jetzt können die Lkw ihre Waren wieder abladen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <explanation_marker>
+                  <statement>Aber es gibt noch Staus im Hamburger Hafen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Viele Lkw müssen noch warten.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

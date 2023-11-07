@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-01" url="2018-06-15_15-00_741.xml">
+   <title>Fach·leute entschärfen Bomben in Schwerin</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-06-15_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-06-15_15-00_741-full.png" type="screenshot" url="2018-06-15_15-00_741-full.png"/>
+      <resource id="2" name="2018-06-15_15-00_741_plaintext.txt" type="plaintext" url="2018-06-15_15-00_741_plaintext.txt"/>
+      <resource id="3" name="2018-06-15_15-00_741_quellcode.txt" type="sourcecode" url="2018-06-15_15-00_741_quellcode.txt"/>
+      <resource id="4" name="2018-06-15_15-00_741.docx" type="formatedText" url="2018-06-15_15-00_741.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Fach·leute entschärfen Bomben in Schwerin</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Mecklenburg-Vorpommern haben Fach·leute 2 Bomben entschärft.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Bomben waren gefährlich.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Aber die Fach·leute haben die Bomben ungefährlich gemacht.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Jetzt können die Bomben <style_element type="hb">nicht</style_element> mehr explodieren.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Bomben waren in Schwerin.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Schwerin ist die Haupt·stadt von Mecklenburg-Vorpommern.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Vor der Entschärfung von den Bomben haben die Fach·leute gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Vielleicht explodieren die Bomben.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb darf <style_element type="hb">niemand</style_element> in der Nähe von den Bomben sein.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Dann hat die Polizei das Gebiet in der Nähe von den Bomben gesperrt.</statement>
+            <statement>In dem Gebiet sind mehrere Häuser.</statement>
+            <statement>Zum Beispiel mit Wohnungen.</statement>
+            <statement>Oder mit Büros.</statement>
+            <statement>Die Menschen mussten diese Häuser verlassen.</statement>
+         </section>
+         <section id="3">
+            <statement>In dem Gebiet fahren auch Züge.</statement>
+            <statement>Diese Züge durften <style_element type="hb">nicht</style_element> mehr fahren.</statement>
+            <statement>Und in dem Gebiet fahren Busse.</statement>
+            <statement>Diese Busse durften auch <style_element type="hb">nicht</style_element> mehr fahren.</statement>
+         </section>
+         <section id="4">
+            <statement>Nach der Entschärfung von den Bomben durften die Menschen wieder in die Häuser.</statement>
+            <statement>Und nach der Entschärfung von den Bomben durften die Züge wieder fahren.</statement>
+            <statement>Und die Busse durften wieder fahren.</statement>
+         </section>
+         <section id="5">
+            <subheadline>Woher waren die Bomben?</subheadline>
+               <statement>Die Bomben waren aus Amerika.</statement>
+               <statement>Und die Bomben waren aus dem 2. Welt·krieg.</statement>
+               <statement>Im 2. Welt·krieg haben Flugzeuge über vielen Städten Bomben abgeworfen.</statement>
+               <statement>Auch über Schwerin.</statement>
+               <statement>Aber manche Bomben sind <style_element type="hb">nicht</style_element> explodiert.</statement>
+               <statement>Diese Bomben heißen Blind·gänger.</statement>
+               <statement>Die Bomben in Schwerin waren auch Blind·gänger.</statement>
+         </section>
+         <section id="6">
+            <subheadline>Andere Bomben in Schwerin</subheadline>
+               <statement>Fach·leute haben die 2 Bomben in Schwerin entschärft.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir haben noch 3 andere Bomben gefunden.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Diese Bomben sind besonders gefährlich.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb können wir diese Bomben <style_element type="hb">nicht</style_element> entschärfen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und deshalb müssen wir diese Bomben sprengen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

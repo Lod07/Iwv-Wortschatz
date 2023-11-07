@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-10-10_13-30_823.xml">
+   <title>Mehr Nachrichten vom 10.10.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-10-10_13-30</vdate>
+   <resources>
+      <resource id="1" name="2018-10-10_13-30_823-full.png" type="screenshot" url="2018-10-10_13-30_823-full.png"/>
+      <resource id="2" name="2018-10-10_13-30_823_plaintext.txt" type="plaintext" url="2018-10-10_13-30_823_plaintext.txt"/>
+      <resource id="3" name="2018-10-10_13-30_823_quellcode.txt" type="sourcecode" url="2018-10-10_13-30_823_quellcode.txt"/>
+      <resource id="4" name="2018-10-10_13-30_823.docx" type="formatedText" url="2018-10-10_13-30_823.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 10.10.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Weniger junge Seehunde</subheadline>
+               <explanation_marker>
+                  <statement>In Friedrichskoog ist eine Seehund·station.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">In einer Seehund·station sind zum Beispiel junge Seehunde.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Seehunde sind Tiere.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Und Seehunde leben im Meer.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Zum Beispiel in der Nordsee.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und in einer Seehund·station pflegen Menschen zum Beispiel junge Seehunde.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Besucher können sich die Seehunde in der Seehund·station angucken.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>In diese Seehund·station kommen jedes Jahr viele junge Seehunde.</statement>
+               <statement>Junge Seehunde heißen auch Heuler.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Ein Sprecher von der Seehund·station hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In diesem Jahr waren weniger Heuler in der Seehund·station.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>In diesem Jahr waren nämlich nur 200 Heuler in der Seehund·station.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Aber im vergangenen Jahr waren 300 Heuler in der Seehund·station.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und in diesem Jahr waren auch weniger Besucher in der Seehund·station.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Hamburg: Tennis·spieler im Achtel·finale</subheadline>
+               <explanation_marker>
+                  <statement>Alexander Zverev hat ein wichtiges Tennis·spiel gewonnen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Alexander Zverev ist ein Tennis·spieler aus Hamburg.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Das Tennis·spiel war in China.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">China ist ein Land in Asien.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Das Tennis·spiel war gegen Nikolos Basilaschwili.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Nikolos Basilaschwili ist ein Tennis·spieler aus Georgien.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Georgien ist ein Land an der Grenze zwischen Europa und Asien.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Und das Tennis·spiel war bei einem Tennis·turnier.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Bei einem Tennis·turnier gibt es viele Spiele.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Nur die Gewinner von den Spielen dürfen bei dem Tennis·turnier weiter·spielen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Jetzt ist Alexander Zverev im Achtel·finale von dem Tennis·turnier.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Im Achtel·finale spielen 16 Spieler.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Nur die 8 Gewinner von den Spielen dürfen in dem Turnier weiter·spielen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <section id="3">
+            <subheadline>Niedersachsen: Feuer im Moor gelöscht</subheadline>
+               <statement>Im Emsland war ein großes Feuer.</statement>
+               <explanation_marker>
+                  <statement>Bei diesem Feuer hat ein Moor gebrannt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Moor ist eine große Fläche.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und ein Moor hat einen besonderen Boden.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Dieser Boden ist meistens nass.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Das Moor hat mehr als 5 Wochen gebrannt.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber jetzt haben wir das Feuer gelöscht.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Das war sehr schwierig.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Das Feuer war nämlich tief im Boden.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Deshalb waren sehr viele Helfer im Einsatz.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="4">
+            <statement>In dem Moor wohnen <style_element type="hb">keine</style_element> Menschen.</statement>
+            <statement>Deshalb wurden bei dem Feuer <style_element type="hb">keine</style_element> Menschen verletzt.</statement>
+         </section>
+         <section id="5">
+            <statement>Zu dem Feuer gibt es auch einen Text in Leichter Sprache.</statement>
+            <statement>
+               <ref>
+                  <style_element type="hu">Diesen Text können Sie hier lesen.</style_element>
+               </ref>
+            </statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

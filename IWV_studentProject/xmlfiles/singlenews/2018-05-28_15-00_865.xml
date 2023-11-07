@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-31" url="2018-05-28_15-00_865.xml">
+   <title>Probleme auf Zug·strecke nach Sylt</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-05-28_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-05-28_15-00_865-full.png" type="screenshot" url="2018-05-28_15-00_865-full.png"/>
+      <resource id="2" name="2018-05-28_15-00_865_plaintext.txt" type="plaintext" url="2018-05-28_15-00_865_plaintext.txt"/>
+      <resource id="3" name="2018-05-28_15-00_865_quellcode.txt" type="sourcecode" url="2018-05-28_15-00_865_quellcode.txt"/>
+      <resource id="4" name="2018-05-28_15-00_865.docx" type="formatedText" url="2018-05-28_15-00_865.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Probleme auf Zug·strecke nach Sylt</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Auf der Zug·strecke nach Sylt gibt es große Probleme.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Sylt ist eine Insel in der Nordsee.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Sylt gehört zu Schleswig-Holstein.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Auf dieser Zug·strecke sind nämlich Gleise kaputt.</statement>
+            <statement>Deshalb können auf dieser Zug·strecke viele Züge <style_element type="hb">nicht</style_element> fahren.</statement>
+            <statement>Oder die Züge auf dieser Zug·strecke haben Verspätung.</statement>
+         </section>
+         <section id="2">
+            <statement>Die Zug·strecke nach Sylt ist eine besondere Zug·strecke.</statement>
+            <statement>Diese Zug·strecke ist nämlich auf einem Damm.</statement>
+            <explanation_marker>
+               <statement>Dieser Damm ist in der Nordsee.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Damm ist aus Erde.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Menschen haben diesen Damm gebaut.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und dieser Damm verbindet die Insel Sylt und Niebüll.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Niebüll ist eine Stadt an der Küste von Schleswig-Holstein.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Bahn hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir reparieren die Gleise.</statement>
+                  </speech>
+                  <speech id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Aber wir wissen <style_element type="hb">nicht</style_element>:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Wie lange dauert die Reparatur?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Viele Menschen müssen lange warten</subheadline>
+               <statement>Auch am Wochenende waren die Gleise schon kaputt.</statement>
+               <statement>Deshalb konnten auch am Wochenende viele Züge <style_element type="hb">nicht</style_element> fahren.</statement>
+               <statement>Am Wochenende waren sehr viele Menschen auf Sylt.</statement>
+               <statement>Viele von diesen Menschen wollten am Sonntag nach Hause fahren.</statement>
+               <statement>Wegen der Reparatur mussten viele von diesen Menschen lange auf einen Zug warten.</statement>
+         </section>
+         <section id="5">
+            <statement>Der Bürgermeister von Sylt heißt Nikolas Häckel.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Nikolas Häckel hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Zug·strecke nach Sylt ist sehr wichtig für uns.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Aber die Zug·strecke ist sehr alt.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und die Züge nach Sylt haben sehr oft Verspätung.</statement>
+                  </speech>
+                  <speech id="4">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Deshalb wollen wir:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Die Zug·strecke nach Sylt muss neu gebaut werden.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

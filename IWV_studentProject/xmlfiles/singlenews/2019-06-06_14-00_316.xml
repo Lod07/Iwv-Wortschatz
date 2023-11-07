@@ -1,0 +1,178 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-06-06_14-00_316.xml">
+   <title>Kranken·pfleger muss lebens·lang ins Gefängnis</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-06-06_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-06-06_14-00_316-full.png" type="screenshot" url="2019-06-06_14-00_316-full.png"/>
+      <resource id="2" name="2019-06-06_14-00_316_plaintext.txt" type="plaintext" url="2019-06-06_14-00_316_plaintext.txt"/>
+      <resource id="3" name="2019-06-06_14-00_316_quellcode.txt" type="sourcecode" url="2019-06-06_14-00_316_quellcode.txt"/>
+      <resource id="4" name="2019-06-06_14-00_316.docx" type="formatedText" url="2019-06-06_14-00_316.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Kranken·pfleger muss lebens·lang ins Gefängnis</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Niedersachsen war ein Prozess.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Bei einem Prozess entscheidet das Gericht:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question><style_element type="hi">• Hat ein Mensch etwas Verbotenes getan?</style_element></question>
+                           </speech>
+                           <speech id="2">
+                              <statement><style_element type="hi">Dann bekommt dieser Mensch eine Strafe.</style_element></statement>
+                           </speech>
+                           <speech id="3">
+                              <question>
+                                 <style_element type="hi">• Oder hat ein Mensch 
+                                 <style_element type="hb">nichts</style_element> 
+                                 Verbotenes getan?</style_element>
+                              </question>
+                           </speech>
+                           <speech id="4">
+                              <statement>
+                                 <style_element type="hi">Dann bekommt dieser Mensch 
+                                 <style_element type="hb">keine</style_element> 
+                                 Strafe.</style_element>
+                              </statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Prozess war in Oldenburg.</statement>
+            <statement>Bei dem Prozess hat das Gericht einen Mann verurteilt.</statement>
+            <explanation_marker>
+               <statement>Der Mann war früher Kranken·pfleger.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Kranken·pfleger kümmert sich um kranke Menschen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Zum Beispiel in einem Kranken·haus.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Kranken·pfleger heißt Niels Högel.</statement>
+            <statement>Und der Kranken·pfleger hat 85 Menschen ermordet.</statement>
+            <explanation_marker>
+               <statement>Deshalb muss der Kranken·pfleger jetzt lebens·lang ins Gefängnis.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Der Mann muss für mindestens 15 Jahre ins Gefängnis.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+            <statement>Der Mann hat in 2 Kranken·häusern in Niedersachsen gearbeitet.</statement>
+            <statement>In einem Kranken·haus in Oldenburg.</statement>
+            <statement>Und in einem Kranken·haus in Delmenhorst.</statement>
+            <statement>In den 2 Kranken·häusern hat der Mann viele Menschen getötet.</statement>
+            <statement>Dann hat es 2015 einen Prozess gegeben.</statement>
+            <statement>In diesem Prozess hat das Gericht den Mann verurteilt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Gericht hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Mann hat vielen Patienten absichtlich falsche Medikamente gegeben.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb muss der Mann lebens·lang ins Gefängnis.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Aber die Polizei hat nach dem Urteil weiter ermittelt.</statement>
+            <statement>Die Polizei hat zum Beispiel viele Tote untersucht.</statement>
+            <statement>Diese Toten sind in den 2 Kranken·häusern gestorben.</statement>
+            <statement>Die Polizei hat heraus·gefunden:</statement>
+            <statement>Der Mann hat wahrscheinlich noch viel mehr Menschen getötet.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Neuer Prozess</subheadline>
+            <statement>Im Oktober 2018 hat ein neuer Prozess gegen den Mann begonnen.</statement>
+            <statement>In diesem Prozess hat das Gericht dem Mann 100 Morde vorgeworfen.</statement>
+            <explanation_marker>
+               <statement>Bei 43 Fällen hat der Mann ein Geständnis abgelegt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Bei einem Geständnis sagt ein Mensch:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement><style_element type="hi">Ich gebe zu:</style_element></statement>
+                           </speech>
+                           <speech id="2">
+                              <statement><style_element type="hi">Ich habe die Tat gemacht.</style_element></statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Aber zu den anderen Fällen hat der Mann gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Diese Taten habe ich <style_element type="hb">nicht</style_element> gemacht.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Oder an diese Taten kann ich mich <style_element type="hb">nicht</style_element> erinnern.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt hat das Gericht gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement> Wir können beweisen:</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Der Mann hat 85 Menschen getötet.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb muss der Mann lebens·lang ins Gefängnis.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <question><style_element type="hb">Warum hat der Mann den Patienten falsche Medikamente gegeben?</style_element></question>
+            <statement><style_element type="hb">Zu diesem Thema gibt es noch einen Text in Leichter Sprache.</style_element></statement>
+            <question><style_element type="hb">Sie wollen diesen Text lesen?</style_element></question>
+            <headword><style_element type="hb">Oder hören?</style_element></headword>
+            <statement><style_element type="hb">Dann klicken Sie <ref><style_element type="hu">hier</style_element></ref></style_element></statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

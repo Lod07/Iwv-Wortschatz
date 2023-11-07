@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-29" url="2018-03-19_15-00_952.xml">
+   <title>Neues Luxus·hotel in Hamburg</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-03-19_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-03-19_15-00_952-full.png" type="screenshot" url="2018-03-19_15-00_952-full.png"/>
+      <resource id="2" name="2018-03-19_15-00_952_plaintext.txt" type="plaintext" url="2018-03-19_15-00_952_plaintext.txt"/>
+      <resource id="3" name="2018-03-19_15-00_952_quellcode.txt" type="sourcecode" url="2018-03-19_15-00_952_quellcode.txt"/>
+      <resource id="4" name="2018-03-19_15-00_952.docx" type="formatedText" url="2018-03-19_15-00_952.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Neues Luxus·hotel in Hamburg</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Hamburg ist ein neues Hotel eröffnet worden.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">In einem Hotel können Menschen übernachten.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Für die Übernachtung müssen diese Menschen Geld bezahlen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieses neue Hotel ist in Hamburg-Rotherbaum.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Rotherbaum ist ein Stadt·teil von Hamburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und dieses neue Hotel ist ein Luxus·hotel.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Luxus·hotel hat eine besondere Ausstattung.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Diese Ausstattung ist sehr teuer.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <enumeration_marker>
+                                 <enumeration_intro>
+                                    <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                                 </enumeration_intro>
+                                 <enumerations>
+                                    <enumeration id="1">
+                                       <headword><style_element type="hi">• Die Möbel.</style_element></headword>
+                                    </enumeration>
+                                    <enumeration id="2">
+                                       <headword><style_element type="hi">• Die Bade·zimmer.</style_element></headword>
+                                    </enumeration>
+                                    <enumeration id="3">
+                                       <statement><style_element type="hi">• Und die Teppiche.</style_element></statement>
+                                    </enumeration>
+                                 </enumerations>
+                              </enumeration_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Deshalb kostet eine Übernachtung in einem Luxus·hotel viel Geld.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fachleute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das neue Luxus·hotel gehört zu den besten Hotels der Welt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Neues Luxus·hotel heißt The Fontenay</subheadline>
+               <statement>Das neue Luxus·hotel ist in der Straße Fontenay.</statement>
+               <explanation_marker>
+                  <statement>Die Straße Fontenay ist an der Alster.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Die Alster ist ein Fluss.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und die Alster fließt durch Hamburg.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Im Zentrum von Hamburg sieht die Alster aus wie ein See.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Dieser See heißt Alster·see.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Und die Straße Fontenay ist nach einem reichen Mann benannt.</statement>
+               <statement>Dieser reiche Mann war John Fontenay.</statement>
+               <explanation_marker>
+                  <statement>John Fontenay war ein Schiffs·makler.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Schiffs·makler handelt zum Beispiel mit Schiffen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <section id="3">
+            <subheadline>Viele Probleme beim Bau</subheadline>
+               <statement>Beim Bau von dem Hotel hat es viele Probleme gegeben.</statement>
+                  <speech_marker>
+                     <speech_intro>
+                        <statement>Die Bau·firma hat gesagt:</statement>
+                     </speech_intro>
+                     <speeches>
+                        <speech id="1">
+                           <statement>Das Hotel hat eine besondere Form.</statement>
+                        </speech>
+                        <speech id="2">
+                           <statement>Deshalb mussten viele Möbel extra für das Hotel gebaut werden.</statement>
+                        </speech>
+                        <speech id="3">
+                           <explanation_marker>
+                              <statement>Und beim Bau hat es einen Wasser·schaden gegeben.</statement>
+                              <explanations>
+                                 <explanation id="1">
+                                    <headword><style_element type="hi">Das heißt:</style_element></headword>
+                                 </explanation>
+                                 <explanation id="2">
+                                    <statement><style_element type="hi">Beim Bau ist eine Wasser·leitung kaputtgegangen.</style_element></statement>
+                                 </explanation>
+                                 <explanation id="3">
+                                    <statement><style_element type="hi">Dann ist viel Wasser in das Hotel gelaufen.</style_element></statement>
+                                 </explanation>
+                                 <explanation id="4">
+                                    <statement><style_element type="hi">Deshalb mussten Teile von dem Hotel neu gebaut werden.</style_element></statement>
+                                 </explanation>
+                              </explanations>
+                           </explanation_marker>
+                        </speech>
+                     </speeches>
+                  </speech_marker>
+                  <speech_marker>
+                     <speech_intro>
+                        <statement>Der Hotel·besitzer hat gesagt:</statement>
+                     </speech_intro>
+                     <speeches>
+                        <speech id="1">
+                           <statement>Ich wollte das Hotel schon im Jahr 2016 eröffnen.</statement>
+                        </speech>
+                        <speech id="2">
+                           <statement>Aber beim Bau hat es viele Probleme gegeben.</statement>
+                        </speech>
+                        <speech id="3">
+                           <statement>Deshalb konnte ich das Hotel erst jetzt eröffnen.</statement>
+                        </speech>
+                        <speech id="4">
+                           <statement>Das Hotel ist sehr teuer geworden.</statement>
+                        </speech>
+                        <speech id="5">
+                           <statement>Das Hotel hat 100 Millionen Euro gekostet.</statement>
+                        </speech>
+                     </speeches>
+                  </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

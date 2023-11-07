@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-29" url="2019-01-03_13-30_627.xml">
+   <title>Mehr Nachrichten vom 03.01.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-01-03_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-01-03_13-30_627-full.png" type="screenshot" url="2019-01-03_13-30_627-full.png"/>
+      <resource id="2" name="2019-01-03_13-30_627_plaintext.txt" type="plaintext" url="2019-01-03_13-30_627_plaintext.txt"/>
+      <resource id="3" name="2019-01-03_13-30_627_quellcode.txt" type="sourcecode" url="2019-01-03_13-30_627_quellcode.txt"/>
+      <resource id="4" name="2019-01-03_13-30_627.docx" type="formatedText" url="2019-01-03_13-30_627.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 03.01.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Frau stirbt durch Schuss</subheadline>
+               <explanation_marker>
+                  <statement>In Schönberg ist eine Frau gestorben.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Schönberg ist ein Ort in der Nähe von Plön.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Frau hat vor einem Haus Silvester gefeiert.</statement>
+               <statement>Dann ist die Frau plötzlich umgefallen.</statement>
+               <statement>Die Frau hatte nämlich eine Kopf·verletzung.</statement>
+               <statement>Menschen haben die Frau in ein Kranken·haus gebracht.</statement>
+               <statement>Im Kranken·haus ist die Frau gestorben.</statement>
+               <statement>Die Frau war 39 Jahre alt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Am Anfang haben wir geglaubt:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Ein Silvester-Böller hat die Frau am Kopf getroffen.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber jetzt haben Ärzte eine Kugel im Kopf von der Frau gefunden.</statement>
+                     </speech>
+                     <speech id="3">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Deshalb glauben wir:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Ein Mensch hat auf die Frau geschossen.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Jetzt sucht die Polizei nach Hinweisen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei will nämlich wissen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Wer hat auf die Frau geschossen?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Wein·berg muss weg</subheadline>
+               <explanation_marker>
+                  <statement>In Hamburg gibt es einen Wein·berg.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Wein·berg ist eine besondere Fläche.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Auf dieser Fläche bauen Menschen Wein an.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Dieser Wein·berg gehört der Stadt.</statement>
+               <statement>Und dieser Wein·berg ist in der Nähe vom Hafen.</statement>
+               <statement>Aber bald hat Hamburg <style_element type="hb">keinen</style_element> Wein·berg mehr.</statement> 
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Am Hafen ist bald eine große Bau·stelle.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Für diese Bau·stelle brauchen wir den Platz von dem Wein·berg.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb muss der Wein·berg verschwinden.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Der Wein vom Wein·berg ist etwas Besonderes.</statement>
+               <statement>In Nord·deutschland gibt es nämlich sehr wenig Wein.</statement>
+               <statement>Den Wein aus Hamburg bekommen besondere Gäste als Geschenk.</statement>
+               <statement>Zum Beispiel bekannte Politiker.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Ein Sprecher von der Stadt hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1"> 
+                        <statement>Bald können wir <style_element type="hb">keinen</style_element> Wein aus Hamburg mehr verschenken.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Das ist schade.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-24" url="2020-01-21_15-30_68.xml">
+   <title>Probleme am Flughafen in Hamburg</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-01-21_15-30</vdate>
+   <resources>
+      <resource id="1" name="2020-01-21_15-30_68-full.png" type="screenshot" url="2020-01-21_15-30_68-full.png"/>
+      <resource id="2" name="2020-01-21_15-30_68_plaintext.txt" type="plaintext" url="2020-01-21_15-30_68_plaintext.txt"/>
+      <resource id="3" name="2020-01-21_15-30_68_quellcode.txt" type="sourcecode" url="2020-01-21_15-30_68_quellcode.txt"/>
+      <resource id="4" name="2020-01-21_15-30_68.docx" type="formatedText" url="2020-01-21_15-30_68.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Probleme am Flughafen in Hamburg</headline>
+      <sections>
+         <section id="1">
+            <statement>Am Flughafen in Hamburg waren am Montag·abend Probleme.</statement>
+            <statement>Deshalb hat die Polizei einen Teil von dem Flughafen geschlossen.</statement>
+            <statement>Der Teil vom Flughafen war mehr als eine Stunde geschlossen.</statement>
+            <statement>In dieser Zeit durfte <style_element type="hb">kein</style_element> Flugzeug starten.</statement> 
+            <statement>Deshalb waren einige Flugzeuge verspätet.</statement>
+            <statement>Und deshalb mussten viele Menschen warten.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Am Flughafen sind Kontrollen.</statement>
+               <statement>Diese Kontrollen sind für die Sicherheit.</statement>
+               <statement>Die Mitarbeiter vom Flughafen kontrollieren zum Beispiel die Taschen von den Menschen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Mitarbeiter wollen nämlich sicher sein:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Menschen nehmen <style_element type="hb">keine</style_element> gefährlichen Dinge mit in die Flugzeuge.</statement> 
+                     </speech>
+                     <speech id="2">
+                        <statement>Zum Beispiel <style_element type="hb">keine</style_element> Waffen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Aber am Montag·abend haben die Mitarbeiter einen Fehler gemacht.</statement>
+               <statement>Die Mitarbeiter haben die Taschen von 2 Menschen nämlich <style_element type="hb">nicht</style_element> richtig kontrolliert.</statement>
+               <statement>Die Mitarbeiter haben den Fehler aber zu spät bemerkt.</statement>
+               <statement>Deshalb waren die 2 Menschen schon weg.</statement>
+               <statement>Und die Mitarbeiter konnten die 2 Menschen <style_element type="hb">nicht</style_element> mehr finden.</statement> 
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Mitarbeiter haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Vielleicht haben die 2 Menschen gefährliche Dinge in den Taschen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Deshalb hat die Polizei die 2 Menschen gesucht.</statement>
+               <statement>Und die Polizei hat einen Teil von dem Flughafen geschlossen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei wollte nämlich sicher sein:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die 2 Menschen gehen nicht in ein Flugzeug.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Keine gefährlichen Dinge</subheadline>
+               <statement>Nach einiger Zeit hat die Polizei die 2 Menschen gefunden.</statement>
+               <statement>Die 2 Menschen haben auf den Abflug von ihrem Flugzeug gewartet.</statement>
+               <statement>Und die 2 Menschen wussten <style_element type="hb">nichts</style_element> von den Problemen.</statement> 
+               <statement>Dann haben Mitarbeiter die Taschen von den 2 Menschen kontrolliert.</statement>
+               <statement>Aber die Mitarbeiter haben <style_element type="hb">keine</style_element> gefährlichen Dinge gefunden.</statement>
+               <statement>Nach der Kontrolle konnten alle Flugzeuge wieder starten.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

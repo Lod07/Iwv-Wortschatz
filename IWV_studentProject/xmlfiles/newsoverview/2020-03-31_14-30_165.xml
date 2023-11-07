@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2020-03-31_14-30_165.xml">
+   <title>Mehr Nachrichten vom 31.03.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-03-31_14-30</vdate>
+   <resources>
+      <resource id="1" name="2020-03-31_14-30_165-full.png" type="screenshot" url="2020-03-31_14-30_165-full.png"/>
+      <resource id="2" name="2020-03-31_14-30_165_plaintext.txt" type="plaintext" url="2020-03-31_14-30_165_plaintext.txt"/>
+      <resource id="3" name="2020-03-31_14-30_165_quellcode.txt" type="sourcecode" url="2020-03-31_14-30_165_quellcode.txt"/>
+      <resource id="4" name="2020-03-31_14-30_165.docx" type="formatedText" url="2020-03-31_14-30_165.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 31.03.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Besuche in Heimen verboten</subheadline>
+            <statement>Viele Menschen haben das Corona-Virus.</statement>
+            <statement>Und einige Menschen sind am Corona-Virus gestorben.</statement>
+            <statement>Vor allem alte Menschen.</statement>
+            <statement>Und kranke Menschen.</statement>
+            <statement>Deshalb hat die Stadt Hamburg jetzt eine neue Regel gemacht:</statement>
+           <explanation_marker>
+              <statement>Menschen dürfen andere Menschen <style_element type="hb">nicht</style_element> mehr in Heimen besuchen.</statement>
+              <explanations>
+                 <explanation id="1">
+                  <statement><style_element type="hi">Heime sind Häuser.</style_element></statement>
+                 </explanation>
+                 <explanation id="2">
+                  <enumeration_marker>
+                     <enumeration_intro>
+                        <statement><style_element type="hi">In diesen Häusern wohnen zum Beispiel:</style_element></statement>
+                     </enumeration_intro>
+                     <enumerations>
+                        <enumeration id="1">
+                           <headword><style_element type="hi">• Alte Menschen.</style_element></headword>
+                        </enumeration>
+                        <enumeration id="2">
+                           <headword><style_element type="hi">• Kranke Menschen.</style_element></headword>
+                        </enumeration>
+                        <enumeration id="3">
+                           <statement><style_element type="hi">• Und Menschen mit Behinderungen.</style_element></statement>
+                        </enumeration>
+                     </enumerations>
+                  </enumeration_marker>
+                 </explanation>
+              </explanations>
+           </explanation_marker>
+           <question>Haben Menschen in einem Heim das Corona-Virus?</question>
+           <statement>Dann sind diese Menschen besonders in Gefahr.</statement>
+           <statement>Deshalb sollen sich diese Menschen <style_element type="hb">nicht</style_element> mit dem Corona-Virus anstecken.</statement>
+           <statement>Und deshalb sind Besuche in dem Heimen jetzt verboten.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Fußball: Keine Bundes·liga bis Ende April</subheadline>
+            <statement>Wegen dem Corona-Virus fallen viele Veranstaltungen aus.</statement>
+            <headword>Auch Fußball·spiele.</headword>
+            <statement>Jetzt haben 36 Fußball·vereine miteinander gesprochen.</statement>
+            <statement>Diese Fußball·vereine sind aus der 1. Bundesliga.</statement>
+            <statement>Und aus der 2. Bundesliga.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die 36 Fußball·vereine haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Bis Ende April machen wir <style_element type="hb">keien</style_element> Fußball·spiele.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Aber wir hoffen:</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Im Mai können wir wieder Fußball·spiele machen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Aber zu diesen Fußball·spielen dürfen <style_element type="hb">keine</style_element> Zuschauer kommen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

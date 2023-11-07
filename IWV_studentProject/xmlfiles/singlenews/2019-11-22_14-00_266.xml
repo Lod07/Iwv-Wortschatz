@@ -1,0 +1,179 @@
+<?xml version="1.0" ?>
+<annotation adate="" url="2020-08-19_14-00_266.xml">
+   <title>Werften bauen sehr großes Schiff</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-11-22_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-11-22_14-00_266-full.png" type="screenshot" url="2019-11-22_14-00_266-full.png"/>
+      <resource id="2" name="2019-11-22_14-00_266_plaintext.txt" type="plaintext" url="2019-11-22_14-00_266_plaintext.txt"/>
+      <resource id="3" name="2019-11-22_14-00_266_quellcode.txt" type="sourcecode" url="2019-11-22_14-00_266_quellcode.txt"/>
+      <resource id="4" name="2019-11-22_14-00_266.docx" type="formatedText" url="2019-11-22_14-00_266.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>
+         Werften bauen sehr großes Schiff
+      </headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>
+                  2 Werften in Mecklenburg-Vorpommern bauen ein sehr großes Schiff.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Eine Werft ist eine große Firma.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">
+                           Auf einer Werft bauen Arbeiter Schiffe.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>
+                  Dieses große Schiff ist ein Kreuz·fahrt·schiff.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Auf einem Kreuz·fahrt·schiff machen Menschen Urlaub.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">
+                           In diesem Urlaub lernen die Menschen viele Orte kennen.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">
+                           Ein Kreuz·fahrt·schiff fährt nämlich zu vielen Orten.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>
+                  Die eine Werft ist in Warnemünde.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Warnemünde ist an der Ostsee.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">
+                           Und Warnemünde ist ein Stadt·teil von Rostock.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>
+               Diese Werft hat einen Teil von dem Kreuz·fahrt·schiff gebaut.
+            </statement>
+            <statement>
+               Jetzt soll die andere Werft das Kreuz·fahrt·schiff fertig bauen.
+            </statement>
+            <statement>
+               Deshalb muss das Kreuz·fahrt·schiff in die andere Werft.
+            </statement>
+            <explanation_marker>
+               <statement>
+                  Die andere Werft ist in Wismar.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Wismar ist an der Ostsee.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>
+               Deshalb fährt das Kreuz·fahrt·schiff jetzt über die Ostsee.
+            </statement>
+         </section>
+         <section id="2">
+            <subheadline>
+               Schwieriger Transport
+            </subheadline>
+            <statement>
+               Das Kreuz·fahrt·schiff fährt von Warnemünde nach Wismar.
+            </statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Fachleute haben gesagt:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        Der Transport von dem Kreuz·fahrt·schiff ist sehr schwierig.
+                     </statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>
+                        Das Kreuz·fahrt·schiff kann nämlich noch <style_element type="hb">nicht</style_element> alleine fahren.
+                     </statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>
+                        Deshalb ziehen besondere Boote das Kreuz·fahrt·schiff.
+                     </statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>
+                        Und die Polizei begleitet den Transport.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>
+               Der Transport ist sehr langsam.
+            </statement>
+            <statement>
+               Das Kreuz·fahrt·schiff kommt am Sonnabend in Wismar an.
+            </statement>
+         </section>
+         <section id="3">
+            <statement>
+               Das Kreuz·fahrt·schiff heißt Global Dream.
+            </statement>
+            <statement>
+               Das Kreuz·fahrt·schiff ist für 9500 Menschen.
+            </statement>
+            <statement>
+               In Deutschland wurde noch <style_element type="hb">nie</style_element> so ein großes Kreuz·fahrt·schiff gebaut.
+            </statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

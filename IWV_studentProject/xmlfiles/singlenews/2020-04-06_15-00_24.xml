@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2020-04-06_15-00_24.xml">
+   <title>Corona-Virus: Österreich macht weniger Regeln</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-04-06_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-04-06_15-00_24-full.png" type="screenshot" url="2020-04-06_15-00_24-full.png"/>
+      <resource id="2" name="2020-04-06_15-00_24_plaintext.txt" type="plaintext" url="2020-04-06_15-00_24_plaintext.txt"/>
+      <resource id="3" name="2020-04-06_15-00_24_quellcode.txt" type="sourcecode" url="2020-04-06_15-00_24_quellcode.txt"/>
+      <resource id="4" name="2020-04-06_15-00_24.docx" type="formatedText" url="2020-04-06_15-00_24.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Corona-Virus: Österreich macht weniger Regeln</headline>
+      <sections>
+         <section id="1">
+            <statement>Viele Menschen auf der ganzen Welt haben das Corona-Virus.</statement>
+            <statement>Das Corona-Virus ist nämlich sehr ansteckend.</statement>
+            <statement>Deshalb haben viele Länder Regeln gemacht.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <statement>• Viele Geschäfte müssen schließen.</statement>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Und die Menschen sollen Abstand zu anderen Menschen halten.</statement>
+                  </enumeration>               
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="2">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Regierung von Österreich hat jetzt gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In Österreich stecken sich <style_element type="hb">nicht</style_element> mehr so viele Menschen mit dem Corona-Virus an.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb wollen wir ab dem 14. April weniger Regeln.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dann dürfen einige Geschäfte wieder öffnen.</statement>
+                  </speech>
+                  <speech id="4">
+                  <enumeration_marker>
+                     <enumeration_intro>
+                        <headword>Zum Beispiel:</headword>
+                     </enumeration_intro>
+                     <enumerations>
+                        <enumeration id="1">
+                           <headword>• Kleine Geschäfte.</headword>
+                        </enumeration>
+                        <enumeration id="2">
+                           <headword>• Und Bau·märkte.</headword>
+                        </enumeration>
+                     </enumerations>
+                  </enumeration_marker>
+                  </speech>
+                  <speech id="5">
+                     <statement>Ab dem 1. Mai sollen dann wieder alle Geschäfte öffnen.</statement>
+                  </speech>
+                  <speech id="6">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement>Aber geschlossen bleiben zum Beispiel:</statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                            <headword>• Schulen.</headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword>• Hotels.</headword>
+                           </enumeration>
+                           <enumeration id="3">
+                            <headword>• Und Restaurants.</headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </speech>
+               </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Regierung von Österreich hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Bald dürfen wieder alle Geschäfte öffnen.</statement>
+                  </speech>
+                  <speech id="2">
+                  <statement>Die Menschen sollen aber weiter vorsichtig sein.</statement>
+                  </speech>
+                  <speech id="3">
+                     <explanation_marker>
+                           <statement>Die Menschen sollen zum Beispiel eine Schutz·maske tragen.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Eine Schutz·maske ist aus Stoff.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Dieser Stoff ist vor der Nase und vor dem Mund.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <question><style_element type="hi">Trägt ein Mensch eine Schutz·maske?</style_element></question>
+                           </explanation>
+                           <explanation id="4">
+                              <statement><style_element type="hi">Dann kann dieser Mensch andere Menschen <style_element type="hb">nicht</style_element> so leicht anstecken.</style_element></statement>
+                           </explanation>
+                           <explanation id="5">
+                              <statement><style_element type="hi">Zum Beispiel mit dem Corona-Virus.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>In Deutschland hat die Regierung gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Regeln helfen gegen die Ausbreitung vom Corona-Virus.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb sind die Regeln sehr wichtig.</statement>
+                  </speech>
+                  <speech id="3">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Wir wissen noch nicht:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Wann können wir in Deutschland weniger Regeln machen?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>   
+   </content>
+</annotation>

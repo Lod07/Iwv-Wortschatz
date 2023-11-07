@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-29" url="2018-03-01_15-00_917.xml">
+   <title>Messerstecher muss lebens·lang ins Gefängnis</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-03-01_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-03-01_15-00_917-full.png" type="screenshot" url="2018-03-01_15-00_917-full.png"/>
+      <resource id="2" name="2018-03-01_15-00_917_plaintext.txt" type="plaintext" url="2018-03-01_15-00_917_plaintext.txt"/>
+      <resource id="3" name="2018-03-01_15-00_917_quellcode.txt" type="sourcecode" url="2018-03-01_15-00_917_quellcode.txt"/>
+      <resource id="4" name="2018-03-01_15-00_917.docx" type="formatedText" url="2018-03-01_15-00_917.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Messerstecher muss lebens·lang ins Gefängnis</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Hamburg war ein Prozess.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Bei einem Prozess entscheidet das Gericht:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question><style_element type="hi">• Hat ein Mensch etwas Verbotenes getan?</style_element></question>
+                           </speech>
+                           <speech id="2">
+                              <statement><style_element type="hi">Dann bekommt dieser Mensch eine Strafe.</style_element></statement>
+                           </speech>
+                           <speech id="3">
+                              <question><style_element type="hi">• Oder hat ein Mensch <style_element type="hb">nichts</style_element> Verbotenes getan?</style_element></question>
+                           </speech>
+                           <speech id="4">
+                              <statement><style_element type="hi">Dann bekommt dieser Mensch <style_element type="hb">keine</style_element> Strafe.</style_element></statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Prozess hat das Gericht einen Mann verurteilt.</statement>
+            <statement>Der Mann hat nämlich einen anderen Mann ermordet.</statement>
+            <statement>Der Mann hat den anderen Mann mit einem Messer erstochen.</statement>
+            <statement>Und der Mann hat 6 weitere Menschen mit dem Messer verletzt.</statement>
+            <explanation_marker>
+               <statement>Deshalb muss der Mann jetzt lebens·lang ins Gefängnis.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Der Mann muss für mindestens 15 Jahre ins Gefängnis.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <explanation_marker>
+                  <statement>Die Tat war in Barmbek.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Barmbek ist ein Stadt·teil von Hamburg.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Und die Tat war in einem Supermarkt.</statement>
+               <statement>In dem Supermarkt hat der Mann den anderen Mann erstochen.</statement>
+               <statement>Dann ist der Mann aus dem Supermarkt gelaufen.</statement>
+               <statement>Vor dem Supermarkt hat der Mann die 6 Menschen verletzt.</statement>
+         </section>
+         <section id="3">
+            <statement>Der Mann hat die Tat zugegeben.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der Mann hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Ich habe die Menschen angegriffen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die Menschen haben nämlich einen anderen Glauben als ich.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb wollte ich diese Menschen töten.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Gericht hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Der Mann ist für den IS.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">IS ist die Abkürzung für Islamischer Staat.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Der IS ist eine Terror·gruppe.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <headword><style_element type="hi">Das heißt:</style_element></headword>
+                                    </explanation>
+                                    <explanation id="2">
+                                       <statement><style_element type="hi">Im IS sind Terroristen.</style_element></statement>
+                                    </explanation>
+                                    <explanation id="3">
+                                       <statement><style_element type="hi">Die Terroristen wollen allen Menschen Angst machen.</style_element></statement>
+                                    </explanation>
+                                    <explanation id="4">
+                                       <statement><style_element type="hi">Deshalb machen die Terroristen Anschläge.</style_element></statement>
+                                    </explanation>
+                                    <explanation id="5">
+                                       <statement><style_element type="hi">Bei diesen Anschlägen haben die Terroristen schon viele Menschen getötet.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb wollte der Mann einen Anschlag machen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und deshalb hat der Mann die anderen Menschen angegriffen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Der Mann wollte nämlich viele Menschen töten.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Jetzt muss der Mann lebens·lang ins Gefängnis.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="5">
+            <statement><style_element type="hb">Zu dem Angriff im Supermarkt gibt es noch einen Text in Leichter Sprache.</style_element></statement>
+            <question><style_element type="hb">Sie wollen diesen Text lesen?</style_element></question>
+            <headword><style_element type="hb">Oder hören?</style_element></headword>
+            <statement>
+               <ref>
+                  <style_element type="hb">Dann klicken Sie <style_element type="hu">hier</style_element>.</style_element>
+               </ref>
+            </statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

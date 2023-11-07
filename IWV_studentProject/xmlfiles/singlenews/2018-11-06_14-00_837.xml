@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-28" url="2018-11-06_14-00_837.xml">
+   <title>Viele Polizisten bei Übung in Hamburg</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-11-06_14-00</vdate>
+   <resources>
+      <resource id="1" name="2018-11-06_14-00_837-full.png" type="screenshot" url="2018-11-06_14-00_837-full.png"/>
+      <resource id="2" name="2018-11-06_14-00_837_plaintext.txt" type="plaintext" url="2018-11-06_14-00_837_plaintext.txt"/>
+      <resource id="3" name="2018-11-06_14-00_837_quellcode.txt" type="sourcecode" url="2018-11-06_14-00_837_quellcode.txt"/>
+      <resource id="4" name="2018-11-06_14-00_837.docx" type="formatedText" url="2018-11-06_14-00_837.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Viele Polizisten bei Übung in Hamburg</headline>
+      <sections>
+         <section id="1">
+            <statement>Am Dienstag war eine besondere Übung in Hamburg.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Die Übung war in verschiedenen Stadt·teilen von Hamburg:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <statement>• In der Hafencity.</statement>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• In Lohbrügge.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <statement>• Und in Altengamme.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Bei der Übung haben viele Polizisten mitgemacht.</statement>
+            <explanation_marker>
+               <statement>Und die Übung war eine Anti-Terror-Übung.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bei einer Anti-Terror-Übung üben Polizisten den Kampf gegen Terroristen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Terroristen wollen allen Menschen Angst machen.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Deshalb machen die Terroristen Anschläge.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Zum Beispiel mit Bomben.</style_element></statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement><style_element type="hi">Bei diesen Anschlägen haben die Terroristen schon viele Menschen getötet.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Polizisten üben Einsatz</subheadline>
+               <statement>Bei der Übung in Hamburg haben viele Polizisten mitgemacht.</statement>
+               <statement>Diese Polizisten waren aus verschiedenen Bundesländern.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Übung war sehr wichtig für uns.</statement>
+                     </speech>
+                     <speech id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Wir wollten zum Beispiel wissen:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question>• Arbeiten unsere Polizisten gut zusammen?</question>
+                              </speech>
+                              <speech id="2">
+                                 <question>• Und verhalten sich unsere Polizisten bei einem Anschlag richtig?</question>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb haben wir diese Übung gemacht.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker> 
+         </section>
+         <section id="3">
+            <statement>Bei der Übung haben auch besondere Polizisten mitgemacht.</statement>
+            <explanation_marker>
+               <statement>Diese besonderen Polizisten heißen Spezial·kräfte.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Spezial·kräfte haben eine besondere Ausbildung.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Spezial·kräfte haben eine besondere Ausrüstung.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="4">
+            <subheadline>U-Bahnhof gesperrt</subheadline>
+               <statement>Ein Teil von der Übung war am U-Bahnhof  Hafencity Universität.</statement>
+               <explanation_marker>
+                  <statement>Deshalb hat die Polizei den U-Bahnhof gesperrt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">In dem U-Bahnhof durften <style_element type="hb">keine</style_element> U-Bahnen fahren.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und in dem U-Bahnhof durften <style_element type="hb">keine</style_element> Menschen sein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Die Polizei hat auch mehrere Straßen in der Hafencity gesperrt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Auf diesen Straßen durften <style_element type="hb">keine</style_element> Autos fahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

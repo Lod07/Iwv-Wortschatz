@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-23" url="2018-08-08_15-00_761.xml">
+   <title>Polizei·schule wird größer</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-08-08_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-08-08_15-00_761-full.png" type="screenshot" url="2018-08-08_15-00_761-full.png"/>
+      <resource id="2" name="2018-08-08_15-00_761_plaintext.txt" type="plaintext" url="2018-08-08_15-00_761_plaintext.txt"/>
+      <resource id="3" name="2018-08-08_15-00_761_quellcode.txt" type="sourcecode" url="2018-08-08_15-00_761_quellcode.txt"/>
+      <resource id="4" name="2018-08-08_15-00_761.docx" type="formatedText" url="2018-08-08_15-00_761.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Polizei·schule wird größer</headline>
+      <sections>
+         <section id="1">
+            <statement>Die Polizei in Hamburg braucht viele neue Polizisten.</statement>
+            <statement>Deshalb werden in Hamburg viele neue Polizisten ausgebildet.</statement>
+            <statement>Diese Ausbildung ist in der Polizei·schule.</statement>
+            <statement>Aber die Polizei·schule ist zu klein für die neuen Polizisten.</statement>
+            <statement>In der Polizei·schule sind nämlich zu wenig Räume für die neuen Polizisten.</statement>
+            <statement>Deshalb bekommt die Polizei·schule bald mehr Räume.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Die Polizei·schule in Hamburg</subheadline>
+               <explanation_marker>
+                  <statement>Die Polizei·schule in Hamburg ist in Winterhude.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Winterhude ist ein Stadt·teil von Hamburg.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Die Polizei·schule in Hamburg heißt Polizei·akademie.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Akademie ist ein anderes Wort für Schule.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>In der Polizei·schule lernen die neuen Polizisten viele Dinge.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <headword>Zum Beispiel:</headword>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Gesetze.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <headword>• Oder Schießen.</headword>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Die Ausbildung in der Polizei·schule dauert 3 Jahre.</statement>
+         </section>
+         <section id="3">
+            <subheadline>30 neue Räume für Polizei·schule</subheadline>
+               <statement>Der Sprecher von der Polizei in Hamburg ist Timo Zill.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Timo Zill hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In diesem Jahr bilden wir 600 neue Polizisten aus.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und im nächsten Jahr bilden wir noch mehr neue Polizisten aus.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Aber die Polizei·schule ist zu klein für noch mehr neue Polizisten.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb bauen wir die Polizei·schule aus.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Und deshalb bekommt die Polizei·schule 3 neue Etagen.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>In diesen 3 neuen Etagen sind dann 30 neue Räume.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Die Bau·arbeiten sollen 2019 beginnen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

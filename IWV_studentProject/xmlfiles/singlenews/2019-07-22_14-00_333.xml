@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-07-22_14-00_333.xml">
+   <title>Großes Feuer in Schweine·stall</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-07-22_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-07-22_14-00_333-full.png" type="screenshot" url="2019-07-22_14-00_333-full.png"/>
+      <resource id="2" name="2019-07-22_14-00_333_plaintext.txt" type="plaintext" url="2019-07-22_14-00_333_plaintext.txt"/>
+      <resource id="3" name="2019-07-22_14-00_333_quellcode.txt" type="sourcecode" url="2019-07-22_14-00_333_quellcode.txt"/>
+      <resource id="4" name="2019-07-22_14-00_333.docx" type="formatedText" url="2019-07-22_14-00_333.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Großes Feuer in Schweine·stall</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Kolbow war ein großes Feuer.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Kolbow ist ein Ort in Mecklenburg-Vorpommern.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Das Feuer war in einem Schweine·stall.</statement>
+            <statement>Bei dem Feuer sind 2500 Schweine gestorben.</statement>
+            <statement>Und bei dem Feuer wurde ein Feuerwehr·mann verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+            <statement>Das Feuer hat einige Stunden gebrannt.</statement>
+            <statement>Und das Feuer war sehr groß.</statement>
+            <statement>Deshalb waren 100 Feuerwehr·leute bei dem Feuer im Einsatz.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Feuerwehr hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In dem Stall waren 6000 Schweine.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>2500 von diesen 6000 Schweinen sind gestorben.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Die anderen Schweine sind in andere Ställe gekommen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Bei dem Feuer war viel Rauch.</statement>
+            <statement>Dieser Rauch war giftig.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Deshalb hat die Feuerwehr zu den Menschen in der Nähe von dem Schweine·stall gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Schließen Sie die Türen von Ihren Häusern!</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und schließen Sie die Fenster von Ihren Häusern!</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Ein Feuerwehr·mann hat zu viel von dem giftigen Rauch eingeatmet.</statement>
+            <statement>Deshalb hat der Feuerwehr·mann eine Rauch·vergiftung bekommen.</statement>
+            <statement>Und deshalb ist der Feuerwehr·mann in ein Krankenhaus gekommen.</statement>
+         </section>
+         <section id="4">
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum war das Feuer in dem Schweine·stall?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

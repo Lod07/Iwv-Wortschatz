@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2019-10-18_13-30_255.xml">
+   <title>Mehr Nachrichten vom 18.10.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-18_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-10-18_13-30_255-full.png" type="screenshot" url="2019-10-18_13-30_255-full.png"/>
+      <resource id="2" name="2019-10-18_13-30_255_plaintext.txt" type="plaintext" url="2019-10-18_13-30_255_plaintext.txt"/>
+      <resource id="3" name="2019-10-18_13-30_255_quellcode.txt" type="sourcecode" url="2019-10-18_13-30_255_quellcode.txt"/>
+      <resource id="4" name="2019-10-18_13-30_255.docx" type="formatedText" url="2019-10-18_13-30_255.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 18.10.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Fach·leute sprengen Bombe</subheadline>
+            <explanation_marker>
+               <statement>In Hannover haben Fach·leute eine Bombe gesprengt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>
+                        <style_element type="hi">Das heißt:</style_element>
+                     </headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Die Fach·leute haben die Bombe explodieren lassen.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Bombe war aus dem 2. Welt·krieg.</statement>
+            <statement>Im 2. Welt·krieg haben Flugzeuge über vielen Städten Bomben abgeworfen.</statement>
+            <statement>Auch über Hannover.</statement>
+            <statement>Aber manche Bomben sind <style_element type="hb">nicht</style_element> explodiert.</statement>
+            <statement>Diese Bomben heißen Blind·gänger.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Sprengung von der Bombe ist gefährlich.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Deshalb hat die Polizei viele Menschen in Sicherheit gebracht.</statement>
+            <statement>2200 Menschen mussten ihre Wohnungen verlassen.</statement>
+            <statement>Diese Wohnungen waren nämlich in der Nähe von der Bombe.</statement>
+            <statement>Und die Polizei hat eine Zug·strecke gesperrt.</statement>
+            <statement>Diese Zug·strecke war nämlich auch in der Nähe von der Bombe.</statement>
+            <statement>Dann haben die Fach·leute die Bombe gesprengt.</statement>
+            <statement>Bei der Sprengung wurde <style_element type="hb">kein</style_element> Mensch verletzt.</statement>
+         </section>
+         <style_element type="line"/>
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Autobahn gesperrt</subheadline>
+            <explanation_marker>
+               <statement>Am Wochen·ende sind Bau·arbeiten auf der A14.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">A14 ist die Abkürzung für <style_element type="hb">A</style_element>utobahn <style_element type="hb">14</style_element>.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei diesen Bau·arbeiten reißen Arbeiter eine Brücke ab.</statement>
+            <statement>Deshalb sperrt die Polizei die A14.</statement>
+            <statement>Die Sperrung ist von Freitag·abend bis Montag·morgen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Brücke ist <style_element type="hb">nicht</style_element> mehr sicher.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die Brücke kann nämlich einstürzen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb reißen Arbeiter die Brücke ab.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Die Arbeiter haben schon eine neue Brücke gebaut.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Am nächsten Wochen·ende kommt die neue Brücke über die A14.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Deshalb ist die A14 auch am nächsten Wochen·ende gesperrt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Fach·leute haben auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Auf der Brücke ist eine Zug·strecke.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Aber auf der Zug·strecke fährt seit einer Woche <style_element type="hb">kein</style_element> Zug mehr.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement> Ab November können dann Züge über die neue Brücke fahren.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>           
+         </section>
+         <style_element type="line"/>
+      </sections>
+   </content>
+</annotation>

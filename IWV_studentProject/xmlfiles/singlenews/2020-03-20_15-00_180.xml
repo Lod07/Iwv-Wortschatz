@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-24" url="2020-03-20_15-00_180.xml">
+   <title>Corona-Virus: Immer mehr Menschen sind krank</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-03-20_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-03-20_15-00_180-full.png" type="screenshot" url="2020-03-20_15-00_180-full.png"/>
+      <resource id="2" name="2020-03-20_15-00_180_plaintext.txt" type="plaintext" url="2020-03-20_15-00_180_plaintext.txt"/>
+      <resource id="3" name="2020-03-20_15-00_180_quellcode.txt" type="sourcecode" url="2020-03-20_15-00_180_quellcode.txt"/>
+      <resource id="4" name="2020-03-20_15-00_180.docx" type="formatedText" url="2020-03-20_15-00_180.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Corona-Virus: Immer mehr Menschen sind krank</headline>
+      <sections>
+         <section id="1">
+            <statement>In Deutschland haben immer mehr Menschen das Corona-Virus.</statement>
+            <statement>An dem Corona-Virus können vor allem alte Menschen sterben.</statement>
+            <statement>Und kranke Menschen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fachleute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir haben eine Corona-Krise.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Diese Krise ist sehr schlimm.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Wir haben gedacht:</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Die Corona-Krise wird <style_element type="hb">nicht</style_element> so schlimm.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Aber wir haben uns geirrt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>      
+         </section>
+         <section id="2">
+            <statement>Die Menschen sollen sich <style_element type="hb">nicht</style_element> mit dem Corona-Virus anstecken.</statement>
+            <statement>Deshalb sollen alle Menschen Regeln beachten.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Die Menschen sollen zum Beispiel:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <statement>• Oft Hände waschen.</statement>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Anderen Menschen <style_element type="hb">nicht</style_element> die Hand geben.</statement>
+                  </enumeration>
+                  <enumeration id="3">
+                     <statement>• Abstand zu anderen Menschen halten.</statement>
+                  </enumeration>
+                  <enumeration id="4">
+                     <statement>• Und wenig aus dem Haus gehen.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="3">
+            <subheadline>Viele Menschen beachten Regeln nicht</subheadline>
+            <statement>Viele Menschen nehmen das Corona-Virus <style_element type="hb">nicht</style_element> ernst.</statement>
+            <statement>Und diese Menschen beachten die Regeln <style_element type="hb">nicht.</style_element></statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Deshalb haben wichtige Politiker gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Wir brauchen in Deutschland vielleicht eine Ausgangs·sperre.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Eine Ausgangs·sperre ist eine sehr strenge Regel.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Diese Regel sagt:</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Die Menschen dürfen fast <style_element type="hb">nicht</style_element> aus dem Haus gehen.</style_element></statement>
+                           </explanation>
+                           <explanation id="4">
+                              <statement><style_element type="hi">Die Menschen dürfen sich <style_element type="hb">nicht</style_element> mit anderen Menschen treffen.</style_element></statement>
+                           </explanation>
+                           <explanation id="5">
+                              <enumeration_marker>
+                                 <enumeration_intro>
+                                    <statement><style_element type="hi">Die Menschen dürfen zum Beispiel nur:</style_element></statement>
+                                 </enumeration_intro>
+                                 <enumerations>
+                                    <enumeration id="1">
+                                       <statement><style_element type="hi">• Zur Arbeit gehen.</style_element></statement>
+                                    </enumeration>
+                                    <enumeration id="2">
+                                       <statement><style_element type="hi">• Zum Arzt gehen.</style_element></statement>
+                                    </enumeration>
+                                    <enumeration id="3">
+                                       <statement><style_element type="hi">• Und zum Einkaufen gehen.</style_element></statement>
+                                    </enumeration>
+                                 </enumerations>
+                              </enumeration_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Alle Menschen müssen eine Ausgangs·sperre beachten.</statement>
+                  </speech>
+                  <speech id="3">
+                     <question>Beachten die Menschen eine Ausgangs·sperre <style_element type="hb">nicht</style_element>?</question>
+                  </speech>
+                  <speech id="4">
+                     <statement>Dann bekommen diese Menschen eine Strafe.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <statement>In Deutschland gibt es schon Gebiete mit einer Ausgangs·sperre.</statement>
+            <explanation_marker>
+               <statement>Zum Beispiel Freiburg.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Freiburg ist eine Stadt in Baden-Württemberg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>In Bayern gibt es ab heute Nacht eine Ausgangs·sperre.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bayern ist ein Bundes·land im Süden von Deutschland.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Ausgangs·sperre ist für 2 Wochen.</statement>
+         </section>
+         <section id="5">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Wahrscheinlich entscheiden die Politiker am Sonnabend:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Machen wir für ganz Deutschland eine Ausgangs·sperre?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

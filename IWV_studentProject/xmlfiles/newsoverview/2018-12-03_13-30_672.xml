@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-25" url="2018-12-03_13-30_672.xml">
+   <title>Mehr Nachrichten vom 03.12.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-12-03_13-30</vdate>
+   <resources>
+      <resource id="1" name="2018-12-03_13-30_672-full.png" type="screenshot" url="2018-12-03_13-30_672-full.png"/>
+      <resource id="2" name="2018-12-03_13-30_672_plaintext.txt" type="plaintext" url="2018-12-03_13-30_672_plaintext.txt"/>
+      <resource id="3" name="2018-12-03_13-30_672_quellcode.txt" type="sourcecode" url="2018-12-03_13-30_672_quellcode.txt"/>
+      <resource id="4" name="2018-12-03_13-30_672.docx" type="formatedText" url="2018-12-03_13-30_672.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 03.12.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Mecklenburg-Vorpommern: Großer Auftrag</subheadline>
+               <statement>Die Firma Nordex hat einen großen Auftrag bekommen.</statement>
+               <explanation_marker>
+                  <statement>Die Firma Nordex baut Wind·kraft·anlagen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Wind·kraft·anlage ist ein hoher Turm.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Auf diesem Turm ist ein großes Wind·rad.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Das Wind·rad dreht sich im Wind.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">So macht das Wind·rad Strom.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Nordex soll 114 Wind·kraft·anlagen in Schweden bauen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Nordex verdient sehr viel Geld mit diesen Wind·kraft·anlagen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb ist der Auftrag sehr gut für Nordex.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Nordex ist in 2 Bundes·ländern:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <statement>• In Mecklenburg-Vorpommern.</statement>
+                     </enumeration>
+                     <enumeration id="2">
+                        <statement>• Und in Hamburg.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Bremen: Tänzer sind Welt·meister</subheadline>
+               <explanation_marker>
+                  <statement>Die Tänzer vom Grün-Gold-Club Bremen freuen sich.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Der Grün-Gold-Club Bremen ist ein Tanz·sport·verein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Tänzer aus Bremen haben nämlich die Welt·meisterschaft gewonnen.</statement>
+               <statement>Deshalb sind die Tänzer aus Bremen jetzt Welt·meister.</statement>
+               <explanation_marker>
+                  <statement>Die Welt·meisterschaft war in Shenzhen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Shenzhen ist eine Stadt in China.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">China ist ein Land in Asien.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Tänzer aus Bremen waren schon oft Welt·meister.</statement>
+                     </speech>
+                     <speech id="2"> 
+                        <statement>Aber 2017 waren die Tänzer aus Bremen <style_element type="hb">nicht</style_element> Welt·meister.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>2017 waren nämlich Tänzer aus Russland Welt·meister.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Jetzt sind die Tänzer aus Bremen wieder Welt·meister.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Deshalb freuen sich die Tänzer aus Bremen jetzt sehr.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

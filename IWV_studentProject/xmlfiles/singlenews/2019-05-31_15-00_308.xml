@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-05" url="2019-05-31_15-00_308.xml">
+   <title>Zug fährt gegen Lkw</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-05-31_15-00</vdate>
+   <resources>
+      <resource id="1" name="2019-05-31_15-00_308-full.png" type="screenshot" url="2019-05-31_15-00_308-full.png"/>
+      <resource id="2" name="2019-05-31_15-00_308_plaintext.txt" type="plaintext" url="2019-05-31_15-00_308_plaintext.txt"/>
+      <resource id="3" name="2019-05-31_15-00_308_quellcode.txt" type="sourcecode" url="2019-05-31_15-00_308_quellcode.txt"/>
+      <resource id="4" name="2019-05-31_15-00_308.docx" type="formatedText" url="2019-05-31_15-00_308.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Zug fährt gegen Lkw</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Bissendorf war ein schlimmer Unfall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bissendorf ist ein Ort in Niedersachsen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Bissendorf ist in der Nähe von Osnabrück.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieser Unfall war an einem Bahn·übergang.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bahn·übergänge gibt es an manchen Straßen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">An Bahn·übergängen können Fahrzeuge über Bahn·schienen fahren.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Bei diesem Unfall ist ein Zug gegen ein Reinigungs·fahrzeug gefahren.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Reinigungs·fahrzeug ist ein besonderer Lkw.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Ein Reinigungs·fahrzeug macht zum Beispiel Straßen sauber.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Fahrer von dem Reinigungs·fahrzeug wurden bei dem Unfall sehr schwer verletzt.</statement>
+            <statement>Und 9 Menschen in dem Zug wurden leicht verletzt.</statement>
+         </section>
+         <section id="2">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Reinigungs·fahrzeug war auf dem Bahn·übergang.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die Straße am Bahn·übergang war nämlich schmutzig.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und das Reinigungs·fahrzeug hat diese Straße sauber gemacht.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Dann ist ein Zug gekommen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Dieser Zug konnte <style_element type="hb">nicht</style_element> schnell genug bremsen.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Deshalb ist der Zug gegen das Reinigungs·fahrzeug gefahren.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Zug·strecke ist gesperrt</subheadline>
+            <explanation_marker>
+               <statement>Die Polizei hat die Zug·strecke gesperrt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Auf der Zug·strecke durften <style_element type="hb">keine</style_element> Züge fahren.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt will die Polizei wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum war das Reinigungs·fahrzeug auf den Bahn·schienen?</question>
+                  </speech>
+                  <speech id="2">
+                     <question>Und warum ist der Zug gegen das das Reinigungs·fahrzeug gefahren?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>   
+      </sections>
+   </content>
+</annotation>

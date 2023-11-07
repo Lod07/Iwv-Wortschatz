@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-05" url="2019-05-24_14-00_444.xml">
+   <title>HSV: Sport·chef entlassen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-05-24_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-05-24_14-00_444-full.png" type="screenshot" url="2019-05-24_14-00_444-full.png"/>
+      <resource id="2" name="2019-05-24_14-00_444_plaintext.txt" type="plaintext" url="2019-05-24_14-00_444_plaintext.txt"/>
+      <resource id="3" name="2019-05-24_14-00_444_quellcode.txt" type="sourcecode" url="2019-05-24_14-00_444_quellcode.txt"/>
+      <resource id="4" name="2019-05-24_14-00_444.docx" type="formatedText" url="2019-05-24_14-00_444.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>HSV: Sport·chef entlassen</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Der HSV hat einen wichtigen Mitarbeiter entlassen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>Der HSV ist ein Fußball·verein.</statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>HSV ist die Abkürzung für <style_element type="hb">H</style_element>amburger <style_element type="hb">S</style_element>port-<style_element type="hb">V</style_element>erein.</statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Mitarbeiter war Ralf Becker.</statement>
+            <explanation_marker>
+               <statement>Ralf Becker war Sport·chef vom HSV.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Sport·chef hat wichtige Aufgaben bei einem Fußball·verein.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Ein Sport·chef sagt zum Beispiel:</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Diese Spieler soll der Fußball·verein kaufen.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Und ein Sport·chef macht Verträge mit diesen Spielern.</style_element></statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement><style_element type="hi">In den Verträgen steht zum Beispiel:</style_element></statement>
+                  </explanation>
+                  <explanation id="6">
+                     <statement><style_element type="hi">So viel verdient ein Fußball·spieler.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Nur ein Jahr beim HSV</subheadline>
+            <statement>Ralf Becker war nur ein Jahr Sport·chef beim HSV.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der HSV hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir wollten in die 1. Bundesliga zurück.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Aber wir haben den Aufstieg in die 1. Bundesliga <style_element type="hb">nicht</style_element> geschafft.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb haben wir Ralf Becker entlassen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <headword>Wir glauben:</headword>
+                  </speech>
+                  <speech id="5">
+                     <statement>Mit einem neuen Sport·chef können wir den Aufstieg schaffen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Neuer Sport·chef ist Jonas Boldt</subheadline>
+            <statement>Der neue Sport·chef vom HSV ist Jonas Boldt.</statement>
+            <statement>Jonas Boldt ist 37 Jahre alt.</statement>
+            <explanation_marker>
+               <statement>Vorher war Jonas Boldt Sport·chef bei Bayer 04 Leverkusen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bayer 04 Leverkusen ist ein Fußball·verein.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Leverkusen ist eine Stadt in Nordrhein-Westfalen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

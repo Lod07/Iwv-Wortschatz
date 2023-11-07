@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2019-10-01_14-00_238.xml">
+   <title>Großes Fest in Kiel</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-01_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-10-01_14-00_238-full.png" type="screenshot" url="2019-10-01_14-00_238-full.png"/>
+      <resource id="2" name="2019-10-01_14-00_238_plaintext.txt" type="plaintext" url="2019-10-01_14-00_238_plaintext.txt"/>
+      <resource id="3" name="2019-10-01_14-00_238_quellcode.txt" type="sourcecode" url="2019-10-01_14-00_238_quellcode.txt"/>
+      <resource id="4" name="2019-10-01_14-00_238.docx" type="formatedText" url="2019-10-01_14-00_238.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Großes Fest in Kiel</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Kiel ist ein besonderes Fest.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Kiel ist die Haupt·stadt von Schleswig-Holstein.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieses Fest ist 2 Tage lang:</statement>
+            <statement>Das Fest beginnt am Mittwoch.</statement>
+            <statement>Und das Fest endet am Donnerstag.</statement>
+            <statement>Dieses Fest heißt Bürger·fest.</statement>
+            <statement>Das Bürger·fest ist zum Tag der Deutschen Einheit.</statement>
+         </section>
+         <section id="2">
+            <statement><style_element type="hb">Sie wollen mehr zum Tag der Deutschen Einheit wissen?</style_element></statement>
+            <statement>
+               <ref>
+                  <style_element type="hb">Dann klicken Sie hier.</style_element>
+               </ref>
+            </statement>
+         </section>
+         <section id="3">
+            <subheadline>Viele bekannte Politiker in Kiel</subheadline>
+            <statement>Das Bürger·fest beginnt am Mittwoch um 11 Uhr.</statement>
+            <statement>Zu dem Bürger·fest kommen viele bekannte Politiker.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <explanation_marker>
+                        <headword>• Frank-Walter Steinmeier.</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Frank-Walter Steinmeier ist der Bundes·präsident.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">Der Bundes·präsident ist der wichtigste Politiker in Deutschland.</style_element></statement>
+                                    </explanation>
+                                    <explanation id="2">
+                                       <statement><style_element type="hi">Der Bundes·präsident heißt auch: Staats·oberhaupt.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <headword>• Angela Merkel.</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Angela Merkel ist die Bundes·kanzlerin.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">Die Bundes·kanzlerin ist die wichtigste Politikerin in Deutschland.</style_element></statement>
+                                    </explanation>
+                                    <explanation id="2">
+                                       <statement><style_element type="hi">Die Bundes·kanzlerin ist nämlich die Chefin von der Bundes·regierung.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="3">
+                     <explanation_marker>
+                        <statement>• Und Daniel Günther.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Daniel Günther ist der Minister·präsident von Schleswig-Holstein.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">Ein Minister·präsident ist der Chef von einem Bundes·land.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="4">
+            <subheadline>Viele Veranstaltungen</subheadline>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Veranstalter von dem Fest haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <headword>Wir glauben:</headword>
+                  </speech>
+                  <speech id="2">
+                     <statement>Zu dem Fest kommen 500.000 Menschen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Die Menschen können auf dem Fest viele Sachen machen.</statement>
+            <statement>Die Menschen können sich zum Beispiel über die 16 Bundes·länder informieren.</statement>
+            <statement>Die Menschen können Schiffe angucken.</statement>
+            <statement>Und die Menschen können Konzerte sehen.</statement>
+            <statement>Zum Beispiel von Johannes Oerding.</statement>
+         </section>
+         <section id="5">
+            <question><style_element type="hb">Sie wollen mehr zum Bürgerfest in Kiel wissen?</style_element></question>
+            <statement>
+               <ref>
+                  <style_element type="hb">Dann klicken Sie hier.</style_element>
+               </ref>
+            </statement>
+            <statement><style_element type="hb">Diese Informationen sind aber nicht in Leichter Sprache.</style_element></statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

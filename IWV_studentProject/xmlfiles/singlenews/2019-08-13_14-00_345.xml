@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2019-08-13_14-00_345.xml">
+   <title>Mann muss lange ins Gefängnis</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-08-13_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-08-13_14-00_345-full.png" type="screenshot" url="2019-08-13_14-00_345-full.png"/>
+      <resource id="2" name="2019-08-13_14-00_345_plaintext.txt" type="plaintext" url="2019-08-13_14-00_345_plaintext.txt"/>
+      <resource id="3" name="2019-08-13_14-00_345_quellcode.txt" type="sourcecode" url="2019-08-13_14-00_345_quellcode.txt"/>
+      <resource id="4" name="2019-08-13_14-00_345.docx" type="formatedText" url="2019-08-13_14-00_345.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mann muss lange ins Gefängnis</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Niedersachsen war ein Prozess.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Bei einem Prozess entscheidet das Gericht:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question><style_element type="hi">• Hat ein Mensch etwas Verbotenes getan?</style_element></question>
+                           </speech>
+                           <speech id="2">
+                              <statement><style_element type="hi">Dann bekommt dieser Mensch eine Strafe.</style_element></statement>
+                           </speech>
+                           <speech id="3">
+                              <question>
+                                 <style_element type="hi">• Oder hat ein Mensch 
+                                 <style_element type="hb">nichts</style_element> 
+                                 Verbotenes getan?</style_element>
+                              </question>
+                           </speech>
+                           <speech id="4">
+                              <statement>
+                                 <style_element type="hi">Dann bekommt dieser Mensch 
+                                 <style_element type="hb">keine</style_element> 
+                                 Strafe.</style_element>
+                              </statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Prozess war in Aurich.</statement>
+            <statement>Bei dem Prozess hat das Gericht einen Mann verurteilt.</statement>
+            <explanation_marker>
+               <statement>Der Mann hat nämlich 7 Jungen sexuell missbraucht.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Der Mann hat die 7 Jungen zu sexuellen Dingen gezwungen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Jetzt muss der Mann für 10 Jahre und 3 Monate ins Gefängnis.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+            <explanation_marker>
+               <statement>Der Mann war ein Pflege·vater.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Pflege·vater kümmert sich um Kinder.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Diese Kinder sind 
+                        <style_element type="hb">nicht</style_element> 
+                        die Kinder vom Pflege·vater.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Aber diese Kinder wohnen bei dem Pflege·vater.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement>
+                        <style_element type="hi">Diese Kinder können nämlich 
+                        <style_element type="hb">nicht</style_element> 
+                        mehr bei ihren eigenen Eltern wohnen.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Mann haben mehrere Kinder gewohnt.</statement>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Gericht hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Mann hat die 7 Jungen mehrere Jahre lang sexuell missbraucht.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und der Mann hat die 7 Jungen mehr als 100 Mal sexuell missbraucht.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Einige von den Jungen waren bei dem Missbrauch sehr jung.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Ein Junge war zum Beispiel erst 5 Jahre alt.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Der sexuelle Missbrauch war sehr schlimm.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Deshalb muss der Mann jetzt lange ins Gefängnis.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

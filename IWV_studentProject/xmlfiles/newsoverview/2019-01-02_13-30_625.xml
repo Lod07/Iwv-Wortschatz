@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-29" url="2019-01-02_13-30_625.xml">
+   <title>Mehr Nachrichten vom 02.01.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-01-02_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-01-02_13-30_625-full.png" type="screenshot" url="2019-01-02_13-30_625-full.png"/>
+      <resource id="2" name="2019-01-02_13-30_625_plaintext.txt" type="plaintext" url="2019-01-02_13-30_625_plaintext.txt"/>
+      <resource id="3" name="2019-01-02_13-30_625_quellcode.txt" type="sourcecode" url="2019-01-02_13-30_625_quellcode.txt"/>
+      <resource id="4" name="2019-01-02_13-30_625.docx" type="formatedText" url="2019-01-02_13-30_625.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 02.01.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Mecklenburg-Vorpommern: Rostock sucht neuen Trainer</subheadline>
+            <explanation_marker>
+               <statement>Hansa Rostock sucht einen neuen Trainer.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Hansa Rostock ist ein Fußball·verein.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Hansa Rostock spielt in der 3. Liga.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Pavel Dotchev ist nämlich nur noch bis zum Sommer Trainer bei Hansa Rostock.</statement>
+            <statement>Der Sportchef von Hansa Rostock ist Markus Thiele.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Markus Thiele hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Vertrag von Pavel Dotchev endet im Sommer.</statement>
+                  </speech>
+                  <speech id="2"> 
+                     <statement>Und wir verlängern den Vertrag von Pavel Dotchev <style_element type="hb">nicht</style_element>.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb muss Pavel Dotchev unseren Verein im Sommer verlassen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und deshalb suchen wir einen neuen Trainer.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Hansa Rostock hat viele Spiele verloren.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb sind viele Menschen bei Hansa Rostock unzufrieden.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und deshalb muss Pavel Dotchev den Verein verlassen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Container in der Nordsee</subheadline>
+               <explanation_marker>
+                  <statement>30 Container sind von einem Schiff in die Nordsee gefallen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Container sind große Kisten.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">In den Kisten sind Waren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>In diesen 30 Containern sind zum Beispiel Auto·teile.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In der Nordsee war ein schwerer Sturm.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Bei dem schweren Sturm waren sehr hohe Wellen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb hat das Schiff sehr stark geschwankt.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und deshalb sind die 30 Container ins Wasser gefallen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Jetzt suchen die Fach·leute nach den Containern.</statement>
+               <statement>Zum Beispiel mit einem Flugzeug.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Einige von den Containern haben wir schon gefunden.</statement>
+                     </speech>
+                     <speech id="2"> 
+                        <statement>Aber einige von den Containern haben wir noch <style_element type="hb">nicht</style_element> gefunden.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb suchen wir weiter nach den Containern.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

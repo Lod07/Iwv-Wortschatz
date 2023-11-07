@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-10" url="2019-01-22_15-30_583.xml">
+   <title>Wenig Einbrüche in Hamburg</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-01-22_15-30</vdate>
+   <resources>
+      <resource id="1" name="2019-01-22_15-30_583-full.png" type="screenshot" url="2019-01-22_15-30_583-full.png"/>
+      <resource id="2" name="2019-01-22_15-30_583_plaintext.txt" type="plaintext" url="2019-01-22_15-30_583_plaintext.txt"/>
+      <resource id="3" name="2019-01-22_15-30_583_quellcode.txt" type="sourcecode" url="2019-01-22_15-30_583_quellcode.txt"/>
+      <resource id="4" name="2019-01-22_15-30_583.docx" type="formatedText" url="2019-01-22_15-30_583.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Wenig Einbrüche in Hamburg</headline>
+      <sections>
+         <section id="1"> 
+            <statement>In Hamburg gibt es <style_element type="hb">nicht</style_element> mehr so viele Einbrüche in Wohnungen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Im Jahr 2015 haben wir 9000 Einbrüche gezählt.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und im Jahr 2018 haben wir nur noch 4600 Einbrüche gezählt.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>So wenige Einbrüche haben wir lange <style_element type="hb">nicht</style_element> mehr gezählt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Die Sonder·kommission</subheadline>
+               <statement>Im Jahr 2015 waren sehr viele Einbrüche in Hamburg.</statement>
+               <explanation_marker>
+                  <statement>Deshalb hat die Polizei eine Sonder·kommission gegründet.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Sonder·kommission ist eine Gruppe.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">In dieser Gruppe sind viele Polizisten.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Diese Polizisten kümmern sich nur um eine bestimmte Sache.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Zum Beispiel um einen Mord.</style_element></statement>
+                     </explanation>
+                     <explanation id="5"> 
+                        <statement><style_element type="hi">Die Abkürzung für <style_element type="hb">So</style_element>nder·<style_element type="hb">ko</style_element>mmission ist: Soko.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Diese Soko heißt Castle.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Castle ist Englisch.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und Castle heißt Schloss.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Und die Soko Castle kümmert sich nur um Einbrüche.</statement>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Soko Castle hat viele Einbrüche verhindert.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und die Soko Castle hat viele Einbrecher festgenommen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb ist die Soko Castle sehr wichtig.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

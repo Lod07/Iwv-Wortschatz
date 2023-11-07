@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-25" url="2018-12-04_14-00_675.xml">
+   <title>Großes Feuer in Mecklenburg-Vorpommern</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-12-04_14-00</vdate>
+   <resources>
+      <resource id="1" name="2018-12-04_14-00_675-full.png" type="screenshot" url="2018-12-04_14-00_675-full.png"/>
+      <resource id="2" name="2018-12-04_14-00_675_plaintext.txt" type="plaintext" url="2018-12-04_14-00_675_plaintext.txt"/>
+      <resource id="3" name="2018-12-04_14-00_675_quellcode.txt" type="sourcecode" url="2018-12-04_14-00_675_quellcode.txt"/>
+      <resource id="4" name="2018-12-04_14-00_675.docx" type="formatedText" url="2018-12-04_14-00_675.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Großes Feuer in Mecklenburg-Vorpommern</headline>
+      <sections>
+         <section id="1">
+            <statement>In Mecklenburg-Vorpommern war ein großes Feuer.</statement>
+            <explanation_marker>
+               <statement>Das Feuer war in der Nähe von Friedland.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Friedland ist eine Stadt.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Friedland ist in der Nähe von Neubrandenburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und das Feuer war in einer Biogas·anlage.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Biogas·anlage hat mehrere große Behälter.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In den Behältern ist zum Beispiel Mais.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <explanation_marker>
+                        <statement>Und in den Behältern entsteht Biogas.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Biogas brennt sehr leicht.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Und aus Biogas können Fach·leute Strom machen.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Auch einige Autos fahren mit Biogas.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker> 
+            <statement>Bei dem Feuer haben 2 große Behälter gebrannt.</statement>
+            <statement>Diese Behälter sind 26 Meter breit.</statement>
+            <statement>Bei dem Feuer wurden <style_element type="hb">keine</style_element> Menschen verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Viel giftiger Rauch</subheadline>
+               <statement>100 Feuerwehr·leute haben das Feuer gelöscht.</statement>
+               <statement>Das Löschen von dem Feuer hat 6 Stunden gedauert.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Das Feuer war sehr gefährlich.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Bei einem Feuer in einer Biogas·anlage können nämlich Explosionen entstehen.</statement>
+                     </speech>
+                     <speech id="3"> 
+                        <statement>Bei diesem Feuer hat es <style_element type="hb">keine</style_element> Explosionen gegeben.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Aber das Feuer war trotzdem gefährlich.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Bei dem Feuer war nämlich viel Rauch.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Dieser Rauch war giftig.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Unfall mit Polizei</subheadline> 
+               <statement>Bei dem Feuer wurden <style_element type="hb">keine</style_element> Menschen verletzt.</statement>
+               <statement>Aber nach dem Feuer hat es einen Unfall gegeben.</statement>
+               <statement>Bei diesem Unfall ist ein Polizei·auto gegen ein Feuerwehr·auto gefahren.</statement>
+               <statement>Und bei diesem Unfall wurden 2 Polizisten verletzt.</statement>
+               <statement>Jetzt ermittelt die Polizei.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei will nämlich wissen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Warum hat die Biogas·anlage gebrannt?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-10" url="2019-01-28_15-30_578.xml">
+   <title>Neuer Trainer bei Hannover 96</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-01-28_15-30</vdate>
+   <resources>
+      <resource id="1" name="2019-01-28_15-30_578-full.png" type="screenshot" url="2019-01-28_15-30_578-full.png"/>
+      <resource id="2" name="2019-01-28_15-30_578_plaintext.txt" type="plaintext" url="2019-01-28_15-30_578_plaintext.txt"/>
+      <resource id="3" name="2019-01-28_15-30_578_quellcode.txt" type="sourcecode" url="2019-01-28_15-30_578_quellcode.txt"/>
+      <resource id="4" name="2019-01-28_15-30_578.docx" type="formatedText" url="2019-01-28_15-30_578.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Neuer Trainer bei Hannover 96</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Hannover 96 hat einen neuen Trainer.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Hannover 96 ist ein Fußball·verein aus Niedersachsen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Und Hannover 96 spielt in der 1. Fußball-Bundesliga.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">In der 1. Fußball-Bundesliga spielen die 18 besten Vereine von Deutschland.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser neue Trainer ist Thomas Doll.</statement>
+            <statement>Der alte Trainer war Andre Breitenreiter.</statement>
+            <statement>Aber Hannover 96 hat mit Andre Breitenreiter viele Spiele verloren.</statement>
+            <explanation_marker>
+               <statement>Deshalb hat Hannover 96 Andre Breitenreiter entlassen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Andre Breitenreiter arbeitet <style_element type="hb">nicht</style_element> mehr für Hannover 96.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker> 
+            <statement>Jetzt ist Thomas Doll Trainer von Hannover 96.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Thomas Doll hat viel Erfahrung</subheadline>
+               <statement>Thomas Doll ist 52 Jahre alt.</statement>
+               <statement>Und Thomas Doll hat früher auch Fußball gespielt.</statement>
+               <statement>Thomas Doll war ein sehr guter Fußball·spieler.</statement>
+               <explanation_marker>
+                  <statement>Thomas Doll hat in der deutschen National·mannschaft gespielt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">In einer National·mannschaft spielen die besten Spieler aus einem Land.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Und Thomas Doll hat als Trainer für viele Vereine gearbeitet.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <statement><style_element type="hi">• Für den Hamburger SV.</style_element></statement>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <statement><style_element type="hi">• Und für Borussia Dortmund.</style_element></statement>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <section id="3">
+            <explanation_marker>
+               <statement>Der Sport·chef von Hannover 96 ist Horst Heldt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Sport·chef hat wichtige Aufgaben bei einem Fußball·verein.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Ein Sport·chef sagt zum Beispiel:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement><style_element type="hi">Diese Spieler soll der Fußball·verein kaufen.</style_element></statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                     
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Horst Heldt hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Hannover 96 hat mit Andre Breitenreiter nur wenige Spiele gewonnen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb haben wir Andre Breitenreiter entlassen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Jetzt ist Thomas Doll unser Trainer.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Thomas Doll hat sehr viel Erfahrung.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Und Thomas Doll kennt die 1. Bundesliga sehr gut.</statement>
+                  </speech>
+                  <speech id="6">
+                     <speech_marker>
+                        <speech_intro>
+                           <headword>Wir glauben:</headword>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Mit Thomas Doll spielen wir wieder besser Fußball.</statement>
+                           </speech>
+                           <speech id="2">
+                              <statement>Und mit Thomas Doll gewinnen wir wieder mehr Spiele.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

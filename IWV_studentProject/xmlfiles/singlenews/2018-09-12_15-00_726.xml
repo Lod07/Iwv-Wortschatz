@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-25" url="2018-09-12_15-00_726.xml">
+   <title>Preise für Kartoffeln steigen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-09-12_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-09-12_15-00_726-full.png" type="screenshot" url="2018-09-12_15-00_726-full.png"/>
+      <resource id="2" name="2018-09-12_15-00_726_plaintext.txt" type="plaintext" url="2018-09-12_15-00_726_plaintext.txt"/>
+      <resource id="3" name="2018-09-12_15-00_726_quellcode.txt" type="sourcecode" url="2018-09-12_15-00_726_quellcode.txt"/>
+      <resource id="4" name="2018-09-12_15-00_726.docx" type="formatedText" url="2018-09-12_15-00_726.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Preise für Kartoffeln steigen</headline>
+      <sections>
+         <section id="1">
+            <statement>In Nord·deutschland hat es im Sommer wenig geregnet.</statement>
+            <statement>Und in Nord·deutschland war es im Sommer sehr warm.</statement>
+            <statement>Deshalb war es in Nord·deutschland sehr trocken.</statement>
+            <statement>Auch die Felder in Nord·deutschland waren sehr trocken.</statement>
+            <statement>Deshalb sind viele Pflanzen auf den trockenen Feldern <style_element type="hb">nicht</style_element> gut gewachsen.</statement>
+            <statement>Und deshalb haben die Bauern in diesem Jahr eine kleinere Ernte.</statement>
+            <statement>Auch die Kartoffeln sind <style_element type="hb">nicht</style_element> gut gewachsen.</statement>
+            <statement>Deshalb ernten die Bauern kleinere Kartoffeln.</statement>
+            <statement>Und die Bauern ernten weniger Kartoffeln.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Weniger Kartoffeln</subheadline>
+               <statement>Die Bauern verkaufen ihre Kartoffel·ernte.</statement>
+               <statement>Aber jetzt haben die Bauern eine kleinere Kartoffel·ernte.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Im vergangenen Jahr haben wir sehr viele Kartoffeln geerntet.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber in diesem Jahr ernten wir viel weniger Kartoffeln.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>So wenige Kartoffeln haben wir selten geerntet.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <question>In diesem Jahr gibt es viel weniger Kartoffeln?</question>
+               <explanation_marker>
+                  <statement>Dann steigen die Preise für Kartoffeln.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Menschen müssen mehr Geld für Kartoffeln bezahlen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Kartoffeln sind auch in vielen Lebensmitteln.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <headword>Zum Beispiel:</headword>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <statement>• In Pommes frites.</statement>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <statement>• Oder in Kartoffel·chips.</statement>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Auch die Preise für diese Lebensmittel steigen.</statement>
+         </section>
+         <section id="3">
+            <statement><style_element type="hb">Zur schlechten Ernte gibt es noch einen Text in Leichter Sprache.</style_element></statement>
+            <question><style_element type="hb">Sie wollen den Text lesen?</style_element></question>
+            <headword><style_element type="hb">Oder hören?</style_element></headword>
+            <statement>
+               <ref>
+                  <style_element type="hb">Dann klicken Sie <style_element type="hu">hier</style_element>.</style_element>
+               </ref>
+            </statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

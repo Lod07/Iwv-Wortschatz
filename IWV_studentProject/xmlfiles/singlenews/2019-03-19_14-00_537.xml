@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-19" url="2019-03-19_14-00_537.xml">
+   <title>Länder·spiel in Wolfsburg</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-03-19_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-03-19_14-00_537-full.png" type="screenshot" url="2019-03-19_14-00_537-full.png"/>
+      <resource id="2" name="2019-03-19_14-00_537_plaintext.txt" type="plaintext" url="2019-03-19_14-00_537_plaintext.txt"/>
+      <resource id="3" name="2019-03-19_14-00_537_quellcode.txt" type="sourcecode" url="2019-03-19_14-00_537_quellcode.txt"/>
+      <resource id="4" name="2019-03-19_14-00_537.docx" type="formatedText" url="2019-03-19_14-00_537.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Länder·spiel in Wolfsburg</headline>
+      <sections>
+         <section id="1">
+            <statement>Am Mittwoch ist ein wichtiges Fußball·spiel.</statement>
+            <explanation_marker>
+               <statement>Dieses Fußball·spiel ist in Wolfsburg.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Wolfsburg ist eine Stadt in Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und dieses Fußball·spiel ist ein Länder·spiel.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bei einem Länder·spiel spielen die Mannschaften von 2 Ländern gegeneinander.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Es ist das erste Länder·spiel der deutschen National·mannschaft in diesem Jahr.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">In einer National·mannschaft spielen die besten Spieler von einem Land.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die deutsche National·mannschaft spielt gegen Serbien.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Serbien ist ein Land.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Serbien ist im Südosten von Europa.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Das Länder·spiel gegen Serbien ist ein Test·spiel.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Test·spiel gehört nicht zu einem Wettbewerb.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In einem Test·spiel testen die Trainer zum Beispiel neue Spieler.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>3 neue Spieler</subheadline>
+               <statement>Der Trainer von der deutschen National·mannschaft ist der Bundes·trainer.</statement>
+               <statement>Der Bundes·trainer ist Joachim Löw.</statement>
+               <explanation_marker>
+                  <statement>Joachim Löw will in Wolfsburg 3 neue Spieler testen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2"> 
+                        <statement><style_element type="hi">Diese 3 Spieler haben noch <style_element type="hb">nie</style_element> für die deutsche National·mannschaft gespielt.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Einer von diesen 3 neuen Spielern kommt aus Nord·deutschland.</statement>
+               <statement>Dieser Spieler heißt Maximilian Eggestein.</statement>
+               <statement>Maximilian Eggestein ist 22 Jahre alt.</statement>
+               <explanation_marker>
+                  <statement>Maximilian Eggestein ist in Hannover geboren.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Hannover ist die Haupt·stadt von Niedersachsen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Und Maximilan Eggestein spielt bei Werder Bremen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Werder Bremen ist ein Sport·verein.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und Werder Bremen spielt in der 1. Fußball-Bundesliga.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <section id="3">
+            <subheadline>Fans freuen sich auf National·mannschaft</subheadline>
+               <statement>Am Montag sind die National·spieler in Wolfsburg angekommen.</statement>
+               <statement>Vor dem Hotel der National·mannschaft haben schon viele Fans auf die Spieler gewartet.</statement>
+               <statement>Dann haben viele Fans zum Beispiel ein Foto mit den National·spielern gemacht.</statement>
+               <statement>Auch beim Training waren viele Zuschauer.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Einige Zuschauer haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1"> 
+                        <statement>Die National·mannschaft hat in den letzten Monaten oft <style_element type="hb">nicht</style_element> gut gespielt.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber jetzt freuen wir uns auf das Spiel am Mittwoch.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Das letzte Länder·spiel in Wolfsburg ist nämlich sehr lange her.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Das letzte Länder·spiel in Wolfsburg war vor 16 Jahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

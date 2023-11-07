@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-31" url="2018-05-16_15-00_962.xml">
+   <title>Wichtige Fußball·spiele für Wolfsburg und Kiel</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-05-16_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-05-16_15-00_962-full.png" type="screenshot" url="2018-05-16_15-00_962-full.png"/>
+      <resource id="2" name="2018-05-16_15-00_962_plaintext.txt" type="plaintext" url="2018-05-16_15-00_962_plaintext.txt"/>
+      <resource id="3" name="2018-05-16_15-00_962_quellcode.txt" type="sourcecode" url="2018-05-16_15-00_962_quellcode.txt"/>
+      <resource id="4" name="2018-05-16_15-00_962.docx" type="formatedText" url="2018-05-16_15-00_962.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Wichtige Fußball·spiele für Wolfsburg und Kiel</headline>
+      <sections>
+         <section id="1">
+            <statement>2 Fußball·vereine aus Nord·deutschland haben sehr wichtige Spiele.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese 2 Fußball·vereine sind:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <explanation_marker>
+                        <statement>• Der VfL Wolfsburg.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Wolfsburg ist eine Stadt in Niedersachsen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <statement>• Und Holstein Kiel.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Kiel ist die Hauptstadt von Schleswig-Holstein.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Die wichtigen Spiele sind Relegations·spiele.</statement>
+            <statement>In diesen Relegations·spielen spielen Wolfsburg und Kiel gegeneinander.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Die Relegations·spiele</subheadline>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Am Ende von einer Fußball·saison spielen immer 2 Mannschaften gegeneinander:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <statement>• Eine Mannschaft war auf dem 16. Platz in der 1. Bundesliga.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Diese Mannschaft war Wolfsburg.</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <statement>• Und die andere Mannschaft war auf dem 3. Platz in der 2. Bundesliga.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Diese Mannschaft war Kiel.</statement>
+               <statement>Wolfsburg und Kiel spielen jetzt 2 Mal gegeneinander.</statement>
+               <statement>Der Gewinner von diesen 2 Spielen darf in der nächsten Saison in der 1. Bundesliga spielen.</statement>
+               <statement>Und der Verlierer muss in der 2. Bundesliga spielen.</statement>
+         </section>
+         <section id="3">
+            <statement>Das 1. Relegations·spiel ist am Donnerstag.</statement>
+            <statement>Dieses Spiel ist in Wolfsburg.</statement>
+            <statement>Und das 2. Relegations·spiel ist am Montag.</statement>
+            <statement>Dieses Spiel ist in Kiel.</statement>
+         </section>
+         <section id="4">
+            <subheadline>Was sagen die Trainer?</subheadline>
+               <statement>Der Trainer vom VfL Wolfsburg heißt Bruno Labbadia.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Bruno Labbadia hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir haben jetzt 2 wichtige Spiele.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Holstein Kiel ist eine gute Mannschaft.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb müssen wir in diesen Spielen sehr gut spielen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Nur dann können wir in der 1. Bundesliga bleiben.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="5">
+            <statement>Der Trainer von Holstein Kiel heißt Markus Anfang.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Markus Anfang hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir wollen immer alle Spiele gewinnen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Vielleicht gewinnen wir auch diese Spiele.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und dann steigen wir vielleicht in die 1. Bundesliga auf.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Das wäre etwas Besonderes.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Holstein Kiel hat nämlich noch <style_element type="hb">nie</style_element> in der 1. Bundesliga gespielt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

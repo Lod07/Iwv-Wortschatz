@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-30" url="2018-04-18_15-00_878.xml">
+   <title>Großer Polizei·einsatz gegen Verbrecher·bande</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-04-18_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-04-18_15-00_878-full.png" type="screenshot" url="2018-04-18_15-00_878-full.png"/>
+      <resource id="2" name="2018-04-18_15-00_878_plaintext.txt" type="plaintext" url="2018-04-18_15-00_878_plaintext.txt"/>
+      <resource id="3" name="2018-04-18_15-00_878_quellcode.txt" type="sourcecode" url="2018-04-18_15-00_878_quellcode.txt"/>
+      <resource id="4" name="2018-04-18_15-00_878.docx" type="formatedText" url="2018-04-18_15-00_878.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Großer Polizei·einsatz gegen Verbrecher·bande</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In 12 Bundes·ländern war ein großer Polizei·einsatz.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>Zum Beispiel:</headword>
+                  </explanation>
+                  <explanation id="2">
+                     <headword>In Niedersachsen.</headword>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>Und in Hamburg.</statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>1500 Polizisten haben etwa 60 Gebäude durchsucht.</statement>
+            <statement>Und die Polizisten haben mehrere Menschen festgenommen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat nämlich gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Diese Menschen gehören wahrscheinlich zu einer Verbrecher·bande.</statement>
+                  </speech>
+                  <speech id="2">
+                     <explanation_marker>
+                        <statement>Diese Verbrecher·bande hat Frauen aus Thailand nach Deutschland gebracht.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Thailand ist ein Land in Südost·asien.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="3">
+                     <explanation_marker>
+                        <statement>Dann mussten diese Frauen in Deutschland als Prostituierte arbeiten.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Prostituierte haben Sex mit anderen Menschen.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Dafür müssen diese anderen Menschen Geld bezahlen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Die Polizei hat lange gegen die Verbrecher·bande ermittelt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat nämlich gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Die Verbrecher·bande hat die Frauen nach Deutschland eingeschleust.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Die Verbrecher·bande hat die Frauen heimlich nach Deutschland gebracht.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Das ist verboten.</style_element></statement>
+                              </explanation>
+                              <explanation id="4">
+                                 <statement><style_element type="hi"><style_element type="hb">Nicht</style_element> alle Menschen dürfen nämlich in alle Länder kommen.</style_element></statement>
+                              </explanation>
+                              <explanation id="5">
+                                 <statement><style_element type="hi">Die Menschen brauchen erst eine Erlaubnis.</style_element></statement>
+                              </explanation>
+                              <explanation id="6">
+                                 <statement><style_element type="hi">Aber die Frauen hatten <style_element type="hb">keine</style_element> Erlaubnis.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dafür sollten die Frauen der Verbrecher·bande viel Geld bezahlen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Aber die Frauen hatten <style_element type="hb">nicht</style_element> so viel Geld.</statement>
+                     </speech>
+                     <speech id="4">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Deshalb hat die Verbrecher·bande die Frauen gezwungen:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Arbeitet als Prostituierte.</statement>
+                              </speech>
+                              <speech id="2">
+                                 <statement>Und gebt uns das Geld.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Die Polizei hat nach Beweisen gegen die Verbrecher·bande gesucht.</statement>
+            <explanation_marker>
+               <statement>Deshalb hat die Polizei jetzt viele Bordelle durchsucht.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">In einem Bordell arbeiten Prostituierte.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei den Durchsuchungen hat die Polizei viele Hinweise gefunden.</statement>
+            <statement>Und die Polizei hat über 100 Menschen festgenommen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt prüft die Polizei:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Haben diese 100 Menschen etwas Verbotenes gemacht?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

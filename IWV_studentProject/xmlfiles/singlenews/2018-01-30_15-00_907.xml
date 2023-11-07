@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-28" url="2018-01-30_15-00_907.xml">
+   <title>Neue Münze mit Bild von Helmut Schmidt</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-01-30_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-01-30_15-00_907-full.png" type="screenshot" url="2018-01-30_15-00_907-full.png"/>
+      <resource id="2" name="2018-01-30_15-00_907_plaintext.txt" type="plaintext" url="2018-01-30_15-00_907_plaintext.txt"/>
+      <resource id="3" name="2018-01-30_15-00_907_quellcode.txt" type="sourcecode" url="2018-01-30_15-00_907_quellcode.txt"/>
+      <resource id="4" name="2018-01-30_15-00_907.docx" type="formatedText" url="2018-01-30_15-00_907.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Neue Münze mit Bild von Helmut Schmidt</headline>
+      <sections>
+         <section id="1">
+            <statement>In Deutschland gibt es jetzt eine neue Münze.</statement>
+            <statement>Diese neue Münze ist eine 2-Euro-Münze.</statement>
+            <statement>Und auf dieser neuen Münze ist ein besonderes Bild.</statement>
+            <statement>Dieses Bild zeigt den Kopf von Helmut Schmidt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Wer war Helmut Schmidt?</subheadline>
+               <statement>Helmut Schmidt war ein sehr berühmter Politiker.</statement>
+               <explanation_marker>
+                  <statement>Helmut Schmidt war zum Beispiel der Bundes·kanzler von Deutschland.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Der Bundes·kanzler ist der Chef von Deutschland.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Helmut Schmidt hat in Hamburg gelebt.</statement>
+               <statement>Und Helmut Schmidt ist am 10. November 2015 gestorben.</statement>
+               <statement>Helmut Schmidt ist 96 Jahre alt geworden.</statement>
+         </section>
+         <section id="3">
+            <statement>Zum Tod von Helmut Schmidt gibt es auch einen Text in Leichter Sprache.</statement>
+            <question>Sie möchten den Text lesen?</question>
+            <statement>
+               <ref>
+                  Dann klicken Sie <style_element type="hb"><style_element type="hu">hier</style_element></style_element>.
+               </ref>
+            </statement>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Nach dem Tod von Helmut Schmidt haben viele Menschen gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Helmut Schmidt war ein sehr guter Politiker.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Helmut Schmidt hat nämlich viele wichtige Entscheidungen getroffen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und Helmut Schmidt hat viel für Deutschland gemacht.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb hat Helmut Schmidt eine besondere Erinnerung verdient.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Die Münze mit dem Bild von Helmut Schmidt ist diese besondere Erinnerung.</statement>
+         </section>
+         <section id="5">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Tochter von Helmut Schmidt hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Bald bezahlen viele Menschen mit der neuen Münze.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und einige von diesen Menschen denken dann vielleicht an meinen Vater.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Darüber freue ich mich sehr.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

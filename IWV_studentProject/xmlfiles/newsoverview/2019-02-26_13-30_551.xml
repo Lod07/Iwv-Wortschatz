@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-17" url="2019-02-26_13-30_551.xml">
+   <title>Mehr Nachrichten vom 26.02.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-02-26_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-02-26_13-30_551-full.png" type="screenshot" url="2019-02-26_13-30_551-full.png"/>
+      <resource id="2" name="2019-02-26_13-30_551_plaintext.txt" type="plaintext" url="2019-02-26_13-30_551_plaintext.txt"/>
+      <resource id="3" name="2019-02-26_13-30_551_quellcode.txt" type="sourcecode" url="2019-02-26_13-30_551_quellcode.txt"/>
+      <resource id="4" name="2019-02-26_13-30_551.docx" type="formatedText" url="2019-02-26_13-30_551.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 26.02.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Bremen: Mann muss ins Gefängnis</subheadline>
+                <explanation_marker>
+                    <statement>In Bremen war ein Prozess.</statement>
+                    <explanations>
+                        <explanation id="1">
+                            <statement><style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element></statement>
+                        </explanation>
+                        <explanation id="2">
+                            <speech_marker>
+                                <speech_intro> 
+                                    <statement><style_element type="hi">Bei einem Prozess entscheidet das Gericht:</style_element></statement>
+                                </speech_intro>
+                                <speeches>
+                                    <speech id="1">
+                                        <question><style_element type="hi">• Hat ein Mensch etwas Verbotenes getan?</style_element></question>
+                                    </speech>
+                                    <speech id="2">
+                                        <statement><style_element type="hi">Dann bekommt dieser Mensch eine Strafe.</style_element></statement>
+                                    </speech>
+                                    <speech id="3">
+                                        <question><style_element type="hi">• Oder hat ein Mensch <style_element type="hb">nichts</style_element> Verbotenes getan?</style_element></question>
+                                    </speech>
+                                    <speech id="4">
+                                        <statement><style_element type="hi">Dann bekommt dieser Mensch <style_element type="hb">keine</style_element> Strafe.</style_element></statement>
+                                    </speech>
+                                </speeches>
+                            </speech_marker>
+                        </explanation>
+                    </explanations>
+                </explanation_marker>
+                <statement>Bei diesem Prozess hat das Gericht einen Mann verurteilt.</statement>
+                <statement>Jetzt muss der Mann für 12 Jahre ins Gefängnis.</statement>
+                <speech_marker>
+                <speech_intro>
+                    <statement>Das Gericht hat gesagt:</statement>
+                </speech_intro>
+                    <speeches>
+                        <speech id="1">
+                            <statement>Der Mann war mit seiner Freundin in einem Supermarkt.</statement>
+                        </speech>
+                        <speech id="2">
+                            <statement>Dann hat ein anderer Mann die Freundin angesprochen.</statement>
+                        </speech>
+                        <speech id="3">
+                            <statement>Deshalb ist der Mann wütend geworden.</statement>
+                        </speech>
+                        <speech id="4">
+                            <statement>Und deshalb hat der Mann den anderen Mann mit einem Messer erstochen.</statement>
+                        </speech>
+                    </speeches>
+                </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Mecklenburg-Vorpommern: Alter Mann stirbt bei Unfall</subheadline>
+               <explanation_marker>
+                  <statement>Auf Rügen war ein schwerer Unfall.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Rügen ist eine Insel in der Ostsee.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei diesem schweren Unfall ist ein alter Mann gestorben.</statement>
+               <statement>Der Unfall war auf der Bundesstraße 96.</statement>
+               <statement>Und der Unfall war in einer Kurve.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der alte Mann ist mit seinem Auto von der Fahr·bahn gerutscht.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Vielleicht war der alte Mann krank.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker> 
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

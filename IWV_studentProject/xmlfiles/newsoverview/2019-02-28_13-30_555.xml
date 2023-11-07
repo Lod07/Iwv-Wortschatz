@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-17" url="2019-02-28_13-30_555.xml">
+   <title>Mehr Nachrichten vom 28.02.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-02-28_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-02-28_13-30_555-full.png" type="screenshot" url="2019-02-28_13-30_555-full.png"/>
+      <resource id="2" name="2019-02-28_13-30_555_plaintext.txt" type="plaintext" url="2019-02-28_13-30_555_plaintext.txt"/>
+      <resource id="3" name="2019-02-28_13-30_555_quellcode.txt" type="sourcecode" url="2019-02-28_13-30_555_quellcode.txt"/>
+      <resource id="4" name="2019-02-28_13-30_555.docx" type="formatedText" url="2019-02-28_13-30_555.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 28.02.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Bekannte Schülerin bei Demonstration</subheadline>
+               <explanation_marker>
+                  <statement>In Hamburg ist am Freitag eine Demonstration.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Bei einer Demonstration treffen sich viele Menschen.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und diese Menschen sagen laut ihre Meinung.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Demonstration ist von Schülern.</statement>
+               <explanation_marker>
+                  <statement>Und die Demonstration ist für den Klima·schutz.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Der Klima·schutz soll das Klima schützen.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Das Klima ist das Wetter über eine lange Zeit.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Zu dieser Demonstration kommt eine bekannte Schülerin aus Schweden.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Schweden ist ein Land in Nord·europa.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Diese Schülerin ist Greta Thunberg.</statement>
+               <statement>Greta Thunberg war schon bei vielen wichtigen Treffen für den Klima·schutz.</statement>
+               <statement>Deshalb kennen viele Menschen Greta Thunberg.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Greta Thunberg  sagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Politiker sollen das Klima besser schützen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Frau muss niesen und macht Unfall</subheadline>
+               <statement>In Osnabrück war ein Unfall.</statement>
+               <statement>Bei dem Unfall ist ein Auto in ein Haus gefahren.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In dem Auto war eine Frau.</statement>
+                     </speech>
+                     <speech id="2">
+                        <explanation_marker>
+                           <statement>Diese Frau hatte einen Nies·anfall.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Bei einem Nies·anfall muss ein Mensch mehrmals kräftig niesen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Bei diesem Nies·anfall hat die Frau die Kontrolle über das Auto verloren.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb ist das Auto in das Haus gekracht.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

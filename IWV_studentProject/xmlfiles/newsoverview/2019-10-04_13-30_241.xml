@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-30" url="2019-10-04_13-30_241.xml">
+   <title>Mehr Nachrichten vom 04.10.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-04_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-10-04_13-30_241-full.png" type="screenshot" url="2019-10-04_13-30_241-full.png"/>
+      <resource id="2" name="2019-10-04_13-30_241_plaintext.txt" type="plaintext" url="2019-10-04_13-30_241_plaintext.txt"/>
+      <resource id="3" name="2019-10-04_13-30_241_quellcode.txt" type="sourcecode" url="2019-10-04_13-30_241_quellcode.txt"/>
+      <resource id="4" name="2019-10-04_13-30_241.docx" type="formatedText" url="2019-10-04_13-30_241.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 04.10.2019</headline>
+      <sections>  
+         <section id="1">
+            <subheadline>Handball: Hannover-Burgdorf gewinnt wichtiges Spiel</subheadline>
+            <explanation_marker>
+               <statement>Die TSV Hannover-Burgdorf hat ein wichtiges Spiel gewonnen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die TSV Hannover-Burgdorf ist ein Handball·verein aus Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieses Spiel war gegen die SG Flensburg-Handewitt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die SG Flensburg-Handewitt ist ein Handball·verein aus Schleswig-Holstein.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die TSV Hannover-Burgdorf hat das Spiel mit 26:20 gewonnen.</statement>
+            <explanation_marker>
+               <statement>Und das Spiel war im DHB-Pokal.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Der DHB-Pokal ist ein wichtiger Wettbewerb im deutschen Handball.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">DHB ist die Abkürzung für <style_element type="hb">D</style_element>eutscher <style_element type="hb">H</style_element>andball·<style_element type="hb">b</style_element>und.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Nur die Gewinner von den Handball·spielen dürfen im DHB-Pokal weiter·spielen.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Die Verlierer von den Handball·spielen dürfen im DHB-Pokal <style_element type="hb">nicht</style_element> weiter·spielen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Sieg war etwas Besonderes.</statement>
+            <statement>Die TSV Hannover-Burgdorf hat nämlich noch <style_element type="hb">nie</style_element> in Flensburg gewonnen.</statement>
+            <explanation_marker>
+               <statement>Jetzt ist die TSV Hannover-Burgdorf im Viertel·finale von dem Pokal.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Im Viertel·finale sind die besten 8 Handball·vereine.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und die SG Flensburg-Handewitt ist im DHB-Pokal ausgeschieden.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Protest gegen Kraft·werk</subheadline>
+            <explanation_marker>
+               <statement>In Hamburg war eine Demonstration.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bei einer Demonstration treffen sich viele Menschen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Menschen sind mit etwas <style_element type="hb">nicht</style_element> einverstanden.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Deshalb sagen diese Menschen laut ihre Meinung.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Demonstration war vor einem Kohle·kraft·werk.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Kohle·kraft·werk macht Strom.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Dafür verbrennt das Kohle·kraft·werk Kohle.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieses Kohle·kraft·werk ist im Hamburger Hafen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Menschen bei der Demonstration haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Das Kohle·kraft·werk macht viele Schad·stoffe.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Schad·stoffe sind gefährliche Stoffe.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Diese Schad·stoffe sind <style_element type="hb">nicht</style_element> gut für die Menschen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und diese Schad·stoffe sind <style_element type="hb">nicht</style_element> gut für die Umwelt.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb soll das Kohle·kraft·werk schließen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections> 
+   </content>
+</annotation>

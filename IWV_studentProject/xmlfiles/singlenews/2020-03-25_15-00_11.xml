@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2020-03-25_15-00_11.xml">
+   <title>Immer mehr Menschen haben Corona-Virus</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-03-25_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-03-25_15-00_11-full.png" type="screenshot" url="2020-03-25_15-00_11-full.png"/>
+      <resource id="2" name="2020-03-25_15-00_11_plaintext.txt" type="plaintext" url="2020-03-25_15-00_11_plaintext.txt"/>
+      <resource id="3" name="2020-03-25_15-00_11_quellcode.txt" type="sourcecode" url="2020-03-25_15-00_11_quellcode.txt"/>
+      <resource id="4" name="2020-03-25_15-00_11.docx" type="formatedText" url="2020-03-25_15-00_11.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Immer mehr Menschen haben Corona-Virus</headline>
+      <sections>
+         <section id="1">
+            <statement>Immer mehr Menschen haben das Corona-Virus.</statement>
+            <statement>Das Corona-Virus ist nämlich sehr ansteckend.</statement>
+            <statement>In Deutschland hatten am Mittwoch schon mehr als 31.000 Menschen das Corona-Virus.</statement>
+            <statement>Und etwa 150 Menschen sind in Deutschland am Corona-Virus gestorben.</statement>
+            <statement>In anderen Ländern sind noch viel mehr Menschen am Corona-Virus gestorben.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <statement>• In Italien sind fast 7000 Menschen am Corona-Virus gestorben.</statement>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Und in Spanien sind 3400 Menschen am Corona-Virus gestorben.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="2">
+            <statement>Auch bekannte Menschen haben das Corona-Virus:</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <explanation_marker>
+                        <headword>• Prinz Charles.</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Prinz Charles ist der Sohn von der englischen Königin.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Die englische Königin ist Königin Elisabeth.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <statement>• Und Belit Onay.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Belit Onay ist Bürger·meister von Hannover.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">Hannover ist die Haup·stadt von Niedersachsen.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Diesen 2 Menschen geht es gut.</statement>
+            <explanation_marker>
+               <statement>Aber diese 2 Menschen sind jetzt in Quarantäne.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Quarantäne ist eine Regel.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Regel sagt:</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Ein Mensch darf <style_element type="hb">keinen</style_element> anderen Menschen treffen.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Eine Behörde kann zum Beispiel sagen:</style_element></statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement><style_element type="hi">Ein bestimmter Mensch muss in Quarantäne.</style_element></statement>
+                  </explanation>
+                  <explanation id="6">
+                     <statement><style_element type="hi">Dieser Mensch hat nämlich eine ansteckende Krankheit.</style_element></statement>
+                  </explanation>
+                  <explanation id="7">
+                     <statement><style_element type="hi">Dieser Mensch darf <style_element type="hb">keinen</style_element> anderen Menschen treffen.</style_element></statement>
+                  </explanation>
+                  <explanation id="8">
+                     <statement><style_element type="hi">Deshalb muss dieser Mensch zu Hause bleiben.</style_element></statement>
+                  </explanation>
+                  <explanation id="9">
+                     <statement><style_element type="hi">Oder allein in einem Zimmer zum Beispiel im Kranken·haus.</style_element></statement>
+                  </explanation>
+                  <explanation id="10">
+                     <statement><style_element type="hi">Dann kann dieser Mensch <style_element type="hb">keinen</style_element> anderen Menschen anstecken.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="3">
+            <subheadline>Fußball·spieler wieder gesund</subheadline>
+            <statement>Vor 2 Wochen hat sich der erste bekannte Fußball·spieler mit dem Corona-Virus angesteckt.</statement>
+            <statement>Dieser Fußball·spieler ist Timo Hübers.</statement>
+            <explanation_marker>
+               <statement>Und dieser Fußball·spieler spielt bei Hannover 96.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi"> Hannover 96 ist ein Fußball·verein aus Niedersachsen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Hannover 96 spielt in der 2. Bundesliga.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Timo Hübers war 2 Wochen lang in Quarantäne.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt hat Hannover 96 gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Timo Hübers ist wieder gesund.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und Timo Hübers darf wieder andere Menschen sehen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Timo Hübers hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Ich darf jetzt wieder nach draußen gehen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Darüber freue ich mich sehr.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker> 
+         </section>
+      </sections>
+   </content>
+</annotation>

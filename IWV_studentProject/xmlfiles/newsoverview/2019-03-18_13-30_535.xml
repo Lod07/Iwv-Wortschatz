@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-19" url="2019-03-18_13-30_535.xml">
+   <title>Mehr Nachrichten vom 18.03.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-03-18_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-03-18_13-30_535-full.png" type="screenshot" url="2019-03-18_13-30_535-full.png"/>
+      <resource id="2" name="2019-03-18_13-30_535_plaintext.txt" type="plaintext" url="2019-03-18_13-30_535_plaintext.txt"/>
+      <resource id="3" name="2019-03-18_13-30_535_quellcode.txt" type="sourcecode" url="2019-03-18_13-30_535_quellcode.txt"/>
+      <resource id="4" name="2019-03-18_13-30_535.docx" type="formatedText" url="2019-03-18_13-30_535.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 18.03.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Bomben·drohung in Flensburg</subheadline>
+               <explanation_marker>
+                  <statement>Am Montagmorgen hat die Polizei das Rathaus in Flensburg gesperrt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2"> 
+                        <statement><style_element type="hi">In dem Rathaus durften <style_element type="hb">keine</style_element> Menschen sein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Am Rathaus in Flensburg war nämlich eine Bomben·drohung.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Bei einer Bomben·drohung sagt ein Mensch:</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Ich habe eine Bombe versteckt.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Und ich lasse diese Bombe explodieren.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                     <explanation id="2">
+                        <question><style_element type="hi">Explodiert die Bombe?</style_element></question>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Dann können zum Beispiel viele Menschen verletzt werden.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir haben das Rathaus durchsucht.</statement>
+                     </speech>
+                     <speech id="2"> 
+                        <statement>Aber wir haben <style_element type="hb">keine</style_element> Bombe gefunden.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb dürfen jetzt wieder Menschen in das Rathaus.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Jetzt ermittelt die Polizei.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei will nämlich wissen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Wer hat die Bomben·drohung gemacht?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Mann stirbt bei Unfall</subheadline>
+               <explanation_marker>
+                  <statement>Auf der A31 waren am Montag mehrere Unfälle.</statement>
+                  <explanations>
+                     <explanation id="1"> 
+                        <statement><style_element type="hi">A31 ist die Abkürzung für <style_element type="hb">A</style_element>utobahn <style_element type="hb">31</style_element>.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Diese Unfälle waren in der Nähe von Papenburg.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Papenburg ist eine Stadt im Emsland.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Das Emsland ist eine Region in Nieder·sachsen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ein Pkw-Fahrer ist gegen einen Lkw gefahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Bei diesem Unfall ist der Pkw-Fahrer gestorben.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und bei dem Unfall wurden 7 Menschen verletzt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Dann war auf der A31 noch ein Unfall.</statement>
+               <statement>Bei diesem Unfall wurden 6 Menschen verletzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Am Morgen waren starke Hagel·schauer im Emsland.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb war die Fahr·bahn sehr glatt.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Vielleicht konnten viele Auto·fahrer deshalb <style_element type="hb">nicht</style_element> rechtzeitig bremsen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker> 
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

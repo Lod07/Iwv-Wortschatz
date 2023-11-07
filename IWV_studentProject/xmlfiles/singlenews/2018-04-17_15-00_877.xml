@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-30" url="2018-04-17_15-00_877.xml">
+   <title>Mann muss lebenslang ins Gefängnis</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-04-17_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-04-17_15-00_877-full.png" type="screenshot" url="2018-04-17_15-00_877-full.png"/>
+      <resource id="2" name="2018-04-17_15-00_877_plaintext.txt" type="plaintext" url="2018-04-17_15-00_877_plaintext.txt"/>
+      <resource id="3" name="2018-04-17_15-00_877_quellcode.txt" type="sourcecode" url="2018-04-17_15-00_877_quellcode.txt"/>
+      <resource id="4" name="2018-04-17_15-00_877.docx" type="formatedText" url="2018-04-17_15-00_877.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mann muss lebenslang ins Gefängnis</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Hamburg war ein Prozess.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Bei einem Prozess entscheidet das Gericht:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question><style_element type="hi">• Hat ein Mensch etwas Verbotenes getan?</style_element></question>
+                           </speech>
+                           <speech id="2">
+                              <statement><style_element type="hi">Dann bekommt dieser Mensch eine Strafe.</style_element></statement>
+                           </speech>
+                           <speech id="3">
+                              <question><style_element type="hi">• Oder hat ein Mensch <style_element type="hb">nichts</style_element> Verbotenes getan?</style_element></question>
+                           </speech>
+                           <speech id="4">
+                              <statement><style_element type="hi">Dann bekommt dieser Mensch <style_element type="hb">keine</style_element> Strafe.</style_element></statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>      
+            <statement>Bei dem Prozess hat das Gericht einen Mann verurteilt.</statement>
+            <statement>Der Mann hat nämlich einen alten Mann ermordet.</statement>
+            <explanation_marker>
+               <statement>Deshalb muss der Mann jetzt lebenslang ins Gefängnis.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Der Mann kommt vielleicht <style_element type="hb">nie</style_element> wieder frei.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Der Mann hat den alten Mann nachts in seiner Wohnung überfallen.</statement>
+               <statement>Bei diesem Überfall hat der Mann den alten Mann sehr schwer verletzt.</statement>
+               <statement>Der Mann hat den alten Mann zum Beispiel auf den Kopf geschlagen.</statement>
+               <statement>Und der Mann hat den alten Mann gewürgt.</statement>
+               <statement>Dann hat der Mann den alten Mann in seiner Wohnung eingesperrt.</statement>
+               <statement>Und dann ist der Mann geflohen.</statement>
+               <statement>Später ist der alte Mann gestorben.</statement>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der Mann hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Ich habe den alten Mann <style_element type="hb">nicht</style_element> überfallen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und ich habe den alten Mann <style_element type="hb">nicht</style_element> ermordet.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Aber das Gericht hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir glauben dem Mann <style_element type="hb">nicht</style_element>.</statement>
+                  </speech>
+                  <speech id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Wir haben nämlich Beweise:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Der Mann hat den alten Mann überfallen.</statement>
+                           </speech>
+                           <speech id="2">
+                              <statement>Der Mann hat in der Wohnung von dem alten Mann nach Geld gesucht.</statement>
+                           </speech>
+                           <speech id="3">
+                              <statement>Und dann hat der Mann den alten Mann ermordet.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb muss der Mann jetzt lebenslang ins Gefängnis.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

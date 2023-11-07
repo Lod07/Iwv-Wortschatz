@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-08" url="2018-11-12_14-00_853.xml">
+   <title>Mann stirbt bei Feuer</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-11-12_14-00</vdate>
+   <resources>
+      <resource id="1" name="2018-11-12_14-00_853-full.png" type="screenshot" url="2018-11-12_14-00_853-full.png"/>
+      <resource id="2" name="2018-11-12_14-00_853_plaintext.txt" type="plaintext" url="2018-11-12_14-00_853_plaintext.txt"/>
+      <resource id="3" name="2018-11-12_14-00_853_quellcode.txt" type="sourcecode" url="2018-11-12_14-00_853_quellcode.txt"/>
+      <resource id="4" name="2018-11-12_14-00_853.docx" type="formatedText" url="2018-11-12_14-00_853.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mann stirbt bei Feuer</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Hildesheim war ein Feuer.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Hildesheim ist eine Stadt in Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Das Feuer war in einem Wohn·haus.</statement>
+            <statement>Bei dem Feuer ist ein Mann gestorben.</statement>
+            <statement>Der Mann war 69 Jahre alt.</statement>
+            <statement>7 Menschen wurden bei dem Feuer verletzt.</statement>
+            <statement>2 von den 7 Menschen wurden schwer verletzt.</statement>
+            <statement>Und 5 von den 7 Menschen wurden leicht verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Zuerst war das Feuer im 1. Stock von dem Wohn·haus.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Das Feuer war zuerst in einer Wohnung.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>In dieser Wohnung waren 2 alte Menschen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Andere Menschen haben das Feuer bemerkt.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Dann haben diese anderen Menschen die 2 alten Menschen gerettet.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Und dann ist die Feuer·wehr gekommen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuer·wehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Das Feuer hat sich schnell ausgebreitet.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb war es in dem Wohn·haus sehr heiß.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und deshalb war in dem Wohn·haus viel Rauch.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb konnten wir <style_element type="hb">nicht</style_element> sofort in das Wohn·haus gehen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Und deshalb haben wir die Menschen über eine Leiter gerettet.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker> 
+         </section>
+         <section id="3">
+            <statement>Später ist die Feuer·wehr in das Wohn·haus gegangen.</statement>
+            <statement>Dann hat die Feuer·wehr das Feuer gelöscht.</statement>
+            <statement>Und dann hat die Feuer·wehr im 2. Stock den alten Mann gefunden.</statement>
+            <statement>Aber der alte Mann war schon tot.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei glaubt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Giftiger Rauch ist in die Wohnung von dem alten Mann gekommen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und dann ist der alte Mann an dem giftigen Rauch gestorben.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum hat das Haus gebrannt?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

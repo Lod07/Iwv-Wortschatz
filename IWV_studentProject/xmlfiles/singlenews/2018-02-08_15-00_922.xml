@@ -1,0 +1,191 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-28" url="2018-02-08_15-00_922.xml">
+   <title>Olaf Scholz wartet</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-02-08_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-02-08_15-00_922-full.png" type="screenshot" url="2018-02-08_15-00_922-full.png"/>
+      <resource id="2" name="2018-02-08_15-00_922_plaintext.txt" type="plaintext" url="2018-02-08_15-00_922_plaintext.txt"/>
+      <resource id="3" name="2018-02-08_15-00_922_quellcode.txt" type="sourcecode" url="2018-02-08_15-00_922_quellcode.txt"/>
+      <resource id="4" name="2018-02-08_15-00_922.docx" type="formatedText" url="2018-02-08_15-00_922.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Olaf Scholz wartet</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Hamburg war eine Presse·konferenz.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Presse·konferenz ist eine Veranstaltung.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Bei dieser Veranstaltung sind Journalisten.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <enumeration_marker>
+                                 <enumeration_intro>
+                                    <statement><style_element type="hi">Ein Journalist arbeitet zum Beispiel für:</style_element></statement>
+                                 </enumeration_intro>
+                                 <enumerations>
+                                    <enumeration id="1">
+                                       <headword><style_element type="hi">• Das Fernsehen.</style_element></headword>
+                                    </enumeration>
+                                    <enumeration id="2">
+                                      <statement><style_element type="hi">• Oder das Radio.</style_element></statement> 
+                                    </enumeration>
+                                 </enumerations>
+                              </enumeration_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und bei der Veranstaltung sind bekannte Menschen.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword><style_element type="hi">• Politiker.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword><style_element type="hi">• Oder Sportler</style_element></headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+                  <explanation id="5">
+                     <statement><style_element type="hi">Die bekannten Menschen beantworten zum Beispiel Fragen von den Journalisten.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Presse·konferenz war mit Olaf Scholz.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Olaf Scholz ist der Bürger·meister von Hamburg.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Ein Bürger·meister ist der Chef von einer Stadt.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Und Olaf Scholz ist von der SPD.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">SPD ist die Abkürzung für Sozial·demokratische Partei Deutschlands.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Die Presse·konferenz</subheadline>
+               <statement>Bei der Presse·konferenz waren sehr viele Journalisten.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Diese Journalisten wollten nämlich wissen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Braucht Hamburg einen neuen Bürger·meister?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Vor der Presse·konferenz haben Fach·leute nämlich gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Olaf Scholz verlässt vielleicht bald Hamburg.</statement>
+                     </speech>
+                     <speech id="2">
+                        <explanation_marker>
+                           <statement>Und Olaf Scholz arbeitet vielleicht bald in Berlin.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Berlin ist die Haupt·stadt von Deutschland.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <question>Warum verlässt Olaf Scholz vielleicht bald Hamburg?</question>
+            <statement>Dazu gibt es auch einen Text in Leichter Sprache.</statement>
+            <question>Sie wollen diesen Text lesen?</question>
+            <headword>Oder hören?</headword>
+            <statement>
+               <ref>
+                  Dann klicken Sie <style_element type="hu">hier</style_element>.
+               </ref>
+            </statement>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Journalisten haben Olaf Scholz gefragt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Verlassen Sie bald Hamburg?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Olaf Scholz hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Ich kann noch <style_element type="hb">nicht</style_element> sagen:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Ich verlasse Hamburg.</statement>
+                           </speech>
+                           <speech id="2">
+                              <statement>Oder ich verlasse Hamburg <style_element type="hb">nicht</style_element>.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Ich muss nämlich noch auf eine große Abstimmung warten.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Diese Abstimmung ist von den Mitgliedern von der SPD.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und diese Abstimmung ist in den nächsten Wochen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

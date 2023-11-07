@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-25" url="2018-09-05_14-30_721.xml">
+   <title>Mehr Nachrichten vom 05.09.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-09-05_14-30</vdate>
+   <resources>
+      <resource id="1" name="2018-09-05_14-30_721-full.png" type="screenshot" url="2018-09-05_14-30_721-full.png"/>
+      <resource id="2" name="2018-09-05_14-30_721_plaintext.txt" type="plaintext" url="2018-09-05_14-30_721_plaintext.txt"/>
+      <resource id="3" name="2018-09-05_14-30_721_quellcode.txt" type="sourcecode" url="2018-09-05_14-30_721_quellcode.txt"/>
+      <resource id="4" name="2018-09-05_14-30_721.docx" type="formatedText" url="2018-09-05_14-30_721.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 05.09.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Viele Camping·urlauber</subheadline>
+               <explanation_marker>
+                  <statement><style_element type="hi">In Niedersachsen machen viele Menschen Camping·urlaub.</style_element></statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Viele Menschen fahren im Urlaub auf den Camping·platz.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Diese Menschen wohnen dann zum Beispiel in Wohn·wagen.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Oder in Zelten.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Noch <style_element type="hb">nie</style_element> haben so viele Menschen auf Camping·plätzen Urlaub gemacht.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Besonders viele Menschen waren zum Beispiel auf den Camping·plätzen:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <statement>• An der Nordsee·küste.</statement>
+                     </enumeration>
+                     <enumeration id="2">
+                        <headword>• In Ostfriesland.</headword>
+                     </enumeration>
+                     <enumeration id="3">
+                        <statement>• Und in der Lüneburger Heide.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+         </section>
+         <section id="2">
+            <subheadline>Hamburg: Orden für Musiker</subheadline>
+               <explanation_marker>
+                  <statement>In Hamburg hat ein Musiker einen wichtigen Orden bekommen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Orden ist eine besondere Auszeichnung.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Dieser wichtige Orden heißt Bundesverdienstkreuz.</statement>
+               <explanation_marker>
+                  <statement>Der Musiker heißt Rolf Zuckowski.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Rolf Zuckowski ist ein bekannter Musiker.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Rolf Zuckowski macht Kinder·lieder.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <statement><style_element type="hi">• Wie schön, dass du geboren bist.</style_element></statement>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <statement><style_element type="hi">• Oder: Die Weihnachtsbäckerei.</style_element></statement>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Rolf Zuckowski macht <style_element type="hb">nicht</style_element> nur Musik für Kinder.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Rolf Zuckowski hilft auch vielen Kindern.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Rolf Zuckowski sammelt zum Beispiel Geld für arme Kinder.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Mecklenburg-Vorpommern: Ernte von Zucker·rüben beginnt</subheadline>
+               <explanation_marker>
+                  <statement>In Mecklenburg-Vorpommern hat die Ernte von Zucker·rüben begonnen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Zucker·rüben sind Pflanzen.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Aus Zucker·rüben wird Zucker gemacht.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In Mecklenburg-Vorpommern wachsen sehr viele Zucker·rüben.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und in Mecklenburg-Vorpommern sind viele Zucker·fabriken.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Diese Zucker·fabriken sind sehr wichtig für Mecklenburg-Vorpommern.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>In diesen Zucker·fabriken arbeiten nämlich sehr viele Menschen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

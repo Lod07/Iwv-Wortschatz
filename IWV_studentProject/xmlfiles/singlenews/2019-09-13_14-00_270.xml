@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2019-09-13_14-00_270.xml">
+   <title>Viele Kreuz·fahrt·schiffe in Hamburg</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-09-13_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-09-13_14-00_270-full.png" type="screenshot" url="2019-09-13_14-00_270-full.png"/>
+      <resource id="2" name="2019-09-13_14-00_270_plaintext.txt" type="plaintext" url="2019-09-13_14-00_270_plaintext.txt"/>
+      <resource id="3" name="2019-09-13_14-00_270_quellcode.txt" type="sourcecode" url="2019-09-13_14-00_270_quellcode.txt"/>
+      <resource id="4" name="2019-09-13_14-00_270.docx" type="formatedText" url="2019-09-13_14-00_270.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Viele Kreuz·fahrt·schiffe in Hamburg</headline>
+      <sections>
+         <section id="1">
+            <statement>In Hamburg ist eine besondere Veranstaltung.</statement>
+            <explanation_marker>
+               <statement>Diese Veranstaltung heißt Cruise Days.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Cruise Days ist englisch.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Cruise Days heißt Kreuz·fahrt-Tage.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Cruise Days sind im Hafen von Hamburg.</statement>
+            <explanation_marker>
+               <statement>Und bei den Cruise Days sind 12 Kreuz·fahrt·schiffe.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Auf einem Kreuz·fahrt·schiff machen Menschen Urlaub.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In diesem Urlaub lernen die Menschen viele Orte kennen.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Ein Kreuz·fahrt·schiff fährt nämlich zu vielen Orten.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Cruise Days haben am Freitag angefangen.</statement>
+            <statement>Und die Cruise Days sind bis zum Sonntag.</statement>
+         </section>
+         <section id="2">
+            <statement>Bei den Cruise Days können die Besucher die Kreuz·fahrt·schiffe angucken.</statement>
+            <statement>Deshalb kommen viele Besucher zu den Cruise Days.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der Chef von den Cruise Days hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Vielleicht kommen 500.000 Besucher zu den Cruise Days.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Die Besucher können auch viele andere Dinge machen.</statement>
+            <statement>Im Hafen ist nämlich ein großes Fest.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Auf diesem Fest können die Menschen zum Beispiel:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Essen.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Trinken.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <statement>• Und Musik hören.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="3">
+            <subheadline>Blaue Lichter in Hamburg</subheadline>
+            <statement>Bei den Cruise Days ist auch eine besondere Aktion.</statement>
+            <statement>Bei dieser Aktion sind an vielen Orten in Hamburg blaue Lichter.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Auf großen Gebäuden.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Oder auf Schiffen.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Deshalb leuchten viele Orte in Hamburg blau.</statement>
+         </section>
+         <section id="4">
+            <statement>Am Sonntag verlassen die 12 Kreuz·fahrt·schiffe Hamburg.</statement>
+            <statement>Dann fahren die 12 Kreuz·fahrt·schiffe hintereinander auf der Elbe.</statement>
+            <statement>Diese Fahrt heißt Schiffs·parade.</statement>
+            <statement>Das NDR Fernsehen zeigt die Schiffs·parade am Sonntag ab 20.15 Uhr.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-30" url="2019-01-10_13-30_635.xml">
+   <title>Mehr Nachrichten vom 10.01.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-01-10_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-01-10_13-30_635-full.png" type="screenshot" url="2019-01-10_13-30_635-full.png"/>
+      <resource id="2" name="2019-01-10_13-30_635_plaintext.txt" type="plaintext" url="2019-01-10_13-30_635_plaintext.txt"/>
+      <resource id="3" name="2019-01-10_13-30_635_quellcode.txt" type="sourcecode" url="2019-01-10_13-30_635_quellcode.txt"/>
+      <resource id="4" name="2019-01-10_13-30_635.docx" type="formatedText" url="2019-01-10_13-30_635.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 10.01.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Mecklenburg-Vorpommern: Viele Unfälle</subheadline>
+               <explanation_marker>
+                  <statement>Auf der A20 waren viele Unfälle.</statement>
+                  <explanations>
+                     <explanation id="1"> 
+                        <statement><style_element type="hi">A20 ist die Abkürzung für <style_element type="hb">A</style_element>uto·bahn <style_element type="hb">20</style_element>.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Diese Unfälle waren in der Nähe von Jarmen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Jarmen ist eine Stadt.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Jarmen ist in der Nähe von Greifswald.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei den Unfällen wurden 7 Menschen verletzt.</statement>
+               <statement>Einige von den 7 Menschen wurden schwer verletzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Auf der A20 war es sehr glatt.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb hat ein Auto·fahrer wahrscheinlich die Kontrolle über sein Auto verloren.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und deshalb ist der Auto·fahrer wahrscheinlich gegen eine Absperrung gekracht.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Dann sind noch andere Autos gegen das Auto gefahren.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Und dann hat es noch weitere Unfälle auf der A20 gegeben.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker> 
+               <statement>Die Polizei hat einen Teil von der A20 für mehrere Stunden gesperrt.</statement>
+               <statement>Jetzt ist die Auto·bahn aber <style_element type="hb">nicht</style_element> mehr gesperrt.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Kühe sterben bei Feuer</subheadline>
+               <explanation_marker>
+                  <statement>In Mühlenrade war ein großes Feuer.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Mühlenrade ist ein Ort.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Mühlenrade ist in der Nähe von Mölln.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Das Feuer war auf einem Bauern·hof.</statement>
+               <statement>Bei dem Feuer hat ein Stall gebrannt.</statement>
+               <statement>In dem Stall waren 55 Kühe.</statement>
+               <statement>25 von den 55 Kühen sind bei dem Feuer gestorben.</statement>
+               <statement>Jetzt ermittelt die Polizei.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei will nämlich wissen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Warum hat es in dem Stall gebrannt?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

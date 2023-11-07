@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2019-11-06_14-00_212.xml">
+   <title>Polizei·einsatz gegen Einbrecher·banden</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-11-06_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-11-06_14-00_212-full.png" type="screenshot" url="2019-11-06_14-00_212-full.png"/>
+      <resource id="2" name="2019-11-06_14-00_212_plaintext.txt" type="plaintext" url="2019-11-06_14-00_212_plaintext.txt"/>
+      <resource id="3" name="2019-11-06_14-00_212_quellcode.txt" type="sourcecode" url="2019-11-06_14-00_212_quellcode.txt"/>
+      <resource id="4" name="2019-11-06_14-00_212.docx" type="formatedText" url="2019-11-06_14-00_212.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Polizei·einsatz gegen Einbrecher·banden</headline>
+      <sections>
+         <section id="1">
+            <statement>In Hamburg war ein großer Polizei·einsatz.</statement>
+            <statement>Der Polizei·einsatz war am Dienstag·abend.</statement>
+            <explanation_marker>
+               <statement>Und der Polizei·einsatz war in Gast·stätten.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Eine Gast·stätte ist ein Lokal.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">In Gast·stätten können Menschen essen.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <headword>
+                        <style_element type="hi">Und trinken.</style_element>
+                     </headword>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Die Gast·stätten sind in 4 Stadt·teilen:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Billstedt.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Wandsbek.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <headword>• Harburg.</headword>
+                  </enumeration>
+                  <enumeration id="4">
+                     <headword>• Und Altona.</headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <explanation_marker>
+               <statement>Eine Einbrecher·bande ist eine Gruppe von Menschen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Eine Einbrecher·bande ist eine Gruppe von Menschen.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Diese Menschen sind Einbrecher.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Und diese Menschen arbeiten zusammen.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Polizei hat 18 Menschen festgenommen.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Der Polizei·einsatz</subheadline>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir haben in den Gast·stätten 72  Menschen kontrolliert.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Bei dieser Kontrolle mussten diese 72 Menschen zum Beispiel ihre Ausweise zeigen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Und wir haben geprüft:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Gehören die 72 Menschen zu einer Einbrecher·bande?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>          
+                  </speech>
+                  <speech id="4">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Wir glauben nämlich:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>In den Gast·stätten treffen sich oft Menschen aus Einbrecher·banden.</statement>
+                           </speech>
+                           <speech id="2">
+                              <statement>Und in den Gast·stätten planen diese Menschen zum Beispiel ihre Einbrüche.</statement>
+                           </speech>
+                           <speech id="3">
+                              <statement>Diese Menschen kommen oft aus Ost·europa.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>          
+                  </speech>
+               </speeches>
+            </speech_marker>           
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In den Gast·stätten waren viele Menschen aus Ost·europa.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>3 von diesen Menschen aus Ost·europa sind wahrscheinlich Einbrecher.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und 15 von diesen Menschen aus Ost·europa dürfen wahrscheinlich <style_element type="hb">nicht</style_element> in Deutschland sein.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb haben wir diese Menschen festgenommen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>           
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-19" url="2018-07-06_15-00_714.xml">
+   <title>Mord: 2 Männer müssen ins Gefängnis</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-07-06_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-07-06_15-00_714-full.png" type="screenshot" url="2018-07-06_15-00_714-full.png"/>
+      <resource id="2" name="2018-07-06_15-00_714_plaintext.txt" type="plaintext" url="2018-07-06_15-00_714_plaintext.txt"/>
+      <resource id="3" name="2018-07-06_15-00_714_quellcode.txt" type="sourcecode" url="2018-07-06_15-00_714_quellcode.txt"/>
+      <resource id="4" name="2018-07-06_15-00_714.docx" type="formatedText" url="2018-07-06_15-00_714.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mord: 2 Männer müssen ins Gefängnis</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Schleswig-Holstein war ein Prozess.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Bei einem Prozess entscheidet das Gericht:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question><style_element type="hi">• Hat ein Mensch etwas Verbotenes getan?</style_element></question>
+                           </speech>
+                           <speech id="2">
+                              <statement><style_element type="hi">Dann bekommt dieser Mensch eine Strafe.</style_element></statement>
+                           </speech>
+                           <speech id="3">
+                              <question><style_element type="hi">• Oder hat ein Mensch <style_element type="hb">nichts</style_element> Verbotenes getan?</style_element></question>
+                           </speech>
+                           <speech id="4">
+                              <statement><style_element type="hi">Dann bekommt dieser Mensch <style_element type="hb">keine</style_element> Strafe.</style_element></statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Prozess war in Flensburg.</statement>
+            <statement>Bei dem Prozess hat ein Gericht 2 Männer verurteilt.</statement>
+            <statement>Einer von den 2 Männern hat nämlich einen anderen Mann ermordet.</statement>
+            <statement>Der Mann hat den anderen Mann mit einem Messer erstochen.</statement>
+            <statement>Deshalb muss der Mann für 9 Jahre ins Gefängnis.</statement>
+            <explanation_marker>
+               <statement>Der andere von den 2 Männern war der Komplize von dem Mann.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Komplize hilft einem anderen Menschen bei einer Straf·tat.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Zum Beispiel bei der Planung von einer Straf·tat.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Deshalb muss der Mann für 6 Jahre und 6 Monate ins Gefängnis.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Die 2 Männer und der andere Mann waren in einer Disco.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">In einer Disco ist laute Musik.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Viele Menschen gehen abends in eine Disco.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Und die Menschen tanzen in der Disco zu der lauten Musik.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>In dieser Disco hatten die 3 Männer einen Streit.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Aber Polizisten haben diesen Streit beendet.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Dann sind die 3 Männer nach Hause gefahren.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>2 von den Männern sind aber <style_element type="hb">nicht</style_element> zu Hause geblieben.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Die 2 Männer sind nämlich zu dem anderen Mann gefahren.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Dann hat einer von den 2 Männern ein Messer genommen.</statement>
+                     </speech>
+                     <speech id="8">
+                        <statement>Und der Mann hat auf den anderen Mann eingestochen.</statement>
+                     </speech>
+                     <speech id="9">
+                        <statement>Der andere Mann wurde sehr schwer verletzt.</statement>
+                     </speech>
+                     <speech id="10">
+                        <statement>Helfer haben den verletzten Mann in ein Kranken·haus gebracht.</statement>
+                     </speech>
+                     <speech id="11">
+                        <statement>Aber die Ärzte in dem Kranken·haus konnten dem verletzten Mann <style_element type="hb">nicht</style_element> helfen.</statement>
+                     </speech>
+                     <speech id="12">
+                        <statement>Der verletzte Mann ist im Kranken·haus gestorben.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

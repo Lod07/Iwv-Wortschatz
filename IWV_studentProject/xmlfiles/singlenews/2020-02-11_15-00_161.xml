@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2020-02-11_15-00_161.xml">
+   <title>Neuer Bahnhof für Hamburg</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-02-11_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-02-11_15-00_161-full.png" type="screenshot" url="2020-02-11_15-00_161-full.png"/>
+      <resource id="2" name="2020-02-11_15-00_161_plaintext.txt" type="plaintext" url="2020-02-11_15-00_161_plaintext.txt"/>
+      <resource id="3" name="2020-02-11_15-00_161_quellcode.txt" type="sourcecode" url="2020-02-11_15-00_161_quellcode.txt"/>
+      <resource id="4" name="2020-02-11_15-00_161.docx" type="formatedText" url="2020-02-11_15-00_161.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Neuer Bahnhof für Hamburg</headline>
+      <sections>
+         <section id="1">
+            <statement>In Hamburg kann die Bahn wahrscheinlich bald einen neuen Bahnhof bauen.</statement>
+            <explanation_marker>
+               <statement>Der neue Bahnhof soll am S-Bahnhof Diebsteich sein.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Der S-Bahnhof Diebsteich ist im Stadt·teil Altona-Nord.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Der neue Bahnhof soll für Fern·züge sein.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Fern·züge fahren sehr lange Strecken.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und der neue Bahnhof soll für Regional·züge sein.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Regional·züge fahren nur in einer bestimmten Region.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Über den Bau von dem neuen Bahnhof war lange Streit.</statement>
+            <statement>Aber jetzt ist der Streit wahrscheinlich vorbei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der Radio·sender NDR 90,3 hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir haben Informationen bekommen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Diese Informationen sind:</statement>
+                  </speech>
+                  <speech id="3">
+                     <explanation_marker>
+                        <statement>Der Verkehrs·club Deutschland hat gegen den Bau von dem Bahnhof geklagt.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Der Verkehrs·club Deutschland ist ein Verein.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">Dieser Verein kämpft zum Beispiel für umwelt·freundliche Bahnhöfe.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb konnte der Bahnhof <style_element type="hb">nicht</style_element> gebaut werden.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Aber jetzt will der Verkehrs·club Deutschland <style_element type="hb">nicht</style_element> mehr klagen.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Jetzt gibt es nämlich eine Einigung.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Der alte und der neue Bahnhof</subheadline>
+            <explanation_marker>
+               <statement>In Altona ist ein alter Bahnhof.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Altona ist ein Stadt·teil von Hamburg.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der alte Bahnhof ist für Fern·züge.</statement>
+            <statement>Und für Regional·züge.</statement>
+            <statement>In Altona ist auch ein S-Bahnhof.</statement>
+            <statement>Und ein Bus·bahnhof.</statement>
+            <statement>Der S-Bahnhof soll in Altona bleiben.</statement>
+            <statement>Und der Bus·bahnhof soll in Altona bleiben.</statement>
+            <statement>Aber der alte Bahnhof für Fern·züge und für Regional·züge soll schließen.</statement>
+            <statement>Und die Stadt will 1900 Wohnungen am alten Bahnhof bauen.</statement>
+            <statement>Am S-Bahnhof Diebsteich will die Bahn einen neuen Bahnhof bauen.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Die Einigung</subheadline>
+            <speech_marker>
+               <speech_intro>
+                  <statement>NDR 90,3 hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Verkehrs·club Deutschland will nicht mehr gegen den Bau vom neuen Bahnhof klagen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Die Stadt hat dem Verkehrs·club Deutschland nämlich versprochen:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <explanation_marker>
+                                 <statement>Die Bahn macht Renovierungen.</statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <headword>
+                                          <style_element type="hi">Das heißt:</style_element>
+                                       </headword>
+                                    </explanation>
+                                    <explanation id="2">
+                                       <statement>
+                                          <style_element type="hi">Die Bahn erneuert einige Dinge.</style_element>
+                                       </statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </speech>
+                           <speech id="2">
+                              <statement>Diese Renovierungen sind am S-Bahnhof in Altona.</statement>
+                           </speech>
+                           <speech id="3">
+                              <statement>Und am Bus·bahnhof in Altona.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="3">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Die Stadt hat auch versprochen:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Der neue Bahnhof Diebsteich bekommt zum Beispiel viele Fahrrad·ständer.</statement>
+                           </speech>
+                           <speech id="2">
+                              <statement>Und zum neuen Bahnhof Diebsteich fahren viele Busse.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="4">
+                     <statement>Das findet der Verkehrs·club Deutschland gut.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

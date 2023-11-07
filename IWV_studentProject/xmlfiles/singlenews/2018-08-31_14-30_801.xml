@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-25" url="2018-08-31_14-30_801.xml">
+   <title>Mehr Nachrichten vom 31.08.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-08-31_14-30</vdate>
+   <resources>
+      <resource id="1" name="2018-08-31_14-30_801-full.png" type="screenshot" url="2018-08-31_14-30_801-full.png"/>
+      <resource id="2" name="2018-08-31_14-30_801_plaintext.txt" type="plaintext" url="2018-08-31_14-30_801_plaintext.txt"/>
+      <resource id="3" name="2018-08-31_14-30_801_quellcode.txt" type="sourcecode" url="2018-08-31_14-30_801_quellcode.txt"/>
+      <resource id="4" name="2018-08-31_14-30_801.docx" type="formatedText" url="2018-08-31_14-30_801.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 31.08.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Mecklenburg-Vorpommern: Mann verhaftet</subheadline>
+               <statement>Die Polizei in Wismar hat einen Mann verhaftet.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Dieser Mann hat wahrscheinlich einen Überfall gemacht.</statement>
+                     </speech>
+                     <speech id="2">
+                        <explanation_marker>
+                           <statement>Der Überfall war auf einen Mann aus Syrien.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                <statement><style_element type="hi">Syrien ist ein Land in Asien.</style_element></statement> 
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Bei dem Überfall wurde der Mann aus Syrien verletzt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <explanation_marker>
+                  <statement>Jetzt kommt der Mann in Untersuchungs·haft.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Bei einer Untersuchungs·haft ist ein Mensch im Gefängnis.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement><style_element type="hi">Und die Polizei muss beweisen:</style_element></statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement><style_element type="hi">Der Mensch hat ein Verbrechen gemacht.</style_element></statement>
+                              </speech>
+                              <speech id="2">
+                                 <statement><style_element type="hi">Dann muss der Mensch vielleicht vor Gericht.</style_element></statement>
+                              </speech>
+                              <speech id="3">
+                                 <statement><style_element type="hi">Und dann bekommt der Mensch vielleicht eine Strafe.</style_element></statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Polizei sucht noch 2 weitere Männer.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei glaubt nämlich:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Diese 2 weiteren Männer waren bei dem Überfall dabei.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="2">
+            <statement>Zu dem Überfall gibt es noch einen Text in Leichter Sprache.</statement>
+            <statement>
+               <ref>
+                  Diesen Text finden Sie <style_element type="hu">hier</style_element>.
+               </ref>
+            </statement>
+         </section>
+         <section id="3">
+            <subheadline>Niedersachen: Viele Windkraft·anlagen sollen weg</subheadline>
+               <explanation_marker>
+                  <statement>In Niedersachsen sollen 1500 Windkraft·anlagen weg.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Wind·kraft·anlage ist ein hoher Turm.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Auf diesem Turm ist ein großes Wind·rad.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Das Wind·rad dreht sich im Wind.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">So macht das Wind·rad Strom.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die 1500 Windkraft·anlagen sind nämlich schon alt.</statement>
+               <statement>Deshalb sollen Arbeiter die 1500 Windkraft·anlagen bald abbauen.</statement>
+         </section>
+         <section id="4">
+            <subheadline>Schleswig-Holstein: Weniger Ferien·wohnungen in Lübeck</subheadline>
+               <statement>In Lübeck haben Politiker eine Entscheidung getroffen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Politiker haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>In der Innenstadt von Lübeck dürfen <style_element type="hb">nicht</style_element> mehr so viele Ferien·wohnungen sein.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">In einer Ferien·wohnung wohnen Menschen im Urlaub.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Viele Bewohner von der Innenstadt haben nämlich gesagt:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>In den Ferien·wohnungen sind viele Urlauber.</statement>
+                              </speech>
+                              <speech id="2">
+                                 <statement>Diese Urlauber machen viel Lärm</statement>
+                              </speech>
+                              <speech id="3">
+                                 <statement>Diesen Lärm wollen wir <style_element type="hb">nicht</style_element>.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

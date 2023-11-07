@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-01" url="2018-06-14_15-00_739.xml">
+   <title>Hamburg: Viele Flugzeuge haben Verspätung</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-06-14_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-06-14_15-00_739-full.png" type="screenshot" url="2018-06-14_15-00_739-full.png"/>
+      <resource id="2" name="2018-06-14_15-00_739_plaintext.txt" type="plaintext" url="2018-06-14_15-00_739_plaintext.txt"/>
+      <resource id="3" name="2018-06-14_15-00_739_quellcode.txt" type="sourcecode" url="2018-06-14_15-00_739_quellcode.txt"/>
+      <resource id="4" name="2018-06-14_15-00_739.docx" type="formatedText" url="2018-06-14_15-00_739.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Hamburg: Viele Flugzeuge haben Verspätung</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Am Flughafen von Hamburg haben viele Flugzeuge Verspätung.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>Das heißt:</headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>Diese Flugzeuge fliegen <style_element type="hb">nicht</style_element> zur geplanten Uhrzeit.</statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>Diese Flugzeuge starten nämlich später.</statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement>Oder diese Flugzeuge landen später.</statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fachleute vom Flughafen haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Noch nie sind so viele Flugzeuge nach 23 Uhr gelandet.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Nach 23 Uhr dürfen Flugzeuge eigentlich <style_element type="hb">nicht</style_element> in Hamburg landen.</statement>
+            <statement>Am Flughafen von Hamburg ist nämlich ein Nacht·flug·verbot.</statement>
+            <explanation_marker>
+               <statement>Am Flughafen von Hamburg haben viele Flugzeuge Verspätung.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>Das heißt:</headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>Von 23 Uhr bis 6 Uhr dürfen <style_element type="hb">keine</style_element> Flugzeuge starten.</statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>Und von 23 Uhr bis 6 Uhr dürfen <style_element type="hb">keine</style_element> Flugzeuge landen.</statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Warum ist in Hamburg ein Nacht·flug·verbot?</subheadline>
+               <statement>Der Flughafen ist mitten in Hamburg.</statement>
+               <statement>In Hamburg wohnen viele Menschen.</statement>
+               <statement>Viele von den Menschen wohnen in der Nähe vom Flughafen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Einige von den Menschen sagen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Flugzeuge machen viel Lärm.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dieser Lärm macht uns krank.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Bei dem Lärm können wir zum Beispiel <style_element type="hb">nicht</style_element> gut schlafen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Deshalb ist in Hamburg ein Nacht·flug·verbot.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Ausnahmen vom Nacht·flug·verbot</subheadline>
+               <statement>Das Nacht·flug·verbot gilt <style_element type="hb">nicht</style_element> für alle Flugzeuge.</statement>
+               <statement>Manche Flugzeuge dürfen nämlich nach 23 Uhr in Hamburg starten.</statement>
+               <statement>Und manche Flugzeuge dürfen nach 23 Uhr in Hamburg landen.</statement>
+               <question>Ein Flugzeug will in Hamburg nach 23 Uhr starten?</question>
+               <headword>Oder landen?</headword>
+               <statement>Dann braucht das Flugzeug eine besondere Genehmigung.</statement>
+               <statement>Und die Firma von dem Flugzeug muss eine Strafe bezahlen.</statement>
+               <question>Das Flugzeug hat <style_element type="hb">keine</style_element> besondere Genehmigung?</question>
+               <statement>Dann darf das Flugzeug <style_element type="hb">nicht</style_element> nach 23 Uhr in Hamburg starten.</statement>
+               <headword>Oder landen.</headword>
+         </section>
+         <section id="4">
+            <subheadline>Verspätungen auch an anderen Flughäfen</subheadline>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fachleute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Am Flughafen von Hamburg gibt es viele Verspätungen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Aber auch an den anderen Flughäfen gibt es viele Verspätungen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Diese Verspätungen haben viele Gründe.</statement>
+                  </speech>
+                  <speech id="4">
+                     <headword>Zum Beispiel:</headword>
+                  </speech>
+                  <speech id="5">
+                     <statement>Immer mehr Menschen fliegen mit dem Flugzeug.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Deshalb starten und landen immer mehr Flugzeuge.</statement>
+                  </speech>
+                  <speech id="7">
+                     <question>Es gibt Probleme bei den Flugzeugen?</question>
+                  </speech>
+                  <speech id="8">
+                     <question>Ein Flugzeug ist zum Beispiel kaputt?</question>
+                  </speech>
+                  <speech id="9">
+                     <statement>Dann sind viele andere Flugzeuge von den Problemen betroffen.</statement>
+                  </speech>
+                  <speech id="10">
+                     <statement>Und dann haben viele Flugzeuge Verspätungen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

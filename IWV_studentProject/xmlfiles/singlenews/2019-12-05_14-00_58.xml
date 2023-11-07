@@ -1,0 +1,246 @@
+<?xml version="1.0" ?>
+<annotation adate="" url="2020-08-20_14-00_58.xml">
+   <title>Hamburg verbietet Feuerwerk an Silvester</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-12-05_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-12-05_14-00_58-full.png" type="screenshot" url="2019-12-05_14-00_58-full.png"/>
+      <resource id="2" name="2019-12-05_14-00_58_plaintext.txt" type="plaintext" url="2019-12-05_14-00_58_plaintext.txt"/>
+      <resource id="3" name="2019-12-05_14-00_58_quellcode.txt" type="sourcecode" url="2019-12-05_14-00_58_quellcode.txt"/>
+      <resource id="4" name="2019-12-05_14-00_58.docx" type="formatedText" url="2019-12-05_14-00_58.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>
+         Hamburg verbietet Feuerwerk an Silvester
+      </headline>
+      <sections>
+         <section id="1">
+            <statement>
+               Hamburg verbietet dieses Jahr ein besonderes Feuerwerk.
+            </statement>
+            <explanation_marker>
+               <statement>
+                  Dieses Feuerwerk ist an Silvester.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Silvester ist jedes Jahr am 31. Dezember.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">
+                              An Silvester feiern die Menschen den Jahres·wechsel.
+                           </style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword>
+                                 <style_element type="hi">
+                                    Das heißt:
+                                 </style_element>
+                              </headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">
+                                    Das alte Jahr hört auf.
+                                 </style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement>
+                                 <style_element type="hi">
+                                    Und das neue Jahr beginnt.
+                                 </style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>
+                  Und das Feuerwerk ist an der Binnen·alster.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Die Alster ist ein Fluss.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">
+                           Im Zentrum von Hamburg heißt die Alster Binnen·alster.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">
+                           Die Binnen·alster ist wie ein See.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>
+               Das Verbot
+            </subheadline>
+            <statement>
+               An der Binnen·alster feiern jedes Jahr sehr viele Menschen Silvester.
+            </statement>
+            <explanation_marker>
+               <statement>
+                  Viele von diesen Menschen haben Silvester·raketen.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Silvester·raketen fliegen in den Himmel.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">
+                           Und Silvester·raketen machen buntes Licht am Himmel.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>
+                  Und viele von diesen Menschen haben Silvester·böller.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Silvester·böller explodieren auf dem Boden.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">
+                           Oder in der Luft.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">
+                           Und Silvester·böller machen einen lauten Knall.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Die Polizei hat gesagt:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        Im vergangenen Jahr waren viele Unfälle an der Binnen·alster.
+                     </statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>
+                        Diese Unfälle waren mit Silvester·raketen.
+                     </statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>
+                        Und diese Unfälle waren mit Silvester·böllern.
+                     </statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>
+                        Bei diesen Unfällen wurden mehrere Menschen verletzt.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>
+               Deshalb verbietet Hamburg dieses Jahr Silvester·raketen an der Binnen·alster.
+            </statement>
+            <statement>
+               Und Hamburg verbietet Silvester·böller an der Binnen·alster.
+            </statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Hamburg glaubt nämlich:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        Durch das Verbot ist das Feiern an der Binnen·alster sicherer.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Die Polizei hat auch gesagt:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        Wir machen an Silvester Kontrollen an der Binnen·alster.
+                     </statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>
+                        Wir gucken zum Beispiel in die Taschen von den Menschen.
+                     </statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>
+                        In den Taschen sind Silvester·raketen?
+                     </statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>
+                        Oder in den Taschen sind Silvester·böller?
+                     </statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>
+                        Dann müssen die Menschen die Silvester·raketen oder Silvester·böller abgeben.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

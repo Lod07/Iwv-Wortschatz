@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2020-04-14_15-00_4.xml">
+   <title>Mann mit Corona-Virus arbeitet in Kranken·haus</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-04-14_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-04-14_15-00_4-full.png" type="screenshot" url="2020-04-14_15-00_4-full.png"/>
+      <resource id="2" name="2020-04-14_15-00_4_plaintext.txt" type="plaintext" url="2020-04-14_15-00_4_plaintext.txt"/>
+      <resource id="3" name="2020-04-14_15-00_4_quellcode.txt" type="sourcecode" url="2020-04-14_15-00_4_quellcode.txt"/>
+      <resource id="4" name="2020-04-14_15-00_4.docx" type="formatedText" url="2020-04-14_15-00_4.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+   <headline>Mann mit Corona-Virus arbeitet in Kranken·haus</headline>
+   <sections>
+      <section id="1">
+         <explanation_marker>
+            <statement>Ein Kranken·haus in Dannenberg hat ein großes Problem.</statement>
+            <explanations>
+               <explanation id="1">
+                  <statement><style_element type="hi">  Dannenberg ist eine Stadt in Niedersachsen.</style_element></statement>
+               </explanation>
+            </explanations>
+         </explanation_marker>
+         <statement>In diesem Kranken·haus hat nämlich ein Pfleger gearbeitet.</statement>
+         <statement>Und dieser Pfleger hat das Corona-Virus.</statement>
+         <speech_marker>
+            <speech_intro>
+               <statement>Das Kranken·haus hat gesagt:</statement>
+            </speech_intro>
+            <speeches>
+               <speech id="1">
+                  <statement>Der Pfleger war krank.</statement>
+               </speech>
+               <speech id="2">
+                  <statement>Aber der Pfleger hat <style_element type="hb">niemandem</style_element> von seiner Krankheit erzählt.</statement>
+               </speech>
+               <speech id="3">
+                  <statement>Und der Pfleger hat weiter im Kranken·haus gearbeitet.</statement>
+               </speech>
+               <speech id="4">
+                  <statement>Dann haben Ärzte die Krankheit von dem Pfleger erkannt.</statement>
+               </speech>
+               <speech id="5">
+                  <statement>Und die Ärzte haben einen Test gemacht.</statement>
+               </speech>
+               <speech id="6">
+                  <statement>Dieser Test hat gezeigt:</statement>
+               </speech>
+               <speech id="7">
+                  <statement>Der Pfleger hat das Corona-Virus.</statement>
+               </speech>
+            </speeches>
+         </speech_marker>
+      </section>
+      <section id="2">
+         <subheadline>15 Mitarbeiter in Quarantäne</subheadline>
+         <statement>Das Corona-Virus ist sehr ansteckend.</statement>
+         <statement>Und der Pfleger hat in dem Kranken·haus mit anderen Menschen zusammen·gearbeitet.</statement>
+         <speech_marker>
+            <speech_intro>
+               <statement>Jetzt weiß <style_element type="hb">niemand</style_element>:</statement>
+            </speech_intro>
+            <speeches>
+               <speech id="1">
+                  <question>Hat der Pfleger diese anderen Menschen angesteckt?</question>
+               </speech>
+            </speeches>
+         </speech_marker>
+         <statement>Deshalb dürfen jetzt 15 Mitarbeiter von dem Kranken·haus <style_element type="hb">nicht</style_element> mehr arbeiten.</statement>
+         <statement>Zum Beispiel Ärzte.</statement>
+         <headword>Und Pfleger.</headword>
+         <explanation_marker>
+            <statement>Diese 15 Mitarbeiter müssen jetzt in Quarantäne.</statement>
+            <explanations>
+               <explanation id="1">
+                  <statement><style_element type="hi">Quarantäne ist eine Regel.</style_element></statement>
+               </explanation>
+               <explanation id="2">
+                  <statement><style_element type="hi">Diese Regel sagt:</style_element></statement>
+               </explanation>
+               <explanation id="3">
+                  <statement><style_element type="hi">Ein Mensch darf <style_element type="hb">keinen</style_element> anderen Menschen treffen.</style_element></statement>
+               </explanation>
+               <explanation id="4">
+                  <statement>Dieser Mensch hat nämlich vielleicht eine ansteckende Krankheit.</statement>
+               </explanation>
+               <explanation id="5">
+                  <statement>Und dieser Mensch soll <style_element type="hb">keinen</style_element> anderen Menschen anstecken.</statement>
+               </explanation>
+            </explanations>
+         </explanation_marker>
+      </section>
+      <section id="3">
+      <speech_marker>
+         <speech_intro>
+            <statement>Das Kranken·haus hat auch gesagt:</statement>
+         </speech_intro>
+         <speeches>
+            <speech id="1">
+               <explanation_marker>
+                  <statement>Der Pfleger hat in dem Kranken·haus 14 Patienten betreut.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Patient ist ein kranker Mensch.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Zum Beispiel bei einem Arzt.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Oder in einem Kranken·haus.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+            </speech>
+            <speech id="2">
+               <statement>Aber der Pfleger hat wahrscheinlich <style_element type="hb">keine</style_element> Patienten angesteckt.</statement>
+            </speech>
+            <speech id="3">
+               <statement>Die Mitarbeiter im Kranken·haus arbeiten nämlich mit Schutz·kleidung.</statement>
+            </speech>
+         </speeches>
+      </speech_marker>
+   </section>
+   <section id="4">
+      <statement>Jetzt ermittelt die Polizei.</statement>
+      <speech_marker>
+         <speech_intro>
+            <statement>Die Polizei will nämlich zum Beispiel wissen:</statement>
+         </speech_intro>
+         <speeches>
+            <speech id="1">
+               <question>Warum hat der Pfleger <style_element type="hb">niemanden</style_element> von seiner Krankheit erzählt?</question>
+            </speech>
+         </speeches>
+      </speech_marker>
+   </section>
+</sections>
+</content>
+</annotation>

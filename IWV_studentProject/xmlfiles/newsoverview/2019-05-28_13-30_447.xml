@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-05" url="2019-05-28_13-30_447.xml">
+   <title>Mehr Nachrichten vom 28.05.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-05-28_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-05-28_13-30_447-full.png" type="screenshot" url="2019-05-28_13-30_447-full.png"/>
+      <resource id="2" name="2019-05-28_13-30_447_plaintext.txt" type="plaintext" url="2019-05-28_13-30_447_plaintext.txt"/>
+      <resource id="3" name="2019-05-28_13-30_447_quellcode.txt" type="sourcecode" url="2019-05-28_13-30_447_quellcode.txt"/>
+      <resource id="4" name="2019-05-28_13-30_447.docx" type="formatedText" url="2019-05-28_13-30_447.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 28.05.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Fach·leute sprengen Bombe</subheadline>
+            <explanation_marker>
+               <statement>In Hamburg haben Fach·leute eine Bombe gesprengt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Fach·leute haben die Bombe explodieren lassen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Fach·leute konnten die Bombe nämlich <style_element type="hb">nicht</style_element> entschärfen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Fach·leute konnten die Bombe <style_element type="hb">nicht</style_element> ungefährlich machen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Bombe war in Harburg.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Harburg ist ein Stadt·teil im Süden von Hamburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und die Bombe war aus dem 2. Welt·krieg.</statement>
+            <statement>Im 2. Welt∙krieg haben Flugzeuge über vielen Städten Bomben abgeworfen.</statement>
+            <statement>Auch über Hamburg.</statement>
+            <statement>Aber manche Bomben sind <style_element type="hb">nicht</style_element> explodiert.</statement>
+            <statement>Diese Bomben heißen: Blind·gänger.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Fach·leute haben auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Sprengung von der Bombe ist gefährlich.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Deshalb hat die Polizei 500 Menschen in Sicherheit gebracht.</statement>
+            <statement>Außerdem hat die Polizei mehrere Straßen gesperrt.</statement>
+            <statement>Und einige Zug·strecken.</statement>
+            <statement>Dann haben die Fach·leute die Bombe gesprengt.</statement>
+            <statement>Bei der Sprengung wurde <style_element type="hb">kein</style_element> Mensch verletzt.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Tod von 2 Jungen war ein Unfall</subheadline>
+            <explanation_marker>
+               <statement>In Heere sind 2 Jungen gestorben.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Heere ist ein Ort in der Nähe von Salzgitter.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Ein Junge war 7 Jahre alt.</statement>
+            <statement>Und der andere Junge war 4 Jahre alt.</statement>
+            <statement>Menschen haben die 2 toten Jungen in einem Teich gefunden.</statement>
+            <statement>Dieser Teich war im Garten von einem Nachbarn.</statement>
+            <statement>Jetzt haben Fach·leute die 2 Jungen untersucht.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Fach·leute wollten nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum sind die 2 Jungen gestorben?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Nach der Untersuchung haben die Fach·leute gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <speech_marker>
+                        <speech_intro>
+                           <headword>Wir glauben:</headword>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Der Tod der 2 Jungen war ein Unfall.</statement>
+                           </speech>
+                           <speech id="2">
+                              <statement>Die 2 Jungen sind wahrscheinlich beim Spielen ertrunken.</statement>
+                           </speech>
+                           <speech id="3">
+                              <statement>Die 2 Jungen konnten nämlich <style_element type="hb">nicht</style_element> schwimmen.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

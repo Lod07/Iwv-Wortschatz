@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-30" url="2019-01-03_14-00_628.xml">
+   <title>Nordsee: Suche nach Containern</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-01-03_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-01-03_14-00_628-full.png" type="screenshot" url="2019-01-03_14-00_628-full.png"/>
+      <resource id="2" name="2019-01-03_14-00_628_plaintext.txt" type="plaintext" url="2019-01-03_14-00_628_plaintext.txt"/>
+      <resource id="3" name="2019-01-03_14-00_628_quellcode.txt" type="sourcecode" url="2019-01-03_14-00_628_quellcode.txt"/>
+      <resource id="4" name="2019-01-03_14-00_628.docx" type="formatedText" url="2019-01-03_14-00_628.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Nordsee: Suche nach Containern</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Fach·leute suchen in der Nordsee nach vielen Containern.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Container sind große Kisten.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In den Kisten sind Waren.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Diese Container sind in der Nähe von Borkum von einem Schiff gefallen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Borkum ist eine Insel in der Nordsee.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Das Schiff war nämlich in einem schweren Sturm.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In einigen von den Containern sind giftige Stoffe.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Viel mehr Container in der Nordsee</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Am Anfang haben die Fach·leute gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>30 Container sind von dem Schiff gefallen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Aber jetzt haben die Fach·leute gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>270 Container sind von dem Schiff gefallen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Die Container sind für andere Schiffe gefährlich.</statement>
+               <statement>Diese anderen Schiffe können nämlich mit den Containern zusammenstoßen.</statement>
+               <statement>Und die Container können die anderen Schiffe beschädigen.</statement>
+               <statement>Deshalb suchen die Fach·leute jetzt die Container.</statement>
+               <statement>Zum Beispiel mit Flugzeugen.</statement>
+               <statement>Die Fach·leute wollen die Container nämlich aus der Nordsee holen.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Container am Strand</subheadline>
+               <statement>Einige von den Containern hat die Nordsee schon an Land gespült.</statement>
+               <statement>Diese Container waren am Strand von Inseln.</statement>
+               <statement>Diese Inseln sind in Holland.</statement>
+               <statement>Einige von den Containern waren kaputt.</statement>
+               <statement>Deshalb war der Inhalt von den kaputten Containern am Strand.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>In diesen kaputten Containern war zum Beispiel:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Spielzeug.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <headword>• Oder Kleidung.</headword>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+         </section>
+         <section id="4">
+            <subheadline>Fach·leute warnen</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Auch auf Borkum können Container an Land gespült werden.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Und die Fach·leute haben die Menschen auf Borkum gewarnt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In einigen von den Containern sind giftige Stoffe.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Diese giftigen Stoffe können Menschen krank machen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <headword>Und Tiere.</headword>
+                     </speech>
+                  </speeches>
+               </speech_marker> 
+               <statement>Deshalb sollen Menschen die Container <style_element type="hb">nicht</style_element> öffnen.</statement>
+               <statement>Und deshalb sollen Menschen den Inhalt von den Containern <style_element type="hb">nicht</style_element> berühren.</statement>
+               <question>Menschen finden einen Container?</question>
+               <statement>Dann sollen die Menschen die Polizei anrufen.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

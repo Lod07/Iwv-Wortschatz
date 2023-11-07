@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-18" url="2019-08-01_13-30_368.xml">
+   <title>Mehr Nachrichten vom 01.08.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-08-01_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-08-01_13-30_368-full.png" type="screenshot" url="2019-08-01_13-30_368-full.png"/>
+      <resource id="2" name="2019-08-01_13-30_368_plaintext.txt" type="plaintext" url="2019-08-01_13-30_368_plaintext.txt"/>
+      <resource id="3" name="2019-08-01_13-30_368_quellcode.txt" type="sourcecode" url="2019-08-01_13-30_368_quellcode.txt"/>
+      <resource id="4" name="2019-08-01_13-30_368.docx" type="formatedText" url="2019-08-01_13-30_368.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 01.08.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Frau getötet</subheadline>
+            <explanation_marker>
+               <statement>Die Polizei hat in Jübek einen Mann festgenommen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Jübek ist ein Ort in der Nähe von Schleswig.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Mann soll nämlich eine Frau getötet haben.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Frau hat laut geschrien.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb haben Nachbarn von der Frau die Polizei gerufen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und dann haben die Nachbarn einen Mann festgehalten.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Dieser Mann wollte nämlich weglaufen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Wir glauben:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Dieser Mann hat die Frau erstochen.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="6">
+                     <statement>Deshalb haben wir den Mann festgenommen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Bauarbeiten im Rathaus</subheadline>
+            <explanation_marker>
+               <statement>Im Rathaus beginnen bald besondere Bauarbeiten.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Rathaus ist ein wichtiges Gebäude.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In einem Rathaus arbeiten nämlich wichtige Politiker.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Zum Beispiel der Bürger·meister.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Der Bürger·meister ist der Chef von einer Stadt.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Diese Bauarbeiten sind für Menschen mit einer Geh·behinderung.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">
+                        Menschen mit einer Geh·behinderung können 
+                        <style_element type="hb">nicht</style_element> 
+                        gut gehen.
+                     </style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Menschen sitzen zum Beispiel in einem Rollstuhl.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>
+               Diese Menschen kommen nämlich
+               <style_element type="hb">nicht</style_element> 
+               gut ins Rathaus.
+            </statement>
+            <statement>
+               Und für diese Menschen ist im Rathaus
+               <style_element type="hb">keine</style_element> 
+               Toilette.
+            </statement>
+            <statement>Bald bauen Arbeiter zum Beispiel einen neuen Fahr·stuhl.</statement>
+            <statement>Und neue Toiletten.</statement>
+            <statement>Dann kommen Menschen mit einer Geh·behinderung gut ins Rathaus.</statement>
+            <statement>Und dann haben diese Menschen auch eine Toilette.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Mecklenburg-Vorpommern: Füttern verboten</subheadline>
+            <explanation_marker>
+               <statement>In Wismar gibt es ein neues Verbot.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Wismar ist eine Stadt an der Ostsee.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieses Verbot ist im Alten Hafen.</statement>
+            <explanation_marker>
+               <statement>
+                  Im Alten Hafen dürfen Menschen jetzt 
+                  <style_element type="hb">keine</style_element> 
+                  Möwen mehr füttern.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Möwen sind Vögel.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Möwen leben oft am Meer.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und Möwen sind meistens weiß.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Stadt hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Im Alten Hafen sind sehr viele Möwen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und viele Menschen haben diese Möwen gefüttert.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Jetzt wollen die Möwen immer mehr Futter.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb greifen einige Möwen sogar Menschen an.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>
+                        Und deshalb dürfen Menschen die Möwen 
+                        <style_element type="hb">nicht</style_element>
+                        mehr füttern.
+                     </statement>
+                  </speech>
+                  <speech id="6">
+                     <question>Füttern Menschen trotzdem die Möwen?</question>
+                  </speech>
+                  <speech id="7">
+                     <statement>Dann müssen diese Menschen eine Strafe bezahlen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

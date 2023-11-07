@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-17" url="2019-03-07_14-00_546.xml">
+   <title>Unfall mit Tank·laster</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-03-07_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-03-07_14-00_546-full.png" type="screenshot" url="2019-03-07_14-00_546-full.png"/>
+      <resource id="2" name="2019-03-07_14-00_546_plaintext.txt" type="plaintext" url="2019-03-07_14-00_546_plaintext.txt"/>
+      <resource id="3" name="2019-03-07_14-00_546_quellcode.txt" type="sourcecode" url="2019-03-07_14-00_546_quellcode.txt"/>
+      <resource id="4" name="2019-03-07_14-00_546.docx" type="formatedText" url="2019-03-07_14-00_546.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Unfall mit Tank·laster</headline>
+      <sections>
+         <section id="1">
+            <statement>In Hamburg war ein schwerer Unfall.</statement>
+            <statement>Der Unfall war im Stadtteil Heimfeld.</statement>
+            <statement>Und der Unfall war mit 3 Lkw.</statement>
+            <statement>Bei dem Unfall wurden 3 Menschen verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <explanation_marker>
+                  <statement>Einer von den 3 Lkw war ein Tank·laster.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Tank·laster transportiert Flüssigkeiten.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Zum Beispiel Öl.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Der Tank·laster ist auf einer Straße gefahren.</statement>
+               <statement>An dieser Straße haben 2 andere Lkw geparkt.</statement>
+               <statement>Gegen diese 2 Lkw ist der Tank·laster gefahren.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Sehr viel Benzin auf der Straße</subheadline>
+               <statement>In dem Tank·laster war sehr viel Benzin.</statement>
+               <statement>30.000 Liter von diesem Benzin sind bei dem Unfall ausgelaufen.</statement>
+               <statement>Dann sind mehrere Autos über das Benzin gefahren.</statement>
+               <statement>Eins von diesen Autos hat danach gebrannt.</statement>
+               <statement>Benzin brennt nämlich sehr leicht.</statement>
+               <statement>Der Fahrer von dem Auto wurde <style_element type="hb">nicht</style_element> verletzt.</statement>
+         </section> 
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Benzin auf der Straße war sehr gefährlich.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Benzin kann nämlich auch explodieren.</statement>
+                  </speech>
+                  <speech id="3">
+                     <explanation_marker>
+                        <statement>Deshalb haben wir die Straße gesperrt.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Auf der Straße durfte <style_element type="hb">kein</style_element> Auto fahren.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Und <style_element type="hb">kein</style_element> Lkw.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker> 
+                  </speech>
+                  <speech id="4">
+                     <statement>Und wir haben das Benzin auf der Straße weggemacht.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt will die Polizei wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum ist der Tank·laster gegen die anderen 2 Lkw gefahren?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

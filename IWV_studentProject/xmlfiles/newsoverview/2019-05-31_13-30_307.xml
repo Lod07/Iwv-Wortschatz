@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-05" url="2019-05-31_13-30_307.xml">
+   <title>Mehr Nachrichten vom 31.05.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-05-31_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-05-31_13-30_307-full.png" type="screenshot" url="2019-05-31_13-30_307-full.png"/>
+      <resource id="2" name="2019-05-31_13-30_307_plaintext.txt" type="plaintext" url="2019-05-31_13-30_307_plaintext.txt"/>
+      <resource id="3" name="2019-05-31_13-30_307_quellcode.txt" type="sourcecode" url="2019-05-31_13-30_307_quellcode.txt"/>
+      <resource id="4" name="2019-05-31_13-30_307.docx" type="formatedText" url="2019-05-31_13-30_307.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 31.05.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Großes Fest in Altona</subheadline>
+            <statement>In Hamburg ist ein großes Fest.</statement>
+            <statement>Dieses Fest ist im Stadt·teil Altona.</statement>
+            <statement>Und dieses Fest heißt Altonale.</statement>
+            <statement>Bei der Altonale können die Menschen viele Dinge tun.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <statement>• Essen und trinken.</statement>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Und tanzen.</headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Auf der Altonale sind 200 Veranstaltungen:</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Konzerte.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Und Theater·aufführungen.</headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Diese Veranstaltungen sind an vielen Orten in Altona.</statement>
+            <statement>Die Altonale ist von Freitag bis Sonntag.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Frau fällt vom Balkon</subheadline>
+            <statement>In Salzgitter ist eine Frau von einem Balkon gefallen.</statement>
+            <statement>Die Frau wurde schwer verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Frau war im 3. Stock.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und die Frau war auf einem Balkon.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement> Dann ist die Frau runter·gefallen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Wir wissen aber <style_element type="hb">nicht</style_element>:</statement>
+                  </speech>
+                  <speech id="5">
+                     <question>Warum ist die Frau runter·gefallen?</question>
+                  </speech>
+                  <speech id="6">
+                     <statement>Wir konnten die Frau noch <style_element type="hb">nicht</style_element> fragen.</statement>
+                  </speech>
+                  <speech id="7">
+                     <statement>Die Frau ist nämlich sehr schwer verletzt.</statement>
+                  </speech>
+                  <speech id="8">
+                     <statement>Und die Frau ist im Kranken·haus.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

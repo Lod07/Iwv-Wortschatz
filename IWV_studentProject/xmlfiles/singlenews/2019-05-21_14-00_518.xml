@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-27" url="2019-05-21_14-00_518.xml">
+   <title>Unwetter in Nord·deutschland</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-05-21_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-05-21_14-00_518-full.png" type="screenshot" url="2019-05-21_14-00_518-full.png"/>
+      <resource id="2" name="2019-05-21_14-00_518_plaintext.txt" type="plaintext" url="2019-05-21_14-00_518_plaintext.txt"/>
+      <resource id="3" name="2019-05-21_14-00_518_quellcode.txt" type="sourcecode" url="2019-05-21_14-00_518_quellcode.txt"/>
+      <resource id="4" name="2019-05-21_14-00_518.docx" type="formatedText" url="2019-05-21_14-00_518.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Unwetter in Nord·deutschland</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In vielen Orten in Nord·deutschland waren Unwetter.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement><style_element type="hi">Unwetter sind zum Beispiel:</style_element></statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword><style_element type="hi">• Starke Gewitter.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <statement><style_element type="hi">• Oder starke Stürme.</style_element></statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Unwetter haben viele Schäden gemacht.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese Schäden waren zum Beispiel:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• In Niedersachsen.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Und in Mecklenburg-Vorpommern.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Bei den Unwettern wurde <style_element type="hb">kein</style_element> Mensch verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Viel Wasser auf den Straßen</subheadline>
+               <statement>Bei den Unwettern hat es sehr viel geregnet.</statement>
+               <explanation_marker>
+                  <statement>Deshalb waren viele Straßen überschwemmt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Auf diesen Straßen war sehr viel Wasser.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und deshalb konnten auf diesen Straßen <style_element type="hb">keine</style_element> Autos mehr fahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Und viele Häuser sind vollgelaufen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">In diesen Häusern war sehr viel Wasser.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Feuerwehr musste das Wasser aus den Häusern pumpen.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Schäden an einem Kranken·haus</subheadline>
+               <explanation_marker>
+                  <statement>Das Unwetter hat in Helmstedt Schäden an einem Kranken·haus gemacht.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Helmstedt ist eine Stadt in Niedersachsen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei dem Unwetter sind nämlich Wasser·rohre in dem Kranken·haus kaputt gegangen.</statement>
+               <statement>Dann ist Wasser in das Kranken·haus gelaufen.</statement>
+               <explanation_marker>
+                  <statement>Deshalb mussten 7 Patienten ihre Zimmer verlassen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Patienten sind kranke Menschen zum Beispiel in einem Kranken·haus.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>2 von den Patienten sind in ein anderes Kranken·haus gekommen.</statement>
+               <statement>Und 5 von den Patienten sind in ein anderes Zimmer gekommen.</statement>
+         </section>
+         <section id="4">
+            <subheadline>Feuer in besonderen Häusern</subheadline>
+               <explanation_marker>
+                  <statement>In Mecklenburg-Vorpommern ist ein Blitz in 2 Reet·dach·häuser eingeschlagen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Reet·dach·häuser sind besondere Häuser.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Reet·dach·häuser haben ein besonderes Dach.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Dieses Dach ist aus Reet.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Reet ist so ähnlich wie Stroh.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Deshalb brennt Reet leicht.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Die 2 Reet·dach·häuser sind:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <explanation_marker>
+                           <headword>•  Auf Usedom.</headword>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Usedom ist eine Insel in der Ostsee.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                     <enumeration id="2">
+                        <explanation_marker>
+                           <statement>• Und in Letzin.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Letzin ist in der Nähe von Demmin.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Nach dem Einschlag von dem Blitz haben die 2 Reet·dach·häuser gebrannt.</statement>
+               <statement>Feuerwehr·leute haben die 2 Feuer gelöscht.</statement>
+               <statement>Aber das Reet·dach·haus auf Usedom ist völlig zerstört.</statement>
+               <statement>Bei den 2 Feuern ist <style_element type="hb">kein</style_element> Mensch verletzt worden.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

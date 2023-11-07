@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-05" url="2019-05-29_13-30_305.xml">
+   <title>Mehr Nachrichten vom 29.05.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-05-29_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-05-29_13-30_305-full.png" type="screenshot" url="2019-05-29_13-30_305-full.png"/>
+      <resource id="2" name="2019-05-29_13-30_305_plaintext.txt" type="plaintext" url="2019-05-29_13-30_305_plaintext.txt"/>
+      <resource id="3" name="2019-05-29_13-30_305_quellcode.txt" type="sourcecode" url="2019-05-29_13-30_305_quellcode.txt"/>
+      <resource id="4" name="2019-05-29_13-30_305.docx" type="formatedText" url="2019-05-29_13-30_305.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 29.05.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Lkw-Fahrer stirbt bei Unfall</subheadline>
+            <explanation_marker>
+               <statement>Auf der A2 war ein schwerer Unfall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">A2 ist die Abkürzung für Auto·bahn 2.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieser Unfall war in der Nähe von Bad Nenndorf.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bad Nenndorf ist eine Stadt in der Nähe von Hannover.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Unfall war mit 4 Lkw.</statement>
+            <statement>Der Fahrer von einem Lkw ist bei dem Unfall gestorben.</statement>
+            <statement>Und 2 Menschen wurden bei dem Unfall schwer verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Auf der A2 war ein Stau.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Ein Lkw-Fahrer hat den Stau wahrscheinlich <style_element type="hb">nicht</style_element> gesehen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb ist der Lkw gegen 3 andere Lkw gefahren.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <explanation_marker>
+               <statement>Nach dem Unfall hat die Polizei die A2 gesperrt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Auf der A2 durften <style_element type="hb">keine</style_element> Autos fahren.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Nord·deutschland: Panne in Finanz·ämtern</subheadline>
+            <explanation_marker>
+               <statement>Die 141 Finanz·ämter in Nord·deutschland hatten große Probleme.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Finanz·amt ist eine Behörde.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Behörde kümmert sich zum Beispiel um Steuern.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei diesen Finanz·ämtern sind nämlich alle Computer ausgefallen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Behörde hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir haben Computer in den Finanz·ämtern getestet.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Aber bei diesem Test hatten wir eine Panne.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb sind in allen Finanz·ämtern in Nord·deutschland die Computer ausgefallen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und deshalb konnten fast 30.000 Mitarbeiter <style_element type="hb">nicht</style_element> arbeiten.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Jetzt sind die meisten Computer wieder in Ordnung.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

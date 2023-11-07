@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-31" url="2019-08-20_14-00_295.xml">
+   <title>Großes Feuer in Tennis·halle</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-08-20_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-08-20_14-00_295-full.png" type="screenshot" url="2019-08-20_14-00_295-full.png"/>
+      <resource id="2" name="2019-08-20_14-00_295_plaintext.txt" type="plaintext" url="2019-08-20_14-00_295_plaintext.txt"/>
+      <resource id="3" name="2019-08-20_14-00_295_quellcode.txt" type="sourcecode" url="2019-08-20_14-00_295_quellcode.txt"/>
+      <resource id="4" name="2019-08-20_14-00_295.docx" type="formatedText" url="2019-08-20_14-00_295.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Großes Feuer in Tennis·halle</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Westerstede war ein großes Feuer.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Westerstede ist eine Stadt in Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieses Feuer war in einer Tennis·halle.</statement>
+            <statement>Das Feuer hat großen Schaden gemacht.</statement>
+            <statement>160 Feuerwehr·leute haben das Feuer gelöscht.</statement>
+            <statement>2 von diesen Feuerwehr·leuten wurden beim Löschen leicht verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Viel giftiger Rauch</subheadline>
+            <statement>Bei dem Feuer war viel giftiger Rauch.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Deshalb hat die Feuerwehr zu den Menschen in der Nähe von der Tennis·halle gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Schließen Sie die Türen von Ihren Häusern.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und schließen Sie die Fenster von Ihren Häusern.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dann kommt <style_element type="hb">kein</style_element> giftiger Rauch in Ihre Wohnungen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Neben der Tennis·halle ist ein Kranken·haus.</statement>
+            <statement>Der Rauch von dem Feuer war auch in diesem Kranken·haus.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Deshalb haben die Ärzte in dem Kranken·haus gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir können <style_element type="hb">nicht</style_element> mehr richtig arbeiten.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Wir können zum Beispiel <style_element type="hb">keine</style_element> Operationen mehr machen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum hat die Tennis·halle gebrannt?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

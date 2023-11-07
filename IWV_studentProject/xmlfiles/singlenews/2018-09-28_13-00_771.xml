@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-09-28_13-00_771.xml">
+   <title>Mehr Nachrichten vom 28.09.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-09-28_13-00</vdate>
+   <resources>
+      <resource id="1" name="2018-09-28_13-00_771-full.png" type="screenshot" url="2018-09-28_13-00_771-full.png"/>
+      <resource id="2" name="2018-09-28_13-00_771_plaintext.txt" type="plaintext" url="2018-09-28_13-00_771_plaintext.txt"/>
+      <resource id="3" name="2018-09-28_13-00_771_quellcode.txt" type="sourcecode" url="2018-09-28_13-00_771_quellcode.txt"/>
+      <resource id="4" name="2018-09-28_13-00_771.docx" type="formatedText" url="2018-09-28_13-00_771.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 28.09.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Feuer an Bahn·strecke</subheadline>
+               <explanation_marker>
+                  <statement>In der Nähe von Maschen haben Kabel an einer Bahn·strecke gebrannt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Maschen ist ein Ort bei Hamburg.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Bahn·strecke ist zwischen Hannover und Hamburg.</statement>
+               <statement>Jetzt müssen die Züge auf dieser Bahn·strecke langsamer fahren.</statement>
+               <statement>Oder die Züge müssen auf einer anderen Bahn·strecke fahren.</statement>
+               <statement>Deshalb haben die Züge Verspätung.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wahrscheinlich haben Menschen das Feuer an der Bahn·strecke absichtlich gemacht.</statement>
+                     </speech>
+                     <speech id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Jetzt wollen wir wissen:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question>Wer hat das Feuer gemacht?</question>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Bahn hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Polizei ermittelt noch an der Bahn·strecke.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb können wir die Kabel an der Bahn·strecke noch <style_element type="hb">nicht</style_element> reparieren.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und deshalb haben die Züge noch einige Tage Verspätung.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Feuerwehr rettet 2 Menschen von Baum</subheadline>
+               <explanation_marker>
+                  <statement>In der Nähe von Hartenholm war ein Unfall.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Hartenholm ist ein Ort bei Bad Segeberg.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei dem Unfall sind 2 Menschen in einem Baum gelandet.</statement>
+               <explanation_marker>
+                  <statement>Diese 2 Menschen sind zusammen mit einem Fallschirm gesprungen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Fallschirm ist ein Sport·gerät.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Menschen hängen an einem Fallschirm.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Mit einem Fallschirm können die Menschen aus großer Höhe zu Boden schweben.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die 2 Menschen wollten auf einem Flugplatz landen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber bei dem Fallschirm·sprung war es sehr windig.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb sind die 2 Menschen <style_element type="hb">nicht</style_element> auf dem Flugplatz gelandet.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Die 2 Menschen sind auf einem Baum gelandet.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Die Feuerwehr musste die 2 Menschen von dem Baum runterholen.</statement>
+               <statement>Aber die Menschen waren 15 Meter hoch in dem Baum.</statement>
+               <statement>Deshalb hat der Einsatz von der Feuerwehr lange gedauert.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

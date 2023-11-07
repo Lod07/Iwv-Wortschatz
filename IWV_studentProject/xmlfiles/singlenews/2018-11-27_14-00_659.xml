@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-23" url="2018-11-27_14-00_659.xml">
+   <title>Weiter·bau von Auto·bahn gestoppt</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-11-27_14-00</vdate>
+   <resources>
+      <resource id="1" name="2018-11-27_14-00_659-full.png" type="screenshot" url="2018-11-27_14-00_659-full.png"/>
+      <resource id="2" name="2018-11-27_14-00_659_plaintext.txt" type="plaintext" url="2018-11-27_14-00_659_plaintext.txt"/>
+      <resource id="3" name="2018-11-27_14-00_659_quellcode.txt" type="sourcecode" url="2018-11-27_14-00_659_quellcode.txt"/>
+      <resource id="4" name="2018-11-27_14-00_659.docx" type="formatedText" url="2018-11-27_14-00_659.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Weiter·bau von Auto·bahn gestoppt</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Schleswig-Holstein bauen Arbeiter einen Teil von der A20.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">A20 ist die Abkürzung für Auto·bahn 20.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieser Teil ist zwischen Wittenborn und der A7.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Wittenborn ist ein Ort in der Nähe von Bad Segeberg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Aber jetzt hat das Bundes·verwaltungs·gericht eine wichtige Entscheidung getroffen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Das Bundes·verwaltungs·gericht ist ein wichtiges Gericht in Deutschland.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Bundes·verwaltungs·gericht hat nämlich gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Arbeiter dürfen an der A20 erst mal <style_element type="hb">nicht</style_element> weiterbauen.</statement>
+                  </speech> 
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Weiter·bau verstößt gegen Regeln</subheadline>
+               <explanation_marker>
+                  <statement>Umwelt·schützer wollten den Weiter·bau von der A20 stoppen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Umwelt·schützer wollen die Natur retten.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <statement><style_element type="hi">Umwelt·schützer wollen zum Beispiel:</style_element></statement>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1"> 
+                                 <statement><style_element type="hi">• Menschen sollen die Luft <style_element type="hb">nicht</style_element> schmutzig machen.</style_element></statement>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <statement><style_element type="hi">• Und Menschen sollen <style_element type="hb">keinen</style_element> Müll in die Meere werfen.</style_element></statement>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Umwelt·schützer haben nämlich gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Weiter·bau von der A20 verstößt gegen bestimmte Regeln.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Der Weiter·bau von der A20 ist nämlich <style_element type="hb">nicht</style_element> gut für die Umwelt.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und der Weiter·bau von der A20 ist <style_element type="hb">nicht</style_element> gut für bestimmte Tiere.</statement>
+                     </speech>
+                     <speech id="4">
+                        <explanation_marker>
+                           <statement>Zum Beispiel für Fledermäuse.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Fledermäuse leben zum Beispiel in Höhlen.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Fledermäuse können fliegen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="5">
+                        <statement>Viele Fledermäuse leben nämlich zum Beispiel in einer Höhle in Bad Segeberg.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Der Weiter·bau von der A20 stört diese Fledermäuse.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Dann hat das Bundes·verwaltungs·gericht gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Umwelt·schützer haben recht.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Der Weiter·bau von der A20 verstößt gegen bestimmte Regeln.</statement>
+                     </speech>
+                     <speech id="3">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Deshalb haben wir entschieden:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1"> 
+                                 <statement>Die Arbeiter dürfen die A20 erst mal <style_element type="hb">nicht</style_element> weiterbauen.</statement>
+                              </speech>
+                              <speech id="2">
+                                 <statement>Und Fach·leute müssen den Weiter·bau von der A20 neu planen.</statement>
+                              </speech>
+                              <speech id="3">
+                                 <statement>Erst dann können die Arbeiter an der A20 weiterbauen.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Arbeiter bauen schon seit 1992 an der A20.</statement>
+            <explanation_marker>
+               <statement>Die A20 beginnt in Stettin.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Stettin ist eine Stadt in Polen.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Polen ist ein Land in Ost·europa.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dann führt die A20 nach Mecklenburg-Vorpommern.</statement>
+            <statement>Und dann nach Schleswig-Holstein.</statement>
+            <question>Die A20 ist fertig gebaut?</question>
+            <statement>Dann führt die A20 nach Niedersachsen.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

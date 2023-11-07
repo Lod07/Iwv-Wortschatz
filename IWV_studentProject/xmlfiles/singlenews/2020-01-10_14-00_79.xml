@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-2020" url="2020-01-10_14-00_79.xml">
+   <title>Mann muss lange ins Gefängnis</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-01-10_14-00</vdate>
+   <resources>
+      <resource id="1" name="2020-01-10_14-00_79-full.png" type="screenshot" url="2020-01-10_14-00_79-full.png"/>
+      <resource id="2" name="2020-01-10_14-00_79_plaintext.txt" type="plaintext" url="2020-01-10_14-00_79_plaintext.txt"/>
+      <resource id="3" name="2020-01-10_14-00_79_quellcode.txt" type="sourcecode" url="2020-01-10_14-00_79_quellcode.txt"/>
+      <resource id="4" name="2020-01-10_14-00_79.docx" type="formatedText" url="2020-01-10_14-00_79.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mann muss lange ins Gefängnis</headline>
+      <sections>
+         <section id="1">
+         <explanation_marker>
+                <statement>In Niedersachsen war ein Prozess.</statement>
+                <explanations>
+                    <explanation id="1">
+                        <statement><style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element></statement>
+                    </explanation>
+                    <explanation id="2">
+                        <speech_marker>
+                            <speech_intro>
+                                <statement><style_element type="hi">Bei einem Prozess entscheidet das Gericht:</style_element></statement>
+                            </speech_intro>
+                            <speeches>
+                                <speech id="1">
+                                    <question><style_element type="hi">• Hat ein Mensch etwas Verbotenes getan?</style_element></question>
+                                </speech>
+                                <speech id="2">
+                                    <statement><style_element type="hi">Dann bekommt dieser Mensch eine Strafe.</style_element></statement>
+                                </speech>
+                                <speech id="3">
+                                    <question><style_element type="hi">• Oder hat ein Mensch <style_element type="hb">nichts</style_element> Verbotenes getan?</style_element></question>
+                                </speech>
+                                <speech id="4">
+                                    <statement><style_element type="hi">Dann bekommt dieser Mensch <style_element type="hb">keine</style_element> Strafe.</style_element></statement>
+                                </speech>
+                            </speeches>
+                        </speech_marker>
+                    </explanation>
+                </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Der Prozess war in Northeim.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Northeim ist in der Nähe von Göttingen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Prozess hat das Gericht einen Mann verurteilt.</statement>
+            <statement>Dieser Mann hat nämlich ein Auto gestohlen.</statement>
+            <statement>Mit diesem Auto ist der Mann vor der Polizei geflohen.</statement>
+            <statement>Und bei dieser Flucht hat der Mann mehrere Unfälle gemacht.</statement>
+            <statement>Jetzt muss der Mann für 3 Jahre und 6 Monate ins Gefängnis.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Der Mann hat ein Auto gestohlen.</statement>
+               <statement>Mit dem gestohlenen Auto ist der Mann auf der Autobahn 7 gefahren.</statement>
+               <statement>Die Polizei wollte den Mann anhalten.</statement>
+               <statement>Aber der Mann ist schnell weiter gefahren.</statement>
+               <statement>Deshalb hat die Polizei den Mann verfolgt.</statement>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Gericht hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Bei der Flucht ist der Mann sehr schnell gefahren.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Bis zu 260 Stunden·kilometer.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und bei der Flucht hat der Mann mit dem Auto mehrere Unfälle gemacht.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Der Mann ist zum Beispiel gegen Polizei·autos gefahren.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Bei den Unfällen wurde <style_element type="hb">kein</style_element> Mensch verletzt.</statement> 
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <statement>Jetzt muss der Mann für 3 Jahre und 6 Monate ins Gefängnis.</statement>
+            <statement>Und der Mann darf 3 Jahre lang <style_element type="hb">kein</style_element> Auto fahren.</statement> 
+         </section>
+      </sections>
+   </content>
+</annotation>

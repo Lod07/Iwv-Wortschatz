@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-14" url="2019-02-20_15-00_604.xml">
+   <title>Rostock: Bald Flüge nach Mallorca</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-02-20_15-00</vdate>
+   <resources>
+      <resource id="1" name="2019-02-20_15-00_604-full.png" type="screenshot" url="2019-02-20_15-00_604-full.png"/>
+      <resource id="2" name="2019-02-20_15-00_604_plaintext.txt" type="plaintext" url="2019-02-20_15-00_604_plaintext.txt"/>
+      <resource id="3" name="2019-02-20_15-00_604_quellcode.txt" type="sourcecode" url="2019-02-20_15-00_604_quellcode.txt"/>
+      <resource id="4" name="2019-02-20_15-00_604.docx" type="formatedText" url="2019-02-20_15-00_604.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Rostock: Bald Flüge nach Mallorca</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Die Mitarbeiter vom Flug·hafen in Rostock freuen sich.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Rostock ist eine Stadt in Mecklenburg-Vorpommern.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Vom Flug·hafen in Rostock fliegen nämlich bald wieder Flug·zeuge.</statement>
+            <explanation_marker>
+               <statement>Diese Flug·zeuge fliegen zum Beispiel nach Mallorca.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Mallorca ist eine Insel.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Mallorca gehört zu Spanien.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Deshalb haben die Mitarbeiter vom Flug·hafen in Rostock bald wieder Arbeit.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Probleme am Flug·hafen</subheadline>
+               <statement>Der Flug·hafen in Rostock hat große Probleme.</statement>
+               <explanation_marker>
+                  <statement>2 Flug·gesellschaften haben nämlich ihre Flüge eingestellt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Die Flug·zeuge von diesen 2 Flug·gesellschaften fliegen <style_element type="hb">nicht</style_element> mehr.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Diese 2 Flug·gesellschaften haben nämlich <style_element type="hb">kein</style_element> Geld mehr.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Diese 2 Flug·gesellschaften sind:</statement> 
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <explanation_marker>
+                           <headword>• Germania.</headword>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Germania ist eine Flug·gesellschaft aus Deutschland.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                     <enumeration id="2">
+                        <explanation_marker>
+                           <headword>• Und flybmi.</headword>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Flybmi ist eine Flug·gesellschaft aus England.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Jetzt fliegen <style_element type="hb">keine</style_element> Flug·zeuge mehr am Flug·hafen in Rostock.</statement>
+               <statement>Deshalb braucht der Flug·hafen in Rostock weniger Mitarbeiter.</statement>
+               <explanation_marker>
+                  <statement>Und deshalb sind viele Mitarbeiter jetzt in Kurz·arbeit.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Die Mitarbeiter arbeiten weniger Stunden.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und die Mitarbeiter bekommen weniger Geld.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <section id="3">
+            <subheadline>Neue Flüge</subheadline>
+               <statement>Bald fliegen die Flug·zeuge von 2 anderen Flug·gesellschaften in Rostock.</statement>
+                  <explanation_marker>
+                     <statement>Eine von den 2 Flug·gesellschaften ist Laudamotion.</statement>
+                     <explanations>
+                        <explanation id="1">
+                           <statement><style_element type="hi">Laudamotion ist eine Flug·gesellschaft aus Österreich.</style_element></statement>
+                        </explanation>
+                     </explanations>
+                  </explanation_marker>
+                  <speech_marker>
+                     <speech_intro>
+                        <statement>Eine Sprecherin vom Flug·hafen hat gesagt:</statement>
+                     </speech_intro>
+                     <speeches>
+                        <speech id="1">
+                           <statement>Ab dem 13. Juni fliegen jede Woche 3 Flug·zeuge nach Mallorca.</statement>
+                        </speech>
+                        <speech id="2">
+                           <statement>Viele Menschen machen Urlaub auf Mallorca.</statement>
+                        </speech>
+                        <speech id="3">
+                           <statement>Deshalb hoffen wir auf viele Passagiere.</statement>
+                        </speech>
+                        <speech id="4">
+                           <statement>Dann haben die Mitarbeiter vom Flug·hafen wieder genug Arbeit.</statement>
+                        </speech>
+                     </speeches>
+                  </speech_marker>
+                  <explanation_marker>
+                     <statement>Die andere von den 2 Flug·gesellschaften ist Corendon.</statement>
+                     <explanations>
+                        <explanation id="1">
+                           <statement><style_element type="hi">Corendon ist eine Flug·gesellschaft aus der Türkei.</style_element></statement>
+                        </explanation>
+                     </explanations>
+                  </explanation_marker>
+                  <explanation_marker>
+                     <statement>Ab April fliegen jede Woche 2 Flug·zeuge nach Antalya.</statement>
+                     <explanations>
+                        <explanation id="1">
+                           <statement><style_element type="hi">Antalya ist eine Stadt in der Türkei.</style_element></statement>
+                        </explanation>
+                        <explanation id="2">
+                           <statement><style_element type="hi">Und Antalya ist am Mittelmeer.</style_element></statement>
+                        </explanation>
+                     </explanations>
+                  </explanation_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

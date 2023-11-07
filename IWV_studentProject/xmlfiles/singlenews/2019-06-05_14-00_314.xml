@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-06-05_14-00_314.xml">
+   <title>VW will keine Menschen entlassen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-06-05_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-06-05_14-00_314-full.png" type="screenshot" url="2019-06-05_14-00_314-full.png"/>
+      <resource id="2" name="2019-06-05_14-00_314_plaintext.txt" type="plaintext" url="2019-06-05_14-00_314_plaintext.txt"/>
+      <resource id="3" name="2019-06-05_14-00_314_quellcode.txt" type="sourcecode" url="2019-06-05_14-00_314_quellcode.txt"/>
+      <resource id="4" name="2019-06-05_14-00_314.docx" type="formatedText" url="2019-06-05_14-00_314.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>VW will keine Menschen entlassen</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>VW will in den nächsten Jahren viel Geld sparen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">VW ist die Abkürzung für <style_element type="hb">V</style_element>olks<style_element type="hb">w</style_element>agen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">VW ist eine große Firma.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">VW baut Autos.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Und VW ist aus Wolfsburg.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Wolfsburg ist eine Stadt in Niedersachsen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Deshalb sollen in einigen Bereichen von VW bald weniger Menschen arbeiten.</statement>
+            <statement>Aber VW will bis 2029 <style_element type="hb">keine</style_element> Menschen entlassen.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Viele Veränderungen bei VW</subheadline>
+            <statement>Bei VW arbeiten sehr viele Menschen.</statement>
+            <statement>VW ist nämlich <style_element type="hb">nicht</style_element> nur in Wolfsburg.</statement>
+            <statement>VW ist auch in vielen anderen Städten.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• In Hannover.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• In Braunschweig.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <statement>• Und in Emden.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Und VW plant viele Veränderungen.</statement>
+            <statement>Deshalb haben viele Menschen Angst um ihren Arbeits·platz.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt hat VW gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir werden bis 2029 <style_element type="hb">keine</style_element> Menschen entlassen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb werden bis 2029 viele freie Stellen <style_element type="hb">nicht</style_element> neu besetzt.</statement>
+                  </speech>
+                  <speech id="3">
+                     <question>Arbeiter von VW gehen in Rente?</question>
+                  </speech>
+                  <speech id="4">
+                     <statement>Dann übernimmt <style_element type="hb">kein</style_element> anderer Mensch diese Arbeit.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Diese Arbeit übernimmt dann nämlich ein neues Computer·programm.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>VW hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In unserer Verwaltung sollen bald 4000 Menschen weniger arbeiten.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Bald haben wir nämlich bessere Computer.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und bessere Programme.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb brauchen wir weniger Menschen in der Verwaltung.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Und deshalb werden viele freie Stellen in der Verwaltung <style_element type="hb">nicht</style_element> neu besetzt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Neue Stellen</subheadline>
+            <statement>In anderen Bereichen von VW sollen bald mehr Menschen arbeiten.</statement>
+            <explanation_marker>
+               <statement>Zum Beispiel in der IT.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">IT ist die Abkürzung für <style_element type="hb">I</style_element>nformations·<style_element type="hb">t</style_element>echnik.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>In diesem Bereich arbeiten zum Beispiel Informatiker.</statement>
+            <statement>Oder Programmierer.</statement>
+            <explanation_marker>
+               <statement>Viele Bereiche bei VW sollen nämlich digitalisiert werden.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>Computer und Programme übernehmen die Arbeit von Menschen.</statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>In diesen Bereichen sollen bald 2000 neue Stellen entstehen.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

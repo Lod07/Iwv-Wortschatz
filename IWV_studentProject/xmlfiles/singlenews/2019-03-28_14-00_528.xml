@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-19" url="2019-03-28_14-00_528.xml">
+   <title>Tote Hirsche: Waren es Wölfe?</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-03-28_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-03-28_14-00_528-full.png" type="screenshot" url="2019-03-28_14-00_528-full.png"/>
+      <resource id="2" name="2019-03-28_14-00_528_plaintext.txt" type="plaintext" url="2019-03-28_14-00_528_plaintext.txt"/>
+      <resource id="3" name="2019-03-28_14-00_528_quellcode.txt" type="sourcecode" url="2019-03-28_14-00_528_quellcode.txt"/>
+      <resource id="4" name="2019-03-28_14-00_528.docx" type="formatedText" url="2019-03-28_14-00_528.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Tote Hirsche: Waren es Wölfe?</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Bei Torgelow hat ein Mensch 8 tote Tiere gefunden.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Torgelow ist eine Stadt in Mecklenburg-Vorpommern.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Diese Tiere waren Hirsche.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Hirsche sind Tiere.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Hirsche leben meistens im Wald.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Wahrscheinlich haben Wölfe die Hirsche getötet.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Wölfe sind Tiere.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Wölfe jagen andere Tiere.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Und Wölfe fressen andere Tiere.</style_element></statement>
+                           </explanation>
+                           <explanation id="4">
+                              <statement><style_element type="hi">Deshalb können Wölfe gefährlich sein.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Spuren von Wölfen gefunden</subheadline>
+               <explanation_marker>
+                  <statement>Die Hirsche waren in einem Gehege.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Gehege gibt es zum Beispiel im Zoo.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">In den Gehegen im Zoo leben die Tiere.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Die Tiere können nicht raus aus ihren Gehegen.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Viele Gehege haben nämlich Zäune.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Dieses Gehege ist auf einem Gut.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Gut ist ein großer Bauern·hof.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Und dieses Gehege hat einen hohen Zaun.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir haben Spuren in dem Gehege gefunden.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Diese Spuren sind wahrscheinlich Wolfs·spuren.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und von einigen Hirschen wurden große Teile aufgefressen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb glauben wir:</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>In dem Gehege waren mehrere Wölfe.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Bei Torgelow hat es in den vergangenen 2 Monaten schon 4 Angriffe von Wölfen gegeben.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

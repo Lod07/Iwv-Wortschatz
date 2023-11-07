@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-27" url="2019-12-19_14-00_111.xml">
+   <title>Neue Regeln für laute Flugzeuge</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-12-19_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-12-19_14-00_111-full.png" type="screenshot" url="2019-12-19_14-00_111-full.png"/>
+      <resource id="2" name="2019-12-19_14-00_111_plaintext.txt" type="plaintext" url="2019-12-19_14-00_111_plaintext.txt"/>
+      <resource id="3" name="2019-12-19_14-00_111_quellcode.txt" type="sourcecode" url="2019-12-19_14-00_111_quellcode.txt"/>
+      <resource id="4" name="2019-12-19_14-00_111.docx" type="formatedText" url="2019-12-19_14-00_111.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Neue Regeln für laute Flugzeuge</headline>
+      <sections>
+         <section id="1">
+            <statement>Politiker in Niedersachsen haben eine wichtige Entscheidung getroffen.</statement>
+            <statement>Mit dieser Entscheidung wollen die Politiker die Menschen besser vor Lärm schützen.</statement>
+            <explanation_marker>
+               <statement>Dieser Lärm kommt vom Flughafen in Hannover.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Hannover ist die Haupt·stadt von Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Politiker haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Flug·zeuge machen beim Starten besonders viel Lärm.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und beim Landen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Einige von den Flugzeugen sind besonders laut.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Für diese besonders lauten Flugzeuge machen wir neue Regeln.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Diese Flugzeuge dürfen ab Januar <style_element type="hb">nicht</style_element> mehr nachts in Hannover starten.</statement>
+                  </speech>
+                  <speech id="6">
+                     <headword>Oder landen.</headword>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Flugzeuge machen viel Lärm</subheadline>
+            <statement>Der Flughafen in Hannover ist der zweitgrößte Flughafen in Nord·deutschland.</statement>
+            <statement>Und am Flughafen in Hannover dürfen Flugzeuge auch nachts fliegen.</statement>
+            <explanation_marker>
+               <statement>Am Flughafen in Hannover gibt es nämlich <style_element type="hb">kein</style_element> Nacht·flug·verbot.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Flugzeuge dürfen auch zwischen 22 Uhr abends und 6 Uhr morgens fliegen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Viele Menschen wohnen in der Nähe vom Flughafen in Hannover.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und viele von diesen Menschen können nachts <style_element type="hb">nicht</style_element> gut schlafen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Die Flugzeuge am Flughafen in Hannover machen nämlich auch nachts viel Lärm.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt haben die Politiker gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Viele neue Flugzeuge machen weniger Lärm als alte Flugzeuge.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Aber einige alte Flugzeuge sind besonders laut.</statement>
+                  </speech>
+                  <speech id="3">
+                     <explanation_marker>
+                        <statement>Für diese besonders lauten Flugzeuge machen wir ein Nacht·flug·verbot.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Besonders laute Flugzeuge dürfen zwischen 22 und 6 Uhr <style_element type="hb">nicht</style_element> mehr starten.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <headword><style_element type="hi">Oder landen.</style_element></headword>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Dieses Verbot ist ab Januar.</statement>
+            <statement>Und dieses Verbot ist für die nächsten 10 Jahre.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

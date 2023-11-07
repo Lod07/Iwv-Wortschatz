@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-18" url="2019-12-20_13-30_112.xml">
+   <title>Mehr Nachrichten vom 20.12.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-12-20_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-12-20_13-30_112-full.png" type="screenshot" url="2019-12-20_13-30_112-full.png"/>
+      <resource id="2" name="2019-12-20_13-30_112_plaintext.txt" type="plaintext" url="2019-12-20_13-30_112_plaintext.txt"/>
+      <resource id="3" name="2019-12-20_13-30_112_quellcode.txt" type="sourcecode" url="2019-12-20_13-30_112_quellcode.txt"/>
+      <resource id="4" name="2019-12-20_13-30_112.docx" type="formatedText" url="2019-12-20_13-30_112.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+<content>
+   <headline>Mehr Nachrichten vom 20.12.2019</headline>
+   <sections>
+      <section id="1">
+      <subheadline>Mecklenburg-Vorpommern: 5 Verletzte bei Feuer</subheadline>
+      <explanation_marker>
+         <statement>In Wismar war in der Nacht ein Feuer.</statement>
+         <explanations>
+            <explanation id="1">
+            <statement><style_element type="hi">Wismar ist eine Stadt an der Ostsee.</style_element></statement>
+            </explanation>
+         </explanations>
+      </explanation_marker>
+      <statement>Das Feuer war in einem Haus.</statement>
+      <statement>Bei dem Feuer wurden 5 Menschen verletzt.</statement>
+      <speech_marker>
+         <speech_intro>
+            <statement>Die Polizei hat gesagt:</statement>
+         </speech_intro>
+            <speeches>
+               <speech id="1">
+                  <statement>Bei dem Feuer hat ein Kinder·wagen gebrannt.</statement>
+               </speech>
+               <speech id="2">
+               <statement>Der Kinder·wagen war im Eingang von dem Haus.</statement>
+               </speech>
+               <speech id="3">
+                  <headword>Wir glauben:</headword>
+               </speech>
+               <speech id="4">
+                  <statement>Menschen haben absichtlich das Feuer am Kinder·wagen gemacht.</statement>
+               </speech>
+               <speech id="5">
+               <statement>Wir wissen aber <style_element type="hb">nicht:</style_element></statement>
+               </speech>
+               <speech id="6">
+                  <question>Wer hat das Feuer gemacht?</question>
+               </speech> 
+         </speeches>
+      </speech_marker>
+      <statement>Bei dem Feuer war viel giftiger Rauch.</statement>
+      <statement>5 Menschen haben diesen Rauch eingeatmet.</statement>
+      <statement>Deshalb haben Helfer diese 5 Menschen ins Kranken·haus gebracht.</statement>
+      </section>
+      <style_element type="line" />
+      <section id="2">
+      <subheadline>Hamburg: Friedhof bekommt eine Schranke</subheadline>
+      <statement>Fach·leute haben eine wichtige Entscheidung getroffen.</statement>
+      <statement>Diese Fach·leute sind von einem besonderen Friedhof in Hamburg.</statement>
+      <explanation_marker>
+      <statement>Dieser Friedhof heißt Ohlsdorfer Friedhof.</statement>
+         <explanations>
+            <explanation id="1">
+               <statement><style_element type="hi">Der Ohlsdorfer Friedhof ist im Stadt·teil Ohlsdorf.</style_element></statement>
+            </explanation>
+            <explanation id="2">
+               <statement><style_element type="hi">Und der Ohlsdorfer Friedhof ist der viertgrößte Friedhof der Welt.</style_element></statement>
+            </explanation>
+            <explanation id="3">
+               <question><style_element type="hi">Menschen wollen ein Grab auf dem Friedhof besuchen?</style_element></question>
+            </explanation>
+            <explanation id="4">
+               <statement><style_element type="hi">Dann können diese Menschen zum Beispiel mit dem Auto auf den Friedhof fahren.</style_element></statement>
+            </explanation>
+            <explanation id="5">
+               <statement><style_element type="hi">Oder mit dem Bus.</style_element></statement>
+            </explanation>
+         </explanations>
+      </explanation_marker>
+      <speech_marker>
+         <speech_intro>
+            <statement>Die Fach·leute haben gesagt:</statement>
+         </speech_intro>
+            <speeches>
+               <speech id="1">
+               <statement>Das Fahren auf dem Friedhof ist nur für wenige Auto·fahrer erlaubt.</statement>
+               </speech>
+               <speech id="2">
+            <enumeration_marker>
+            <enumeration_intro>
+               <headword>Zum Beispiel:</headword>
+            </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <statement>• Für Besucher von dem Friedhof.</statement>
+                     </enumeration>
+                     <enumeration id="2">
+                        <statement>• Oder für Arbeiter auf dem Friedhof.</statement>
+                     </enumeration>
+                  </enumerations>
+            </enumeration_marker>
+            </speech>
+               <speech id="3">
+                  <statement>  Aber viele Auto·fahrer fahren trotzdem über den Friedhof.</statement>
+               </speech>
+               <speech id="4">
+                  <statement>Diese Auto·fahrer benutzen den Friedhof nämlich als Abkürzung.</statement>
+               </speech>
+            </speeches>
+      </speech_marker>
+      <speech_marker>
+         <speech_intro>
+            <statement>Jetzt haben die Fach·leute entschieden:</statement>
+         </speech_intro>
+            <speeches>
+               <speech id="1">
+                  <statement> Der Ohlsdorfer Friedhof bekommt eine Schranke.</statement>
+               </speech>
+               <speech id="2">
+                  <statement>Diese Schranke wird nur für bestimmte Auto·fahrer geöffnet.</statement>
+               </speech>
+               <speech id="3">
+                  <statement> Für alle anderen Auto·fahrer bleibt die Schranke geschlossen.</statement>
+               </speech>
+            </speeches>
+      </speech_marker>
+      </section>
+      <style_element type="line" />
+   </sections>
+</content>
+</annotation>
+

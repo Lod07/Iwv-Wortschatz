@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-16" url="2020-04-15_14-30_5.xml">
+   <title>Mehr Nachrichten vom 15.04.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-04-15_14-30</vdate>
+   <resources>
+      <resource id="1" name="2020-04-15_14-30_5-full.png" type="screenshot" url="2020-04-15_14-30_5-full.png"/>
+      <resource id="2" name="2020-04-15_14-30_5_plaintext.txt" type="plaintext" url="2020-04-15_14-30_5_plaintext.txt"/>
+      <resource id="3" name="2020-04-15_14-30_5_quellcode.txt" type="sourcecode" url="2020-04-15_14-30_5_quellcode.txt"/>
+      <resource id="4" name="2020-04-15_14-30_5.docx" type="formatedText" url="2020-04-15_14-30_5.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 15.04.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Corona-Virus bei schwer·kranken Menschen</subheadline>
+            <explanation_marker>
+               <statement>Das Kranken·haus UKE hat ein Problem.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">UKE ist die Abkürzung für <style_element type="hb">U</style_element>niversitäts·<style_element type="hb">k</style_element>linikum <style_element type="hb">E</style_element>ppendorf.</style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Eppendorf ist ein Stadt·teil von Hamburg.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Im UKE haben sich nämlich 40 Menschen mit dem Corona-Virus angesteckt.</statement>
+            <statement>20 von diesen Menschen sind Ärzte.</statement>
+            <explanation_marker>
+               <statement>Und 20 sind Patienten.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Patienten sind kranke Menschen in einem Kranken·haus.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Diese Menschen waren auf einer besonderen Station.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">ine Station ist eine Abteilung in einem Kranken·haus.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Diese Station ist für Menschen mit Krebs.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Krebs ist eine schlimme Krankheit.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das UKE hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement> Für Menschen mit Krebs ist das Corona-Virus besonders schlimm.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb müssen wir uns besonders um diese Menschen kümmern.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>VW baut wieder Autos</subheadline>
+            <explanation_marker>
+               <statement>VW will ab dem 27. April wieder Autos bauen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">VW ist die Abkürzung für Volks·wagen.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">VW ist eine Firma aus Wolfsburg.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Und VW baut zum Beispiel Autos.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>VW hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wegen dem Corona-Virus bauen wir seit 4 Wochen <style_element type="hb">keine</style_element> Autos.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Aber bald wollen wir wieder Autos bauen.</statement>
+            <statement>Wir müssen die Arbeiter besonders schützen.</statement>
+            <statement>Deshalb bauen wir nur wenige Autos.</statement>
+            <statement>Und deshalb kommen nur wenige Arbeiter in die Fabriken.</statement>
+            <statement>Für diese Arbeiter gelten besondere Regeln.</statement>
+            <statement>Einige Arbeiter sollen zum Beispiel einen Mund·schutz tragen.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>
+

@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-24" url="2020-01-29_15-00_85.xml">
+   <title>Mehr Nachrichten vom 29.01.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-01-29_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-01-29_15-00_85-full.png" type="screenshot" url="2020-01-29_15-00_85-full.png"/>
+      <resource id="2" name="2020-01-29_15-00_85_plaintext.txt" type="plaintext" url="2020-01-29_15-00_85_plaintext.txt"/>
+      <resource id="3" name="2020-01-29_15-00_85_quellcode.txt" type="sourcecode" url="2020-01-29_15-00_85_quellcode.txt"/>
+      <resource id="4" name="2020-01-29_15-00_85.docx" type="formatedText" url="2020-01-29_15-00_85.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 29.01.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Frau stirbt bei Unfall</subheadline>
+               <explanation_marker>
+                  <statement>In der Nähe von Lüneburg war ein Unfall.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Lüneburg ist eine Stadt.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und Lüneburg ist südöstlich von Hamburg.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Der Unfall war mit einem Auto.</statement>
+               <statement>Bei dem Unfall ist eine Frau gegen einen Baum gefahren.</statement>
+               <statement>Die Frau ist bei dem Unfall gestorben.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In Niedersachsen war es sehr windig.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb sind viele Bäume umgeknickt.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Ein Baum ist auf eine Straße gefallen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Die Frau hat den Baum <style_element type="hb">nicht</style_element> rechtzeitig gesehen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Der Baum war nämlich in einer Kurve.</statement> 
+                     </speech>
+                     <speech id="6">
+                        <statement>Deshalb konnte die Frau <style_element type="hb">nicht</style_element> mehr bremsen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Die Fahrerin ist bei dem Unfall gestorben.</statement>
+               <statement>Die Frau war 69 Jahre alt.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Busfahrer streiken</subheadline>
+               <explanation_marker>
+               <statement>In Schleswig-Holstein ist heute ein Streik.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bei einem Streik arbeiten Menschen <style_element type="hb">nicht</style_element>.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Menschen sind zum Beispiel mit ihrer Arbeit <style_element type="hb">nicht</style_element> zufrieden.</style_element></statement> 
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Die Menschen wollen zum Beispiel mehr Geld.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Streik ist von Bus·fahrern.</statement>
+            <statement>Und dieser Streik ist in mehreren Städten:</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• In Neumünster.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• In Itzehoe.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <statement>• Und in Uetersen.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <explanation_marker>
+               <statement>Eine Gewerkschaft hilft den Bus·fahrern bei dem Streik.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Gewerkschaft ist zum Beispiel eine Vereinigung von Arbeitern.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Eine Gewerkschaft hilft Arbeitern zum Beispiel bei einem Streit mit der Firma.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Gewerkschaft ist ver.di.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Ver.di hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Bus·fahrer in Schleswig-Holstein sollen mehr Geld bekommen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Aber die Arbeitgeber wollen den Bus·fahrern nicht mehr Geld bezahlen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb streiken die Bus·fahrer.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

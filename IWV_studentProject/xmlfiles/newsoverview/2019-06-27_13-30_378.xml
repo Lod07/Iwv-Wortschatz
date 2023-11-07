@@ -1,0 +1,205 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-06-27_13-30_378.xml">
+   <title>Mehr Nachrichten vom 27.06.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-06-27_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-06-27_13-30_378-full.png" type="screenshot" url="2019-06-27_13-30_378-full.png"/>
+      <resource id="2" name="2019-06-27_13-30_378_plaintext.txt" type="plaintext" url="2019-06-27_13-30_378_plaintext.txt"/>
+      <resource id="3" name="2019-06-27_13-30_378_quellcode.txt" type="sourcecode" url="2019-06-27_13-30_378_quellcode.txt"/>
+      <resource id="4" name="2019-06-27_13-30_378.docx" type="formatedText" url="2019-06-27_13-30_378.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 27.06.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Unfall mit Bus</subheadline>
+               <statement>Auf der Autobahn 1 war ein Unfall.</statement>
+               <explanation_marker>
+                  <statement>Der Unfall war bei Bramsche.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Bramsche ist ein Ort in der Nähe von Osnabrück.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Und der Unfall war mit einem Fern·bus.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Mit einem Fern·bus können Menschen lange Strecken fahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>In dem Fern·bus waren 27 Menschen.</statement>
+               <statement>7 von diesen 27 Menschen wurden leicht verletzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Der Bus ist von der Straße abgekommen.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Der Fahrer von dem Bus ist <style_element type="hb">ohne</style_element> Absicht von der Straße gefahren.</style_element></statement> 
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und der Bus ist in einen Graben gefahren.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Die Menschen in dem Bus konnten die Türen von dem Bus <style_element type="hb">nicht</style_element> mehr benutzen.</statement> 
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb mussten die Menschen den Bus durch die Fenster verlassen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <explanation_marker>
+                  <statement>Nach dem Unfall hat die Polizei die Autobahn 1 für einige Stunden gesperrt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Auf der Autobahn 1 durfte <style_element type="hb">kein</style_element> Auto fahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: 2 Menschen ertrunken</subheadline>
+               <statement>In Mecklenburg Vorpommern waren 2 Unfälle.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Diese Unfälle waren:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <explanation_marker>
+                           <headword>• In Schönberg.</headword>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Schönberg ist ein Ort an der Ostsee.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                     <enumeration id="2">
+                        <statement>• Und in Neubrandenburg.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Bei diesen 2 Unfällen sind 2 Menschen ertrunken.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In Schönberg war ein Mann mit Freunden in einem See.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann hat der Mann plötzlich um Hilfe gerufen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und der Mann ist untergegangen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Die Freunde haben den Mann in dem See <style_element type="hb">nicht</style_element> mehr gefunden.</statement> 
+                     </speech>
+                     <speech id="5">
+                        <statement>Dann haben Taucher nach dem Mann gesucht.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Die Taucher haben den Mann in dem See gefunden.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Aber der Mann war schon tot.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In Neubrandenburg war eine alte Frau in einem See.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann ist die Frau untergegangen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Helfer haben die Frau aus dem Wasser geholt.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Aber die Frau war schon tot.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Niedersachsen: Wenig Trink·wasser</subheadline>
+               <statement>In Niedersachsen ist es sehr warm.</statement>
+               <statement>Deshalb trinken die Menschen besonders viel Wasser.</statement>
+               <statement>Und in Niedersachsen hat es lange <style_element type="hb">nicht</style_element> mehr stark geregnet.</statement> 
+               <statement>Deshalb gibt es in manchen Orten <style_element type="hb">nicht</style_element> mehr so viel Trink·wasser.</statement>
+               <explanation_marker>
+                  <statement>Zum Beispiel in Garbsen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Garbsen ist ein Ort in der Nähe von Hannover.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Und deshalb haben Fach·leute jetzt gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement><style_element type="hi">In Garbsen dürfen die Menschen <style_element type="hb">nicht</style_element> mehr so viel Trink·wasser verbrauchen.</style_element></statement>
+                     </speech>
+                     <speech id="2">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <statement>Die Menschen dürfen mit dem Trink·wasser zum Beispiel <style_element type="hb">nicht</style_element> mehr:</statement>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <headword>• Autos waschen.</headword>
+                              </enumeration>
+                              <enumeration id="1">
+                                 <statement>• Oder Schwimm·becken füllen.</statement>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Auch in anderen Orten sollen die Menschen nicht mehr so viel Trink·wasser verbrauchen.</statement>
+               <statement>Zum Beispiel in Orten im Emsland.</statement>
+               <statement>Und in Ostfriesland.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

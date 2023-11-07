@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-27" url="2019-05-15_13-30_449.xml">
+   <title>Mehr Nachrichten vom 15.05.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-05-15_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-05-15_13-30_449-full.png" type="screenshot" url="2019-05-15_13-30_449-full.png"/>
+      <resource id="2" name="2019-05-15_13-30_449_plaintext.txt" type="plaintext" url="2019-05-15_13-30_449_plaintext.txt"/>
+      <resource id="3" name="2019-05-15_13-30_449_quellcode.txt" type="sourcecode" url="2019-05-15_13-30_449_quellcode.txt"/>
+      <resource id="4" name="2019-05-15_13-30_449.docx" type="formatedText" url="2019-05-15_13-30_449.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 15.05.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Polizei sperrt Tunnel</subheadline>
+               <explanation_marker>
+                  <statement>In Hamburg hat die Polizei einen Tunnel für Autos gesperrt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Durch diesen Tunnel dürfen <style_element type="hb">keine</style_element> Autos fahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Dieser Tunnel ist der Lessingtunnel.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Der Lessingtunnel ist zwischen den Stadt·teilen Altona und Ottensen.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und der Lessingtunnel ist unter einer Bahn·strecke.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Am Lessingtunnel sind Bau·arbeiten.</statement>
+               <statement>Diese Bau·arbeiten dauern einige Monate.</statement>
+               <statement>Deshalb ist der Lessingtunnel jetzt für Autos gesperrt.</statement>
+               <statement>Diese Sperrung ist wahrscheinlich bis November.</statement>
+               <statement>Und der Lessingtunnel ist bald auch für Fahrrad·fahrer und Fuß·gänger gesperrt.</statement>
+               <statement>Diese Sperrung ist wahrscheinlich von Juni bis September.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Lkw kontrolliert</subheadline>
+               <explanation_marker>
+                  <statement>Am Dienstag haben Einsatz·kräfte an der A7 viele Lkw kontrolliert.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">A7 ist die Abkürzung für <style_element type="hb">A</style_element>utobahn <style_element type="hb">7</style_element>.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Einsatz·kräfte waren zum Beispiel von der Polizei.</statement>
+               <statement>Und von der Bundes·wehr.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Einsatz·kräfte haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Mit vielen Lkw hat es Probleme gegeben.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Einige von den Lkw hatten zum Beispiel Probleme mit der Technik.</statement>
+                     </speech>
+                     <speech id="3">
+                        <explanation_marker>
+                           <statement>Und einige von den Lkw waren zum Beispiel überladen.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Auf den Lkw waren zu viele Dinge.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Oder zu schwere Dinge.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Einsatz·kräfte haben auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Einige Lkw-Fahrer sind zu lange gefahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Diese Lkw-Fahrer haben <style_element type="hb">nicht</style_element> genug Pausen gemacht.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Das ist gefährlich.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Dann sind die Lkw-Fahrer nämlich zum Beispiel müde.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Und dann passieren vielleicht Unfälle.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

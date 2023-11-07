@@ -1,0 +1,266 @@
+<?xml version="1.0" ?>
+<annotation adate="" url="2020-08-19_14-00_52.xml">
+   <title>NDR sammelt Spenden</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-12-02_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-12-02_14-00_52-full.png" type="screenshot" url="2019-12-02_14-00_52-full.png"/>
+      <resource id="2" name="2019-12-02_14-00_52_plaintext.txt" type="plaintext" url="2019-12-02_14-00_52_plaintext.txt"/>
+      <resource id="3" name="2019-12-02_14-00_52_quellcode.txt" type="sourcecode" url="2019-12-02_14-00_52_quellcode.txt"/>
+      <resource id="4" name="2019-12-02_14-00_52.docx" type="formatedText" url="2019-12-02_14-00_52.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>
+         NDR sammelt Spenden
+      </headline>
+      <sections>
+         <section id="1">
+            <statement>
+               Der NDR sammelt Spenden.
+            </statement>
+            <statement>
+               Diese Spenden sind für Menschen mit einer gefährlichen Krankheit.
+            </statement>
+            <explanation_marker>
+               <statement>
+                  Diese Krankheit heißt Krebs.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Krebs ist eine schwere Krankheit.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <question>
+                        <style_element type="hi">
+                           Ein Mensch hat Krebs?
+                        </style_element>
+                     </question>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">
+                           Dann sind Teile vom Körper sehr krank.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="4">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword>
+                              <style_element type="hi">
+                                 Zum Beispiel:
+                              </style_element>
+                           </headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <explanation_marker>
+                                 <headword>
+                                    <style_element type="hi">
+                                       Ein Organ.
+                                    </style_element>
+                                 </headword>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement>
+                                          <style_element type="hi">
+                                             Ein Organ ist zum Beispiel die Lunge.
+                                          </style_element>
+                                       </statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword>
+                                 <style_element type="hi">
+                                    Die Haut.
+                                 </style_element>
+                              </headword>
+                           </enumeration>
+                           <enumeration id="3">
+                              <explanation_marker>
+                                 <statement>
+                                    <style_element type="hi">
+                                       Oder bestimmte Körper·teile.
+                                    </style_element>
+                                 </statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement>
+                                          <style_element type="hi">
+                                             Zum Beispiel die Brüste.
+                                          </style_element>
+                                       </statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>
+               Viele Menschen mit Krebs bekommen besondere Behandlungen.
+            </statement>
+            <statement>
+               Diese Behandlungen sind sehr anstrengend.
+            </statement>
+            <statement>
+               Deshalb werden viele Menschen sehr schwach.
+            </statement>
+            <statement>
+               Und deshalb brauchen diese Menschen Hilfe von anderen Menschen.
+            </statement>
+            <statement>
+               Jeder Mensch kann Krebs bekommen.
+            </statement>
+            <statement>
+               Einige Menschen mit Krebs sind nach der Behandlung wieder gesund.
+            </statement>
+            <statement>
+               Andere Menschen sterben an Krebs.
+            </statement>
+         </section>
+         <section id="2">
+            <subheadline>
+               Hand in Hand für Nord·deutschland
+            </subheadline>
+            <statement>
+               Der NDR sammelt die Spenden für besondere Vereine.
+            </statement>
+            <statement>
+               Diese Vereine heißen Krebs·gesellschaften.
+            </statement>
+            <statement>
+               Die Krebs·gesellschaften helfen Menschen mit Krebs.
+            </statement>
+            <statement>
+               Und die Krebs·gesellschaften helfen Familien von Menschen mit Krebs.
+            </statement>
+            <statement>
+               Der NDR sammelt die Spenden in einer großen Aktion.
+            </statement>
+            <statement>
+               Diese Aktion heißt Hand in Hand für Nord·deutschland.
+            </statement>
+            <statement>
+               Bei der Aktion berichtet der NDR auch viel über Menschen mit Krebs.
+            </statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>
+                     Zum Beispiel:
+                  </headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>
+                        Im Fernsehen.
+                     </headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>
+                        Im Radio.
+                     </headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <headword>
+                        Und im Internet.
+                     </headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>
+                     In den Berichten zeigt der NDR zum Beispiel:
+                  </statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <statement>
+                        Diese Probleme haben Menschen mit Krebs.
+                     </statement>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>
+                        Und so helfen die Krebs·gesellschaften Menschen mit Krebs.
+                     </statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="3">
+            <subheadline>
+               Großer Spenden·tag am 13. Dezember
+            </subheadline>
+            <statement>
+               Der Höhepunkt von der Aktion ist ein großer Spenden·tag.
+            </statement>
+            <statement>
+               Dieser große Spenden·tag ist am 13. Dezember.
+            </statement>
+            <statement>
+               Am 13. Dezember macht der NDR zum Beispiel eine besondere Fernseh·sendung.
+            </statement>
+            <statement>
+               Diese Fernseh·sendung ist um 20.15 Uhr.
+            </statement>
+            <statement>
+               Bei dieser Fernseh·sendung können Menschen beim NDR anrufen.
+            </statement>
+            <statement>
+               Und diese Menschen können Geld spenden.
+            </statement>
+         </section>
+         <section id="4">
+            <statement>
+               Der Chef vom NDR ist Lutz Marmor.
+            </statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Lutz Marmor hat gesagt:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        In Nord·deutschland haben viele Menschen Krebs.
+                     </statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>
+                        Diese Menschen brauchen unsere Hilfe.
+                     </statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>
+                        Bitte spenden Sie Geld.
+                     </statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>
+                        Mit diesem Geld können wir den Menschen mit Krebs helfen.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

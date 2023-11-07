@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-28" url="2018-11-06_13-30_836.xml">
+   <title>Mehr Nachrichten vom 06.11.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-11-06_13-30</vdate>
+   <resources>
+      <resource id="1" name="2018-11-06_13-30_836-full.png" type="screenshot" url="2018-11-06_13-30_836-full.png"/>
+      <resource id="2" name="2018-11-06_13-30_836_plaintext.txt" type="plaintext" url="2018-11-06_13-30_836_plaintext.txt"/>
+      <resource id="3" name="2018-11-06_13-30_836_quellcode.txt" type="sourcecode" url="2018-11-06_13-30_836_quellcode.txt"/>
+      <resource id="4" name="2018-11-06_13-30_836.docx" type="formatedText" url="2018-11-06_13-30_836.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 06.11.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Lkw-Fahrer überfährt Frau</subheadline>
+               <statement>In Hannover war ein Unfall.</statement>
+               <statement>Bei diesem Unfall hat ein Lkw-Fahrer eine Frau überfahren.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Die Frau war an einer Kreuzung.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">An einer Kreuzung treffen sich 2 Straßen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Der Lkw-Fahrer hat die Frau wahrscheinlich <style_element type="hb">nicht</style_element> gesehen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und der Lkw-Fahrer hat die Frau überfahren.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Dann ist die Frau gestorben.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Jetzt ermitteln wir.</statement>
+                     </speech>
+                     <speech id="6">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Wir wollen nämlich wissen:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question>Wie ist der Unfall genau passiert?</question>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <explanation_marker>
+                  <statement>Die Polizei hat die Straße gesperrt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Auf dieser Straße durften <style_element type="hb">keine</style_element> Autos fahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Toter Mann gefunden</subheadline>
+               <statement>In einem Gericht in Kiel ist ein Mann gestorben.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Der Mann war als Zeuge in dem Gericht.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Zeugen gibt es zum Beispiel bei einer Straf·tat.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Die Zeugen haben die Straf·tat vielleicht gesehen.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Deshalb können die Zeugen vielleicht wichtige Hinweise zu der Straf·tat geben.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und der Mann ist zur Toilette gegangen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <explanation_marker>
+                           <statement>Dann hatte der Mann einen Herz·infarkt.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Ein Herz·infarkt ist eine Krankheit.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Bei einem Herz·infarkt fließt das Blut nicht mehr richtig durch das Herz.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Deshalb kann das Herz nicht mehr richtig arbeiten.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und dann ist der Mann gestorben.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Mann war schon drei Tage lang tot.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Erst dann hat ein Mann den toten Mann auf der Toilette gefunden.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

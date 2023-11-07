@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-14" url="2019-02-18_14-30_599.xml">
+   <title>Mehr Nachrichten vom 18.02.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-02-18_14-30</vdate>
+   <resources>
+      <resource id="1" name="2019-02-18_14-30_599-full.png" type="screenshot" url="2019-02-18_14-30_599-full.png"/>
+      <resource id="2" name="2019-02-18_14-30_599_plaintext.txt" type="plaintext" url="2019-02-18_14-30_599_plaintext.txt"/>
+      <resource id="3" name="2019-02-18_14-30_599_quellcode.txt" type="sourcecode" url="2019-02-18_14-30_599_quellcode.txt"/>
+      <resource id="4" name="2019-02-18_14-30_599.docx" type="formatedText" url="2019-02-18_14-30_599.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 18.02.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Ein Toter bei Unfällen auf A2</subheadline> 
+               <explanation_marker>
+                  <statement>In der Nähe von Lehrte war ein schwerer Unfall.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Lehrte ist eine Stadt in der Nähe von Hannover.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Der Unfall war auf der A2.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">A2 ist die Abkürzung für <style_element type="hb">A</style_element>utobahn <style_element type="hb">2</style_element>.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei dem Unfall ist ein Pkw gegen einen Lkw gefahren.</statement>
+               <statement>Der Pkw-Fahrer ist bei dem Unfall gestorben.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Auf der A2 war ein Stau.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Der Pkw-Fahrer hat das Ende von dem Stau wahrscheinlich <style_element type="hb">nicht</style_element> gesehen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb hat der Pkw-Fahrer wahrscheinlich <style_element type="hb">nicht</style_element> gebremst.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und deshalb ist der Pkw-Fahrer gegen den Lkw gefahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Auf der A2 waren vor diesem Unfall schon 3 andere Unfälle.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Diese 3 anderen Unfälle waren auch mit Lkw.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Bei diesen Unfällen wurde ein Lkw-Fahrer leicht verletzt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Sportlerin aus Hannover gewinnt</subheadline>
+               <explanation_marker>
+                  <statement>Imke Onnen hat einen wichtigen Wettkampf gewonnen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Imke Onnen ist eine Hochspringerin aus Hannover.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Dieser Wettkampf war in Leipzig.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Leipzig ist eine Stadt in Sachsen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Und dieser Wettkampf war die Deutsche Meisterschaft in der Leichtathletik.</statement>
+               <statement>In der Leichtathletik gibt es viele Sportarten:</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <headword>Zum Beispiel:</headword>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Speerwurf.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <headword>• Oder Weitsprung.</headword>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Bei dem Wettkampf ist Imke Onnen 1,96 Meter hoch gesprungen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Imke Onnen hat eine sehr gute Leistung gezeigt.</statement> 
+                     </speech>
+                     <speech id="2">
+                        <statement>Imke Onnen ist nämlich noch <style_element type="hb">nie</style_element> so hoch gesprungen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Jetzt darf Imke Onnen bei der Europa·meisterschaft mitmachen.</statement>
+               <statement>Bei der Europa·meisterschaft sind die besten Sportler von Europa.</statement>
+               <explanation_marker>
+                  <statement>Die Europa·meisterschaft ist 2020 in Paris.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Paris ist die Haupt·stadt von Frankreich.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

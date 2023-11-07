@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-08" url="2018-11-14_14-30_856.xml">
+   <title>Mehr Nachrichten vom 14.11.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-11-14_14-30</vdate>
+   <resources>
+      <resource id="1" name="2018-11-14_14-30_856-full.png" type="screenshot" url="2018-11-14_14-30_856-full.png"/>
+      <resource id="2" name="2018-11-14_14-30_856_plaintext.txt" type="plaintext" url="2018-11-14_14-30_856_plaintext.txt"/>
+      <resource id="3" name="2018-11-14_14-30_856_quellcode.txt" type="sourcecode" url="2018-11-14_14-30_856_quellcode.txt"/>
+      <resource id="4" name="2018-11-14_14-30_856.docx" type="formatedText" url="2018-11-14_14-30_856.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 14.11.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Bus fährt gegen Lkw</subheadline>
+               <explanation_marker>
+                  <statement>Auf der A1 war ein schwerer Unfall.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">A1 ist die Abkürzung für Auto·bahn 1.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Dieser Unfall war in der Nähe von Delmenhorst.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Delmenhorst ist eine Stadt in der Nähe von Bremen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei dem Unfall ist ein Bus gegen einen Lkw gefahren.</statement>
+               <statement>Und bei dem Unfall wurde ein Mann schwer verletzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Auf der A1 ist eine Bau·stelle.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb war auf der A1 ein Stau.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Der Fahrer von einem Bus hat den Stau wahrscheinlich zu spät gesehen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb hat der Fahrer von dem Bus zu spät gebremst.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Und deshalb ist der Fahrer von dem Bus gegen einen Lkw gefahren.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Dabei wurde der Beifahrer von dem Bus schwer verletzt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <explanation_marker>
+                  <statement>Die Polizei hat die A1 gesperrt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2"> 
+                        <statement><style_element type="hi">Auf der A1 dürfen <style_element type="hb">keine</style_element> Autos mehr fahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Niedersachsen: Mann macht Geständnis</subheadline>
+               <explanation_marker>
+                  <statement>In Hildesheim hat ein Prozess begonnen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Hildesheim ist in der Nähe von Hannover.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei dem Prozess ist ein Mann angeklagt.</statement>
+               <statement>Dieser Mann ist bei der Feuerwehr.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Das Gericht hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Mann hat viele Feuer gemacht.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann wollte der Mann die Feuer löschen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Der Mann wollte seinen Kollegen zeigen:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Ich bin ein guter Feuer·wehr·mann.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der Mann hat beim Beginn von dem Prozess gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ich habe mehrere von den Feuern gemacht.</statement>
+                     </speech>
+                     <speech id="2"> 
+                        <statement>Aber ich habe <style_element type="hb">nicht</style_element> alle von den Feuern gemacht.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Jetzt geht der Prozess weiter.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

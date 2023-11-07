@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-14" url="2019-02-18_15-00_600.xml">
+   <title>Streik in Hamburg</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-02-18_15-00</vdate>
+   <resources>
+      <resource id="1" name="2019-02-18_15-00_600-full.png" type="screenshot" url="2019-02-18_15-00_600-full.png"/>
+      <resource id="2" name="2019-02-18_15-00_600_plaintext.txt" type="plaintext" url="2019-02-18_15-00_600_plaintext.txt"/>
+      <resource id="3" name="2019-02-18_15-00_600_quellcode.txt" type="sourcecode" url="2019-02-18_15-00_600_quellcode.txt"/>
+      <resource id="4" name="2019-02-18_15-00_600.docx" type="formatedText" url="2019-02-18_15-00_600.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Streik in Hamburg</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In den 7 Bezirks·ämtern von Hamburg müssen die Menschen am Montag lange warten.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Bezirks·amt ist eine Behörde.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In einem Bezirks·amt bekommen die Menschen viele wichtige Informationen.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und viele wichtige Sachen.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Zum Beispiel einen Personal·ausweis.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Viele Mitarbeiter von den Bezirks·ämtern streiken nämlich am Montag.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2"> 
+                     <statement><style_element type="hi">Diese Mitarbeiter arbeiten <style_element type="hb">nicht</style_element>.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Mitarbeiter in den Bezirks·ämtern arbeiten im öffentlichen Dienst.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Im öffentlichen Dienst arbeiten zum Beispiel:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Erzieher.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Lehrer.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <headword>• Oder Kranken·pfleger.</headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker> 
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt haben viele Mitarbeiter im öffentlichen Dienst gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir sind <style_element type="hb">nicht</style_element> zufrieden.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Wir bekommen nämlich <style_element type="hb">nicht</style_element> genug Geld für unsere Arbeit.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb streiken wir.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Streik in Bezirks·ämtern</subheadline>
+               <statement>Hamburg ist eine sehr große Stadt.</statement>
+               <statement>Deshalb ist Hamburg in 7 Bezirke aufgeteilt.</statement>
+               <statement>Die Bezirks·ämter von einer Stadt haben viele Aufgaben.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <headword>Zum Beispiel:</headword>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <statement>• Menschen bekommen in einem Bezirks·amt einen neuen Personal·ausweis.</statement>
+                     </enumeration>
+                     <enumeration id="2">
+                        <statement>• Menschen können beim Bezirks·amt Anträge stellen.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Zum Beispiel einen Antrag auf eine Bau·genehmigung.</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <statement>• Oder Menschen ohne Arbeit können im Bezirks·amt Hilfe bekommen.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+         </section>
+         <section id="3">
+            <subheadline>Gewerkschaft hilft Arbeitern</subheadline>
+               <explanation_marker>
+                  <statement>Eine Gewerkschaft hilft den Mitarbeitern bei dem Streik.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Gewerkschaft ist eine Vereinigung von Arbeitern.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Eine Gewerkschaft hilft Arbeitern zum Beispiel bei einem Streit mit der Firma.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Diese Gewerkschaft ist ver.di.</statement>
+                  <explanations>
+                     <explanation id="1"> 
+                        <statement><style_element type="hi">Ver.di ist die Abkürzung für <style_element type="hb">Ver</style_element>einte <style_element type="hb">Di</style_element>enst·leistungs·gewerkschaft.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Ein Sprecher von ver.di hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Mitarbeiter von den Bezirks·ämtern machen eine sehr wichtige Arbeit.</statement>
+                     </speech>
+                     <speech id="2">
+                        <headword>Wir glauben:</headword>
+                     </speech>
+                     <speech id="3">
+                        <statement>Die Mitarbeiter von den Bezirks·ämtern werden schlecht bezahlt.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb verlassen viele Mitarbeiter die Bezirks·ämter in Hamburg.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>In anderen Bundes·ländern können die Mitarbeiter nämlich mehr Geld verdienen.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Deshalb haben wir mit den Arbeit·gebern gesprochen.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Aber die Arbeit·geber wollen den Mitarbeitern <style_element type="hb">nicht</style_element> mehr Geld bezahlen.</statement>
+                     </speech>
+                     <speech id="8"> 
+                        <statement>Deshalb haben die Mitarbeiter gestreikt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Am 28. Februar wollen die Gewerkschaft und die Arbeit·geber wieder verhandeln.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

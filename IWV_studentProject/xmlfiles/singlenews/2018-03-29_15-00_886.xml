@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-30" url="2018-03-29_15-00_886.xml">
+   <title>Viel Geld gestohlen: Polizei nimmt 2 Männer fest</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-03-29_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-03-29_15-00_886-full.png" type="screenshot" url="2018-03-29_15-00_886-full.png"/>
+      <resource id="2" name="2018-03-29_15-00_886_plaintext.txt" type="plaintext" url="2018-03-29_15-00_886_plaintext.txt"/>
+      <resource id="3" name="2018-03-29_15-00_886_quellcode.txt" type="sourcecode" url="2018-03-29_15-00_886_quellcode.txt"/>
+      <resource id="4" name="2018-03-29_15-00_886.docx" type="formatedText" url="2018-03-29_15-00_886.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Viel Geld gestohlen: Polizei nimmt 2 Männer fest</headline>
+      <sections>
+         <section id="1">
+            <statement>Die Polizei in Schleswig-Holstein hat ein Verbrechen aufgeklärt.</statement>
+            <statement>Bei dem Verbrechen ist viel Geld verschwunden.</statement>
+            <explanation_marker>
+               <statement>Das Geld war in einem Geld·transporter.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Geld·transporter ist ein besonderes Auto.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Ein Geld·transporter ist nämlich besonders gesichert.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Ein Geld·transporter hat zum Beispiel sehr dicke Türen.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Und ein Geld·transporter bringt zum Beispiel Geld zu einer Bank.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Jetzt hat die Polizei das Geld gefunden.</statement>
+            <statement>Und die Polizei hat 2 Männer festgenommen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat nämlich gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die 2 Männer haben wahrscheinlich das Geld aus dem Geld·transporter gestohlen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Der Geld·transporter sollte zu einer Firma fahren.</statement>
+               <explanation_marker>
+                  <statement>Diese Firma ist in Kiel.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Kiel ist die Haupt·stadt von Schleswig-Holstein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>In dem Geld·transporter waren 2 Fahrer.</statement>
+               <statement>Und in dem Geld·transporter war sehr viel Geld.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Geld·transporter hat 2 Mal angehalten.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Die 2 Fahrer haben nämlich Pausen gemacht.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Bei den Pausen sind die 2 Fahrer auch von dem Geld·transporter weggegangen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Nach den Pausen sind die 2 Fahrer zu der Firma weiter·gefahren.</statement>
+                     </speech>
+                     <speech id="5">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>In der Firma haben Mitarbeiter bemerkt:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>In dem Geld·transporter fehlen 2 Millionen Euro.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Die Polizei findet das Geld</subheadline>
+               <statement>Nach dem Verbrechen hat die Polizei die 2 Fahrer beobachtet.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat nämlich gedacht:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Vielleicht haben die 2 Fahrer das Geld gestohlen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Dann hat die Polizei Hinweise gefunden.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Diese Hinweise haben gezeigt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Einer von den 2 Fahrern hat wahrscheinlich das Geld gestohlen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und ein Bekannter hat diesem Fahrer geholfen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Dann hat die Polizei bei dem Fahrer und seinem Bekannten das Geld gefunden.</statement>
+               <statement>Und dann hat die Polizei den Fahrer und seinen Bekannten festgenommen.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

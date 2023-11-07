@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-25" url="2019-07-11_14-00_359.xml">
+   <title>Geheime Akten bei Polizei geklaut</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-07-11_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-07-11_14-00_359-full.png" type="screenshot" url="2019-07-11_14-00_359-full.png"/>
+      <resource id="2" name="2019-07-11_14-00_359_plaintext.txt" type="plaintext" url="2019-07-11_14-00_359_plaintext.txt"/>
+      <resource id="3" name="2019-07-11_14-00_359_quellcode.txt" type="sourcecode" url="2019-07-11_14-00_359_quellcode.txt"/>
+      <resource id="4" name="2019-07-11_14-00_359.docx" type="formatedText" url="2019-07-11_14-00_359.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Geheime Akten bei Polizei geklaut</headline>
+      <sections>
+         <section id="1">
+            <statement>Bei der Polizei in Niedersachsen war ein besonderer Diebstahl.</statement>
+            <statement>Der Diebstahl war in Hannover.</statement>
+            <statement>Bei dem Diebstahl hat ein Unbekannter eine Tasche gestohlen.</statement>
+            <statement>Die Tasche war von einem Polizisten.</statement>
+            <explanation_marker>
+               <statement>In der Tasche waren Akten.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Akten ist ein anderes Wort für Dokumente.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und in diesen Akten waren geheime Informationen.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+            <statement>Ein Polizist hat sein Auto in Hannover geparkt.</statement>
+            <statement>In dem Auto war seine Tasche.</statement>
+            <statement>Der Polizist ist weg·gegangen.</statement>
+            <statement>Dann hat ein Unbekannter das Auto aufgebrochen.</statement>
+            <statement>Und der Unbekannte hat die Tasche gestohlen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In der Tasche war Geld von dem Polizisten.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und in der Tasche waren geheime Akten.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>In diesen Akten waren geheime Informationen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <explanation_marker>
+                        <statement>Diese Informationen waren zum Beispiel für den Kampf gegen Terroristen.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Terroristen wollen Gewalt verbreiten.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">Und Menschen töten.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement>
+                                 <style_element type="hi">Deshalb machen Terroristen schlimme Dinge.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="4">
+                              <statement>
+                                 <style_element type="hi">Zum Beispiel Bomben·anschläge.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="5">
+                     <statement>In den Akten steht zum Beispiel:</statement>
+                  </speech>
+                   <speech id="6">
+                     <statement>Diese Menschen helfen der Polizei.</statement>
+                  </speech>
+                   <speech id="7">
+                     <statement>Nur die Polizei darf diese Akten lesen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <statement>3 Tage nach dem Diebstahl hat ein Angler die Tasche gefunden.</statement>
+            <statement>Die Tasche war an einem Teich.</statement>
+            <statement>Das Geld aus der Tasche war <style_element type="hb">nicht</style_element> mehr da.</statement>
+            <statement>Aber die geheimen Akten waren noch da.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir haben Glück gehabt.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Kein Mensch hat die geheimen Akten gelesen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Und <style_element type="hb">kein</style_element> Mensch weiß jetzt:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Diese Menschen helfen der Polizei.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <statement>Die Polizei ermittelt jetzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum hat der Polizist die geheimen Akten im Auto gelassen?</question>
+                  </speech>
+                  <speech id="2">
+                     <question>Warum hat der Polizist nicht besser auf die geheimen Akten aufgepasst?</question>
+                  </speech>
+                  <speech id="3">
+                     <question>Und wer hat das Auto aufgebrochen?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

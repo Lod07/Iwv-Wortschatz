@@ -1,0 +1,274 @@
+<?xml version="1.0" ?>
+<annotation adate="" url="2020-08-19_14-00_48.xml">
+   <title>3 Tote bei Unfällen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-11-28_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-11-28_14-00_48-full.png" type="screenshot" url="2019-11-28_14-00_48-full.png"/>
+      <resource id="2" name="2019-11-28_14-00_48_plaintext.txt" type="plaintext" url="2019-11-28_14-00_48_plaintext.txt"/>
+      <resource id="3" name="2019-11-28_14-00_48_quellcode.txt" type="sourcecode" url="2019-11-28_14-00_48_quellcode.txt"/>
+      <resource id="4" name="2019-11-28_14-00_48.docx" type="formatedText" url="2019-11-28_14-00_48.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>
+         3 Tote bei Unfällen
+      </headline>
+      <sections>
+         <section id="1">
+            <statement>
+               In Mecklenburg-Vorpommern waren 3 schwere Unfälle.
+            </statement>
+            <statement>
+               Diese 3 Unfälle waren am Mittwoch·abend.
+            </statement>
+            <explanation_marker>
+               <statement>
+                  2 von diesen 3 Unfällen waren in Rostock.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Rostock ist eine Stadt an der Ostsee.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>
+                     Bei diesen Unfällen sind 2 Menschen gestorben:
+                  </statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>
+                        Eine Frau.
+                     </headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>
+                        Und ein Mann.
+                     </headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <explanation_marker>
+               <statement>
+                  Und ein Unfall war in der Nähe von Greifswald.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Greifswald ist eine Stadt an der Ostsee.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>
+               Bei diesem Unfall ist ein Mann gestorben.
+            </statement>
+            <statement>
+               Und 2 Männer wurden schwer verletzt.
+            </statement>
+         </section>
+         <section id="2">
+            <subheadline>
+               Unfälle in Rostock
+            </subheadline>
+            <explanation_marker>
+               <statement>
+                  In Warnemünde war ein schwerer Unfall.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Warnemünde ist ein Stadt·teil von Rostock.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>
+               Bei diesem Unfall hat ein Transporter einen Mann angefahren.
+            </statement>
+            <statement>
+               Der Mann ist bei dem Unfall gestorben.
+            </statement>
+            <statement>
+               Der Mann war 88 Jahre alt.
+            </statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Die Polizei hat gesagt:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        Der Mann ist auf eine große Straße gelaufen.
+                     </statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>
+                        Der Fahrer von einem Transporter hat den Mann zu spät gesehen.
+                     </statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>
+                        Deshalb konnte der Fahrer von dem Transporter <style_element type="hb">nicht</style_element> mehr rechtzeitig bremsen.
+                     </statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>
+                        Und deshalb hat der Fahrer von dem Transporter den Mann angefahren.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <statement>
+               In Rostock war noch ein anderer schwerer Unfall.
+            </statement>
+            <statement>
+               Dieser Unfall war im Stadt·teil Toitenwinkel.
+            </statement>
+            <statement>
+               Bei diesem Unfall hat ein Auto eine Frau angefahren.
+            </statement>
+            <statement>
+               Die Frau ist bei dem Unfall gestorben.
+            </statement>
+            <statement>
+               Die Frau war 29 Jahre alt.
+            </statement>
+         </section>
+         <section id="4">
+            <subheadline>
+               Unfall in Greifswald
+            </subheadline>
+            <statement>
+               In der Nähe von Greifswald war auch ein schwerer Unfall.
+            </statement>
+            <explanation_marker>
+               <statement>
+                  Dieser Unfall war bei einer Verfolgungs·jagd.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Bei einer Verfolgungs·jagd flieht ein Mensch vor der Polizei.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">
+                           Und die Polizei verfolgt den Menschen.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">
+                           Eine Verfolgungs·jagd ist oft mit Fahrzeugen.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement>
+                        <style_element type="hi">
+                           Und eine Verfolgungs·jagd ist sehr gefährlich.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement>
+                        <style_element type="hi">
+                           Bei einer Verfolgungs·jagd fahren die Menschen nämlich sehr schnell.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="6">
+                     <statement>
+                        <style_element type="hi">
+                           Deshalb passieren bei einer Verfolgungs·jagd oft Unfälle.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>
+               Bei dem Unfall ist ein Mann gestorben.
+            </statement>
+            <statement>
+               Und bei dem Unfall wurden 2 Männer schwer verletzt.
+            </statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Die Polizei hat gesagt:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        Die Polizisten wollten einen Auto·fahrer kontrollieren.
+                     </statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>
+                        Deshalb sollte der Auto·fahrer anhalten.
+                     </statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>
+                        Aber der Auto·fahrer hat <style_element type="hb">nicht</style_element> angehalten.
+                     </statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>
+                        Und der Auto·fahrer ist schnell weggefahren.
+                     </statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>
+                        Dann ist das Auto gegen einen Baum gefahren.
+                     </statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>
+                        In dem Auto waren 3 Männer.
+                     </statement>
+                  </speech>
+                  <speech id="7">
+                     <statement>
+                        Ein Mann ist bei dem Unfall gestorben.
+                     </statement>
+                  </speech>
+                  <speech id="8">
+                     <statement>
+                        Der Mann war 20 Jahre alt.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

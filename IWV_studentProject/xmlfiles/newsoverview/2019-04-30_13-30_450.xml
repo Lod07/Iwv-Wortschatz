@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-26" url="2019-04-30_13-30_450.xml">
+   <title>Mehr Nachrichten vom 30.04.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-04-30_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-04-30_13-30_450-full.png" type="screenshot" url="2019-04-30_13-30_450-full.png"/>
+      <resource id="2" name="2019-04-30_13-30_450_plaintext.txt" type="plaintext" url="2019-04-30_13-30_450_plaintext.txt"/>
+      <resource id="3" name="2019-04-30_13-30_450_quellcode.txt" type="sourcecode" url="2019-04-30_13-30_450_quellcode.txt"/>
+      <resource id="4" name="2019-04-30_13-30_450.docx" type="formatedText" url="2019-04-30_13-30_450.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 30.04.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Mecklenburg-Vorpommern: Reinhard Meyer wird neuer Finanz·minister</subheadline>
+               <explanation_marker>
+                  <statement>Reinhard Meyer wird neuer Finanz·minister in Mecklenburg-Vorpommern.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Ein Finanz·minister kümmert sich um die Finanzen von einem Land.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Finanzen ist ein anderes Wort für Geld.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Reinhard Meyer ist von der SPD.</statement> 
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi"><style_element type="hb">SPD</style_element> ist die Abkürzung für <style_element type="hb">S</style_element>ozial·demokratische <style_element type="hb">P</style_element>artei <style_element type="hb">D</style_element>eutschlands.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Und Reinhard Meyer ist 59 Jahre alt.</statement>
+               <statement>Der alte Finanz·minister in Mecklenburg-Vorpommern war Mathias Brodkorb.</statement>
+               <statement>Aber Mathias Bordkorb ist zurückgetreten.</statement>
+         </section>
+         <section id="2">
+            <statement><style_element type="hb">Zu dem Rücktritt von Mathias Brodkorb gibt es auch einen Text in Leichter Sprache.</style_element></statement>
+            <question><style_element type="hb">Sie wollen diesen Text lesen oder hören?</style_element></question>
+            <statement>
+               <ref> 
+                  <style_element type="hb">Dann klicken Sie <style_element type="hu">hier</style_element>.</style_element>
+               </ref>
+            </statement>
+         </section>
+         <section id="3">
+            <explanation_marker>
+               <statement>Reinhard Meyer war bisher der Chef von der Staats·kanzlei in Mecklenburg-Vorpommern.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Staats·kanzlei ist eine Behörde.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und eine Staats·kanzlei arbeitet für den Chef von einer Regierung.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Reinhard Meyer war auch schon Minister in einem anderen Bundesland.</statement>
+            <explanation_marker>
+               <statement>Von 2012 bis 2017 war Reinhard Meyer nämlich Wirtschafts·minister von Schleswig-Holstein.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Wirtschafts·minister kümmert sich um Firmen und Arbeits·plätze in einem Land.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <style_element type="line" />
+         <section id="4">
+            <subheadline>Niedersachsen: Mann muss ins Gefängnis</subheadline>
+               <explanation_marker>
+                  <statement>In Hannover war ein Prozess.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement><style_element type="hi">Bei einem Prozess entscheidet das Gericht:</style_element></statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question><style_element type="hi">• Hat ein Mensch etwas Verbotenes getan?</style_element></question>
+                              </speech>
+                              <speech id="2">
+                                 <statement><style_element type="hi">Dann bekommt dieser Mensch eine Strafe.</style_element></statement>
+                              </speech>
+                              <speech id="3">
+                                 <question><style_element type="hi">• Oder hat ein Mensch <style_element type="hb">nichts</style_element> Verbotenes getan?</style_element></question>
+                              </speech>
+                              <speech id="4">
+                                 <statement><style_element type="hi">Dann bekommt dieser Mensch <style_element type="hb">keine</style_element> Strafe.</style_element></statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker> 
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei dem Prozess hat das Gericht einen Mann verurteilt.</statement>
+               <statement>Dieser Mann hat nämlich einen anderen Mann getötet.</statement>
+               <statement>Jetzt muss der Mann für 5 Jahre ins Gefängnis.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Das Gericht hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Mann ist mit einem Fahr·rad gefahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Plötzlich ist der andere Mann vor das Fahr·rad gelaufen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Das hat den Mann geärgert.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und der Mann hat den anderen Mann geschlagen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Der andere Mann ist schwer verletzt ins Kranken·haus gekommen.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Im Kranken·haus ist der andere Mann gestorben.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="5">
+            <subheadline>Hamburg: Auto·unfall im Einkaufs·zentrum</subheadline>
+               <statement>In Hamburg war ein Unfall.</statement>
+               <explanation_marker>
+                  <statement>Dieser Unfall war im AEZ.</statement> 
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Das AEZ ist ein Einkaufs·zentrum.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">AEZ ist die Abkürzung für <style_element type="hb">A</style_element>lstertal-<style_element type="hb">E</style_element>inkaufs<style_element type="hb">z</style_element>entrum.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Der Unfall war mit einem Auto.</statement>
+               <statement>Der Fahrer von dem Auto war ein alter Mann.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der alte Mann wollte mit seinem Auto vom Park·platz fahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber der alte Mann hat die Kontrolle über sein Auto verloren.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Dann ist das Auto durch eine Glas·tür ins Einkaufs·zentrum gefahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Der alte Mann wurde bei dem Unfall leicht verletzt.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

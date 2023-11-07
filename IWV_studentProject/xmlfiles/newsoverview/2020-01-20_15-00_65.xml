@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-24" url="2020-01-20_15-00_65.xml">
+   <title>Mehr Nachrichten vom 20.01.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-01-20_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-01-20_15-00_65-full.png" type="screenshot" url="2020-01-20_15-00_65-full.png"/>
+      <resource id="2" name="2020-01-20_15-00_65_plaintext.txt" type="plaintext" url="2020-01-20_15-00_65_plaintext.txt"/>
+      <resource id="3" name="2020-01-20_15-00_65_quellcode.txt" type="sourcecode" url="2020-01-20_15-00_65_quellcode.txt"/>
+      <resource id="4" name="2020-01-20_15-00_65.docx" type="formatedText" url="2020-01-20_15-00_65.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 20.01.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Frau stirbt bei Unfall</subheadline>
+               <explanation_marker>
+                  <statement>In Leiferde war ein Unfall.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Leiferde ist ein Ort in der Nähe von Gifhorn.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Der Unfall war mit einem Auto.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>In dem Auto waren 2 Menschen:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Der Fahrer.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <statement>• Und die Beifahrerin.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Bei dem Unfall ist die Beifahrerin gestorben.</statement>
+               <statement>Und der Fahrer wurde schwer verletzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Fahrer ist mit seinem Auto von der Straße abgekommen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und der Fahrer ist gegen einen Baum gefahren.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Der Fahrer wurde bei dem Unfall in dem Auto eingeklemmt.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und der Fahrer wurde schwer verletzt.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Die Beifahrerin ist bei dem Unfall gestorben.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Die Beifahrerin war 26 Jahre alt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Noch weiß <style_element type="hb">kein</style_element> Mensch:</statement> 
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Warum ist der Fahrer mit seinem Auto von der Straße abgekommen?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker> 
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Feuer in Wohn·haus</subheadline>
+               <explanation_marker>
+                  <statement>In Garbsen war ein Feuer.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Garbsen ist ein Ort in der Nähe von Hannover.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Das Feuer war in einem Wohn·haus.</statement>
+               <statement>Bei dem Feuer ist ein Mensch gestorben.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In einer Wohnung von dem Wohn·haus war wahrscheinlich eine Explosion.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb war das Feuer.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Das Feuer hat die Wohnung zerstört.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir haben einen toten Menschen in der Wohnung gefunden.</statement>
+                     </speech>
+                     <speech id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Wir wissen noch <style_element type="hb">nicht</style_element>:</statement> 
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question>Wer ist dieser tote Mensch?</question>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Jetzt ermittelt die Polizei.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei will nämlich zum Beispiel wissen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Warum war die Explosion?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>  
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-18" url="2019-10-11_14-00_244.xml">
+   <title>Schlechte Milch in Super·märkten</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-11_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-10-11_14-00_244-full.png" type="screenshot" url="2019-10-11_14-00_244-full.png"/>
+      <resource id="2" name="2019-10-11_14-00_244_plaintext.txt" type="plaintext" url="2019-10-11_14-00_244_plaintext.txt"/>
+      <resource id="3" name="2019-10-11_14-00_244_quellcode.txt" type="sourcecode" url="2019-10-11_14-00_244_quellcode.txt"/>
+      <resource id="4" name="2019-10-11_14-00_244.docx" type="formatedText" url="2019-10-11_14-00_244.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Schlechte Milch in Super·märkten</headline>
+      <sections>
+         <section id="1">
+            <statement>2 Firmen aus Nord·deutschland haben ein Problem.</statement>
+            <statement>Diese Firmen verkaufen Milch.</statement>
+            <statement>Jetzt haben die Firmen schlechte Milch verkauft.</statement>
+            <explanation_marker>
+               <statement>In der schlechten Milch sind schlimme Bakterien.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Bakterien sind sehr kleine Lebewesen.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Bakterien können die Menschen krank machen.</statement>
+            <statement>Die schlechte Milch ist jetzt in vielen Super·märkten.</statement>
+            <statement>Deshalb holen die Firmen die Milch aus den Super·märkten zurück.</statement>
+         </section>
+         <section id="2">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die 2 Firmen haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Vielleicht haben einige Menschen die schlechte Milch schon gekauft.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Diese Menschen sollen die Milch <style_element type="hb">nicht</style_element> trinken.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Diese Menschen können nämlich von der schlechten Milch krank werden.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Diese Menschen können zum Beispiel Durchfall bekommen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Die 2 Firmen haben die schlechte Milch an viele Super·märkte verkauft.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• An Aldi.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• An Rewe.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Und an Edeka.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="4">
+            <statement>Die schlechte Milch ist nur in bestimmten Milch·packungen.</statement>
+            <statement>Die 2 Firmen haben eine Liste gemacht.</statement>
+            <statement>Auf dieser Liste steht:</statement>
+            <statement>In diesen Milch·packungen ist die schlechte Milch.</statement>
+            <question>Sie wollen diese Liste sehen?</question>
+            <statement>
+               <ref>
+                  <style_element type="hu">Dann klicken Sie hier.</style_element>
+               </ref>
+            </statement>
+            <statement>Diese Liste ist <style_element type="hb">nicht</style_element> in Leichter Sprache.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,231 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-19" url="2018-07-11_15-00_717.xml">
+   <title>Frau aus Terror·gruppe muss lebens·lang ins Gefängnis</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-07-11_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-07-11_15-00_717-full.png" type="screenshot" url="2018-07-11_15-00_717-full.png"/>
+      <resource id="2" name="2018-07-11_15-00_717_plaintext.txt" type="plaintext" url="2018-07-11_15-00_717_plaintext.txt"/>
+      <resource id="3" name="2018-07-11_15-00_717_quellcode.txt" type="sourcecode" url="2018-07-11_15-00_717_quellcode.txt"/>
+      <resource id="4" name="2018-07-11_15-00_717.docx" type="formatedText" url="2018-07-11_15-00_717.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Frau aus Terror·gruppe muss lebens·lang ins Gefängnis</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Bayern war ein wichtiger Prozess.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Bei einem Prozess entscheidet ein Gericht zum Beispiel:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question><style_element type="hi">• Hat ein Mensch etwas Verbotenes getan?</style_element></question>
+                           </speech>
+                           <speech id="2">
+                              <statement><style_element type="hi">Dann bekommt dieser Mensch eine Strafe.</style_element></statement>
+                           </speech>
+                           <speech id="3">
+                              <question><style_element type="hi">• Oder hat ein Mensch <style_element type="hb">nichts</style_element> Verbotenes getan?</style_element></question>
+                           </speech>
+                           <speech id="4">
+                              <statement><style_element type="hi">Dann bekommt dieser Mensch <style_element type="hb">keine</style_element> Strafe.</style_element></statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Prozess war in München.</statement>
+            <statement>Bei dem Prozess hat ein Gericht eine Frau verurteilt.</statement>
+            <statement>Die Frau heißt Beate Zschäpe.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Gericht hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Beate Zschäpe war in einer Terror·gruppe.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">In einer Terror·gruppe sind Terroristen.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">Terroristen wollen Gewalt verbreiten.</style_element></statement>
+                                    </explanation>
+                                    <explanation id="2">
+                                       <statement><style_element type="hi">Und Terroristen wollen Menschen töten.</style_element></statement>
+                                    </explanation>
+                                    <explanation id="3">
+                                       <statement><style_element type="hi">Deshalb machen Terroristen schlimme Dinge.</style_element></statement>
+                                    </explanation>
+                                    <explanation id="4">
+                                       <enumeration_marker>
+                                          <enumeration_intro>
+                                             <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                                          </enumeration_intro>
+                                          <enumerations>
+                                             <enumeration id="1">
+                                                <headword><style_element type="hi">• Bomben·anschläge.</style_element></headword>
+                                             </enumeration>
+                                             <enumeration id="2">
+                                                <headword><style_element type="hi">• Oder Überfälle.</style_element></headword>
+                                             </enumeration>
+                                          </enumerations>
+                                       </enumeration_marker>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="2">
+                     <explanation_marker>
+                        <statement>Diese Terror·gruppe hat 10 Menschen getötet.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <enumeration_marker>
+                                 <enumeration_intro>
+                                    <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                                 </enumeration_intro>
+                                 <enumerations>
+                                    <enumeration id="1">
+                                       <headword><style_element type="hi">• In Hamburg.</style_element></headword>
+                                    </enumeration>
+                                    <enumeration id="2">
+                                       <statement><style_element type="hi">• Und in Rostock.</style_element></statement>
+                                    </enumeration>
+                                 </enumerations>
+                              </enumeration_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="3">
+                     <explanation_marker>
+                        <statement>Jetzt muss Beate Zschäpe lebens·lang ins Gefängnis.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Beate Zschäpe kommt wahrscheinlich <style_element type="hb">nie</style_element> wieder frei.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Die Terror·gruppe</subheadline>
+               <statement>Die Terror·gruppe heißt NSU.</statement>
+               <statement>NSU ist die Abkürzung für National·sozialistischer Untergrund.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Im NSU waren 3 Terroristen:</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword>• Uwe Mundlos.</headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <headword>• Uwe Böhnhardt.</headword>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement>• Und Beate Zschäpe.</statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Uwe Mundlos und Uwe Böhnhardt sind tot.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Uwe Mundlos und Uwe Böhnhardt haben sich nämlich selbst getötet.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Gericht hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Terroristen vom NSU haben vor einigen Jahren schlimme Dinge gemacht.</statement>
+                  </speech>
+                  <speech id="2">
+                     <explanation_marker>
+                        <statement>Die Terroristen vom NSU waren nämlich gegen Ausländer.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Ausländer sind Menschen aus anderen Ländern.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb haben die Terroristen vom NSU mehrere Ausländer getötet.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Die Terroristen vom NSU haben auch Bomben explodieren lassen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Und die Terroristen vom NSU haben mehrere Banken überfallen.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Beate Zschäpe hat bei diesen Taten mitgemacht.</statement>
+                  </speech>
+                  <speech id="7">
+                     <statement>Deshalb muss Beate Zschäpe jetzt lebens·lang ins Gefängnis.</statement>
+                  </speech>
+                  <speech id="8">
+                     <statement>Und Beate Zschäpe kommt wahrscheinlich <style_element type="hb">nie</style_element> wieder frei.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Mann aus Niedersachsen muss ins Gefängnis</subheadline>
+               <statement>Bei dem Prozess hat das Gericht auch andere Menschen verurteilt.</statement>
+               <statement>Zum Beispiel einen Mann aus Niedersachsen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Das Gericht hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Mann hat den Terroristen vom NSU geholfen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Der Mann hat den Terroristen vom NSU zum Beispiel eine Waffe gegeben.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb muss der Mann jetzt für 3 Jahre ins Gefängnis.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

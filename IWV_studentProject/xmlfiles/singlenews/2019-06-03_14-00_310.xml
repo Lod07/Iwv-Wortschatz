@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-06-03_14-00_310.xml">
+   <title>Neue Aufgabe für Manuela Schwesig</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-06-03_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-06-03_14-00_310-full.png" type="screenshot" url="2019-06-03_14-00_310-full.png"/>
+      <resource id="2" name="2019-06-03_14-00_310_plaintext.txt" type="plaintext" url="2019-06-03_14-00_310_plaintext.txt"/>
+      <resource id="3" name="2019-06-03_14-00_310_quellcode.txt" type="sourcecode" url="2019-06-03_14-00_310_quellcode.txt"/>
+      <resource id="4" name="2019-06-03_14-00_310.docx" type="formatedText" url="2019-06-03_14-00_310.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Neue Aufgabe für Manuela Schwesig</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Manuela Schwesig hat eine neue Aufgabe.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Manuela Schwesig ist die Minister·präsidentin von Mecklenburg-Vorpommern.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Eine Minister·präsidentin ist die Chefin von einem Bundesland.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Und Manuela Schwesig ist von der SPD.</style_element> </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">SPD ist die Abkürzung für <style_element type="hb">S</style_element>ozial·demokratische <style_element type="hb">P</style_element>artei <style_element type="hb">D</style_element>eutschlands.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die SPD hat nämlich entschieden:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>3 wichtige Politiker werden die neuen Chefs von der SPD.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und einer von diesen 3 wichtigen Politikern ist Manuela Schwesig.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Die 2 anderen wichtigen Politiker sind:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <explanation_marker>
+                        <headword>• Malu Dreyer.</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Malu Dreyer ist die Minister·präsidentin von Rheinland-Pfalz.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Und Malu Dreyer ist von der SPD.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <statement>• Und Thorsten Schäfer-Gümbel.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Thorsten Schäfer-Gümbel ist ein wichtiger Politiker von der SPD in Hessen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="2">
+            <explanation_marker>
+               <statement>Die 3 wichtigen Politiker sind aber nur kommissarisch die Chefs von der SPD.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die 3 wichtigen Politiker sind nur für kurze Zeit die neuen Chefs von der SPD.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bald wählt die SPD nämlich einen neuen Chef.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Aber noch weiß <style_element type="hb">kein</style_element> Mensch:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wann wählt die SPD einen neuen Chef?</question>
+                  </speech>
+                  <speech id="2">
+                     <question>Und wer wird der neue Chef von der SPD?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Andrea Nahles ist zurückgetreten</subheadline>
+            <statement>Die alte Chefin von der SPD war Andrea Nahles.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Aber Andrea Nahles hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Viele Politiker von der SPD unterstützen mich <style_element type="hb">nicht</style_element>.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <explanation_marker>
+               <statement>Deshalb ist Andrea Nahles zurückgetreten.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Andrea Nahles wollte <style_element type="hb">nicht</style_element> mehr die Chefin von der SPD sein.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>     
+         </section>
+      </sections>
+   </content>
+</annotation>

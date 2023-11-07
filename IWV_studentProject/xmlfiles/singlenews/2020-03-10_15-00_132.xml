@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-25" url="2020-03-10_15-00_132.xml">
+   <title>Auto·fahrer muss lange ins Gefängnis</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-03-10_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-03-10_15-00_132-full.png" type="screenshot" url="2020-03-10_15-00_132-full.png"/>
+      <resource id="2" name="2020-03-10_15-00_132_plaintext.txt" type="plaintext" url="2020-03-10_15-00_132_plaintext.txt"/>
+      <resource id="3" name="2020-03-10_15-00_132_quellcode.txt" type="sourcecode" url="2020-03-10_15-00_132_quellcode.txt"/>
+      <resource id="4" name="2020-03-10_15-00_132.docx" type="formatedText" url="2020-03-10_15-00_132.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Auto·fahrer muss lange ins Gefängnis</headline>
+      <sections>  
+         <section id="1">
+            <explanation_marker>
+               <statement>In Niedersachsen war ein Prozess.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Bei einem Prozess entscheidet das Gericht:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question><style_element type="hi">• Hat ein Mensch etwas Verbotenes getan?</style_element></question>
+                           </speech>
+                           <speech id="2">
+                              <statement><style_element type="hi">Dann bekommt dieser Mensch eine Strafe.</style_element></statement>
+                           </speech>
+                           <speech id="3">
+                              <question>
+                                 <style_element type="hi">• Oder hat ein Mensch 
+                                 <style_element type="hb">nichts</style_element> 
+                                 Verbotenes getan?</style_element>
+                              </question>
+                           </speech>
+                           <speech id="4">
+                              <statement>
+                                 <style_element type="hi">Dann bekommt dieser Mensch 
+                                 <style_element type="hb">keine</style_element> 
+                                 Strafe.</style_element>
+                              </statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Prozess war in Braunschweig.</statement>
+            <statement>Bei diesem Prozess hat das Gericht einen Auto·fahrer verurteilt.</statement>
+            <statement>Dieser Auto·fahrer hat nämlich bei einem Unfall einen Mann getötet.</statement>
+            <statement>Jetzt muss der Auto·fahrer für 7 Jahre ins Gefängnis.</statement>
+         </section>
+         <section id="2">
+            <explanation_marker>
+               <statement>Auf der A2 wollte die Polizei den Auto·fahrer kontrollieren.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">A2 ist die Abkürzung für <style_element type="hb">A</style_element>utobahn <style_element type="hb">2</style_element>.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Deshalb sollte der Auto·fahrer anhalten.</statement>
+            <statement>Aber der Auto·fahrer hat <style_element type="hb">nicht</style_element> angehalten.</statement>
+            <statement>Und der Auto·fahrer ist schnell weggefahren.</statement>
+            <statement>Dann wollte der Auto·fahrer von der A2 runterfahren.</statement>
+            <statement>Dabei ist der Auto·fahrer gegen 2 Autos gefahren.</statement>
+            <statement>In diesen 2 Autos waren 2 Männer.</statement>
+            <statement>Einer von diesen 2 Männern ist bei dem Unfall gestorben.</statement>
+            <statement>Der andere Mann wurde schwer verletzt.</statement>
+         </section>
+         <section id="3">
+            <statement>Nach dem Unfall hat die Polizei den Auto·fahrer festgenommen.</statement>
+            <statement>Jetzt muss der Auto·fahrer für 7 Jahre ins Gefängnis.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

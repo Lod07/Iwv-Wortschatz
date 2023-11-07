@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-30" url="2018-04-30_15-00_940.xml">
+   <title>Viele Menschen feiern Walpurgisnacht</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-04-30_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-04-30_15-00_940-full.png" type="screenshot" url="2018-04-30_15-00_940-full.png"/>
+      <resource id="2" name="2018-04-30_15-00_940_plaintext.txt" type="plaintext" url="2018-04-30_15-00_940_plaintext.txt"/>
+      <resource id="3" name="2018-04-30_15-00_940_quellcode.txt" type="sourcecode" url="2018-04-30_15-00_940_quellcode.txt"/>
+      <resource id="4" name="2018-04-30_15-00_940.docx" type="formatedText" url="2018-04-30_15-00_940.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Viele Menschen feiern Walpurgisnacht</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Am Montag feiern viele Menschen die Walpurgisnacht.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die Walpurgisnacht ist ein Fest.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Walpurgisnacht ist jedes Jahr am 30. April.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die meisten Menschen feiern die Walpurgisnacht im Harz.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Der Harz ist ein Gebirge.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement><style_element type="hi">Der Harz ist in 3 Bundes·ländern:</style_element></statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword><style_element type="hi">• In Niedersachsen.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword><style_element type="hi">• In Sachsen-Anhalt.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="3">
+                              <statement><style_element type="hi">• Und in Thüringen.</style_element></statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Die Walpurgisnacht</subheadline>
+               <explanation_marker>
+                  <statement>Es gibt eine Sage.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Sage ist eine sehr alte Geschichte.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Eine Sage ist so ähnlich wie ein Märchen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Diese Sage ist über die Walpurgisnacht.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>In dieser Sage erzählen die Menschen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Jedes Jahr am 30. April kommen viele Hexen zum Brocken.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Der Brocken ist der höchste Berg im Harz.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann feiern die Hexen zusammen ein großes Fest.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Bei diesem Fest tanzen die Hexen zum Beispiel um ein großes Feuer.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Bei diesem Fest ist auch der Teufel.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Viele Menschen finden diese Sage sehr spannend.</statement>
+               <statement>Deshalb treffen sich diese Menschen am 30. April im Harz.</statement>
+               <statement>Und diese Menschen feiern die Walpurgisnacht.</statement>
+         </section>
+         <section id="3">
+            <statement>Viele Menschen verkleiden sich bei der Walpurgisnacht.</statement>
+            <statement>Zum Beispiel als Hexe.</statement>
+            <statement>Oder als Teufel.</statement>
+            <statement>Und die Menschen tanzen zum Beispiel um ein großes Feuer.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Bei der Walpurgisnacht gibt es auch:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Konzerte.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Theater·aufführungen.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <headword>• Und Feuerwerke.</headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="4">
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Große Feste im Harz sind zum Beispiel in:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Bad Grund.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Braunlage.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <headword>• Und Hahnenklee.</headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

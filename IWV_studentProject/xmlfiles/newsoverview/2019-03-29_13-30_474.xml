@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-20" url="2019-03-29_13-30_474.xml">
+   <title>Mehr Nachrichten vom 29.03.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-03-29_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-03-29_13-30_474-full.png" type="screenshot" url="2019-03-29_13-30_474-full.png"/>
+      <resource id="2" name="2019-03-29_13-30_474_plaintext.txt" type="plaintext" url="2019-03-29_13-30_474_plaintext.txt"/>
+      <resource id="3" name="2019-03-29_13-30_474_quellcode.txt" type="sourcecode" url="2019-03-29_13-30_474_quellcode.txt"/>
+      <resource id="4" name="2019-03-29_13-30_474.docx" type="formatedText" url="2019-03-29_13-30_474.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 29.03.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Schule geschlossen</subheadline>
+               <statement>In Bad Segeberg hat am Freitag eine Schule geschlossen.</statement>
+               <explanation_marker>
+                  <statement>Ein Schüler von der Schule hat nämlich Masern.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Die Masern sind eine Krank·heit.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Diese Krank·heit ist sehr ansteckend.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Menschen können von anderen Menschen schnell Masern bekommen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Menschen bekommen bei Masern zum Beispiel hohes Fieber.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Und Menschen können an Masern sterben.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>700 Schüler mussten wieder nach Hause gehen.</statement>
+               <explanation_marker>
+                  <statement>Am Montag müssen alle Schüler in der Schule einen Impf·pass zeigen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Impf·pass ist ein Ausweis.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement><style_element type="hi">In dem Impf·pass steht zum Beispiel:</style_element></statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <explanation_marker>
+                                    <statement><style_element type="hi">Ein Mensch ist gegen eine Krank·heit geimpft.</style_element></statement>
+                                    <explanations>
+                                       <explanation id="1">
+                                          <headword><style_element type="hi">Das heißt:</style_element></headword>
+                                       </explanation>
+                                       <explanation id="2">
+                                          <statement><style_element type="hi">Der Mensch bekommt eine Spritze gegen eine Krank·heit.</style_element></statement>
+                                       </explanation>
+                                       <explanation id="3"> 
+                                          <statement><style_element type="hi">Dann ist diese Krank·heit <style_element type="hb">nicht</style_element> mehr gefährlich.</style_element></statement>
+                                       </explanation>
+                                    </explanations>
+                                 </explanation_marker>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>In dem Impf·pass muss stehen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ich bin gegen Masern geimpft.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Dann können alle Schüler wieder zur Schule.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Falsches Paket</subheadline>
+               <statement>Eine Frau in der Nähe von Neubrandenburg hat ein Paket bekommen.</statement>
+               <statement>In diesem Paket waren Drogen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Frau hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ich habe Schuhe gekauft.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Diese Schuhe sollten in dem Paket sein.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Aber in dem Paket waren Drogen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb war ich sehr überrascht.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Dann habe ich die Polizei gerufen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Die Polizei hat die Drogen mitgenommen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Und die Polizei will jetzt wissen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Wem gehören die Drogen in dem Paket?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Hamburg: Brand im Alten·heim</subheadline>
+               <explanation_marker>
+                  <statement>In Poppenbüttel war ein Brand.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Poppenbüttel ist ein Stadt·teil von Hamburg.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Der Brand war in einem Alten·heim.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Alten·heim ist ein sehr großes Haus.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">In diesem großen Haus wohnen nur alte Menschen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Feuer·wehr hat 15 Menschen gerettet.</statement>
+               <statement>4 Menschen mussten ins Kranken·haus.</statement>
+               <statement>Die Feuer·wehr hat den Brand gelöscht.</statement>
+               <statement>Aber eine großer Teil von dem Alten·heim ist zerstört.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

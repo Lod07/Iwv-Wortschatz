@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-23" url="2018-07-26_15-00_787.xml">
+   <title>Niedersachsen: Viele Tote beim Baden</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-07-26_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-07-26_15-00_787-full.png" type="screenshot" url="2018-07-26_15-00_787-full.png"/>
+      <resource id="2" name="2018-07-26_15-00_787_plaintext.txt" type="plaintext" url="2018-07-26_15-00_787_plaintext.txt"/>
+      <resource id="3" name="2018-07-26_15-00_787_quellcode.txt" type="sourcecode" url="2018-07-26_15-00_787_quellcode.txt"/>
+      <resource id="4" name="2018-07-26_15-00_787.docx" type="formatedText" url="2018-07-26_15-00_787.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Niedersachsen: Viele Tote beim Baden</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Niedersachsen sind viele Menschen beim Baden ertrunken.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Menschen sind im Wasser untergegangen.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Deshalb konnten die Menschen <style_element type="hb">nicht</style_element> mehr richtig atmen.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Und deshalb sind die Menschen gestorben.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>In diesem Jahr sind schon mehr als 30 Menschen beim Baden in Niedersachsen ertrunken.</statement>
+         </section>
+         <section id="2">
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Am Mittwoch sind zum Beispiel 4 Männer beim Baden ertrunken:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• In Uelzen.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• In Haren.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <headword>• In Husum.</headword>
+                  </enumeration>
+                  <enumeration id="4">
+                     <statement>• Und in Hannover.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Die 4 Männer sind im Wasser untergegangen.</statement>
+            <statement>Deshalb haben Taucher nach den 4 Männern gesucht.</statement>
+            <statement>Und die Taucher haben die 4 Männer gefunden.</statement>
+            <statement>Aber die 4 Männer waren schon tot.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Polizei warnt Menschen</subheadline>
+               <question>Wollen Sie baden?</question>
+               <statement>Dann müssen Sie sehr vorsichtig sein.</statement>
+               <statement>Und dann müssen Sie viele Dinge beachten.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei sagt zum Beispiel:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                       <statement>• Trinken Sie vor dem Baden <style_element type="hb">keinen</style_element> Alkohol.</statement> 
+                     </speech>
+                     <speech id="2">
+                       <statement>• Gehen Sie <style_element type="hb">nicht</style_element> alleine ins Wasser.</statement> 
+                     </speech>
+                     <speech id="3">
+                       <statement>• Gehen Sie langsam ins Wasser.</statement> 
+                     </speech>
+                     <speech id="4">
+                       <explanation_marker>
+                          <statement>• Und gehen Sie nur in bewachten Seen baden.</statement>
+                          <explanations>
+                             <explanation id="1">
+                                <explanation_marker>
+                                   <statement><style_element type="hi">An einem bewachten See ist zum Beispiel ein Rettungs·schwimmer.</style_element></statement>
+                                   <explanations>
+                                      <explanation id="1">
+                                         <statement><style_element type="hi">Ein Rettungs·schwimmer hilft Menschen bei Unfällen im Wasser.</style_element></statement>
+                                      </explanation>
+                                   </explanations>
+                                </explanation_marker>
+                             </explanation>
+                          </explanations>
+                       </explanation_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

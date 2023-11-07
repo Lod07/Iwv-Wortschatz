@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-25" url="2018-09-13_15-00_728.xml">
+   <title>Große Messe für Bauern</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-09-13_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-09-13_15-00_728-full.png" type="screenshot" url="2018-09-13_15-00_728-full.png"/>
+      <resource id="2" name="2018-09-13_15-00_728_plaintext.txt" type="plaintext" url="2018-09-13_15-00_728_plaintext.txt"/>
+      <resource id="3" name="2018-09-13_15-00_728_quellcode.txt" type="sourcecode" url="2018-09-13_15-00_728_quellcode.txt"/>
+      <resource id="4" name="2018-09-13_15-00_728.docx" type="formatedText" url="2018-09-13_15-00_728.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Große Messe für Bauern</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Mecklenburg-Vorpommern hat eine Messe begonnen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Messe ist eine große Ausstellung.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Bei einer Messe zeigen Firmen ihre neuen Produkte.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword><style_element type="hi">• Neue Autos.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <statement><style_element type="hi">• Oder neue Kleidung.</style_element></statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Fach·leute erklären diese neuen Produkte.</style_element></statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement><style_element type="hi">Viele Menschen interessieren sich für diese neuen Produkte.</style_element></statement>
+                  </explanation>
+                  <explanation id="6">
+                     <statement><style_element type="hi">Deshalb sind bei einer Messe oft viele Besucher.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Messe ist in der Nähe von Güstrow.</statement>
+            <statement>Und die Messe heißt MeLa.</statement>
+            <explanation_marker>
+               <statement>Die MeLa ist eine Landwirtschafts·messe.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement><style_element type="hi">Auf einer Landwirtschafts·messe zeigen Firmen zum Beispiel:</style_element></statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <statement><style_element type="hi">• Maschinen für die Ernte.</style_element></statement>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword><style_element type="hi">• Oder Trecker.</style_element></headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und auf einer Landwirtschafts·messe zeigen Bauern zum Beispiel einige von ihren Tieren.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Viele Tiere</subheadline>
+               <statement>Die MeLa ist die größte Landwirtschafts·messe in Mecklenburg-Vorpommern.</statement>
+               <explanation_marker>
+                  <statement>Auf der MeLa sind 1000 Aussteller.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Aussteller sind zum Beispiel Firmen.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Diese Firmen zeigen ihre Produkte.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>300 von diesen Ausstellern zeigen Tiere.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Diese Tiere sind zum Beispiel:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Hühner.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <headword>•  Schafe.</headword>
+                     </enumeration>
+                     <enumeration id="3">
+                        <headword>• Oder Kühe.</headword>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+         </section>
+         <section id="3">
+            <subheadline>Viele Besucher</subheadline>
+               <statement>Die MeLa dauert 4 Tage.</statement>
+               <statement>Und die MeLa ist jedes Jahr.</statement>
+               <statement>In diesem Jahr ist die MeLa bis zum 16. September.</statement>
+               <statement>Bei der MeLa sind jedes Jahr viele Besucher.</statement>
+               <statement>Im vergangenen Jahr waren 73.000 Besucher bei der MeLa.</statement>
+         </section>
+         <section id="4">
+            <question>Sie wollen zur MeLa?</question>
+            <statement>Dann müssen Sie sich eine Eintritts·karte kaufen.</statement>
+            <statement>Eine Eintritts·karte kostet für einen Tag 10 Euro.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

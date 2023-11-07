@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-22" url="2018-11-22_14-00_653.xml">
+   <title>Totes Baby: Keine Strafe für Eltern</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-11-22_14-00</vdate>
+   <resources>
+      <resource id="1" name="2018-11-22_14-00_653-full.png" type="screenshot" url="2018-11-22_14-00_653-full.png"/>
+      <resource id="2" name="2018-11-22_14-00_653_plaintext.txt" type="plaintext" url="2018-11-22_14-00_653_plaintext.txt"/>
+      <resource id="3" name="2018-11-22_14-00_653_quellcode.txt" type="sourcecode" url="2018-11-22_14-00_653_quellcode.txt"/>
+      <resource id="4" name="2018-11-22_14-00_653.docx" type="formatedText" url="2018-11-22_14-00_653.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Totes Baby: Keine Strafe für Eltern</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker> 
+               <statement>Die Polizei ermittelt <style_element type="hb">nicht</style_element> mehr gegen 2 Menschen aus Göttingen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Göttingen ist eine Stadt in Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese 2 Menschen sind die Eltern von einem toten Baby.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei glaubt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Eltern haben das Baby getötet.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Aber die Polizei kann das <style_element type="hb">nicht</style_element> beweisen.</statement>
+            <statement>Deshalb bekommen die Eltern wahrscheinlich <style_element type="hb">keine</style_element> Strafe.</statement>
+         </section> 
+         <section id="2"> 
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Die Eltern sind mit dem Baby in ein Krankenhaus gekommen.</statement>
+               <statement>Das Baby war nämlich schwer verletzt.</statement>
+               <statement>Aber die Ärzte in dem Krankenhaus konnten dem Baby <style_element type="hb">nicht</style_element> mehr helfen.</statement>
+               <statement>Das Baby ist im Krankenhaus gestorben.</statement>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Eltern haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Baby ist hingefallen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Aber Ärzte haben das tote Baby genau untersucht.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Und die Ärzte haben festgestellt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1"> 
+                     <statement>Das Baby ist <style_element type="hb">nicht</style_element> hingefallen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Ein Mensch hat das Baby mehrmals gegen den Kopf geschlagen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und deshalb ist das Baby gestorben.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <statement>Dann hat die Polizei gegen die Eltern von dem Baby ermittelt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei war sich nämlich sicher:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Vater hat das Baby geschlagen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement><style_element type="hb">Oder</style_element> die Mutter hat das Baby geschlagen.</statement>
+                  </speech>
+                  <speech id="3"> 
+                     <statement>Deshalb ist das Baby gestorben.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro> 
+                  <statement>Aber die Polizei konnte <style_element type="hb">nicht</style_element> beweisen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wer hat das Baby geschlagen?</question>
+                  </speech>
+                  <speech id="2">
+                     <headword>Der Vater?</headword>
+                  </speech>
+                  <speech id="3">
+                     <question>Oder die Mutter?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Deshalb ermittelt die Polizei <style_element type="hb">nicht</style_element> mehr gegen die Eltern.</statement>
+            <statement>Und die Eltern bekommen wahrscheinlich <style_element type="hb">keine</style_element> Strafe.</statement>
+         </section> 
+      </sections>
+   </content>
+</annotation>

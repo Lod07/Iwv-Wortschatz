@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-30" url="2019-10-08_14-00_228.xml">
+   <title>Niedersachsen: Menschen an Bakterien gestorben?</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-08_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-10-08_14-00_228-full.png" type="screenshot" url="2019-10-08_14-00_228-full.png"/>
+      <resource id="2" name="2019-10-08_14-00_228_plaintext.txt" type="plaintext" url="2019-10-08_14-00_228_plaintext.txt"/>
+      <resource id="3" name="2019-10-08_14-00_228_quellcode.txt" type="sourcecode" url="2019-10-08_14-00_228_quellcode.txt"/>
+      <resource id="4" name="2019-10-08_14-00_228.docx" type="formatedText" url="2019-10-08_14-00_228.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Niedersachsen: Menschen an Bakterien gestorben?</headline>
+      <sections>
+         <section id="1">
+            <statement>In Niedersachsen sind 2 Menschen gestorben.</statement>
+            <statement>Diese 2 Menschen waren krank.</statement>
+            <explanation_marker>
+               <statement>Diese 2 Menschen hatten nämlich Listerien.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Listerien sind bestimmte Bakterien.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Bakterien sind sehr kleine Lebewesen.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Bakterien können Menschen krank machen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Listerien sind sehr gefährlich.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Vielleicht sind diese 2 Menschen an den Listerien gestorben.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Und die Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Noch ein anderer Mensch in Niedersachsen hat Listerien.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Die Listerien kommen vielleicht aus Würsten.</statement>
+            <statement>Diese Würste kommen von einer Firma.</statement>
+            <statement>Diese Firma heißt Wilke.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Skandal bei der Firma Wilke</subheadline>
+            <statement>Die Firma Wilke ist in Hessen.</statement>
+            <statement>Die Firma Wilke macht zum Beispiel Würste.</statement>
+            <statement>Und die Firma Wilke verkauft zum Beispiel Würste.</statement>
+            <statement>Diese Würste verkauft die Firma Wilke zum Beispiel an Super·märkte.</statement>
+            <statement>Diese Super·märkte sind in verschiedenen Orten in Deutschland.</statement>
+         </section>
+         <section id="3">
+            <statement>Vor einigen Tagen war ein Skandal bei der Firma Wilke.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Vor einigen Tagen haben Fach·leute nämlich herausgefunden:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In einigen Würsten von der Firma Wilke sind Listerien.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Viele Menschen haben diese Würste gegessen.</statement>
+            <statement>Dann sind einige Menschen krank geworden.</statement>
+            <statement>Diese Menschen hatten zum Beispiel Fieber.</statement>
+            <headword>Und Durchfall.</headword>
+            <statement>2 von diesen Menschen sind gestorben.</statement>
+            <statement>Diese 2 Menschen sind aus Hessen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <headword>Fach·leute glauben:</headword>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Menschen sind von den Listerien krank geworden.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und die 2 Menschen aus Hessen sind an den Listerien gestorben.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Deshalb haben die Fach·leute vor den Würsten von der Firma Wilke gewarnt.</statement>
+            <statement>Und deshalb verkauft die Firma Wilke jetzt <style_element type="hb">keine</style_element> Würste mehr.</statement>
+            <statement>Und auch Super·märkte verkaufen jetzt <style_element type="hb">keine</style_element> Würste mehr von der Firma Wilke.</statement>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Noch weiß <style_element type="hb">kein</style_element> Mensch:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Sind noch mehr Menschen von den Listerien krank geworden?</question>
+                  </speech>
+                  <speech id="2">
+                     <question>Und sind die 2 Menschen in Niedersachsen an den Listerien gestorben?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

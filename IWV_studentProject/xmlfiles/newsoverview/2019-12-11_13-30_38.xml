@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-27" url="2019-12-11_13-30_38.xml">
+   <title>Mehr Nachrichten vom 11.12.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-12-11_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-12-11_13-30_38-full.png" type="screenshot" url="2019-12-11_13-30_38-full.png"/>
+      <resource id="2" name="2019-12-11_13-30_38_plaintext.txt" type="plaintext" url="2019-12-11_13-30_38_plaintext.txt"/>
+      <resource id="3" name="2019-12-11_13-30_38_quellcode.txt" type="sourcecode" url="2019-12-11_13-30_38_quellcode.txt"/>
+      <resource id="4" name="2019-12-11_13-30_38.docx" type="formatedText" url="2019-12-11_13-30_38.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 11.12.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Feuerwerk verboten</subheadline>
+            <explanation_marker>
+               <statement>Die Stadt Hannover hat eine wichtige Entscheidung getroffen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Hannover ist die Haupt·stadt von Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Ein Sprecher von der Stadt hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>In der Innen·stadt von Hannover ist das Feuerwerk an Silvester verboten.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Silvester ist jedes Jahr am 31. Dezember.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">An Silvester feiern die Menschen den Jahres·wechsel.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <headword><style_element type="hi">Das heißt:</style_element></headword>
+                                    </explanation>
+                                    <explanation id="2">
+                                       <statement><style_element type="hi">Das alte Jahr hört auf.</style_element></statement>
+                                    </explanation>
+                                    <explanation id="3">
+                                       <statement><style_element type="hi">Und das neue Jahr beginnt.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Das Verbot ist in vielen Straßen von der Innenstadt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Früher waren viele Unfälle mit Feuerwerk in der Innenstadt.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb war das Feuerwerk in der Innenstadt auch schon 2018 verboten.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und deshalb waren 2018 viel weniger Unfälle mit Feuerwerk.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Das Verbot beginnt am 31. Dezember um 20 Uhr.</statement>
+            <statement>Und das Verbot endet am 1. Januar um 3 Uhr.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Hafen wird vergrößert</subheadline>
+            <explanation_marker>
+               <statement>Im Hafen von Wismar ist eine große Baustelle.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Wismar ist eine Stadt an der Ostsee.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Arbeiter vergrößern nämlich einen Teil vom Hafen.</statement>
+            <explanation_marker>
+               <statement>Dieser Teil vom Hafen ist für Kreuz·fahrt·schiffe.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Kreuz·fahrt·schiffe sind sehr große Schiffe.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Auf einem Kreuz·fahrt·schiff machen Menschen Urlaub.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">In diesem Urlaub lernen die Menschen viele Orte kennen.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Ein Kreuz·fahrt·schiff fährt nämlich zu vielen Orten.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Ein Sprecher von der Stadt hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Bau·arbeiten sollen im Frühjahr 2020 fertig sein.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dann können noch größere Kreuz·fahrt·schiffe in Wismar anlegen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und dann können noch mehr Menschen mit dem Schiff nach Wismar kommen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Der Ausbau vom Hafen kostet 2,3 Millionen Euro.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Schleswig-Holstein: Orden für Gründer von Musik·festival</subheadline>
+            <explanation_marker>
+               <statement>In Kiel war ein besonderes Fest.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Kiel ist die Haupt·stadt von Schleswig-Holstein.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Fest haben 2 Männer eine besondere Auszeichnung bekommen.</statement>
+            <statement>Diese Auszeichnung heißt Verdienst·orden des Landes.</statement>
+            <statement>Die Männer heißen Thomas Jensen.</statement>
+            <statement>Und Holger Hübner.</statement>
+            <statement>Thomas Jensen und Holger Hübner sind die Gründer von einem besonderen Musik·festival.</statement>
+            <explanation_marker>
+               <statement>Dieses Musik·festival ist in Wacken.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Wacken ist ein Dorf in Schleswig-Holstein.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und dieses Musik·festival ist jedes Jahr.</statement>
+            <explanation_marker>
+               <statement>Auf dem Musik·festival in Wacken spielen die Musiker meistens Heavy Metal.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Heavy Metal ist eine Musik·richtung.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Wacken ist das größte Musik·festival für Heavy Metal auf der Welt.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

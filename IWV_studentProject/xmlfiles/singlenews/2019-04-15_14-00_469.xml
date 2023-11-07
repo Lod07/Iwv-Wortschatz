@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-25" url="2019-04-15_14-00_469.xml">
+   <title>Frau stirbt auf Autobahn</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-04-15_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-04-15_14-00_469-full.png" type="screenshot" url="2019-04-15_14-00_469-full.png"/>
+      <resource id="2" name="2019-04-15_14-00_469_plaintext.txt" type="plaintext" url="2019-04-15_14-00_469_plaintext.txt"/>
+      <resource id="3" name="2019-04-15_14-00_469_quellcode.txt" type="sourcecode" url="2019-04-15_14-00_469_quellcode.txt"/>
+      <resource id="4" name="2019-04-15_14-00_469.docx" type="formatedText" url="2019-04-15_14-00_469.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Frau stirbt auf Autobahn</headline> 
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Auf der A31 in Niedersachsen war ein schwerer Unfall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi"><style_element type="hb">A31</style_element> ist die Abkürzung für <style_element type="hb">A</style_element>utobahn <style_element type="hb">31</style_element>.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieser Unfall war in der Nähe von Bad Bentheim.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bad Bentheim ist eine Stadt.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Und Bad Bentheim ist an der Grenze zu Holland.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Holland ist ein Land.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Und Holland ist im Westen von Deutschland.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei diesem Unfall hat ein Auto·fahrer eine Frau überfahren.</statement>
+            <statement>Diese Frau ist bei dem Unfall gestorben.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Frau hatte Streit mit einem Mann.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb ist die Frau aus dem Auto von dem Mann ausgestiegen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dann wurde die Frau überfahren.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Die Frau war 22 Jahre alt.</statement>
+            <statement>Und die Frau war aus Holland.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Die Frau ist im Auto von einem Mann mit·gefahren.</statement>
+               <explanation_marker>
+                  <statement>Dieser Mann war der Ex-Freund von der Frau.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Die Frau und der Mann waren früher ein Paar.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Aber die Frau und der Mann haben sich getrennt.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Dann haben die Frau und der Mann sich gestritten.</statement>
+               <statement>Und dann ist die Frau aus dem Auto ausgestiegen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Frau ist zu Fuß über die Autobahn gelaufen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Ein Auto·fahrer hat die Frau wahrscheinlich zu spät gesehen.</statement>
+                     </speech>
+                     <speech id="3"> 
+                        <statement>Deshalb konnte der Auto·fahrer wahrscheinlich <style_element type="hb">nicht</style_element> mehr rechtzeitig bremsen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und deshalb hat der Auto·fahrer die Frau überfahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>War die Frau vielleicht betrunken?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

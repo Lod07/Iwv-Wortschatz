@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-12-08" url="2018-01-05_15-00_897.xml">
+   <title>Polizei ermittelt nach Zug·unglück</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-01-05_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-01-05_15-00_897-full.png" type="screenshot" url="2018-01-05_15-00_897-full.png"/>
+      <resource id="2" name="2018-01-05_15-00_897_plaintext.txt" type="plaintext" url="2018-01-05_15-00_897_plaintext.txt"/>
+      <resource id="3" name="2018-01-05_15-00_897_quellcode.txt" type="sourcecode" url="2018-01-05_15-00_897_quellcode.txt"/>
+      <resource id="4" name="2018-01-05_15-00_897.docx" type="formatedText" url="2018-01-05_15-00_897.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Polizei ermittelt nach Zug·unglück</headline>
+      <sections>
+         <section id="1">
+            <statement>Die Polizei ermittelt gegen einen Arbeiter von der Bahn.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei glaubt nämlich:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Dieser Arbeiter ist schuld an einem Zug·unglück.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Das Zug·unglück</subheadline>
+               <statement>Das Zug·unglück war im November.</statement>
+               <explanation_marker>
+                  <statement>Und das Zug·unglück war im Bahnhof von Elmshorn.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Elmshorn ist eine Stadt in Schleswig-Holstein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Bei dem Zug·unglück ist ein Zug entgleist.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Der Zug ist von den Schienen gerutscht.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Und bei dem Zug·unglück wurden 2 Menschen leicht verletzt.</statement>
+         </section>
+         <section id="3">
+            <statement><style_element type="hb">Zu dem Zug·unglück gibt es auch einen Text in Leichter Sprache.</style_element></statement>
+            <question><style_element type="hb">Sie wollen diesen Text lesen?</style_element></question>
+            <headword><style_element type="hb">Oder hören?</style_element></headword>
+            <statement>
+               <ref>
+                  <style_element type="hb">Dann klicken Sie <style_element type="hu">hier</style_element>.</style_element>
+               </ref>
+            </statement>
+         </section>
+         <section id="4">
+            <subheadline>Schienen waren gesperrt</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Zug ist auf den falschen Schienen gefahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <explanation_marker>
+                           <statement>Diese Schienen waren gesperrt.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Auf diesen Schienen durfte <style_element type="hb">kein</style_element> Zug fahren.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Diese Schienen waren nämlich kaputt.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Auf den kaputten Schienen ist der Zug entgleist.</statement>
+                     </speech>
+                     <speech id="5">
+                        <speech_marker>
+                           <speech_intro>
+                              <headword>Wir glauben:</headword>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Der Arbeiter hat wahrscheinlich den Zug auf die kaputten Schienen fahren lassen.</statement>
+                              </speech>
+                              <speech id="2">
+                                 <statement>Deshalb ist der Arbeiter wahrscheinlich schuld an dem Zug·unglück.</statement>
+                              </speech>
+                              <speech id="3">
+                                 <statement>Und deshalb ermitteln wir gegen den Arbeiter.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="5">
+            <subheadline>Zug·ausfälle in Elmshorn</subheadline>
+               <statement>Die Schienen in Elmshorn sind immer noch kaputt.</statement>
+               <statement>Aber jetzt repariert die Bahn die Schienen.</statement>
+               <statement>Diese Reparatur ist am Wochen·ende.</statement>
+               <statement>Wegen der Reparatur können viele Züge <style_element type="hb">nicht</style_element> fahren.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

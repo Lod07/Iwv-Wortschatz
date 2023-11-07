@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-29" url="2018-03-27_15-00_884.xml">
+   <title>Besondere Tank·stelle in Wolfsburg</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-03-27_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-03-27_15-00_884-full.png" type="screenshot" url="2018-03-27_15-00_884-full.png"/>
+      <resource id="2" name="2018-03-27_15-00_884_plaintext.txt" type="plaintext" url="2018-03-27_15-00_884_plaintext.txt"/>
+      <resource id="3" name="2018-03-27_15-00_884_quellcode.txt" type="sourcecode" url="2018-03-27_15-00_884_quellcode.txt"/>
+      <resource id="4" name="2018-03-27_15-00_884.docx" type="formatedText" url="2018-03-27_15-00_884.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Besondere Tank·stelle in Wolfsburg</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Wolfsburg gibt es eine neue Tank·stelle.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Wolfsburg ist eine Stadt in Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Tank·stelle ist eine besondere Tank·stelle.</statement>
+            <explanation_marker>
+               <statement>An dieser Tank·stelle tanken Autos nämlich Wasser·stoff.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Wasser·stoff ist ein Treib·stoff.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Ein Treib·stoff kann einen Motor antreiben.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Ein Treib·stoff ist zum Beispiel Benzin.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Autos tanken <style_element type="hb">kein</style_element> Benzin.</statement>
+            <statement>Nur wenige Autos können Wasser·stoff tanken.</statement>
+            <statement>Diese Autos haben eine besondere Technik.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Wichtiger Politiker bei der Eröffnung</subheadline>
+               <statement>Bei der Eröffnung von der Tank·stelle war Bernd Althusmann.</statement>
+               <explanation_marker>
+                  <statement>Bernd Althusmann ist der Verkehrs·minister von Niedersachsen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Verkehrs·minister ist ein wichtiger Politiker.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement><style_element type="hi">Ein Verkehrs·minister sagt zum Beispiel:</style_element></statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement><style_element type="hi">Diese Straßen müssen gebaut werden.</style_element></statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Bernd Althusmann hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die neue Tank·stelle ist die erste Tank·stelle mit Wasser·stoff in Niedersachen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb freue ich mich sehr über die neue Tank·stelle.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wasser·stoff ist besser als Benzin.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Wasser·stoff verschmutzt nämlich <style_element type="hb">nicht</style_element> die Umwelt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

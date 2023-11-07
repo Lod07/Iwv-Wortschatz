@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-28" url="2018-12-11_14-00_645.xml">
+   <title>Frau in Hamburg festgenommen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-12-11_14-00</vdate>
+   <resources>
+      <resource id="1" name="2018-12-11_14-00_645-full.png" type="screenshot" url="2018-12-11_14-00_645-full.png"/>
+      <resource id="2" name="2018-12-11_14-00_645_plaintext.txt" type="plaintext" url="2018-12-11_14-00_645_plaintext.txt"/>
+      <resource id="3" name="2018-12-11_14-00_645_quellcode.txt" type="sourcecode" url="2018-12-11_14-00_645_quellcode.txt"/>
+      <resource id="4" name="2018-12-11_14-00_645.docx" type="formatedText" url="2018-12-11_14-00_645.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Frau in Hamburg festgenommen</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Stellingen hat die Polizei eine Frau festgenommen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Stellingen ist ein Stadt·teil von Hamburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Die Frau hat wahrscheinlich dem IS geholfen.</statement>
+                        <explanations>
+                           <explanation id="1"> 
+                              <statement><style_element type="hi">IS ist die Abkürzung für <style_element type="hb">I</style_element>slamischer <style_element type="hb">S</style_element>taat.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Der Islamische Staat ist eine Terror·gruppe.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <headword><style_element type="hi">Das heißt:</style_element></headword>
+                                    </explanation>
+                                    <explanation id="2">
+                                       <statement><style_element type="hi">Im Islamischen Staat sind Terroristen.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Die Terroristen vom IS haben schon viele Anschläge gemacht.</style_element></statement>
+                           </explanation>
+                           <explanation id="4">
+                              <statement><style_element type="hi">Bei diesen Anschlägen haben die Terroristen vom IS viele Menschen getötet.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Terroristen vom IS wollten wahrscheinlich einen Anschlag in Deutschland machen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Die Frau hat den Terroristen wahrscheinlich bei der Planung von dem Anschlag geholfen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Die Frau hat einem Mann aus Syrien Nachrichten geschrieben.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <explanation_marker>
+                                    <statement><style_element type="hi">Syrien ist ein Land im Nahen Osten.</style_element></statement>
+                                    <explanations>
+                                       <explanation id="1">
+                                          <statement><style_element type="hi">Der Nahe Osten ist eine Gegend in Asien.</style_element></statement>
+                                       </explanation>
+                                    </explanations>
+                                 </explanation_marker>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dieser Mann ist wahrscheinlich im IS.</statement>
+                     </speech>
+                     <speech id="3">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>In den Nachrichten hat die Frau zum Beispiel geschrieben:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Die Terroristen vom IS können bei mir wohnen.</statement>
+                              </speech>
+                              <speech id="2">
+                                 <statement>Dann können die Terroristen den Anschlag in Deutschland machen.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt muss ein Richter entscheiden:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <question>Kommt die Frau in Untersuchungs·haft?</question>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Bei einer Untersuchungs·haft ist ein Mensch im Gefängnis.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <speech_marker>
+                                 <speech_intro>
+                                    <statement><style_element type="hi">Und die Polizei muss beweisen:</style_element></statement>
+                                 </speech_intro>
+                                 <speeches>
+                                    <speech id="1">
+                                       <statement><style_element type="hi">Der Mensch hat ein Verbrechen gemacht.</style_element></statement>
+                                    </speech>
+                                 </speeches>
+                              </speech_marker>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Dann muss der Mensch vielleicht vor Gericht.</style_element></statement>
+                           </explanation>
+                           <explanation id="4">
+                              <statement><style_element type="hi">Und dann bekommt der Mensch vielleicht eine Strafe.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

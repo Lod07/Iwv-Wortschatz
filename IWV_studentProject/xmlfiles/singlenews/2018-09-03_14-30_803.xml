@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-25" url="2018-09-03_14-30_803.xml">
+   <title>Mehr Nachrichten vom 03.09.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-09-03_14-30</vdate>
+   <resources>
+      <resource id="1" name="2018-09-03_14-30_803-full.png" type="screenshot" url="2018-09-03_14-30_803-full.png"/>
+      <resource id="2" name="2018-09-03_14-30_803_plaintext.txt" type="plaintext" url="2018-09-03_14-30_803_plaintext.txt"/>
+      <resource id="3" name="2018-09-03_14-30_803_quellcode.txt" type="sourcecode" url="2018-09-03_14-30_803_quellcode.txt"/>
+      <resource id="4" name="2018-09-03_14-30_803.docx" type="formatedText" url="2018-09-03_14-30_803.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 03.09.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Prozess nach Millionen·raub</subheadline>
+               <explanation_marker>
+                  <statement>In Schleswig-Holstein hat ein Prozess begonnen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Der Prozess ist in Kiel.</statement>
+               <statement>Das Gericht in Kiel hat 2 Männer angeklagt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Das Gericht hat nämlich gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Die 2 Männer haben Geld aus einem Geld·transporter gestohlen.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Ein Geld·transporter ist ein besonderes Auto.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Ein Geld·transporter ist nämlich besonders gesichert.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Ein Geld·transporter bringt zum Beispiel Geld zu einer Bank.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Einer von den 2 Männern war der Fahrer von dem Geld·transporter.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und der andere Mann ist ein Bekannter von dem Fahrer.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Die 2 Männer haben 2 Millionen Euro aus dem Geld·transporter gestohlen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Jetzt muss das Gericht in Kiel entscheiden:</statement>
+               <question>Bekommen die Männer eine Strafe?</question>
+         </section>
+         <section id="2">
+            <statement>Zu der Fest·nahme von den 2 Männern gibt es noch einen Text in Leichter Sprache.</statement>
+            <statement>
+               <ref>
+                  Diesen Text finden Sie <style_element type="hu">hier</style_element>.
+               </ref>
+            </statement>
+         </section>
+         <section id="3">
+            <subheadline>Hamburg: Lkw-Fahrer stirbt bei Unfall</subheadline>
+               <statement>In Hamburg war ein schwerer Unfall.</statement>
+               <explanation_marker>
+                  <statement>Dieser schwere Unfall war in Altona.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Altona ist ein Stadt·teil von Hamburg.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei dem Unfall ist ein Lkw gegen ein Gebäude gefahren.</statement>
+               <statement>Der Fahrer von dem Lkw ist bei dem Unfall gestorben.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Lkw war sehr schnell.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann ist der Lkw in den Eingang von dem Gebäude gefahren.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und dann hat der Lkw in dem Eingang von dem Gebäude festgesteckt.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb musste die Feuer·wehr Teile von dem Lkw entfernen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Dann konnte die Feuer·wehr den Lkw aus dem Gebäude ziehen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Jetzt untersuchen Fach·leute:</statement>
+               <question>Warum ist der Lkw-Fahrer gegen das Gebäude gefahren?</question>
+         </section>
+         <section id="4">
+            <subheadline>Mecklenburg-Vorpommern: Überfall auf Geld·automaten</subheadline>
+               <explanation_marker>
+                  <statement>In Schwerin war ein Überfall.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Schwerin ist eine Stadt in Mecklenburg-Vorpommern.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Bei dem Überfall haben die Täter einen Geld·automaten gesprengt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Geld·automat ist eine Maschine.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Ein Geld·automat ist von einer Bank.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">An einem Geld·automat können Menschen Geld ab·heben.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Nach dem Überfall sind die Täter geflüchtet.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In Mecklenburg-Vorpommern waren schon viele Überfälle auf Geld·automaten.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Bei diesen Überfällen haben die Täter viel Geld gestohlen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Wir wissen noch <style_element type="hb">nicht</style_element>:</statement>
+                     </speech>
+                     <speech id="4">
+                        <question>Haben die Täter auch bei dem Überfall in Schwerin Geld gestohlen?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

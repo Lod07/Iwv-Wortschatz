@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2019-10-01_13-30_237.xml">
+   <title>Mehr Nachrichten vom 01.10.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-01_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-10-01_13-30_237-full.png" type="screenshot" url="2019-10-01_13-30_237-full.png"/>
+      <resource id="2" name="2019-10-01_13-30_237_plaintext.txt" type="plaintext" url="2019-10-01_13-30_237_plaintext.txt"/>
+      <resource id="3" name="2019-10-01_13-30_237_quellcode.txt" type="sourcecode" url="2019-10-01_13-30_237_quellcode.txt"/>
+      <resource id="4" name="2019-10-01_13-30_237.docx" type="formatedText" url="2019-10-01_13-30_237.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 01.10.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Mann muss lange ins Gefängnis</subheadline>
+            <statement>Ein Gericht in Lübeck hat einen Mann verurteilt.</statement>
+            <statement>Dieser Mann hat seine Frau schwer verletzt.</statement>
+            <statement>Jetzt muss der Mann für 7 Jahre ins Gefängnis.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement></statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Frau und der Mann sind verheiratet.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Aber die Frau und der Mann leben <style_element type="hb">nicht</style_element> mehr zusammen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Die Frau und der Mann haben sich nämlich getrennt.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Im Januar hat der Mann die Frau mit einem Messer angegriffen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Bei dem Angriff hat der Mann die Frau schwer verletzt.</statement>
+                  </speech>
+                  <speech id="6">
+                     <headword>Wir glauben:</headword>
+                  </speech>
+                  <speech id="7">
+                     <statement>Der Mann wollte die Frau töten.</statement>
+                  </speech>
+                  <speech id="8">
+                     <statement>Deshalb muss der Mann jetzt lange ins Gefängnis.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Polizei bittet um Hilfe</subheadline>
+            <statement>Die Polizei in Hamburg hat eine Aktion begonnen.</statement>
+            <statement>Diese Aktion heißt: In Hamburg schaut man hin.</statement>
+            <statement>Mit dieser Aktion will die Polizei den Menschen sagen:</statement>
+            <statement>Die Polizei kann <style_element type="hb">nicht</style_element> alle Verbrechen sehen.</statement>
+            <statement>Deshalb braucht die Polizei die Hilfe von anderen Menschen.</statement>
+            <statement>Der Chef von der Polizei in Hamburg ist Ralf Martin Meyer.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Ralf Martin Meyer hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Menschen haben vielleicht ein Verbrechen gesehen?</question>
+                  </speech>
+                  <speech id="2">
+                     <question>Oder Menschen haben vielleicht etwas Verdächtiges gesehen?</question>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dann sollen die Menschen trotzdem die Polizei anrufen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Ein Telefon·anruf bei der Polizei kostet <style_element type="hb">nichts</style_element>.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Dann kann die Polizei überprüfen:</statement>
+                  </speech>
+                  <speech id="6">
+                     <question>Was ist passiert?</question>
+                  </speech>
+                  <speech id="7">
+                     <statement>Und vielleicht kann die Polizei dann manche Verbrechen verhindern.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

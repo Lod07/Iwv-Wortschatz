@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-25" url="2018-12-05_14-00_687.xml">
+   <title>Schad·stoffe gefunden: Schule geschlossen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-12-05_14-00</vdate>
+   <resources>
+      <resource id="1" name="2018-12-05_14-00_687-full.png" type="screenshot" url="2018-12-05_14-00_687-full.png"/>
+      <resource id="2" name="2018-12-05_14-00_687_plaintext.txt" type="plaintext" url="2018-12-05_14-00_687_plaintext.txt"/>
+      <resource id="3" name="2018-12-05_14-00_687_quellcode.txt" type="sourcecode" url="2018-12-05_14-00_687_quellcode.txt"/>
+      <resource id="4" name="2018-12-05_14-00_687.docx" type="formatedText" url="2018-12-05_14-00_687.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Schad·stoffe gefunden: Schule geschlossen</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Reinbek ist seit Mittwoch eine Schule geschlossen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Reinbek ist eine Stadt in Schleswig-Holstein.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Reinbek ist östlich von Hamburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>In dieser Schule haben Fach·leute nämlich Schad·stoffe gefunden.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Schad·stoffe sind gefährliche Stoffe.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Manche Schad·stoffe machen zum Beispiel die Luft schmutzig.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Oder das Meer.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Deshalb sind Schad·stoffe schlecht für die Natur.</style_element></statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement><style_element type="hi">Und für die Menschen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Diese Schad·stoffe sind von Asbest.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Asbest ist ein Mineral.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Minerale sind Stoffe.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Diese Stoffe sind in der Natur.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Asbest ist zum Beispiel in einigen alten Häusern.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Arbeiter haben früher nämlich beim Bauen von Häusern auch Asbest benutzt.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Aber dann haben Fach·leute herausgefunden:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement><style_element type="hi">Asbest ist gefährlich.</style_element></statement>
+                           </speech>
+                           <speech id="2">
+                              <statement><style_element type="hi">In Asbest sind nämlich Schad·stoffe.</style_element></statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+                  <explanation id="5"> 
+                     <statement><style_element type="hi">Deshalb benutzen Arbeiter beim Bauen von Häusern jetzt <style_element type="hb">kein</style_element> Asbest mehr.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>700 Schüler können nicht mehr in die Schule gehen</subheadline>
+               <statement>Die Fach·leute haben die Schad·stoffe in 2 Räumen von der Schule gefunden.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Vielleicht sind die Schad·stoffe auch in anderen Räumen von der Schule.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Deshalb untersuchen die Fach·leute jetzt die anderen Räume.</statement>
+               <statement>Und deshalb ist die Schule geschlossen.</statement>
+         </section>
+         <section id="3">
+            <statement>Der Bürgermeister von Reinbek ist Björn Warmer.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Björn Warmer hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1"> 
+                     <statement>Die 700 Schüler von der Schule können jetzt <style_element type="hb">nicht</style_element> mehr in die Schule gehen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Aber die Schüler müssen trotzdem Unterricht haben.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb unterrichten die Lehrer die Schüler jetzt an anderen Orten.</statement>
+                  </speech>
+                  <speech id="4">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword>Zum Beispiel:</headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <statement>• In einer Sport·halle.</statement>
+                           </enumeration>
+                           <enumeration id="2">
+                              <statement>• Oder in anderen Schulen in Reinbek.</statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </speech>
+                  <speech id="5">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Noch weiß <style_element type="hb">kein</style_element> Mensch:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Wann kann die Schule wieder öffnen?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

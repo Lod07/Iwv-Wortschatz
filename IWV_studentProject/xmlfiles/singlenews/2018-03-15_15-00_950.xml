@@ -1,0 +1,191 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-29" url="2018-03-15_15-00_950.xml">
+   <title>Streik in Niedersachsen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-03-15_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-03-15_15-00_950-full.png" type="screenshot" url="2018-03-15_15-00_950-full.png"/>
+      <resource id="2" name="2018-03-15_15-00_950_plaintext.txt" type="plaintext" url="2018-03-15_15-00_950_plaintext.txt"/>
+      <resource id="3" name="2018-03-15_15-00_950_quellcode.txt" type="sourcecode" url="2018-03-15_15-00_950_quellcode.txt"/>
+      <resource id="4" name="2018-03-15_15-00_950.docx" type="formatedText" url="2018-03-15_15-00_950.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Streik in Niedersachsen</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Viele Menschen in Niedersachsen haben am Montag gestreikt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Menschen haben <style_element type="hb">nicht</style_element> gearbeitet.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Diese Menschen sind nämlich mit ihrer Arbeit <style_element type="hb">nicht</style_element> zufrieden.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Diese Menschen wollen zum Beispiel mehr Geld.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Diese Menschen arbeiten im öffentlichen Dienst.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement><style_element type="hi">Im öffentlichen Dienst arbeiten zum Beispiel:</style_element></statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword><style_element type="hi">• Bus·fahrer.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword><style_element type="hi">• Erzieher.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="3">
+                              <headword><style_element type="hi">• Oder Reinigungs·kräfte.</style_element></headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Diese Menschen haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir sind <style_element type="hb">nicht</style_element> zufrieden mit unserer Arbeit.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Wir bekommen nämlich <style_element type="hb">nicht</style_element> genug Geld für unsere Arbeit.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb streiken wir.</statement>
+                  </speech>
+                  <speech id="4">
+                     <explanation_marker>
+                        <statement> Und deshalb demonstrieren wir heute.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Bei einer Demonstration treffen sich viele Menschen.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Dann gehen diese Menschen gemeinsam durch die Stadt.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Diese Menschen sind mit etwas <style_element type="hb">nicht</style_element> einverstanden.</style_element></statement>
+                           </explanation>
+                           <explanation id="4">
+                              <statement><style_element type="hi">Deshalb rufen die Menschen laut ihre Meinung.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Wo haben die Menschen gestreikt?</subheadline>
+               <explanation_marker>
+                  <statement>Die Menschen haben in vielen Städten in Niedersachsen gestreikt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <headword>Zum Beispiel:</headword>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <headword><style_element type="hi">• In Braunschweig.</style_element></headword>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <headword><style_element type="hi">• In Lüneburg.</style_element></headword>
+                              </enumeration>
+                              <enumeration id="3">
+                                 <statement><style_element type="hi">• Und in Hannover.</style_element></statement>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>In Hannover haben besonders viele Menschen gestreikt.</statement>
+               <statement>In Hannover haben zum Beispiel Bus·fahrer gestreikt.</statement>
+               <headword>Und Straßen·bahn·fahrer.</headword>
+               <statement>Deshalb sind viele Busse in Hannover <style_element type="hb">nicht</style_element> gefahren.</statement>
+               <statement>Und viele Straßen·bahnen in Hannover sind <style_element type="hb">nicht</style_element> gefahren.</statement>
+         </section>
+         <section id="3">
+            <statement>In Hannover haben auch viele Erzieher gestreikt.</statement>
+            <explanation_marker>
+               <statement>Deshalb konnten viele Eltern ihre Kinder nicht in die Kita bringen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Kita ist die Abkürzung für Kinder·tages·stätte.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In einer Kita kümmern sich Erzieher um Kinder.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="4">
+            <subheadline>Wie geht es weiter?</subheadline>
+               <statement>In einem Monat ist ein Treffen.</statement>
+               <explanation_marker>
+                  <statement>Bei diesem Treffen sind Arbeit·geber.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Arbeit·geber sind die Chefs von Mitarbeitern.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Arbeit·geber bezahlen die Mitarbeiter für ihre Arbeit.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Und bei dem Treffen ist ver.di.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Ver.di ist eine Gewerkschaft.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Eine Gewerkschaft ist eine Vereinigung von Mitarbeitern.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Eine Gewerkschaft hilft Mitarbeitern bei einem Streit mit der Firma.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei dem Treffen sprechen Arbeit·geber und ver.di miteinander.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Dann fällt vielleicht eine Entscheidung:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Bekommen die Menschen im öffentlichen Dienst mehr Geld?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

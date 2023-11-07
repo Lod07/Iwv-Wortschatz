@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2019-11-07_14-00_214.xml">
+   <title>Streik bei der Lufthansa</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-11-07_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-11-07_14-00_214-full.png" type="screenshot" url="2019-11-07_14-00_214-full.png"/>
+      <resource id="2" name="2019-11-07_14-00_214_plaintext.txt" type="plaintext" url="2019-11-07_14-00_214_plaintext.txt"/>
+      <resource id="3" name="2019-11-07_14-00_214_quellcode.txt" type="sourcecode" url="2019-11-07_14-00_214_quellcode.txt"/>
+      <resource id="4" name="2019-11-07_14-00_214.docx" type="formatedText" url="2019-11-07_14-00_214.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Streik bei der Lufthansa</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Deutschland ist ein großer Streik.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Bei einem Streik arbeiten Menschen <style_element type="hb">nicht</style_element>.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Diese Menschen sind nämlich mit ihrer Arbeit <style_element type="hb">nicht</style_element> zufrieden.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Die Menschen wollen zum Beispiel mehr Geld.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Der Streik ist bei der Lufthansa.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Die Lufthansa ist eine Flug·gesellschaft.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">Das heißt:</style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Die Lufthansa hat viele Flugzeuge.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">Mit den Flugzeugen fliegen viele Menschen.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>                   
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und der Streik ist von den Flug·begleitern.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Flug·begleiter kümmern sich um die Reisenden in den Flugzeugen.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Die Flug·begleiter bringen den Reisenden zum Beispiel das Essen.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">Und die Flug·begleiter helfen den Reisenden im Not·fall.</style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Ein Not·fall ist zum Beispiel ein Feuer. </style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>                     
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <question>Warum streiken die Flug·begleiter?</question>
+            <statement>Die Flug·begleiter wollen mehr Geld für ihre Arbeit.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Flüge fallen aus</subheadline>
+            <statement>Der Streik von den Flug·begleitern dauert 2 Tage.</statement>
+            <statement>Deshalb fallen auf der ganzen Welt 1.300 Flüge von der Lufthansa aus.</statement>
+            <statement>Auch in Nord·deutschland fallen viele Flüge aus.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• In Hamburg.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Und in Hannover.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Am Wochenende wollen die Lufthansa und die Flug·begleiter miteinander reden.</statement>
+            <statement>Vielleicht einigen sich die Lufthansa und die Flug·begleiter.</statement>
+            <statement>Dann gibt es wohl <style_element type="hb">keine</style_element> neuen Streiks.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

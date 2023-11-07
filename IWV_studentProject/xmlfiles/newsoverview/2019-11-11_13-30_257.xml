@@ -1,0 +1,177 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2019-11-11_13-30_257.xml">
+   <title>Mehr Nachrichten vom 11.11.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-11-11_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-11-11_13-30_257-full.png" type="screenshot" url="2019-11-11_13-30_257-full.png"/>
+      <resource id="2" name="2019-11-11_13-30_257_plaintext.txt" type="plaintext" url="2019-11-11_13-30_257_plaintext.txt"/>
+      <resource id="3" name="2019-11-11_13-30_257_quellcode.txt" type="sourcecode" url="2019-11-11_13-30_257_quellcode.txt"/>
+      <resource id="4" name="2019-11-11_13-30_257.docx" type="formatedText" url="2019-11-11_13-30_257.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 11.11.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Schäden an Zug gemacht</subheadline>
+            <statement>Unbekannte haben Schäden an einem Zug gemacht.</statement>
+            <statement>Der Zug war auf der Strecke von Hamburg nach Hannover.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Bei dem Zug sind 2 Fenster kaputt gegangen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <headword>Wir glauben:</headword>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Unbekannte haben den Zug mit Steinen beworfen.</statement>
+                           </speech>
+                           <speech id="2">
+                              <statement>Diese Steine haben die 2 Fenster von dem Zug kaputt gemacht.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="3">
+                     <statement>Aber die Steine haben <style_element type="hb">keine</style_element> Menschen verletzt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <explanation_marker>
+               <statement>Der Zug musste in Uelzen anhalten.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Uelzen ist eine Stadt in Niedersachsen.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>In dem Zug waren 350 Fahr·gäste.</statement>
+            <statement>Diese 350 Fahr·gäste mussten mit anderen Zügen weiter·fahren.</statement>
+         </section>
+         <style_element type="line"/>
+         <section id="2">
+            <subheadline>Karneval in Nord·deutschland</subheadline>
+            <explanation_marker>
+               <statement>Am Montag hat der Karneval begonnen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Der Karneval ist ein großes Fest.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Beim Karneval verkleiden sich viele Menschen. </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Der Karneval beginnt jedes Jahr am 11. November um 11.11 Uhr.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Auch in Nord·deutschland feiern viele Menschen Karneval.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <explanation_marker>
+                        <headword>• In Braunschweig.</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Braunschweig ist eine Stadt in Niedersachsen.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <headword>• In Osnabrück.</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Osnabrück ist auch eine Stadt in Niedersachsen.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="3">
+                     <explanation_marker>
+                        <statement>• Und in Anklam.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Anklam ist eine Stadt in Mecklenburg-Vorpommern.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <explanation_marker>
+               <statement>Beim Karneval gibt es in vielen Städten einen Karnevals·umzug.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Bei einem Karnevals·umzug laufen verkleidete Menschen durch die Stadt.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement>
+                              <style_element type="hi">Bei einem Karnevals·umzug gibt es auch:</style_element>
+                           </statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword>
+                                 <style_element type="hi">• Bunte Karnevals·wagen.</style_element>
+                              </headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword>
+                                 <style_element type="hi"> Tanz·gruppen.</style_element>
+                              </headword>
+                           </enumeration>
+                           <enumeration id="3">
+                              <headword>
+                                 <style_element type="hi">• Und Musik·gruppen.</style_element>
+                              </headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>In Braunschweig ist der größte Karnevals·umzug in Nord·deutschland.</statement>
+            <statement>Der Karnevals·umzug in Braunschweig heißt Schoduvel.</statement>
+            <statement>Der Schoduvel ist am 23. Februar.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

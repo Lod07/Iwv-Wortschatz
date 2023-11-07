@@ -1,0 +1,252 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2020-02-12_14-30_6.xml">
+   <title>Mehr Nachrichten vom 12.02.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-02-12_14-30</vdate>
+   <resources>
+      <resource id="1" name="2020-02-12_14-30_6-full.png" type="screenshot" url="2020-02-12_14-30_6-full.png"/>
+      <resource id="2" name="2020-02-12_14-30_6_plaintext.txt" type="plaintext" url="2020-02-12_14-30_6_plaintext.txt"/>
+      <resource id="3" name="2020-02-12_14-30_6_quellcode.txt" type="sourcecode" url="2020-02-12_14-30_6_quellcode.txt"/>
+      <resource id="4" name="2020-02-12_14-30_6.docx" type="formatedText" url="2020-02-12_14-30_6.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 12.02.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Besondere Übungen</subheadline>
+            <statement>In Niedersachsen sind bald viele Soldaten.</statement>
+            <statement>Diese Soldaten machen eine Übung.</statement>
+            <statement>Diese Übung ist vom Militär aus den USA.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Militär hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Bei der Übung kommen viele Soldaten aus den USA nach Ost·europa.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement> Wir üben zum Beispiel:</statement>
+                  </speech>
+                  <speech id="3">
+                     <explanation_marker>
+                        <question>Wie kommen viele Soldaten schnell über den Atlantik?</question>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement>
+                                    <style_element type="hi">Der Atlantik ist ein Ozean.</style_element>
+                                 </statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement>
+                                          <style_element type="hi">Ein Ozean ist ein sehr großes Meer.</style_element>
+                                       </statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="2">
+                     <question>Und wie kommen die Fahr·zeuge vom Militär schnell über den Atlantik?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Bei der Übung fährt das Militär auch durch Niedersachsen.</statement>
+            <statement>Und das Militär macht verschiedene Übungen in Niedersachsen.</statement>
+            <explanation_marker>
+               <statement>Dabei braucht das Militär zum Beispiel ein besonderes Tank·lager.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">In einem Tank·lager sind viele Tanks.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">In diesen Tanks ist zum Beispiel Kraft·stoff.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Dieser Kraft·stoff ist zum Beispiel für Fahr·zeuge.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Fach·leute in Niedersachsen haben dieses Tank·lager jetzt vorgestellt.</statement>
+            <explanation_marker>
+               <statement>Dieses Tank·lager ist mobil.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Das heißt:</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Menschen können dieses Tank·lager bewegen.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und dieses Tank·lager ist das größte mobile Tank·lager in Europa.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Bus·fahrer streiken</subheadline>
+            <explanation_marker>
+               <statement>Am Mittwoch war in Greifswald ein Streik.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Bei einem Streik arbeiten Menschen <style_element type="hb">nicht</style_element>.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Diese Menschen sind zum Beispiel mit ihrer Arbeit <style_element type="hb">nicht</style_element> zufrieden.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Die Menschen wollen zum Beispiel mehr Geld.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Streik war von Bus·fahrern.</statement>
+            <statement>Deshalb ist in Greifswald am Mittwoch <style_element type="hb">kein</style_element> Bus gefahren.</statement>
+            <explanation_marker>
+               <statement>Eine Gewerkschaft hilft den Bus·fahrern bei dem Streik.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Eine Gewerkschaft ist zum Beispiel eine Vereinigung von Arbeitern.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Eine Gewerkschaft hilft Arbeitern zum Beispiel bei einem Streit mit der Firma.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Gewerkschaft ist ver.di.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Ver.di hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Bus·fahrer sollen mehr Geld für ihre Arbeit bekommen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Aber die Arbeit·geber wollen den Bus·fahrern <style_element type="hb">nicht</style_element> mehr Geld bezahlen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb streiken die Bus·fahrer.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Ver.di hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Am Montag sprechen wir mit den Arbeit·gebern von den Bus·fahrern.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Vielleicht wollen die Arbeit·geber den Bus·fahrern dann mehr Geld bezahlen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Niedersachsen: Luchse ausgebrochen</subheadline>
+            <explanation_marker>
+               <statement>In Bad Harzburg sind 3 Luchse ausgebrochen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Luchse sind große Katzen.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Und Luchse sind Raub·tiere..</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese 3 Luchse waren in einem Gehege.</statement>
+            <explanation_marker>
+               <statement>Dieses Gehege ist im National·park Harz.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement>Ein National·park ist ein großes Natur·schutz·gebiet.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>Ein Naturschutz∙gebiet ist ein besonderes Gebiet.</statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>In diesem Gebiet dürfen Tiere und Pflanzen <style_element type="hb">nicht</style_element> gestört werden.</statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement>Deshalb sind Tiere und Pflanzen in diesem Gebiet besonders geschützt.</statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Ein Mitarbeiter vom National·park Harz hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In Nord·deutschland war ein starker Sturm.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Bei diesem Sturm sind Bäume in das Gehege von den Luchsen gefallen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Die Bäume haben den Zaun von dem Gehege zerstört.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb konnten die 3 Luchse aus dem Gehege ausbrechen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der Mitarbeiter vom National·park Harz hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Ein Baum ist auch auf einen Luchs gefallen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dieser Luchs ist gestorben.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

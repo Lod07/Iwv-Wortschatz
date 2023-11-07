@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-07-19_14-00_331.xml">
+   <title>Feuer in Supermarkt</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-07-19_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-07-19_14-00_331-full.png" type="screenshot" url="2019-07-19_14-00_331-full.png"/>
+      <resource id="2" name="2019-07-19_14-00_331_plaintext.txt" type="plaintext" url="2019-07-19_14-00_331_plaintext.txt"/>
+      <resource id="3" name="2019-07-19_14-00_331_quellcode.txt" type="sourcecode" url="2019-07-19_14-00_331_quellcode.txt"/>
+      <resource id="4" name="2019-07-19_14-00_331.docx" type="formatedText" url="2019-07-19_14-00_331.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Feuer in Supermarkt</headline>
+      <sections>
+         <section id="1">
+         <explanation_marker>
+            <statement>In Celle war ein großes Feuer.</statement>
+            <explanations>
+               <explanation id="1">
+                  <statement>
+                     <style_element type="hi">Celle ist eine Stadt in Niedersachsen.</style_element>
+                  </statement>
+               </explanation>
+            </explanations>
+         </explanation_marker>
+         <statement>Das Feuer war in einem Supermarkt.</statement>
+         <statement>Und das Feuer hat den Supermarkt zerstört.</statement>
+         <statement>Aber bei dem Feuer ist <style_element type="hb">kein</style_element> Mensch verletzt worden.</statement>
+         <speech_marker>
+            <speech_intro>
+               <statement>Die Polizei hat gesagt:</statement>
+            </speech_intro>
+            <speeches>
+               <speech id="1">
+                  <statement>Wahrscheinlich hat ein Mensch das Feuer mit Absicht gemacht.</statement>
+               </speech>
+            </speeches>
+         </speech_marker>
+      </section>
+      <section id="2">
+         <subheadline>Was ist passiert?</subheadline>
+         <statement>Menschen haben das Feuer gesehen.</statement>
+         <statement>Deshalb haben diese Menschen die Feuerwehr gerufen.</statement>
+         <speech_marker>
+            <speech_intro>
+               <statement>Die Feuerwehr hat gesagt:</statement>
+            </speech_intro>
+            <speeches>
+               <speech id="1">
+                  <statement>Zuerst war das Feuer in einem Gebüsch.</statement>
+               </speech>
+               <speech id="2">
+                  <statement>Dieses Gebüsch ist neben dem Supermarkt.</statement>
+               </speech>
+               <speech id="3">
+                  <statement>Dann ist das Feuer schnell größer geworden.</statement>
+               </speech>
+               <speech id="4">
+                  <statement>Und dann hat auch das Dach vom Supermarkt gebrannt.</statement>
+               </speech>
+               <speech id="5">
+                  <statement>Das Dach vom Supermarkt ist eingestürzt.</statement>
+               </speech>
+               <speech id="6">
+                  <statement>Dann war das Feuer im ganzen Supermarkt.</statement>
+               </speech>
+            </speeches>
+         </speech_marker>
+         <statement>Die Feuerwehr hat das Feuer mit 100 Feuerwehr·leuten gelöscht.</statement>
+         <statement>Aber das Feuer hat den Supermarkt trotzdem zerstört.</statement>
+      </section>
+      <section id="3">
+         <subheadline>Viel Rauch</subheadline>
+         <statement>Bei dem Feuer war eine große Rauch·wolke.</statement>
+         <speech_marker>
+            <speech_intro>
+               <statement>Deshalb hat die Feuerwehr zu den Menschen in der Nähe vom Supermarkt gesagt:</statement>
+            </speech_intro>
+            <speeches>
+               <speech id="1">
+                  <statement>Schließen Sie die Türen von Ihren Häusern!</statement>
+               </speech>
+               <speech id="2">
+                  <statement>Und schließen Sie die Fenster von Ihren Häusern!</statement>
+               </speech>
+               <speech id="3">
+                  <statement>Dann kommt <style_element type="hb">kein</style_element> Rauch in Ihre Häuser.</statement>
+               </speech>
+            </speeches>
+         </speech_marker>
+      </section>
+      <section id="4">
+         <subheadline>Polizei sucht Zeugen</subheadline>
+         <speech_marker>
+            <speech_intro>
+               <statement>Die Polizei glaubt:</statement>
+            </speech_intro>
+            <speeches>
+               <speech id="1">
+                  <statement>Ein Mensch hat das Feuer mit Absicht gemacht.</statement>
+               </speech>
+            </speeches>
+         </speech_marker>
+         <explanation_marker>
+            <statement>Deshalb sucht die Polizei jetzt Zeugen.</statement>
+            <explanations>
+               <explanation id="1">
+                  <statement>
+                     <style_element type="hi">Zeugen gibt es zum Beispiel bei einer Straf·tat.</style_element>
+                  </statement>
+               </explanation>
+               <explanation id="2">
+                  <statement>
+                     <style_element type="hi">Die Zeugen haben die Straf·tat vielleicht gesehen.</style_element>
+                  </statement>
+               </explanation>
+               <explanation id="3">
+                  <statement>
+                     <style_element type="hi">Deshalb können die Zeugen vielleicht wichtige Hinweise zu der Straf·tat geben.</style_element>
+                  </statement>
+               </explanation>
+            </explanations>
+         </explanation_marker>
+         <statement>Und Fach·leute untersuchen den zerstörten Supermarkt.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

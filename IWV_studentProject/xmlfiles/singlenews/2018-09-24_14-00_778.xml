@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-09-24_14-00_778.xml">
+   <title>Fürst Albert eröffnet Hamburger Klima·woche</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-09-24_14-00</vdate>
+   <resources>
+      <resource id="1" name="2018-09-24_14-00_778-full.png" type="screenshot" url="2018-09-24_14-00_778-full.png"/>
+      <resource id="2" name="2018-09-24_14-00_778_plaintext.txt" type="plaintext" url="2018-09-24_14-00_778_plaintext.txt"/>
+      <resource id="3" name="2018-09-24_14-00_778_quellcode.txt" type="sourcecode" url="2018-09-24_14-00_778_quellcode.txt"/>
+      <resource id="4" name="2018-09-24_14-00_778.docx" type="formatedText" url="2018-09-24_14-00_778.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Fürst Albert eröffnet Hamburger Klima·woche</headline>
+      <sections>
+         <section id="1">
+            <statement>In Hamburg war am Montag ein besonderer Gast.</statement>
+            <explanation_marker>
+               <statement>Dieser Gast ist Fürst Albert II. von Monaco.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Fürst Albert II. von Monaco ist der Chef von Monaco.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Monaco ist ein sehr kleines Land im Süden von Europa.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Fürst Albert hat eine große Veranstaltung eröffnet.</statement>
+            <explanation_marker>
+               <statement>Diese Veranstaltung heißt Hamburger Klima·woche.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Bei der Hamburger Klima·woche reden Fach·leute über das Klima.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Das Klima ist das Wetter über eine lange Zeit.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">An vielen Orten verändert sich das Klima.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Ein anderes Wort dafür ist Klima·wandel.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und bei der Hamburger Klima·woche können Besucher etwas über das Klima lernen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Die Hamburger Klima·woche</subheadline>
+               <statement>Die Hamburger Klima·woche ist eine große Veranstaltung.</statement>
+               <statement>Diese Veranstaltung ist in verschiedenen Stadt·teilen von Hamburg.</statement>
+               <statement>Zum Beispiel in Eimsbüttel.</statement>
+               <statement>Und in Bahrenfeld.</statement>
+               <statement>Die Hamburger Klima·woche ist jedes Jahr.</statement>
+               <statement>Zur Hamburger Klima·woche kommen immer viele Fach·leute.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der Chef von der Hamburger Klima·woche hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In diesem Jahr kommen 200 Fach·leute.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <explanation_marker>
+                  <statement>Diese Fach·leute halten Vorträge.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Die Fach·leute reden über bestimmte Themen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Fach·leute reden zum Beispiel über den Klima·wandel.</statement>
+         </section>
+         <section id="3">
+            <statement>Zur Hamburger Klima·woche kommen auch immer viele Besucher.</statement>
+            <statement>Die Besucher können sich die Vorträge von den Fach·leuten anhören.</statement>
+            <statement>Und die Besucher können viele andere Dinge sehen.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Ausstellungen.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Filme.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <statement>• Und ein Konzert.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

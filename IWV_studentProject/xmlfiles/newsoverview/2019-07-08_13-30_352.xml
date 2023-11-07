@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-07-08_13-30_352.xml">
+   <title>Mehr Nachrichten vom 08.07.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-07-08_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-07-08_13-30_352-full.png" type="screenshot" url="2019-07-08_13-30_352-full.png"/>
+      <resource id="2" name="2019-07-08_13-30_352_plaintext.txt" type="plaintext" url="2019-07-08_13-30_352_plaintext.txt"/>
+      <resource id="3" name="2019-07-08_13-30_352_quellcode.txt" type="sourcecode" url="2019-07-08_13-30_352_quellcode.txt"/>
+      <resource id="4" name="2019-07-08_13-30_352.docx" type="formatedText" url="2019-07-08_13-30_352.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 08.07.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Anschlag auf Haus von Politikerin</subheadline>
+               <statement>In Hamburg war ein Anschlag.</statement>
+               <statement>Dieser Anschlag war mit Farbe.</statement>
+               <statement>Bei dem Anschlag haben Unbekannte Farbe auf das Haus von einer Politikerin geworfen.</statement>
+               <explanation_marker>
+                  <statement>Diese Politikerin ist Katharina Fegebank.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Katharina Fegebank ist von den Grünen.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Und Katharina Fegebank ist die Zweite Bürger·meisterin von Hamburg.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <explanation_marker>
+                                    <statement><style_element type="hi">Der Zweite Bürger·meister vertritt den Bürger·meister.</style_element></statement>
+                                    <explanations>
+                                       <explanation id="1">
+                                          <headword><style_element type="hi">Das heißt:</style_element></headword>
+                                       </explanation>
+                                       <explanation id="2">
+                                          <statement><style_element type="hi">Der Zweite Bürger·meister übernimmt die Aufgaben von dem Bürger·meister.</style_element></statement>
+                                       </explanation>
+                                       <explanation id="3">
+                                          <enumeration_marker>
+                                             <enumeration_intro>
+                                                <headword><style_element type="hi">Zum Beispiel: </style_element></headword>
+                                             </enumeration_intro>
+                                             <enumerations>
+                                                <enumeration id="1">
+                                                   <statement><style_element type="hi">• Wenn der Bürger·meister krank ist.</style_element></statement>
+                                                </enumeration>
+                                                <enumeration id="2">
+                                                   <statement><style_element type="hi">• Oder wenn der Bürger·meister andere Termine hat.</style_element></statement>
+                                                </enumeration>
+                                             </enumerations>
+                                          </enumeration_marker>
+                                       </explanation>
+                                    </explanations>
+                                 </explanation_marker>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei dem Anschlag wurde <style_element type="hb">kein</style_element> Mensch verletzt.</statement> 
+               <statement>Nach dem Anschlag sind die Unbekannten weggelaufen.</statement>
+               <statement>Jetzt sucht die Polizei die Unbekannten.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="1">
+            <subheadline>Niedersachsen: Mann stirbt bei Unfall</subheadline>
+               <statement>In der Nähe von Uelzen war ein Unfall.</statement>
+               <statement>Der Unfall war auf der Bundes·straße 4.</statement>
+               <statement>Bei dem Unfall ist ein Mann gestorben.</statement>
+               <statement>Und 4 Menschen wurden schwer verletzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Mann ist mit seinem Auto in eine Kurve gefahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann ist der Mann mit seinem Auto gegen ein anderes Auto gefahren.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Der Mann ist bei dem Unfall gestorben.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <statement>In dem anderen Auto waren 4 Menschen:</statement>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <headword>• 3 Männer.</headword>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <statement>• Und eine Frau.</statement>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>• Und eine Frau.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <explanation_marker>
+                  <statement>Nach dem Unfall hat die Polizei die Bundes·straße 4 gesperrt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Auf der Bundes·straße 4 durfte <style_element type="hb">kein</style_element> Auto fahren.</style_element></statement> 
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

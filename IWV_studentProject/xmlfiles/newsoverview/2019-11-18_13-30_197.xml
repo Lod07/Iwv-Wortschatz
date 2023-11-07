@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<annotation adate="" url="2020-08-18_13-30_197.xml">
+   <title>Mehr Nachrichten vom 18.11.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-11-18_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-11-18_13-30_197-full.png" type="screenshot" url="2019-11-18_13-30_197-full.png"/>
+      <resource id="2" name="2019-11-18_13-30_197_plaintext.txt" type="plaintext" url="2019-11-18_13-30_197_plaintext.txt"/>
+      <resource id="3" name="2019-11-18_13-30_197_quellcode.txt" type="sourcecode" url="2019-11-18_13-30_197_quellcode.txt"/>
+      <resource id="4" name="2019-11-18_13-30_197.docx" type="formatedText" url="2019-11-18_13-30_197.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+  <content>
+    <headline>Mehr Nachrichten vom 18.11.2019</headline>
+    <sections>
+      <section id="1">
+        <subheadline>Mecklenburg-Vorpommern: Mann muss ins Gefängnis</subheadline>
+        <explanation_marker>
+          <statement>
+            Ein Gericht in Schwerin hat einen Mann verurteilt.
+          </statement>
+          <explanations>
+            <explanation id="1">
+              <statement>
+                <style_element type="hi">Schwerin ist die Haupt·stadt von Mecklenburg-Vorpommern.</style_element>
+              </statement>
+            </explanation>
+          </explanations>
+        </explanation_marker>
+        <speech_marker>
+          <speech_intro>
+            <statement>Das Gericht hat gesagt:</statement>
+          </speech_intro>
+          <speeches>
+            <speech id="1">
+              <statement>Der Mann hat auf einem Bauernhof gelebt.</statement>
+            </speech>
+            <speech id="2">
+              <statement>Auf diesem Bauern·hof hat der Mann besondere Pflanzen angebaut.</statement>
+            </speech>
+            <speech id="3">
+              <explanation_marker>
+                <statement> Aus diesen Pflanzen hat der Mann Drogen hergestellt.</statement>
+                <explanations>
+                  <explanation id="1">
+                    <statement><style_element type="hi">Drogen sind gefährlich für den Körper.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                    <statement><style_element type="hi">Deshalb sind Drogen verboten.</style_element></statement>
+                  </explanation>
+                </explanations>
+              </explanation_marker>
+            </speech>
+            <speech id="4">
+              <statement>Dann hat der Mann die Drogen verkauft.</statement>
+            </speech>
+            <speech id="5">
+              <statement>Deshalb muss der Mann für 6 Jahre ins Gefängnis.</statement>
+            </speech>
+            <speech id="6">
+              <statement>Die Frau und die Tochter haben dem Mann geholfen.</statement>
+            </speech>
+            <speech id="7">
+              <explanation_marker>
+                <statement>Deshalb haben die Frau und die Tochter eine Bewährungs·strafe bekommen.</statement>
+                <explanations>
+                  <explanation id="1">
+                    <headword>
+                      <style_element type="hi">Das heißt:</style_element>
+                    </headword>
+                  </explanation>
+                  <explanation id="2">
+                    <statement>
+                      <style_element type="hi">
+                        Die Frau und die Tochter müssen jetzt <style_element type="hb">nicht</style_element> ins Gefängnis.
+                      </style_element>
+                    </statement>
+                  </explanation>
+                  <explanation id="3">
+                    <statement>
+                      <style_element type="hi">
+                        <style_element type="hi">
+                          Aber die Frau und die Tochter dürfen <style_element type="hb">nichts</style_element> Verbotenes mehr machen.
+                        </style_element>
+                      </style_element>
+                    </statement>
+                  </explanation>
+                  <explanation id="4">
+                    <question>
+                      <style_element type="hi">
+                        Die Frau und die Tochter machen in den nächsten 2 Jahren etwas Verbotenes?
+                      </style_element>
+                    </question>
+                  </explanation>
+                  <explanation id="5">
+                    <statement>
+                      <style_element type="hi">
+                        Dann müssen die Frau und die Tochter sofort ins Gefängnis.
+                      </style_element>
+                    </statement>
+                  </explanation>
+                </explanations>
+              </explanation_marker>
+            </speech>
+          </speeches>
+        </speech_marker>
+      </section>
+      <style_element type="line" />
+      <section id="2">
+        <subheadline>Fußball: Neuer Trainer in Braunschweig</subheadline>
+        <explanation_marker>
+          <statement>Eintracht Braunschweig hat einen neuen Trainer.</statement>
+          <explanations>
+          <explanation id="1">
+            <statement>
+              <style_element type="hi">
+                Eintracht Braunschweig ist ein Fußball·verein aus Niedersachsen.
+              </style_element>
+              </statement>
+          </explanation>
+          <explanation id="2">
+            <statement>
+              <style_element type="hi">
+                Und Eintracht Braunschweig spielt in der 3. Fußball-Liga.
+              </style_element>
+            </statement>
+          </explanation>
+          </explanations>
+        </explanation_marker>
+        <statement>Dieser neue Trainer ist Marco Antwerpen.</statement>
+        <statement>Der alte Trainer war Christian Flüthmann.</statement>
+        <statement>Aber mit Christian Flüthmann hat Eintracht Braunschweig mehrere Spiele verloren.</statement>
+        <statement>Deshalb hat Eintracht Braunschweig Christian Flüthmann entlassen.</statement>
+      </section>
+      <style_element type="line" />
+      <section id="3">
+        <subheadline>Nord·deutschland: Deutscher Lehrer·preis vergeben</subheadline>
+        <statement>2 Schulen in Nord·deutschland können sich freuen.</statement>
+        <statement>Diese Schulen haben nämlich einen Preis bekommen.</statement>
+        <statement>Dieser Preis heißt Deutscher Lehrerpreis.</statement>
+        <enumeration_marker>
+          <enumeration_intro>
+            <statement>Den Deutschen Lehrer·preis haben bekommen:</statement>
+          </enumeration_intro>
+          <enumerations>
+            <enumeration id="1">
+              <explanation_marker>
+                <statement>3 Lehrer von einer Schule in Rostrup.</statement>
+                <explanations>
+                  <explanation id="1">
+                    <explanation_marker>
+                      <statement>
+                        <style_element type="hi">Rostrup ist ein Orts·teil von Bad Zwischenahn.</style_element>
+                      </statement>
+                      <explanations>
+                        <explanation id="1">
+                          <explanation_marker>
+                            <statement>
+                              <style_element type="hi">Bad Zwischenahn ist in der Nähe von Oldenburg.</style_element>
+                            </statement>
+                            <explanations>
+                              <explanation id="1">
+                                <statement>
+                                  <style_element type="hi">Oldenburg ist eine Stadt in Niedersachsen.</style_element>
+                                </statement>
+                              </explanation>
+                            </explanations>
+                          </explanation_marker>
+                        </explanation>
+                      </explanations>
+                    </explanation_marker>
+                  </explanation>
+                </explanations>
+              </explanation_marker>
+            </enumeration>
+            <enumeration id="2">
+              <explanation_marker>
+                <statement>Und ein Lehrer von einer Schule in Hamburg-St. Pauli.</statement>
+                <explanations>
+                <explanation id="1">
+                  <statement>
+                    <style_element type="hi">St. Pauli ist ein Stadt·teil von Hamburg.</style_element>
+                  </statement>
+                </explanation>
+                </explanations>
+              </explanation_marker>
+            </enumeration>
+          </enumerations>
+        </enumeration_marker>
+        <statement>Mit dem Preis werden besonders gute Lehrer geehrt.</statement>
+        <statement>Diese Lehrer haben zum Beispiel einen besonders guten Unterricht gemacht.</statement>
+        <statement>Der Preis wird in jedem Jahr vergeben.</statement>
+      </section>
+    </sections>
+  </content>
+</annotation>

@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-25" url="2020-03-06_15-00_148.xml">
+   <title>Mehr Menschen haben Corona-Virus</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-03-06_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-03-06_15-00_148-full.png" type="screenshot" url="2020-03-06_15-00_148-full.png"/>
+      <resource id="2" name="2020-03-06_15-00_148_plaintext.txt" type="plaintext" url="2020-03-06_15-00_148_plaintext.txt"/>
+      <resource id="3" name="2020-03-06_15-00_148_quellcode.txt" type="sourcecode" url="2020-03-06_15-00_148_quellcode.txt"/>
+      <resource id="4" name="2020-03-06_15-00_148.docx" type="formatedText" url="2020-03-06_15-00_148.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Menschen haben Corona-Virus</headline>
+      <sections>
+         <section id="1">
+            <statement>Immer mehr Menschen in Nord·deutschland haben eine besondere Krankheit.</statement>
+            <explanation_marker>
+               <statement>Diese Krankheit kommt von einem Virus.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">Ein Virus ist ein Krankheits·erreger.</style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword>
+                                 <style_element type="hi">Das heißt:</style_element>
+                              </headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">Ein Virus kann Menschen krank machen.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieses Virus heißt Corona-Virus.</statement>
+         </section>
+         <section id="2">
+            <question>
+               <style_element type="hb">Sie wollen mehr Informationen über das Corona-Virus lesen?</style_element>
+            </question>
+            <question>
+               <style_element type="hb">Oder hören?</style_element>
+            </question>
+            <statement>
+               <ref>
+                  <style_element type="hb">Dann klicken Sie hier.</style_element>
+               </ref>
+            </statement>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben am Freitag·mittag gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In Deutschland haben mehr als 500 Menschen das Corona-Virus.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>39 von diesen Menschen sind in Nord·deutschland.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <statement>In anderen Ländern haben viel mehr Menschen das Corona-Virus.</statement>
+            <statement>Zum Beispiel in Italien.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Deshalb haben Fach·leute gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Sie waren in Italien?</question>
+                  </speech>
+                  <speech id="2">
+                     <question>Und Sie fühlen sich krank?</question>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dann haben Sie vielleicht das Corona-Virus.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Dann sollen Sie einen Arzt informieren.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Und Sie sollen zu Hause bleiben.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Dann können Sie nämlich keine anderen Menschen mit dem Corona-Virus anstecken.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="5">
+            <subheadline>Schul·klasse fährt nach Hause</subheadline>
+            <statement>Viele Menschen machen in Italien Urlaub.</statement>
+            <statement>Und Schul·klassen machen Klassen·reisen nach Italien.</statement>
+            <statement>Eine Schul·klasse aus Osnabrück war gerade in Nord·italien.</statement>
+            <statement>3 Kinder von dieser Schul·klasse sind krank geworden.</statement>
+            <statement>Deshalb ist die Schul·klasse zurück nach Osnabrück gefahren.</statement>
+            <statement>In Osnabrück machen Ärzte einen Test mit den 3 Schülern.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Dann wissen die Ärzte:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Haben die 3 Schüler das Corona-Virus?</question>
+                  </speech>
+                  <speech id="2">
+                     <question>Oder sind die Schüler nur erkältet?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="6">
+            <subheadline>Wie können Sie sich schützen?</subheadline>
+            <statement>Menschen können sich gegen das Virus schützen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>• Waschen Sie oft Ihre Hände.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>• Husten oder niesen Sie in ein Taschen·tuch.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>• Husten oder niesen Sie <style_element type="hb">nicht</style_element> Menschen an.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>• Halten Sie Abstand zu kranken Menschen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="7">
+            <question>Wollen Sie mehr über das Corona-Virus wissen?</question>
+            <statement>
+               <refextern>
+                  <style_element type="hu">Hier sind Informationen in Leichter Sprache.</style_element>
+               </refextern>
+            </statement>
+            <statement>
+               <refextern>
+                  <style_element type="hu">Und hier sind Informationen in schwerer Sprache.</style_element>
+               </refextern>
+            </statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-29" url="2018-03-05_15-00_919.xml">
+   <title>Viele Verletzte auf glatten Straßen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-03-05_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-03-05_15-00_919-full.png" type="screenshot" url="2018-03-05_15-00_919-full.png"/>
+      <resource id="2" name="2018-03-05_15-00_919_plaintext.txt" type="plaintext" url="2018-03-05_15-00_919_plaintext.txt"/>
+      <resource id="3" name="2018-03-05_15-00_919_quellcode.txt" type="sourcecode" url="2018-03-05_15-00_919_quellcode.txt"/>
+      <resource id="4" name="2018-03-05_15-00_919.docx" type="formatedText" url="2018-03-05_15-00_919.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Viele Verletzte auf glatten Straßen</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Nord·deutschland waren am Montag viele Straßen sehr glatt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Auf den Straßen war eine Eis·schicht.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Deshalb waren diese Straßen sehr rutschig.</statement>
+            <statement>Und deshalb hat es viele Unfälle gegeben.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <statement>• Autos sind in andere Autos gefahren.</statement>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Und viele Menschen sind hingefallen.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Bei diesen Unfällen wurden viele Menschen verletzt.</statement>
+         </section>
+         <section id="2">
+            <explanation_marker>
+               <statement>Der Deutsche Wetter·dienst hat vor den glatten Straßen gewarnt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Beim Deutschen Wetter·dienst arbeiten Fach·leute für Wetter.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Fach·leute beobachten jeden Tag das Wetter.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Deshalb können die Fach·leute sagen:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement><style_element type="hi">So ist das Wetter in den nächsten Tagen.</style_element></statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der Deutsche Wetter·dienst hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <headword>Achtung!</headword>
+                  </speech>
+                  <speech id="2">
+                     <statement>Am Montag·morgen regnet es.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Aber der Boden ist noch sehr kalt.</statement>
+                  </speech>
+                  <speech id="4">
+                     <explanation_marker>
+                        <statement>Deshalb gefriert der Regen am Boden.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Der Regen wird zu Eis.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="5">
+                     <statement>Und viele Straßen sind sehr glatt.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Deshalb sollen die Menschen sehr vorsichtig sein.</statement>
+                  </speech>
+                  <speech id="7">
+                     <statement>Und die Menschen sollen zum Beispiel <style_element type="hb">nicht</style_element> mit dem Auto fahren.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Viele Unfälle</subheadline>
+               <statement>Trotzdem sind viele Menschen mit dem Auto gefahren.</statement>
+               <statement>Aber die Autos konnten auf den glatten Straßen <style_element type="hb">nicht</style_element> gut fahren.</statement>
+               <statement>Die Autos konnten auf den glatten Straßen nämlich <style_element type="hb">nicht</style_element> gut bremsen.</statement>
+               <statement>Und die Autos sind auf den glatten Straßen weggerutscht.</statement>
+               <statement>Deshalb hat es viele Unfälle gegeben.</statement>
+               <statement>Bei den Unfällen wurden mehrere Menschen verletzt.</statement>
+         </section>
+         <section id="4">
+            <statement>Auch viele Wege waren glatt.</statement>
+            <statement>Auf diesen glatten Wegen konnten die Menschen <style_element type="hb">nicht</style_element> gut gehen.</statement>
+            <statement>Deshalb sind viele Menschen weggerutscht.</statement>
+            <statement>Und diese Menschen sind hingefallen.</statement>
+            <statement>Viele von diesen Menschen wurden verletzt.</statement>
+         </section>
+         <section id="5">
+            <subheadline>Schüler bleiben zu Hause</subheadline>
+               <statement>In vielen Schulen war <style_element type="hb">kein</style_element> Unterricht.</statement>
+               <statement>Deshalb konnten die Schüler zu Hause bleiben.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Behörden haben nämlich gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Straßen sind sehr glatt.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb können die Schüler vielleicht <style_element type="hb">nicht</style_element> gut zur Schule kommen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und deshalb sollen die Schüler zu Hause bleiben.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

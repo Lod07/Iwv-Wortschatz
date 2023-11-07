@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-23" url="2018-07-30_15-00_754.xml">
+   <title>Fach·leute entschärfen Bombe in Bad Oldesloe</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-07-30_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-07-30_15-00_754-full.png" type="screenshot" url="2018-07-30_15-00_754-full.png"/>
+      <resource id="2" name="2018-07-30_15-00_754_plaintext.txt" type="plaintext" url="2018-07-30_15-00_754_plaintext.txt"/>
+      <resource id="3" name="2018-07-30_15-00_754_quellcode.txt" type="sourcecode" url="2018-07-30_15-00_754_quellcode.txt"/>
+      <resource id="4" name="2018-07-30_15-00_754.docx" type="formatedText" url="2018-07-30_15-00_754.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Fach·leute entschärfen Bombe in Bad Oldesloe</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Schleswig-Holstein haben Fach·leute eine Bombe entschärft.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Bombe war gefährlich.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Aber die Fach·leute haben die Bombe ungefährlich gemacht.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Jetzt kann die Bombe <style_element type="hb">nicht</style_element> mehr explodieren.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Bombe war in Bad Oldesloe.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bad Oldesloe ist zwischen Hamburg und Lübeck.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Vor der Entschärfung von der Bombe haben die Fach·leute gedacht:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Vielleicht explodiert die Bombe.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <explanation_marker>
+               <statement>Deshalb hat die Polizei 1200 Menschen in Sicherheit gebracht.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Menschen mussten ihre Häuser verlassen.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Die Häuser waren nämlich in der Nähe von der Bombe.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Nach der Entschärfung von der Bombe durften die Menschen in die Häuser zurück.</statement>
+         </section>
+         <section id="3">
+            <statement>Die Bombe war in der Nähe vom Bahnhof von Bad Oldesloe.</statement>
+            <explanation_marker>
+               <statement>Deshalb hat die Polizei den Bahnhof gesperrt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Durch den Bahnhof von Bad Oldesloe durften <style_element type="hb">keine</style_element> Züge fahren.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und die Polizei hat viele Straßen in der Nähe von der Bombe gesperrt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Auf diesen Straßen durften <style_element type="hb">keine</style_element> Autos fahren.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="4">
+            <subheadline>Woher ist die Bombe?</subheadline>
+               <statement>Bauarbeiter haben die Bombe im Boden gefunden.</statement>
+               <statement>Die Bombe lag 5 Meter tief in der Erde.</statement>
+               <statement>Die Bombe war aus dem 2. Welt·krieg.</statement>
+               <statement>Im 2. Welt·krieg haben Flugzeuge über vielen Städten Bomben abgeworfen.</statement>
+               <statement>Auch über Bad Oldesloe.</statement>
+               <statement>Aber manche Bomben sind <style_element type="hb">nicht</style_element> explodiert.</statement>
+               <statement>Diese Bomben heißen: Blind·gänger.</statement>
+               <statement>Die Bombe in Bad Oldesloe war auch ein Blind·gänger.</statement>
+         </section>
+         <section id="5">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Fach·leute haben die Bombe schnell entschärft.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Jetzt kann die Bombe <style_element type="hb">nicht</style_element> mehr explodieren.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb können die Menschen in ihre Häuser zurück.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und deshalb dürfen auch wieder Züge durch Bad Oldesloe fahren.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

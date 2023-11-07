@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-30" url="2019-10-10_13-30_231.xml">
+   <title>Mehr Nachrichten vom 10.10.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-10_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-10-10_13-30_231-full.png" type="screenshot" url="2019-10-10_13-30_231-full.png"/>
+      <resource id="2" name="2019-10-10_13-30_231_plaintext.txt" type="plaintext" url="2019-10-10_13-30_231_plaintext.txt"/>
+      <resource id="3" name="2019-10-10_13-30_231_quellcode.txt" type="sourcecode" url="2019-10-10_13-30_231_quellcode.txt"/>
+      <resource id="4" name="2019-10-10_13-30_231.docx" type="formatedText" url="2019-10-10_13-30_231.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 10.10.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Mecklenburg-Vorpommern: Erwin Sellering hört auf</subheadline>
+            <statement>Erwin Sellering will <style_element type="hb">nicht</style_element> mehr Politiker sein.</statement>
+            <explanation_marker>
+               <statement>Früher war Erwin Sellering Minister·präsident von Mecklenburg-Vorpommern.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Minister·präsident ist der Chef von einem Bundes·land.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dann war Erwin Sellering sehr krank.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Und Erwin Sellering hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Ich kann <style_element type="hb">nicht</style_element> mehr Minister·präsident sein.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <explanation_marker>
+               <statement>Später war Erwin Sellering wieder Abgeordneter in Mecklenburg-Vorpommern.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Ein Abgeordneter ist ein Politiker im Landtag.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Der Landtag ist das Parlament von einem Bundes·land.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt hat Erwin Sellering gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                    <statement>Ich will auch <style_element type="hb">kein</style_element> Abgeordneter mehr sein.</statement> 
+                  </speech>
+                  <speech id="2">
+                     <statement>Ich will gar <style_element type="hb">kein</style_element> Politiker mehr sein.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Steine fallen auf Autos</subheadline>
+            <explanation_marker>
+               <statement>Im Harz sind Steine auf mehrere Autos gefallen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Der Harz ist ein Gebirge in Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Autos wurden beschädigt.</statement>
+            <statement><style_element type="hb">Kein</style_element> Mensch wurde verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Die Autos sind auf der B498 gefahren.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>B498 ist die Abkürzung für <style_element type="hb">B</style_element>undes·straße <style_element type="hb">498</style_element>.</statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die B498 ist an einem Berg.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Von diesem Berg sind mehrere Steine gefallen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Einige von diesen Steinen sind auf mehrere Autos gefallen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <explanation_marker>
+               <statement>Die Polizei hat die B498 in der Nähe von Goslar gesperrt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>Das heißt:</headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>Auf der B498 dürfen <style_element type="hb">keine</style_element> Autos fahren.</statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute sollen nämlich untersuchen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum sind die Steine auf die Straße gefallen?</question>
+                  </speech>
+                  <speech id="2">
+                     <question>Und können noch mehr Steine auf die Straße fallen?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

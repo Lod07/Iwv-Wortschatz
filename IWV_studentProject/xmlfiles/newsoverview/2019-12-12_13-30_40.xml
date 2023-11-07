@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-27" url="2019-12-12_13-30_40.xml">
+   <title>Mehr Nachrichten vom 12.12.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-12-12_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-12-12_13-30_40-full.png" type="screenshot" url="2019-12-12_13-30_40-full.png"/>
+      <resource id="2" name="2019-12-12_13-30_40_plaintext.txt" type="plaintext" url="2019-12-12_13-30_40_plaintext.txt"/>
+      <resource id="3" name="2019-12-12_13-30_40_quellcode.txt" type="sourcecode" url="2019-12-12_13-30_40_quellcode.txt"/>
+      <resource id="4" name="2019-12-12_13-30_40.docx" type="formatedText" url="2019-12-12_13-30_40.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 12.12.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Mecklenburg-Vorpommern: Volleyballerinnen verlieren</subheadline>
+            <statement>Die Volleyballerinnen aus Schwerin haben ein wichtiges Spiel verloren.</statement>
+            <explanation_marker>
+               <statement>Dieses Spiel war im DVV-Pokal.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">DVV ist die Abkürzung für <style_element type="hb">D</style_element>eutscher <style_element type="hb">V</style_element>olleyball-<style_element type="hb">V</style_element>erband.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Das Spiel war im Halb·finale vom DVV-Pokal.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Im Halb·finale sind die besten 4 Vereine von einem Wettbewerb.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und das Spiel war gegen Stuttgart.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Stuttgart ist die Hauptstadt von Baden-Württemberg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Schwerin hat das Spiel mit 2:3 verloren.</statement>
+            <statement>Deshalb ist Schwerin aus dem DVV-Pokal ausgeschieden.</statement>
+            <explanation_marker>
+               <statement>Und deshalb ist Stuttgart im Finale vom DVV-Pokal.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Finale ist das letzte Spiel von einem Wettbewerb.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Der Gewinner von dem Finale hat den Wettbewerb gewonnen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>In diesem Finale spielt Stuttgart gegen Dresden.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Dresden ist die Haupt·stadt von Sachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Im vergangenen Jahr hat Schwerin den DVV-Pokal gewonnen.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Neues Musical</subheadline>
+            <explanation_marker>
+               <statement>In Hamburg ist ab Oktober ein neues Musical.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Musical ist eine Aufführung im Theater.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In dieser Aufführung gibt es viel Musik.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und in der Aufführung singen die Schau·spieler.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieses Musical heißt Wicked.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Wicked ist englisch.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und wicked heißt böse.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>In dem Musical geht es um 2 Hexen.</statement>
+            <statement>Das Musical ist sehr bekannt.</statement>
+            <statement>Und das Musical ist sehr beliebt.</statement>
+            <explanation_marker>
+               <statement>Das Musical ist zum Beispiel seit einigen Jahren in London.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">London ist die Hauptstadt von England.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und in New York.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">New York ist eine große Stadt in Amerika.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Im Oktober kommt das Musical in die Neue Flora.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die Neue Flora ist ein Theater.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und die Neue Flora ist im Stadt·teil Altona.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-30" url="2019-10-09_13-30_229.xml">
+   <title>Mehr Nachrichten vom 09.10.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-09_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-10-09_13-30_229-full.png" type="screenshot" url="2019-10-09_13-30_229-full.png"/>
+      <resource id="2" name="2019-10-09_13-30_229_plaintext.txt" type="plaintext" url="2019-10-09_13-30_229_plaintext.txt"/>
+      <resource id="3" name="2019-10-09_13-30_229_quellcode.txt" type="sourcecode" url="2019-10-09_13-30_229_quellcode.txt"/>
+      <resource id="4" name="2019-10-09_13-30_229.docx" type="formatedText" url="2019-10-09_13-30_229.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 09.10.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Demonstration gegen leise Elektro·autos</subheadline>
+            <explanation_marker>
+               <statement>In Hamburg war eine Demonstration.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bei einer Demonstration gehen viele Menschen auf die Straße.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Menschen sagen laut ihre Meinung.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dieser Demonstration waren viele blinde Menschen.</statement>
+            <explanation_marker>
+               <statement>Diese blinden Menschen haben gegen leise Elektro·autos demonstriert.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Elektro·autos fahren mit Strom.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Elektro·autos machen fast <style_element type="hb">keine</style_element> Schad·stoffe.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und Elektro·autos sind sehr leise.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die blinden Menschen haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Elektro·autos sind sehr gefährlich für uns.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Wir können die Elektro·autos nämlich <style_element type="hb">nicht</style_element> sehen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und wir können die Elektro·autos <style_element type="hb">nicht</style_element> hören.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb sollen die Elektro·autos Geräusche machen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Dann können wir die Elektro·autos hören.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Großes Fest in Leer</subheadline>
+            <statement>In Leer ist ein großes Fest.</statement>
+            <statement>Dieses Fest heißt Galli·markt.</statement>
+            <statement>Auf dem Galli·markt sind zum Beispiel viele Händler.</statement>
+            <statement>Diese Händler verkaufen viele Tiere.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Kühe.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Pferde.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <headword>• Und Esel.</headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Beim Galli·markt sind zum Beispiel auch:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Karussells.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Und ein großes Feuerwerk.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Zum Galli·markt kommen 500.000 Besucher.</statement>
+            <statement>Der Galli·markt ist bis zum Sonntag.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

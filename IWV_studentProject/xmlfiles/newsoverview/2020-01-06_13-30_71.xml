@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2020-01-06_13-30_71.xml">
+   <title>Mehr Nachrichten vom 06.01.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-01-06_13-30</vdate>
+   <resources>
+      <resource id="1" name="2020-01-06_13-30_71-full.png" type="screenshot" url="2020-01-06_13-30_71-full.png"/>
+      <resource id="2" name="2020-01-06_13-30_71_plaintext.txt" type="plaintext" url="2020-01-06_13-30_71_plaintext.txt"/>
+      <resource id="3" name="2020-01-06_13-30_71_quellcode.txt" type="sourcecode" url="2020-01-06_13-30_71_quellcode.txt"/>
+      <resource id="4" name="2020-01-06_13-30_71.docx" type="formatedText" url="2020-01-06_13-30_71.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 06.01.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Frau stirbt bei Feuer</subheadline>
+               <statement>In Hamburg war ein Feuer.</statement>
+               <statement>Das Feuer war im Stadt·teil Farmsen-Berne.</statement>
+               <statement>Und das Feuer war in einem Haus.</statement>
+               <statement>Bei dem Feuer ist eine Frau gestorben.</statement>
+               <statement>Die Frau war 77 Jahre alt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Das Feuer war in einer Wohnung.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Diese Wohnung ist im 3. Stock von dem Haus.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Bei dem Feuer war sehr viel Rauch.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Dieser Rauch war auch im Treppenhaus.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Deshalb konnten die Menschen nicht durch das Treppenhaus nach draußen gehen.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Die Feuerwehr hat das Feuer gelöscht.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Dann hat die Feuerwehr 30 Menschen aus dem Haus gerettet.</statement>
+                     </speech>
+                     <speech id="8">
+                        <statement>Aber die 77 Jahre alte Frau konnte die Feuerwehr <style_element type="hb">nicht</style_element> retten.</statement> 
+                     </speech>
+                     <speech id="9">
+                        <statement>Die Frau lag nämlich tot auf dem Balkon von ihrer Wohnung.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Frau durch Böller verletzt</subheadline>
+               <statement>In der Silvester·nacht waren viele Feuerwerke in Hamburg.</statement>
+               <statement>Bei einigen von diesen Feuerwerken waren Unfälle.</statement>
+               <explanation_marker>
+                  <statement>Zum Beispiel in der Nähe vom U-Bahnhof Baumwall.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Der U-Bahnhof Baumwall ist im Hamburger Hafen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei dem Unfall wurde eine Frau am Auge verletzt.</statement>
+               <statement>Diese Frau ist 71 Jahre alt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Frau war auf einer Brücke.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann haben Menschen einen Böller in die Nähe von der Frau geworfen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und dann ist der Böller explodiert.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Bei der Explosion sind Teile von dem Böller in ein Auge von der Frau geflogen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Deshalb kann die Frau auf diesem Auge <style_element type="hb">nichts</style_element> mehr sehen.</statement> 
+                     </speech>
+                  </speeches>
+               </speech_marker> 
+               <statement>Jetzt sucht die Polizei den Täter.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei weiß aber noch <style_element type="hb">nicht</style_element>:</statement> 
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Wer ist der Täter?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

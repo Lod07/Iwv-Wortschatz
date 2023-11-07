@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-25" url="2018-09-04_14-30_805.xml">
+   <title>Mehr Nachrichten vom 04.09.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-09-04_14-30</vdate>
+   <resources>
+      <resource id="1" name="2018-09-04_14-30_805-full.png" type="screenshot" url="2018-09-04_14-30_805-full.png"/>
+      <resource id="2" name="2018-09-04_14-30_805_plaintext.txt" type="plaintext" url="2018-09-04_14-30_805_plaintext.txt"/>
+      <resource id="3" name="2018-09-04_14-30_805_quellcode.txt" type="sourcecode" url="2018-09-04_14-30_805_quellcode.txt"/>
+      <resource id="4" name="2018-09-04_14-30_805.docx" type="formatedText" url="2018-09-04_14-30_805.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 04.09.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Mecklenburg-Vorpommern: Affe aus Zoo ist tot</subheadline>
+               <statement>Die Menschen vom Zoo in Schwerin sind traurig.</statement>
+               <statement>Ein Affe aus dem Zoo in Schwerin ist nämlich tot.</statement>
+               <statement>Der Affe ist aus seinem Käfig geklettert.</statement>
+               <statement>Dann ist der Affe aus dem Zoo weggelaufen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der Chef vom Zoo in Schwerin hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Eine Frau hat den Affen gefunden.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Der Affe lag tot an einer Straße.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Wahrscheinlich wurde der Affe von einem Auto überfahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Hamburg: Polizei durchsucht Wohnungen</subheadline>
+               <statement>In Hamburg war ein großer Polizei·einsatz.</statement>
+               <statement>Bei diesem großen Polizei·einsatz hat die Polizei viele Wohnungen durchsucht.</statement>
+               <statement>In diesen Wohnungen hat die Polizei nach Beweisen gesucht.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei will nämlich wissen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Wer hat vor einer Woche in Hamburg auf einen Mann geschossen?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Die Polizei hat eine Frau festgenommen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Vielleicht weiß die Frau:</statement>
+                     </speech>
+                     <speech id="2">
+                        <question>Wer hat auf den Mann geschossen?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Zu den Schüssen in Hamburg gibt es noch einen Text in Leichter Sprache.</statement>
+            <statement>
+               <ref>
+                  Diesen Text finden Sie <style_element type="hu">hier</style_element>.
+               </ref>
+            </statement>
+         </section>
+         <section id="4">
+            <subheadline>Niedersachsen: Schwerer Unfall auf A1</subheadline>
+               <statement>In Niedersachen war ein schwerer Unfall.</statement>
+               <explanation_marker>
+                  <statement>Dieser Unfall war auf der A1.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">A1 ist die Abkürzung für Auto·bahn 1.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Und dieser Unfall war bei Osnabrück.</statement>
+               <statement>Bei dem Unfall wurden 2 Menschen schwer verletzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Ein Lkw-Fahrer ist gegen ein Wohn·mobil gefahren.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Ein Wohn·mobil ist ein besonderes Auto.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">In einem Wohn·mobil kann man zum Beispiel schlafen.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Mit einem Wohn·mobil machen Menschen zum Beispiel Urlaub.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann ist der Lkw-Fahrer gegen ein anderes Auto gefahren.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und dann ist der Lkw-Fahrer noch in 2 andere Lkw gefahren.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Der Lkw-Fahrer wurde schwer verletzt.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Und die Beifahrerin von dem Wohnmobil wurde auch schwer verletzt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-29" url="2019-11-13_13-30_192.xml">
+   <title>Mehr Nachrichten vom 13.11.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-11-13_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-11-13_13-30_192-full.png" type="screenshot" url="2019-11-13_13-30_192-full.png"/>
+      <resource id="2" name="2019-11-13_13-30_192_plaintext.txt" type="plaintext" url="2019-11-13_13-30_192_plaintext.txt"/>
+      <resource id="3" name="2019-11-13_13-30_192_quellcode.txt" type="sourcecode" url="2019-11-13_13-30_192_quellcode.txt"/>
+      <resource id="4" name="2019-11-13_13-30_192.docx" type="formatedText" url="2019-11-13_13-30_192.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 13.11.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: 2 Tote bei Unfall</subheadline>
+            <statement>Im Hamburger Hafen war ein Unfall.</statement>
+            <statement>Der Unfall war im Stadt·teil Altenwerder.</statement>
+            <statement>Bei dem Unfall ist ein Auto in einen Wasser·graben gefahren.</statement>
+            <statement>Und bei dem Unfall sind 2 Männer gestorben.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Ein Lkw-Fahrer hat ein Auto im Wasser gesehen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die Feuerwehr wollte das Auto mit einem Kran aus dem Wasser holen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dann haben Taucher die 2 toten Männer in dem Auto gefunden.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wer sind die 2 toten Männer?</question>
+                  </speech>
+                  <speech id="2">
+                     <question> Und wann war der Unfall?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Polizei·einsätze in Nord·deutschland</subheadline>
+            <statement>In Nord·deutschland waren viele Polizei·einsätze.</statement>
+            <statement>Bei diesen Polizei·einsätzen hat die Polizei viele Gebäude durchsucht.</statement>
+            <statement>Zum Beispiel Häuser.</statement>
+            <headword>Und Büros.</headword>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese Gebäude sind in 3 Bundes·ländern.</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• In Niedersachsen.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• In Bremen.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <statement>• Und in Schleswig-Holstein.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Die Polizei hat einen Mann festgenommen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Die Polizei·einsätze waren gegen Schleuser.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Schleuser holen Menschen aus anderen Ländern zum Beispiel nach Deutschland.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Dafür bekommen die Schleuser Geld von diesen Menschen.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Diese Menschen kommen oft aus armen Ländern.</style_element></statement>
+                           </explanation>
+                           <explanation id="4">
+                              <statement><style_element type="hi">Oder Ländern mit Krieg.</style_element></statement>
+                           </explanation>
+                           <explanation id="5">
+                              <statement><style_element type="hi">Aber diese Menschen dürfen <style_element type="hb">nicht</style_element> in Deutschland sein.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section> 
+      </sections> 
+   </content>
+</annotation>

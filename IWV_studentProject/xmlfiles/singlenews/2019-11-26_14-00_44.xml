@@ -1,0 +1,254 @@
+<?xml version="1.0" ?>
+<annotation adate="" url="2020-08-19_14-00_44.xml">
+   <title>Gericht weist Klage ab</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-11-26_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-11-26_14-00_44-full.png" type="screenshot" url="2019-11-26_14-00_44-full.png"/>
+      <resource id="2" name="2019-11-26_14-00_44_plaintext.txt" type="plaintext" url="2019-11-26_14-00_44_plaintext.txt"/>
+      <resource id="3" name="2019-11-26_14-00_44_quellcode.txt" type="sourcecode" url="2019-11-26_14-00_44_quellcode.txt"/>
+      <resource id="4" name="2019-11-26_14-00_44.docx" type="formatedText" url="2019-11-26_14-00_44.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>
+         Gericht weist Klage ab
+      </headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>
+                  Ein Gericht in Celle hat eine wichtige Entscheidung getroffen.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Celle ist eine Stadt in Niedersachsen.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>
+                  Das Gericht hat nämlich eine Klage von einer Firma abgewiesen.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Das heißt:
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">
+                              Die Firma wollte einen Prozess.
+                           </style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">
+                                    Ein Prozess ist ein Streit vor Gericht.
+                                 </style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                  <explanation id="3">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">
+                              Aber das Gericht hat gesagt:
+                           </style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">
+                                    Wir machen <style_element type="hb">keinen</style_element> Prozess.
+                                 </style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>
+               Diese Firma wollte Geld von Deutschland bekommen.
+            </statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Aber jetzt hat das Gericht entschieden:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        Die Firma bekommt <style_element type="hb">kein</style_element> Geld von Deutschland.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>
+               Warum hat die Firma geklagt?
+            </subheadline>
+            <statement>
+               Die Firma heißt A1 mobil.
+            </statement>
+            <explanation_marker>
+               <statement>
+                  Und die Firma hat einen Teil von der A1 ausgebaut.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           A1 ist die Abkürzung für <style_element type="hb">A</style_element>uto·bahn <style_element type="hb">1</style_element>.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>
+               Dieser Teil von der A1 ist zwischen Hamburg und Bremen.
+            </statement>
+            <explanation_marker>
+               <statement>
+                  Für den Ausbau hat die Firma einen Teil von der Maut bekommen.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Die Maut ist eine Gebühr.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">
+                           Und die Maut ist für Lkw.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <question>
+                        <style_element type="hi">
+                           Wollen Lkw-Fahrer mit ihren Lkw zum Beispiel auf Auto·bahnen fahren?
+                        </style_element>
+                     </question>
+                  </explanation>
+                  <explanation id="4">
+                     <statement>
+                        <style_element type="hi">
+                           Dann müssen die Lkw-Fahrer die Maut bezahlen.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Die Firma A1 mobil hat gesagt:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>
+                              Wir haben gedacht:
+                           </statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>
+                                 Auf der A1 fahren sehr viele Lkw.
+                              </statement>
+                           </speech>
+                           <speech id="2">
+                              <statement>
+                                 Deshalb verdienen wir mit der Maut viel Geld.
+                              </statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>
+                        Aber auf der A1 sind <style_element type="hb">nicht</style_element> so viele Lkw gefahren.
+                     </statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>
+                        Deshalb haben wir mit der Maut <style_element type="hb">nicht</style_element> so viel Geld verdient.
+                     </statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>
+                        Und deshalb wollen wir 780 Millionen Euro von Deutschland bekommen.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Aber das Gericht in Celle hat gesagt:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        Die Firma hat einen Vertrag mit der Regierung von Deutschland gemacht.
+                     </statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>
+                        In dem Vertrag steht:
+                     </statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>
+                        Die Firma bekommt einen Teil von der Maut.
+                     </statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>
+                        Aber in dem Vertrag steht <style_element type="hb">nicht</style_element>:
+                     </statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>
+                        Die Firma bekommt Geld von Deutschland.
+                     </statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>
+                        Deshalb haben wir die Klage abgewiesen.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

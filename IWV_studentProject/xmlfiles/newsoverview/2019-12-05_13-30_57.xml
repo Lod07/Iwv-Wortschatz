@@ -1,0 +1,257 @@
+<?xml version="1.0" ?>
+<annotation adate="" url="2020-08-20_13-30_57.xml">
+   <title>Mehr Nachrichten vom 05.12.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-12-05_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-12-05_13-30_57-full.png" type="screenshot" url="2019-12-05_13-30_57-full.png"/>
+      <resource id="2" name="2019-12-05_13-30_57_plaintext.txt" type="plaintext" url="2019-12-05_13-30_57_plaintext.txt"/>
+      <resource id="3" name="2019-12-05_13-30_57_quellcode.txt" type="sourcecode" url="2019-12-05_13-30_57_quellcode.txt"/>
+      <resource id="4" name="2019-12-05_13-30_57.docx" type="formatedText" url="2019-12-05_13-30_57.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>
+         Mehr Nachrichten vom 05.12.2019
+      </headline>
+      <sections>
+         <section id="1">
+            <subheadline>
+               Hamburg: Flughafen will sparen
+            </subheadline>
+            <statement>
+               Der Flughafen in Hamburg will sehr viel Geld sparen.
+            </statement>
+            <statement>
+               Der Chef von dem Flughafen ist Michael Eggenschwiler.
+            </statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Michael Eggenschwiler hat gesagt:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        Wir wollen jedes Jahr 10 Millionen Euro sparen.
+                     </statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>
+                        Wir wollen zum Beispiel bald sehr günstigen Strom kaufen.
+                     </statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>
+                        Und wir wollen mehr Geld verlangen.
+                     </statement>
+                  </speech>
+                  <speech id="4">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword>
+                              Zum Beispiel:
+                           </headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <statement>
+                                 Für die Miete von Geschäften im Flughafen.
+                              </statement>
+                           </enumeration>
+                           <enumeration id="2">
+                              <statement>
+                                 Und für Werbe·plakate im Flughafen.
+                              </statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Michael Eggenschwiler hat auch gesagt:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        Wir wollen <style_element type="hb">keine</style_element> Arbeitsplätze streichen.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line"/>
+         <section id="2">
+            <subheadline>
+               Handball: TSV Hannover-Burgdorf gewinnt
+            </subheadline>
+            <explanation_marker>
+               <statement>
+                  Die TSV Hannover-Burgdorf hat ein wichtiges Spiel gewonnen.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Die TSV Hannover-Burgdorf ist ein Handball·verein aus Niedersachsen.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>
+                  Das wichtige Spiel war im DHB-Pokal.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           DHB ist die Abkürzung für <style_element type="hb">D</style_element>eutscher <style_element type="hb">H</style_element>andball·<style_element type="hb">b</style_element>und.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>
+                  Und das wichtige Spiel war gegen die Rhein-Neckar Löwen.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Die Rhein-Neckar Löwen sind ein Handball·verein aus Baden-Württemberg.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>
+               Die TSV Hannover-Burgdorf hat das Spiel mit 31:30 gewonnen.
+            </statement>
+            <explanation_marker>
+               <statement>
+                  Jetzt ist die TSV Hannover-Burgdorf im Halb·finale vom DHB-Pokal.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Im Halb·finale sind die besten 4 Vereine von einem Wettbewerb.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>
+               Das Halb·finale vom DHB-Pokal ist im April in Hamburg.
+            </statement>
+         </section>
+         <style_element type="line"/>
+         <section id="3">
+            <subheadline>
+               Hamburg: Messer·angriff vor einem Supermarkt
+            </subheadline>
+            <statement>
+               In Niendorf war ein Messer·angriff.
+            </statement>
+            <statement>
+               Dieser Messer·angriff war vor einem Supermarkt.
+            </statement>
+            <statement>
+               Bei dem Messer·angriff hat ein Mann einen anderen Mann verletzt.
+            </statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Die Polizei hat gesagt:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        Die beiden Männer waren im Supermarkt.
+                     </statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>
+                        Und die beiden Männer haben sich gestritten.
+                     </statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>
+                        Dann sind die beiden Männer aus dem Supermarkt gegangen.
+                     </statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>
+                        Einer von den beiden Männern hatte ein großes Messer.
+                     </statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>
+                        Mit diesem großen Messer hat der Mann den anderen Mann verletzt.
+                     </statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>
+                        Dann ist der Mann geflüchtet.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>
+               Jetzt sucht die Polizei den Mann mit dem großen Messer.
+            </statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Die Polizei hat auch gesagt:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        In dem Supermarkt ist eine Kamera.
+                     </statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>
+                        Diese Kamera hat ein Video von den beiden Männern gemacht.
+                     </statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>
+                        Dieses Video gucken wir uns an.
+                     </statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>
+                        DDieses Video kann uns nämlich zeigen:
+                     </statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>
+                        So sieht der Mann mit dem großen Messer aus.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line"/>
+      </sections>
+   </content>
+</annotation>

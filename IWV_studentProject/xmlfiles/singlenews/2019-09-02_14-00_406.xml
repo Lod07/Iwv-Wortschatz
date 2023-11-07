@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-05" url="2019-09-02_14-00_406.xml">
+   <title>2 Tote bei Feuer in Alten·heim</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-09-02_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-09-02_14-00_406-full.png" type="screenshot" url="2019-09-02_14-00_406-full.png"/>
+      <resource id="2" name="2019-09-02_14-00_406_plaintext.txt" type="plaintext" url="2019-09-02_14-00_406_plaintext.txt"/>
+      <resource id="3" name="2019-09-02_14-00_406_quellcode.txt" type="sourcecode" url="2019-09-02_14-00_406_quellcode.txt"/>
+      <resource id="4" name="2019-09-02_14-00_406.docx" type="formatedText" url="2019-09-02_14-00_406.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>2 Tote bei Feuer in Alten·heim</headline>
+      <sections>
+         <section id="1">
+            <statement>In Niedersachsen war ein großes Feuer.</statement>
+            <explanation_marker>
+               <statement>Das Feuer war in Stollhamm.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Stollhamm ist in der Nähe von Nordenham.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Stollhamm ist an der Nordsee.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und das Feuer war in einem Alten·heim.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Alten·heim ist ein Haus.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In diesem Haus wohnen alte Menschen.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Helfer kümmern sich um diese alten Menschen.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Die Helfer bringen den alten Menschen zum Beispiel Essen.</style_element></statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement><style_element type="hi">Die Helfer in einem Alten·heim heißen auch Pfleger.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Feuer sind 2 Männer gestorben.</statement>
+            <statement>Und ein Arbeiter von dem Alten·heim wurde verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+            <statement>In dem Alten·heim haben 46 Menschen gewohnt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Feuerwehr hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Feuer in dem Alten·heim war in der Nacht.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und das Feuer war im Erdgeschoss von dem Alten·heim.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Wir haben das Feuer gelöscht.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und wir haben fast alle Menschen in dem Alten·heim gerettet.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Aber 2 Männer wurden bei dem Feuer schwer verletzt.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Deshalb sind diese 2 Männer ins Kranken·haus gekommen.</statement>
+                  </speech>
+                  <speech id="7">
+                     <statement>Im Kranken·haus sind diese 2 Männer gestorben.</statement>
+                  </speech>
+                  <speech id="8">
+                     <statement>Einer von den 2 Männern war 51 Jahre alt.</statement>
+                  </speech>
+                  <speech id="9">
+                     <statement>Und der andere von den 2 Männern war 80 Jahre alt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Große Schäden</subheadline>
+            <statement>Das Feuer hat in dem Alten·heim große Schäden gemacht.</statement>
+            <statement>Deshalb können viele Menschen nicht wieder in das Alten·heim zurück.</statement>
+            <statement>Und deshalb wurden viele Menschen in andere Alten·heime gebracht.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Noch weiß <style_element type="hb">kein</style_element> Mensch:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Können alle alten Menschen bald wieder in dem Alten·heim wohnen?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum war das Feuer in dem Alten·heim?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

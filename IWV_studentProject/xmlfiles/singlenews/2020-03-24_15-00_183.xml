@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<annotation adate="" url="2020-03-24_15-00_183.xml">
+   <title>Corona-Virus: Menschen halten sich an Regeln</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-03-24_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-03-24_15-00_183-full.png" type="screenshot" url="2020-03-24_15-00_183-full.png"/>
+      <resource id="2" name="2020-03-24_15-00_183_plaintext.txt" type="plaintext" url="2020-03-24_15-00_183_plaintext.txt"/>
+      <resource id="3" name="2020-03-24_15-00_183_quellcode.txt" type="sourcecode" url="2020-03-24_15-00_183_quellcode.txt"/>
+      <resource id="4" name="2020-03-24_15-00_183.docx" type="formatedText" url="2020-03-24_15-00_183.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Corona-Virus: Menschen halten sich an Regeln</headline>
+      <sections>
+         <section id="1">
+            <statement>Immer mehr Menschen haben das Corona-Virus.</statement>
+            <statement>Das Corona-Virus ist nämlich sehr ansteckend.</statement>
+            <statement>Deshalb gibt es viele neue Regeln.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <statement>• Die Menschen sollen <style_element type="hb">keinen</style_element> Kontakt zu anderen Menschen haben.</statement>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Die Menschen dürfen nur allein nach draußen gehen.</statement>
+                     <headword>Oder zu zweit.</headword>
+                     <headword> Oder mit der Familie.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <statement>• Und die Menschen müssen Abstand zu anderen Menschen halten.</statement>
+                     <statement>Dieser Abstand muss mindestens 1,5 Meter groß sein.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>   
+         </section>
+         <section id="2">
+            <statement>Jetzt gibt es eine neue Umfrage.</statement>
+            <statement>Eine Frage in dieser Umfrage war:</statement>
+            <question>Finden Sie die neuen Regeln gut?</question>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Und fast alle Menschen haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <headword>Ja.</headword>
+                  </speech>
+                  <speech id="2">
+                     <statement>Ich finde die neuen Regeln gut.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Die Polizei kontrolliert die neuen Regeln.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Und die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die meisten Menschen in Deutschland halten sich an diese Regeln.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Das ist wichtig.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dann können sich die Menschen nämlich <style_element type="hb">nicht</style_element> so leicht mit dem Corona-Virus anstecken.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Hohe Strafen</subheadline>
+            <question>Halten sich die Menschen <style_element type="hb">nicht</style_element> an die Regeln?</question>
+            <statement>Dann bekommen diese Menschen eine Strafe.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt hat Nordrhein-Westfalen gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir haben hohe Strafen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword>Zum Beispiel:</headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <question>• Treffen sich mehr als 2 Menschen draußen?</question>
+                           </enumeration>
+                           <enumeration id="2">
+                               <statement>Dann muss jeder von diesen Menschen 200 Euro bezahlen.</statement>
+                           </enumeration>
+                           <enumeration id="3">
+                              <question>• Oder macht ein Mensch eine verbotene Sport·veranstaltung?</question>
+                           </enumeration>
+                           <enumeration id="4">
+                             <statement>Dann muss dieser Mensch 1000 Euro bezahlen.</statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>      
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="5">
+         <statement>Dieses Strafen sind nur für Menschen in Nordrhein-Westfalen.</statement>
+         <statement>Aber auch in anderen Bundes·ländern können Menschen hohe Strafen bekommen.</statement>
+         <statement>Die neuen Regeln gelten bis zum 6. April.</statement>
+         <speech_marker>
+            <speech_intro>
+               <statement>Aber vielleicht entscheiden die Politiker bald:</statement>
+            </speech_intro>
+            <speeches>
+               <speech id="1">
+                  <statement>Die neuen Regeln gelten noch länger.</statement>
+               </speech>
+            </speeches>
+         </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

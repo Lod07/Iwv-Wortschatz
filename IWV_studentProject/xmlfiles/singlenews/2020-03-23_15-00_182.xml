@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-24" url="2020-03-23_15-00_182.xml">
+   <title>Neue Regeln wegen Corona-Virus</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-03-23_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-03-23_15-00_182-full.png" type="screenshot" url="2020-03-23_15-00_182-full.png"/>
+      <resource id="2" name="2020-03-23_15-00_182_plaintext.txt" type="plaintext" url="2020-03-23_15-00_182_plaintext.txt"/>
+      <resource id="3" name="2020-03-23_15-00_182_quellcode.txt" type="sourcecode" url="2020-03-23_15-00_182_quellcode.txt"/>
+      <resource id="4" name="2020-03-23_15-00_182.docx" type="formatedText" url="2020-03-23_15-00_182.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Neue Regeln wegen Corona-Virus</headline>
+      <sections>
+         <section id="1">
+            <statement>Viele Menschen haben Angst vor dem Corona-Virus.</statement>
+            <statement>Das Corona-Virus kann Menschen nämlich krank machen.</statement>
+            <statement>Und immer mehr Menschen haben das Corona-Virus.</statement>
+            <statement>Das Corona-Virus ist nämlich sehr ansteckend.</statement>
+            <statement>Deshalb gibt es viele Regeln.</statement>
+            <statement>Bisher waren in den Bundes·ländern unterschiedliche Regeln.</statement>
+            <speech_marker>
+               <speech_intro>
+                 <statement>Aber jetzt haben die wichtigsten Politiker von Deutschland gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir wollen die gleichen Regeln für alle Menschen in Deutschland.</statement>
+                  </speech>
+                  <speech id="2">
+                  <statement>Deshalb haben wir neue Regeln für alle Menschen gemacht.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Die neuen Regeln</subheadline>
+            <statement>Die Menschen sollen sich <style_element type="hb">nicht</style_element> mit dem Corona-Virus anstecken.</statement>
+            <statement>Deshalb sollen die Menschen <style_element type="hb">keinen</style_element> Kontakt zu anderen Menschen haben.</statement>
+            <statement>Und deshalb gibt es die neuen Regeln.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Die neuen Regeln sind zum Beispiel:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement>• Die Menschen dürfen nur allein nach draußen gehen.</statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <statement>Oder zu zweit.</statement>
+                           </enumeration>
+                           <enumeration id="2">
+                              <statement>Oder mit der Familie.</statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>   
+                  </enumeration>
+                  <enumeration id="2">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement>• Die Menschen sollen Abstand zu anderen Menschen halten.</statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <statement>Dieser Abstand muss mindestens 1,5 Meter groß sein.</statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </enumeration>
+                  <enumeration id="3">
+                    <enumeration_marker>
+                       <enumeration_intro>
+                          <statement>• Mehr Geschäfte müssen schließen.</statement>
+                       </enumeration_intro>
+                       <enumerations>
+                          <enumeration id="1">
+                             <statement>Zum Beispiel Frisöre.</statement>
+                          </enumeration>
+                       </enumerations>
+                    </enumeration_marker>
+                  </enumeration>
+                  <enumeration id="4">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement>• Die Menschen dürfen <style_element type="hb">nicht</style_element> mehr in den Restaurants sein.</statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <statement>Aber die Restaurants dürfen noch Speisen verkaufen.</statement>
+                           </enumeration>
+                           <enumeration id="2">
+                              <statement>Die Menschen müssen diese Speisen mit nach Hause nehmen.</statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Politiker haben auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Bestimmte Sachen dürfen die Menschen noch draußen machen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword>Zum Beispiel:</headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <statement>• Zur Arbeit gehen.</statement>
+                           </enumeration>
+                           <enumeration id="2">
+                              <statement>• Zum Einkaufen gehen.</statement>
+                           </enumeration>
+                           <enumeration id="3">
+                              <statement>• Zum Arzt gehen.</statement>
+                           </enumeration>
+                           <enumeration id="4">
+                              <statement>• Und zu wichtigen Terminen gehen.</statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                     </speech>
+                  <speech id="3">
+                     <statement>Die Menschen dürfen auch noch draußen Sport machen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Aber diese Menschen müssen allein Sport machen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Polizei kontrolliert Menschen</subheadline>
+            <statement>Die Polizei kontrolliert die Menschen.</statement>
+            <question>Halten sich die Menschen <style_element type="hb">nicht</style_element> an die neuen Regeln?</question>
+            <statement>Dann bekommen diese Menschen vielleicht eine Strafe.</statement>
+         </section>
+         <section id="5">
+            <statement>Die neuen Regeln gelten für 2 Wochen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Aber vielleicht entscheiden die Politiker bald:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die neuen Regeln gelten noch länger.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

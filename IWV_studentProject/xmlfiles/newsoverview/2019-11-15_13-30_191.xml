@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-29" url="2019-11-15_13-30_191.xml">
+   <title>Mehr Nachrichten vom 15.11.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-11-15_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-11-15_13-30_191-full.png" type="screenshot" url="2019-11-15_13-30_191-full.png"/>
+      <resource id="2" name="2019-11-15_13-30_191_plaintext.txt" type="plaintext" url="2019-11-15_13-30_191_plaintext.txt"/>
+      <resource id="3" name="2019-11-15_13-30_191_quellcode.txt" type="sourcecode" url="2019-11-15_13-30_191_quellcode.txt"/>
+      <resource id="4" name="2019-11-15_13-30_191.docx" type="formatedText" url="2019-11-15_13-30_191.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 15.11.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Polizei nimmt Mann fest</subheadline>
+            <explanation_marker>
+               <statement>Die Polizei hat in Hasbergen einen Mann festgenommen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Hasbergen ist ein Ort in der Nähe von Osnabrück.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Mann soll nämlich einen anderen Mann getötet haben.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In einem Haus war ein lauter Streit.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dann hat eine Frau im Treppenhaus einen toten Mann gefunden.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Diese Frau hat uns angerufen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Später haben wir einen Mann festgenommen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Dieser Mann hat sich wahrscheinlich mit dem anderen Mann gestritten.</statement>
+                  </speech>
+                  <speech id="6">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Und wir glauben:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Der Mann hat den anderen Mann getötet.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Brennende Autos in Kiel</subheadline>
+            <statement>In Kiel haben 6 Autos gebrannt.</statement>
+            <statement>Diese 6 Autos waren auf dem Gelände von einem Auto·händler.</statement>
+            <statement>Bei den Bränden wurde <style_element type="hb">kein</style_element> Mensch verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Wahrscheinlich haben Brand·stifter die 6 Autos angezündet.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Brand·stifter sind Menschen.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Brand·stifter machen absichtlich Feuer.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Brand·stifter wollen zum Beispiel anderen Menschen Angst machen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Jetzt ermitteln wir.</statement>
+                  </speech>
+                  <speech id="3">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Wir wollen nämlich wissen:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Wer hat die Autos angezündet?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>   
+         </section> 
+      </sections>
+   </content>
+</annotation>

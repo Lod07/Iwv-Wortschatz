@@ -1,0 +1,190 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-05" url="2019-09-03_13-30_407.xml">
+   <title>Mehr Nachrichten vom 03.09.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-09-03_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-09-03_13-30_407-full.png" type="screenshot" url="2019-09-03_13-30_407-full.png"/>
+      <resource id="2" name="2019-09-03_13-30_407_plaintext.txt" type="plaintext" url="2019-09-03_13-30_407_plaintext.txt"/>
+      <resource id="3" name="2019-09-03_13-30_407_quellcode.txt" type="sourcecode" url="2019-09-03_13-30_407_quellcode.txt"/>
+      <resource id="4" name="2019-09-03_13-30_407.docx" type="formatedText" url="2019-09-03_13-30_407.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 03.09.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Angriff mit Messer</subheadline>
+            <statement>In Hamburg war ein Angriff.</statement>
+            <statement>Der Angriff war im Stadt·teil Altona.</statement>
+            <statement>Bei dem Angriff hat ein Mann seinen Bruder getötet.</statement>
+            <statement>Und der Mann hat seine Mutter schwer verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Mann war mit seinem Bruder und seiner Mutter in einer Wohnung.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und der Mann hatte ein Messer.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dann hat der Mann seinen Bruder und seine Mutter angegriffen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Der Mann hat seinen Bruder mit dem Messer getötet.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Und der Mann hat seine Mutter sehr schwer verletzt.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Die Mutter ist in ein Kranken·haus gekommen.</statement>
+                  </speech>
+                  <speech id="7">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Die Ärzte in dem Kranken·haus haben gesagt:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Vielleicht stirbt die Mutter.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="8">
+                     <statement>Die Polizei hat den Mann festgenommen.</statement>
+                  </speech>
+                  <speech id="9">
+                     <statement>Jetzt ermittelt die Polizei.</statement>
+                  </speech>
+                  <speech id="10">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Die Polizei will nämlich wissen:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Warum hat der Mann seinen Bruder und seine Mutter angegriffen?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Bombe entschärft</subheadline>
+            <explanation_marker>
+               <statement>In Hannover haben Fach·leute eine Bombe entschärft.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Bombe war gefährlich.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Aber Fach·leute haben die Bombe ungefährlich gemacht.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Jetzt kann die Bombe <style_element type="hb">nicht</style_element> mehr explodieren.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Entschärfung von der Bombe war in der Nacht.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Vor der Entschärfung von der Bombe haben die Fach∙leute gedacht:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Vielleicht explodiert die Bombe.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Deshalb hat die Polizei viele Menschen in Sicherheit gebracht.</statement>
+            <statement>Diese Menschen mussten ihre Wohnungen verlassen.</statement>
+            <statement>Die Wohnungen waren nämlich in der Nähe von der Bombe.</statement>
+            <explanation_marker>
+               <statement>Und die Polizei hat eine Bahn·strecke gesperrt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Auf dieser Bahn·strecke durften <style_element type="hb">keine</style_element> Bahnen fahren.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Bahn·strecke war nämlich auch in der Nähe von der Bombe.</statement>
+            <statement>Am Dienstagmorgen durften die Menschen wieder in ihre Wohnungen.</statement>
+            <statement>Und die Bahnen durften wieder fahren.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Schleswig-Holstein: Besondere Übung</subheadline>
+            <statement>Am Dienstag hat eine besondere Übung begonnen.</statement>
+            <explanation_marker>
+               <statement>Diese Übung ist eine Marine-Übung.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die Marine ist ein Teil von einer Armee.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Marine hat viele Einsätze auf dem Wasser.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Zu der Marine gehören zum Beispiel Schiffe.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und diese Übung ist in der Ostsee.</statement>
+            <statement>Zum Beispiel in der Nähe von Kiel.</statement>
+            <explanation_marker>
+               <statement>Die Übung heißt Northern Coasts.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Northern Coasts ist englisch.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Northern Coasts heißt: Nördliche Küsten.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und die Übung ist jedes Jahr.</statement>
+            <statement>In diesem Jahr sind 3000 Soldaten bei der Übung.</statement>
+            <statement>Diese Soldaten sind aus verschiedenen Ländern von Europa.</statement>
+            <statement>Die meisten von diesen Soldaten sind aus Deutschland.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Soldaten üben zum Beispiel:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <question>Wie schützen wir die See·wege in der Ostsee?</question>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Ein See·weg ist ein Weg für Schiffe.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Die Übung ist noch bis zum 18. September. </statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

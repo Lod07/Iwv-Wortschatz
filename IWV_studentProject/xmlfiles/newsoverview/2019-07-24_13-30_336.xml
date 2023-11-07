@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-07-24_13-30_336.xml">
+   <title>Mehr Nachrichten vom 24.07.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-07-24_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-07-24_13-30_336-full.png" type="screenshot" url="2019-07-24_13-30_336-full.png"/>
+      <resource id="2" name="2019-07-24_13-30_336_plaintext.txt" type="plaintext" url="2019-07-24_13-30_336_plaintext.txt"/>
+      <resource id="3" name="2019-07-24_13-30_336_quellcode.txt" type="sourcecode" url="2019-07-24_13-30_336_quellcode.txt"/>
+      <resource id="4" name="2019-07-24_13-30_336.docx" type="formatedText" url="2019-07-24_13-30_336.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 24.07.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Mann beim Baden gestorben </subheadline>
+            <explanation_marker>
+               <statement>In der Nähe von Clausthal-Zellerfeld war ein Unfall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Clausthal-Zellerfeld ist eine Stadt.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">Und Clausthal-Zellerfeld ist im Harz.</style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Der Harz ist ein Gebirge.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Unfall ist ein Mann ertrunken.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Der Mann hat in einem Teich gebadet.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Ein Teich ist ein kleiner See.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dann ist der Mann plötzlich untergegangen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Andere Menschen wollten dem Mann helfen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Aber diese Menschen haben den Mann <style_element type="hb">nicht</style_element> im Wasser gefunden.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Dann haben diese Menschen die Feuerwehr gerufen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Taucher von der Feuerwehr haben den Mann im Wasser gefunden.</statement>
+            <statement>Aber dem Mann ging es sehr schlecht.</statement>
+            <statement>Deshalb wurde der Mann mit einem Hubschrauber in ein Kranken·haus geflogen.</statement>
+            <statement>In dem Kranken·haus ist der Mann gestorben.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: 4 Verletzte bei Feuer</subheadline>
+            <statement>In Rostock war ein großes Feuer.</statement>
+            <explanation_marker>
+               <statement>Das Feuer war in Evershagen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Evershagen ist ein Stadt·teil von Rostock.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und das Feuer war in einem Wohn·haus.</statement>
+            <statement>Bei dem Feuer wurden 4 Frauen verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Feuerwehr hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Feuer war in einer Wohnung.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Diese Wohnung ist im 2. Stock von dem Haus.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Die Feuer·wehr hat die 4 Frauen aus der Wohnung gerettet.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Dann hat die Feuer·wehr das Feuer gelöscht.</statement>
+                  </speech>
+                  <speech id="5">
+                     <explanation_marker>
+                        <statement>Aber das Feuer hat die Wohnung zerstört.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword>
+                                 <style_element type="hi">Das heißt:</style_element>
+                              </headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">In der Wohnung können keine Menschen mehr wohnen.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>In dem Wohn·haus war viel giftiger Rauch.</statement>
+            <statement>Die 4 Frauen haben zu viel von dem giftigen Rauch eingeatmet.</statement>
+            <statement>Deshalb haben die 4 Frauen eine Rauch·vergiftung bekommen.</statement>
+            <statement>Und deshalb wurden die 4 Frauen in ein Kranken·haus gebracht.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt will die Polizei wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum war das Feuer in der Wohnung?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-25" url="2019-04-25_13-30_498.xml">
+   <title>Mehr Nachrichten vom 25.04.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-04-25_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-04-25_13-30_498-full.png" type="screenshot" url="2019-04-25_13-30_498-full.png"/>
+      <resource id="2" name="2019-04-25_13-30_498_plaintext.txt" type="plaintext" url="2019-04-25_13-30_498_plaintext.txt"/>
+      <resource id="3" name="2019-04-25_13-30_498_quellcode.txt" type="sourcecode" url="2019-04-25_13-30_498_quellcode.txt"/>
+      <resource id="4" name="2019-04-25_13-30_498.docx" type="formatedText" url="2019-04-25_13-30_498.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 25.04.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Feuer in Wohn·haus</subheadline>
+               <explanation_marker>
+                  <statement>In Schwanewede war ein Feuer.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Schwanewede ist ein Ort bei Bremen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Dieses Feuer war in einem Wohn·haus.</statement>
+               <statement>Bei dem Feuer wurden 3 Menschen verletzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuer·wehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Bei dem Feuer waren 100 Feuerwehr·leute im Einsatz.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Die Feuerwehr·leute haben 21 Menschen gerettet.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>3 Menschen mussten aber ins Krankenhaus.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Diese Menschen haben nämlich Rauch eingeatmet.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Und dieser Rauch ist gefährlich für Menschen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Jetzt ermittelt die Polizei.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei will nämlich wissen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Warum war das Feuer in dem Wohn·haus?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+            </section>
+            <style_element type="line" />
+            <section id="2">
+               <subheadline>Mecklenburg-Vorpommern: Neues Schiff für Marine</subheadline>
+                  <statement>In Wolgast wird ein neues Schiff gebaut.</statement>
+                  <explanation_marker>
+                     <statement>Dieses Schiff ist eine Korvette.</statement>
+                     <explanations>
+                        <explanation id="1">
+                           <statement><style_element type="hi">Eine Korvette ist ein Militär·schiff.</style_element></statement>
+                        </explanation>
+                     </explanations>
+                  </explanation_marker>
+                  <explanation_marker>
+                     <statement>Und dieses Schiff ist für die Deutsche Marine.</statement>
+                     <explanations>
+                        <explanation id="1">
+                           <explanation_marker>
+                              <statement><style_element type="hi">Die Deutsche Marine gehört zur Bundes·wehr.</style_element></statement>
+                              <explanations>
+                                 <explanation id="1">
+                                    <statement><style_element type="hi">Die Bundes·wehr ist das Militär von Deutschland.</style_element></statement>
+                                 </explanation>
+                                 <explanation id="2">
+                                    <statement><style_element type="hi">Die Bundes·wehr schützt Deutschland zum Beispiel bei Angriffen.</style_element></statement>
+                                 </explanation>
+                                 <explanation id="3">
+                                    <statement><style_element type="hi">Bei der Bundes·wehr arbeiten viele Soldaten.</style_element></statement>
+                                 </explanation>
+                              </explanations>
+                           </explanation_marker>
+                        </explanation>
+                     </explanations>
+                  </explanation_marker>
+                  <statement>Am Donnerstag haben viele Menschen den Bau von dem Schiff gefeiert.</statement>
+                  <explanation_marker>
+                     <statement>Zum Beispiel Ursula von der Leyen.</statement>
+                     <explanations>
+                        <explanation id="1">
+                           <statement><style_element type="hi">Ursula von der Leyen ist die Chefin von der Bundes·wehr.</style_element></statement>
+                        </explanation>
+                     </explanations>
+                  </explanation_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

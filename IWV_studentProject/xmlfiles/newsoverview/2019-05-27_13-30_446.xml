@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-05" url="2019-05-27_13-30_446.xml">
+   <title>Mehr Nachrichten vom 27.05.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-05-27_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-05-27_13-30_446-full.png" type="screenshot" url="2019-05-27_13-30_446-full.png"/>
+      <resource id="2" name="2019-05-27_13-30_446_plaintext.txt" type="plaintext" url="2019-05-27_13-30_446_plaintext.txt"/>
+      <resource id="3" name="2019-05-27_13-30_446_quellcode.txt" type="sourcecode" url="2019-05-27_13-30_446_quellcode.txt"/>
+      <resource id="4" name="2019-05-27_13-30_446.docx" type="formatedText" url="2019-05-27_13-30_446.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 27.05.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Mecklenburg-Vorpommern: Bürgermeister·wahl in Rostock</subheadline>
+            <explanation_marker>
+               <statement>In Rostock war eine Bürgermeister·wahl.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bei einer Bürgermeister·wahl entscheiden die Menschen:</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <question><style_element type="hi">Wer wird der neue Bürgermeister?</style_element></question>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dieser Bürgermeister·wahl haben viele Menschen 2 Politiker gewählt.</statement>  
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese 2 Politiker sind:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <explanation_marker>
+                        <statement>• Claus Ruhe Madsen.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>Claus Ruhe Madsen ist aus Dänemark.</statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>Und Claus Ruhe Madsen ist in <style_element type="hb">keiner</style_element> Partei.</statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement>Aber 2 Parteien haben Claus Ruhe Madsen unterstützt:</statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <headword>• Die CDU.</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">CDU ist die Abkürzung für <style_element type="hb">C</style_element>hristlich <style_element type="hb">D</style_element>emokratische <style_element type="hb">U</style_element>nion.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="3">
+                     <explanation_marker>
+                        <statement>• Und die FDP.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">FDP ist die Abkürzung für <style_element type="hb">F</style_element>reie <style_element type="hb">D</style_element>emokratische <style_element type="hb">P</style_element>artei.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="4">
+                     <explanation_marker>
+                        <statement>• Und Steffen Bockhahn.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>Steffen Bockhahn ist in der Partei Die Linke.</statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <explanation_marker>
+               <statement>Aber <style_element type="hb">keiner</style_element> von den 2 Politikern hat die absolute Mehrheit bekommen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <question><style_element type="hi">Wählen mindestens die Hälfte der Menschen einen bestimmten Politiker?</style_element></question>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Dann hat dieser Politiker die absolute Mehrheit.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und dann ist dieser Politiker Bürgermeister.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Deshalb müssen die Menschen in Rostock am 16. Juni noch einmal wählen.</statement>
+            <statement>Bei dieser Wahl machen nur Claus Ruhe Madsen und Steffen Bockhahn mit.</statement>
+            <statement>Nach der Wahl wissen die Menschen:</statement>
+            <statement>Dieser Politiker ist der neue Bürgermeister von Rostock.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Totes Baby gefunden</subheadline>
+            <statement>Eine Frau hat in Rostock ein totes Baby gefunden.</statement>
+            <statement>Das tote Baby war auf einer Straße.</statement>
+            <statement>Und das tote Baby war nackt.</statement>
+            <statement>Dann hat die Frau die Polizei gerufen.</statement>
+            <statement>Die Polizei hat das tote Baby untersucht.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Dann hat die Polizei gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Baby wurde gerade erst geboren.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und das Baby hat bei der Geburt noch gelebt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Später hat die Polizei eine Frau festgenommen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei glaubt nämlich:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Diese Frau ist die Mutter von dem toten Baby.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt will die Polizei wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum hat die Mutter ihr Baby alleingelassen?</question>
+                  </speech>
+                  <speech id="2">
+                     <question>Und warum ist das Baby gestorben?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

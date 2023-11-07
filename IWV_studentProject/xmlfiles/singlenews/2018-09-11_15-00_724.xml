@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-25" url="2018-09-11_15-00_724.xml">
+   <title>Werft baut besonderes Schiff</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-09-11_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-09-11_15-00_724-full.png" type="screenshot" url="2018-09-11_15-00_724-full.png"/>
+      <resource id="2" name="2018-09-11_15-00_724_plaintext.txt" type="plaintext" url="2018-09-11_15-00_724_plaintext.txt"/>
+      <resource id="3" name="2018-09-11_15-00_724_quellcode.txt" type="sourcecode" url="2018-09-11_15-00_724_quellcode.txt"/>
+      <resource id="4" name="2018-09-11_15-00_724.docx" type="formatedText" url="2018-09-11_15-00_724.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Werft baut besonderes Schiff</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Warnemünde ist ein besonderes Fest.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Warnemünde ist ein Stadt·teil von Rostock.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Rostock ist eine Stadt in Mecklenburg-Vorpommern.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Das Fest ist auf den MV Werften.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die MV Werften sind eine große Firma.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Auf den MV Werften bauen Arbeiter Schiffe.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Das Fest ist für ein neues Kreuz·fahrt·schiff.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Auf einem Kreuz·fahrt·schiff machen Menschen Urlaub.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In diesem Urlaub lernen die Menschen viele Orte kennen.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Ein Kreuz·fahrt·schiff hält nämlich in vielen Orten.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Am Dienstag hat nämlich der Bau von diesem neuen Kreuz·fahrt·schiff begonnen.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Platz für 9500 Urlauber</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Ein Sprecher von den MV Werften hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Viele Arbeiter arbeiten an dem Kreuz·fahrt·schiff.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Einige Arbeiter bauen einen großen Teil von dem Kreuz·fahrt·schiff in Warnemünde.</statement>
+                     </speech>
+                     <speech id="3">
+                        <explanation_marker>
+                           <statement>Und andere Arbeiter bauen einen anderen Teil von dem Kreuz·fahrt·schiff in Wismar.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Wismar ist eine Stadt in Mecklenburg-Vorpommern.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="4">
+                        <statement>Das Kreuz·fahrt·schiff ist in 2 Jahren fertig.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Dann kommt das Kreuz·fahrt·schiff nach Asien.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der Sprecher von den MV Werften hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Das Kreuz·fahrt·schiff ist besonders.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Auf dem Kreuz·fahrt·schiff können nämlich 9500 Menschen Urlaub machen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>So viele Menschen passen auf <style_element type="hb">kein</style_element> anderes Kreuz·fahrt·schiff.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und so ein großes Schiff haben wir noch <style_element type="hb">nie</style_element> gebaut.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

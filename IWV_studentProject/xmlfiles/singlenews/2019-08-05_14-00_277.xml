@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2019-08-05_14-00_277.xml">
+   <title>Nach Vergewaltigung: Polizei macht großen Test</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-08-05_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-08-05_14-00_277-full.png" type="screenshot" url="2019-08-05_14-00_277-full.png"/>
+      <resource id="2" name="2019-08-05_14-00_277_plaintext.txt" type="plaintext" url="2019-08-05_14-00_277_plaintext.txt"/>
+      <resource id="3" name="2019-08-05_14-00_277_quellcode.txt" type="sourcecode" url="2019-08-05_14-00_277_quellcode.txt"/>
+      <resource id="4" name="2019-08-05_14-00_277.docx" type="formatedText" url="2019-08-05_14-00_277.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Nach Vergewaltigung: Polizei macht großen Test</headline>
+      <sections>
+         <section id="1">
+            <statement>Die Polizei sucht einen Mann.</statement>
+            <explanation_marker>
+               <statement>Dieser Mann hat nämlich eine Frau vergewaltigt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Der Mann hat die Frau zum Sex gezwungen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Vergewaltigung war in Parchim.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Parchim ist eine Stadt in Mecklenburg-Vorpommern.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt hat die Polizei gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>300 Männer sollen einen DNA-Test machen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Diese Männer waren während der Tat in Parchim.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>DNA-Test</subheadline>
+            <explanation_marker>
+               <statement>Jeder Mensch hat eine DNA.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">In der DNA ist das Erb·gut von einem Menschen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement><style_element type="hi">Das Erb·gut bestimmt zum Beispiel:</style_element></statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <question><style_element type="hi">• Welche Haar·farbe hat ein Mensch?</style_element></question>
+                           </enumeration>
+                           <enumeration id="2">
+                              <question><style_element type="hi">• Oder wie groß ist ein Mensch?</style_element></question>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die DNA ist bei jedem Menschen unterschiedlich.</statement>
+            <statement>Und die DNA ist überall in einem Menschen.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <statement>• In den Haaren.</statement>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Und in der Haut.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Fach·leute können die DNA von Menschen testen.</statement>
+            <statement>Dieser Test heißt: DNA-Test.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Test mit 300 Männern</subheadline>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In Parchim hat ein Mann eine Frau vergewaltigt.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Bei der Frau haben wir DNA von diesem Mann gefunden.</statement>
+                  </speech>
+                  <speech id="3">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Wir wissen aber noch <style_element type="hb">nicht</style_element>:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Wer ist dieser Mann?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb machen wir jetzt einen großen DNA-Test.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Zu diesem Test sollen 300 Männer kommen.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Und diese 300 Männer sollen ihre DNA abgeben.</statement>
+                  </speech>
+                  <speech id="7">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Dann wissen wir:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Hat einer von diesen Männern die Frau vergewaltigt?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="8">
+                     <statement>Und dann können wir diesen Mann festnehmen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

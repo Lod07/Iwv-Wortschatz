@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-25" url="2019-06-20_13-30_326.xml">
+   <title>Mehr Nachrichten vom 20.06.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-06-20_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-06-20_13-30_326-full.png" type="screenshot" url="2019-06-20_13-30_326-full.png"/>
+      <resource id="2" name="2019-06-20_13-30_326_plaintext.txt" type="plaintext" url="2019-06-20_13-30_326_plaintext.txt"/>
+      <resource id="3" name="2019-06-20_13-30_326_quellcode.txt" type="sourcecode" url="2019-06-20_13-30_326_quellcode.txt"/>
+      <resource id="4" name="2019-06-20_13-30_326.docx" type="formatedText" url="2019-06-20_13-30_326.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 20.06.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen:  Viele Konzerte in Scheeßel</subheadline>
+               <explanation_marker>
+                  <statement>In Niedersachen ist ein großes Musik·festival.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Bei einem Musik·festival gibt es viele Musik·konzerte.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Dieses Musik·festival heißt: Hurricane.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Hurricane ist Englisch.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und Hurricane bedeutet: schwerer Sturm.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Das Musik·festival ist in Scheeßel.</statement>
+               <statement>Das Musik·festival ist vom 21. bis 23. Juni.</statement>
+               <statement>Und bei dem Musik·festival spielen 90 Bands.</statement>
+               <statement>Zum Beispiel die Toten Hosen.</statement>
+               <statement>Bei dem Musik·festival sind 65.000 Besucher.</statement>
+               <statement>Viele von den Konzerten gibt es aber auch im Internet.</statement>
+               <statement>Zum Beispiel beim NDR.</statement>
+         </section>
+         <section id="2">
+            <statement>Zum Musik·festival gibt es noch einen Text mit vielen Informationen.</statement>
+            <statement>Dieser Text ist aber nicht in Leichter Sprache.</statement>
+            <question>Sie möchte diesen Text lesen?</question>
+            <statement>Dann klicken Sie hier.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Hamburg:  Probleme nach Strom·ausfall</subheadline>
+               <statement>In Hamburg war ein Strom·ausfall.</statement>
+               <explanation_marker>
+                  <statement>Der Strom·ausfall war in der City Nord.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Die City Nord ist ein Gebiet im Norden von Hamburg.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">In diesem Gebiet sind viele Büros.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Und der Strom·ausfall war am Flughafen von Hamburg.</statement>
+               <statement>Der Strom·ausfall war nur kurz.</statement>
+               <statement>Aber bei dem Strom·ausfall haben viele Sachen nicht mehr funktioniert.</statement>
+               <statement>Zum Beispiel Ampeln.</statement>
+               <statement>Deshalb hat es viele Probleme gegeben.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,172 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-25" url="2018-09-11_14-30_769.xml">
+   <title>Mehr Nachrichten vom 11.09.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-09-11_14-30</vdate>
+   <resources>
+      <resource id="1" name="2018-09-11_14-30_769-full.png" type="screenshot" url="2018-09-11_14-30_769-full.png"/>
+      <resource id="2" name="2018-09-11_14-30_769_plaintext.txt" type="plaintext" url="2018-09-11_14-30_769_plaintext.txt"/>
+      <resource id="3" name="2018-09-11_14-30_769_quellcode.txt" type="sourcecode" url="2018-09-11_14-30_769_quellcode.txt"/>
+      <resource id="4" name="2018-09-11_14-30_769.docx" type="formatedText" url="2018-09-11_14-30_769.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 11.09.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Flüge fallen aus</subheadline>
+               <explanation_marker>
+                  <statement>Einige Menschen wollen am Mittwoch streiken.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Diese Menschen wollen <style_element type="hb">nicht</style_element> arbeiten.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Diese Menschen sind nämlich mit ihrer Arbeit <style_element type="hb">nicht</style_element> zufrieden.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Diese Menschen wollen zum Beispiel mehr Geld.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Diese Menschen sind zum Beispiel Piloten.</statement>
+               <headword>Oder Flug·begleiter.</headword>
+               <explanation_marker>
+                  <statement>Und diese Menschen arbeiten bei Ryanair.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Ryanair ist eine Flug·gesellschaft.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Ryanair hat viele Flugzeuge.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Mit den Flugzeugen fliegen viele Menschen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Deshalb fliegen viele Flugzeuge von Ryanair am Mittwoch <style_element type="hb">nicht</style_element>.</statement>
+               <statement>Zum Beispiel in Hamburg.</statement>
+               <statement>Und in Hannover.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Niedersachsen: Brennende Autos</subheadline>
+               <statement>In Hannover haben 4 Autos gebrannt.</statement>
+               <explanation_marker>
+                  <statement>Diese Autos waren in Linden-Nord.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Linden-Nord ist ein Stadt·teil von Hannover.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Feuer waren wahrscheinlich <style_element type="hb">kein</style_element> Unfall.</statement>
+                     </speech>
+                     <speech id="2">
+                        <explanation_marker>
+                           <statement>Brand·stifter haben die Autos wahrscheinlich angezündet.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Brand·stifter sind Menschen.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <explanation_marker>
+                                    <statement><style_element type="hi">Brand·stifter machen absichtlich Feuer.</style_element></statement>
+                                    <explanations>
+                                       <explanation id="1">
+                                          <headword><style_element type="hi">Das heißt:</style_element></headword>
+                                       </explanation>
+                                       <explanation id="2">
+                                          <statement><style_element type="hi">Die Menschen zünden zum Beispiel ein Haus an.</style_element></statement>
+                                       </explanation>
+                                    </explanations>
+                                 </explanation_marker>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Brand·stifter wollen zum Beispiel anderen Menschen Angst machen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb haben wir die Brand·stifter gesucht.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Aber wir haben die Brand·stifter <style_element type="hb">nicht</style_element> gefunden.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Die Polizei hat gesucht:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <statement>• Mit 22 Polizei·autos.</statement>
+                     </enumeration>
+                     <enumeration id="2">
+                        <statement>• Und mit einem Hubschrauber.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+         </section>
+         <section id="3">
+            <subheadline>Hamburg: Neue Bezirksleiterin in Harburg</subheadline>
+               <explanation_marker>
+                  <statement>In Harburg war eine Wahl.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Harburg ist ein Stadt·teil von Hamburg.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Bei dieser Wahl haben Politiker einen neuen Bezirks·amts·leiter für Harburg gewählt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Bezirks·amts·leiter ist der Chef von einem Bezirk.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die neue Bezirks·amts·leiterin für Harburg ist Sophie Fredenhagen.</statement>
+               <explanation_marker>
+                  <statement>Sophie Fredenhagen ist von der SPD.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">SPD ist die Abkürzung für Sozial·demokratische Partei Deutschlands.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <section id="4">
+            <statement>Vor Sophie Fredenhagen war Thomas Völsch der Bezirks·amts·leiter von Harburg.</statement>
+            <statement>Aber Thomas Völsch war sehr krank.</statement>
+            <statement>Und Thomas Völsch ist gestorben.</statement>
+            <statement>Deshalb mussten Politiker einen neuen Bezirks·amts·leiter für Harburg wählen.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

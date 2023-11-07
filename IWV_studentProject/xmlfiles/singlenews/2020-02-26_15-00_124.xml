@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-24" url="2020-02-26_15-00_124.xml">
+   <title>Frachter verliert Teil von Ruder</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-02-26_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-02-26_15-00_124-full.png" type="screenshot" url="2020-02-26_15-00_124-full.png"/>
+      <resource id="2" name="2020-02-26_15-00_124_plaintext.txt" type="plaintext" url="2020-02-26_15-00_124_plaintext.txt"/>
+      <resource id="3" name="2020-02-26_15-00_124_quellcode.txt" type="sourcecode" url="2020-02-26_15-00_124_quellcode.txt"/>
+      <resource id="4" name="2020-02-26_15-00_124.docx" type="formatedText" url="2020-02-26_15-00_124.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Frachter verliert Teil von Ruder</headline>
+      <sections>
+         <section id="1">
+            <statement>Ein Schiff hat große Probleme.</statement>
+            <statement>Dieses Schiff ist in der Nordsee.</statement>
+            <statement>Und dieses Schiff hat ein wichtiges Teil verloren.</statement>
+            <statement>Deshalb kann dieses Schiff nicht mehr richtig fahren.</statement>
+            <explanation_marker>
+               <statement>Dieses Schiff ist ein Frachter.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">Ein Frachter transportiert Waren.</style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <enumeration_marker>
+                                 <enumeration_intro>
+                                    <statement>
+                                       <style_element type="hi">Waren sind zum Beispiel:</style_element>
+                                    </statement>
+                                 </enumeration_intro>
+                                 <enumerations>
+                                    <enumeration id="1">
+                                       <headword>
+                                          <style_element type="hi">• Obst.</style_element>
+                                       </headword>
+                                    </enumeration>
+                                    <enumeration id="2">
+                                       <headword>
+                                          <style_element type="hi">• Oder Kleidung.</style_element>
+                                       </headword>
+                                    </enumeration>
+                                 </enumerations>
+                              </enumeration_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Auf dem Frachter sind 23 Menschen.</statement>
+            <statement>Einer von diesen 23 Menschen wurde leicht verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+            <explanation_marker>
+               <statement>Der Frachter war 120 Kilometer vor Helgoland.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Helgoland ist eine Insel in der Nordsee.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Vor Helgoland war starker Wind.</statement>
+            <statement>Und vor Helgoland waren hohe Wellen.</statement>
+            <explanation_marker>
+               <statement>Deshalb hat der Frachter ein Ruder·blatt verloren.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">Ein Ruder·blatt ist ein Teil von einem Ruder.</style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Mit einem Ruder kann ein Mensch zum Beispiel ein Schiff lenken.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und deshalb kann der Frachter jetzt nicht mehr richtig fahren.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>
+                        <style_element type="hi">Das heißt:</style_element>
+                     </headword>
+                  </explanation>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Der Kapitän hat keine Kontrolle mehr über den Frachter.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Deshalb braucht der Frachter Hilfe.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was passiert jetzt?</subheadline>
+            <statement>Ein besonderes Schiff ist am Mittwoch zu dem Frachter gefahren.</statement>
+            <explanation_marker>
+               <statement>Dieses besondere Schiff ist ein Schlepper.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Ein Schlepper hat einen sehr starken Motor.</style_element>
+                     </statement>
+                  </explanation>
+                   <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Deshalb kann ein Schlepper andere Schiffe ziehen.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Schlepper zieht den Frachter in den Hafen von Bremerhaven.</statement>
+            <statement>In Bremerhaven können Fach·leute dann den Frachter reparieren.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

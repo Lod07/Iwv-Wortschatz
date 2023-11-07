@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2020-01-13_14-00_81.xml">
+   <title>Lkw überfährt Rad·fahrer</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-01-13_14-00</vdate>
+   <resources>
+      <resource id="1" name="2020-01-13_14-00_81-full.png" type="screenshot" url="2020-01-13_14-00_81-full.png"/>
+      <resource id="2" name="2020-01-13_14-00_81_plaintext.txt" type="plaintext" url="2020-01-13_14-00_81_plaintext.txt"/>
+      <resource id="3" name="2020-01-13_14-00_81_quellcode.txt" type="sourcecode" url="2020-01-13_14-00_81_quellcode.txt"/>
+      <resource id="4" name="2020-01-13_14-00_81.docx" type="formatedText" url="2020-01-13_14-00_81.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Lkw überfährt Rad·fahrer</headline>
+      <sections>
+         <section id="1">
+         <statement>In Hamburg war ein schwerer Unfall.</statement>
+         <statement>Der Unfall war an einer Kreuzung.</statement>
+         <explanation_marker>
+            <statement>Diese Kreuzung ist in Wandsbek.</statement>
+            <explanations>
+               <explanation id="1">
+                  <statement><style_element type="hi">Wandsbek ist ein Stadt·teil von Hamburg.</style_element></statement>
+               </explanation>
+            </explanations>
+         </explanation_marker>
+         <statement>Bei dem Unfall hat ein Lkw einen Rad·fahrer überfahren.</statement>
+         <statement>Dieser Lkw ist ein Müll·wagen.</statement>
+         <statement>Der Rad·fahrer ist bei dem Unfall gestorben.</statement>
+         <statement>Der Rad·fahrer war 60 Jahre alt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Rad·fahrer war an einer Kreuzung.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>An dieser Kreuzung wollte der Rad·fahrer über die Straße fahren.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>An der Kreuzung war auch ein Lkw.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Dieser Lkw wollte abbiegen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Beim Abbiegen hat der Lkw-Fahrer den Rad·fahrer <style_element type="hb">nicht</style_element> gesehen.</statement> 
+                  </speech>
+                  <speech id="6">
+                     <statement>Deshalb hat der Lkw den Rad·fahrer überfahren.</statement>
+                  </speech>
+                  <speech id="7">
+                     <statement>Der Rad·fahrer war sofort tot.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Unfälle beim Abbiegen</subheadline>
+               <statement>In Hamburg sind öfter Unfälle mit Lkw und Rad·fahrern.</statement>
+               <statement>Viele von diesen Unfällen sind beim Abbiegen.</statement>
+               <statement>Oft sehen die Lkw-Fahrer die Rad·fahrer nämlich <style_element type="hb">nicht</style_element>.</statement> 
+               <statement>Deshalb testen Fach·leute jetzt eine neue Technik in Hamburg.</statement>
+               <statement>Diese Technik ist für Lkw.</statement>
+               <statement>Und diese Technik soll beim Abbiegen helfen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Technik warnt den Lkw-Fahrer:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <headword>Vorsicht!</headword>
+                     </speech>
+                     <speech id="2">
+                        <statement>Neben Ihrem Lkw ist jetzt ein Rad·fahrer.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Sie dürfen <style_element type="hb">nicht</style_element> abbiegen.</statement> 
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Der Lkw in Wandsbek hatte diese Technik <style_element type="hb">nicht</style_element>.</statement>    
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-29" url="2018-03-07_15-00_944.xml">
+   <title>Handballer von Hannover-Burgdorf gewinnen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-03-07_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-03-07_15-00_944-full.png" type="screenshot" url="2018-03-07_15-00_944-full.png"/>
+      <resource id="2" name="2018-03-07_15-00_944_plaintext.txt" type="plaintext" url="2018-03-07_15-00_944_plaintext.txt"/>
+      <resource id="3" name="2018-03-07_15-00_944_quellcode.txt" type="sourcecode" url="2018-03-07_15-00_944_quellcode.txt"/>
+      <resource id="4" name="2018-03-07_15-00_944.docx" type="formatedText" url="2018-03-07_15-00_944.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Handballer von Hannover-Burgdorf gewinnen</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Die TSV Hannover-Burgdorf hat ein wichtiges Spiel gewonnen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die TSV Hannover-Burgdorf ist ein Handball·verein aus Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Das wichtige Spiel war im DHB-Pokal.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">DHB ist die Abkürzung für Deutscher Handball·bund.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und das wichtige Spiel war gegen Frisch Auf Göppingen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Göppingen ist eine Stadt in Baden-Württemberg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Jetzt ist die TSV Hannover-Burgdorf im Halb·finale vom DHB-Pokal.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Im Halbfinale sind die besten 4 Vereine von einem Wettbewerb.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Deshalb hat sich die TSV Hannover-Burgdorf sehr gefreut.</statement>
+            <statement>Die TSV Hannover-Burgdorf war nämlich <style_element type="hb">noch nie</style_element> im Halb·finale vom DHB-Pokal.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Der DHB-Pokal</subheadline>
+               <statement>Im DHB-Pokal gibt es viele Spiele.</statement>
+               <statement>Aber nur die Gewinner von den Spielen dürfen im DHB-Pokal weiter·spielen.</statement>
+               <statement>Am Ende von dem DHB-Pokal gibt es ein Turnier.</statement>
+               <statement>In diesem Turnier spielen die besten 4 Handball·vereine.</statement>
+               <statement>Und dieses Turnier ist immer in Hamburg.</statement>
+               <statement>In diesem Jahr ist das Turnier am 5. Mai und am 6. Mai.</statement>
+               <statement>Der Gewinner von diesem Turnier gewinnt den DHB-Pokal.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Mortensen bester Spieler</subheadline>
+               <explanation_marker>
+                  <statement>Die TSV Hannover-Burgdorf hat das Spiel gegen Frisch Auf Göppingen mit 31:30 gewonnen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Die TSV Hannover-Burgdorf hat 31 Tore geworfen.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und Frisch Auf Göppingen hat 30 Tore geworfen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bester Spieler von der TSV Hannover-Burgdorf war Casper Mortensen.</statement>
+               <statement>Casper Mortensen hat nämlich 10 Tore geworfen.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>
