@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-23" url="2018-11-30_13-30_670.xml">
+   <title>Mehr Nachrichten vom 30.11.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-11-30_13-30</vdate>
+   <resources>
+      <resource id="1" name="2018-11-30_13-30_670-full.png" type="screenshot" url="2018-11-30_13-30_670-full.png"/>
+      <resource id="2" name="2018-11-30_13-30_670_plaintext.txt" type="plaintext" url="2018-11-30_13-30_670_plaintext.txt"/>
+      <resource id="3" name="2018-11-30_13-30_670_quellcode.txt" type="sourcecode" url="2018-11-30_13-30_670_quellcode.txt"/>
+      <resource id="4" name="2018-11-30_13-30_670.docx" type="formatedText" url="2018-11-30_13-30_670.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 30.11.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Anschlag auf Haus von Politiker</subheadline>
+               <statement>In Hamburg war ein Anschlag.</statement>
+               <statement>Dieser Anschlag war mit Farbe.</statement>
+               <explanation_marker>
+                  <statement>Bei dem Anschlag haben Menschen Farbe auf das Haus von Olaf Scholz geworfen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Olaf Scholz ist ein wichtiger Politiker.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Olaf Scholz ist von der SPD.</style_element></statement>
+                           <explanations>
+                              <explanation id="1"> 
+                                 <statement><style_element type="hi"><style_element type="hb">S</style_element>PD ist die Abkürzung für Sozial·demokratische <style_element type="hb">P</style_element>artei <style_element type="hb">D</style_element>eutschlands.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Olaf Scholz war der Bürger·meister von Hamburg.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Aber jetzt ist Olaf Scholz Finanz·minister von Deutschland.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker> 
+               <statement>Dann sind die Menschen weggelaufen.</statement>
+               <statement>Bei dem Anschlag wurde <style_element type="hb">kein</style_element> Mensch verletzt.</statement>
+               <statement>Nachbarn haben den Anschlag gesehen.</statement>
+               <statement>Und Nachbarn haben die Polizei gerufen.</statement>
+               <statement>Jetzt sucht die Polizei die Menschen.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="1">
+            <subheadline>Schleswig-Holstein: 5000 Bäume gepflanzt</subheadline>
+               <explanation_marker>
+                  <statement>Menschen haben in Rade 5000 Bäume gepflanzt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Rade ist in der Nähe von Rendsburg.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die 5000 Bäume sind zum Beispiel Eichen.</statement>
+               <headword>Und Buchen.</headword>
+               <explanation_marker>
+                  <statement>Auch Jan Philipp Albrecht hat in Rade Bäume gepflanzt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Jan Philipp Albrecht ist der Umwelt·minister von Schleswig-Holstein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Jan Philipp Albrecht hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In Schleswig-Holstein ist wenig Wald.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>In anderen Regionen von Deutschland ist mehr Wald.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Auch in Schleswig-Holstein soll mehr Wald sein.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deswegen pflanzen wir noch mehr Bäume.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Bäume sind nämlich gut für die Natur.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>
