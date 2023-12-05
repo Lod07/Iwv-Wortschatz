@@ -1,0 +1,9577 @@
+Gesamtzahl aller Wörter: 218656
+
+Anzahl Wortarten:
+NOUN: 57015
+ADP: 26198
+PROPN: 14717
+VERB: 19804
+AUX: 22620
+DET: 41162
+ADV: 15434
+NUM: 3256
+PRON: 4356
+CCONJ: 5442
+PART: 1559
+ADJ: 6969
+X: 79
+SCONJ: 36
+PUNCT: 8
+INTJ: 1
+
+Wort - Wortart nach pos - Wortart nach tag- Anzahl
+mädchen {'NN': 107}
+in {'APPR': 6526}
+salzgitter {'NE': 27}
+angeschossen {'VVPP': 7}
+hat {'VAFIN': 4190}
+ein {'ART': 3698, 'PTKVZ': 5}
+mensch {'NN': 599}
+auf {'APPR': 1593, 'PTKVZ': 34}
+geschossen {'VVPP': 48}
+ist {'VAFIN': 6393}
+eine {'ART': 2226}
+stadt {'NN': 474}
+niedersachsen {'NE': 638, 'NN': 1}
+das {'ART': 2377, 'PDS': 670}
+wurde {'VAFIN': 310}
+schwer {'ADJD': 196, 'PTKVZ': 2}
+verletzt {'VVPP': 532, 'VVFIN': 1}
+jahre {'NN': 324}
+alt {'ADJD': 202}
+was {'PWS': 168}
+passiert {'VVPP': 143, 'VVFIN': 15}
+war {'VAFIN': 2398}
+vor {'APPR': 339, 'PTKVZ': 2}
+dem {'ART': 2600}
+haus {'NN': 201}
+von {'APPR': 3817, 'NE': 6}
+seinen {'PPOSAT': 28}
+eltern {'NN': 44}
+und {'KON': 4147}
+silvester {'NN': 13}
+gefeiert {'VVPP': 18}
+dann {'ADV': 1238}
+mit {'APPR': 1156, 'PTKVZ': 23}
+einer {'ART': 595, 'PIS': 56}
+waffe {'NN': 21}
+die {'ART': 9001, 'PRELS': 1}
+kugel {'NN': 2}
+der {'ART': 6846}
+getroffen {'VVPP': 39}
+helfer {'NN': 53}
+haben {'VAFIN': 2321, 'VAINF': 26}
+krankenhaus {'NN': 193}
+gebracht {'VVPP': 64}
+ärzte {'NN': 87}
+operiert {'VVFIN': 1, 'VVPP': 3}
+jetzt {'ADV': 1030}
+geht {'VVFIN': 37}
+es {'PPER': 571}
+wieder {'ADV': 259, 'PTKVZ': 13}
+besser {'ADJD': 52, 'ADJA': 4}
+polizei {'NN': 1571}
+nimmt {'VVFIN': 9}
+mann {'NN': 1956}
+fest {'PTKVZ': 15, 'NN': 111, 'ADJD': 1}
+gesagt {'VVPP': 1737}
+wir {'PPER': 1278}
+einen {'ART': 718, 'ADJA': 1, 'PIS': 2}
+festgenommen {'VVPP': 141}
+zugegeben {'VVPP': 10}
+ich {'PPER': 271}
+habe {'VAFIN': 88}
+aber {'KON': 788, 'ADV': 91}
+wissen {'VVFIN': 96, 'VVINF': 239}
+nicht {'PTKNEG': 1414}
+absicht {'NN': 24}
+oder {'KON': 503}
+aus {'APPR': 713, 'PTKVZ': 77}
+versehen {'NN': 2}
+auch {'ADV': 776}
+keine {'PIAT': 354, 'PIS': 1}
+erlaubnis {'NN': 13}
+für {'APPR': 1422}
+heißt {'VVFIN': 873}
+darf {'VMFIN': 99}
+besitzen {'VVINF': 2}
+deshalb {'PROAV': 2055}
+bekommt {'VVFIN': 153}
+vielleicht {'ADV': 363}
+strafe {'NN': 148}
+fachleute {'NN': 675}
+warnen {'VVFIN': 12, 'VVINF': 2}
+sturm {'NN': 123}
+kommt {'VVFIN': 90}
+nach {'APPR': 522, 'PTKVZ': 1}
+norddeutschland {'NE': 269}
+bei {'APPR': 2176}
+einem {'ART': 1140, 'PIS': 2}
+weht {'VVFIN': 17}
+sehr {'ADV': 1122}
+starker {'ADJA': 24}
+wind {'NN': 72}
+sind {'VAFIN': 2156}
+manche {'PIAT': 48, 'PIS': 9}
+stürme {'NN': 24}
+gefährlich {'ADJD': 195}
+dieser {'PDAT': 884}
+wahrscheinlich {'ADJD': 227}
+stark {'ADJD': 32}
+deutsche {'ADJA': 65, 'NN': 1}
+wetterdienst {'NN': 15}
+gewarnt {'VVPP': 13}
+beim {'APPRART': 243}
+deutschen {'ADJA': 59}
+arbeiten {'VVFIN': 110, 'VVINF': 45, 'NN': 52}
+wetter {'NN': 38}
+diese {'PDAT': 1953}
+beobachten {'VVFIN': 6, 'VVINF': 4}
+jeden {'PIAT': 32}
+tag {'NN': 67}
+können {'VMFIN': 722, 'VMINF': 3}
+sagen {'VVFIN': 86, 'VVINF': 36}
+so {'ADV': 216}
+den {'ART': 2061}
+nächsten {'ADJA': 54}
+tagen {'NN': 31}
+am {'APPRART': 723, 'PTKA': 17}
+mittwoch {'NN': 59}
+achtung {'NN': 4}
+gefährlicher {'ADJA': 2}
+sollen {'VMFIN': 239}
+menschen {'NN': 3038}
+vorsichtig {'ADJD': 26}
+sein {'VAINF': 155, 'PPOSAT': 14}
+schleswig-holstein {'NE': 521}
+fliegen {'VVFIN': 26, 'VVINF': 17, 'NN': 1}
+viele {'PIAT': 1823, 'PIS': 45}
+sachen {'NN': 84}
+durch {'APPR': 146}
+luft {'NN': 71}
+zum {'APPRART': 1847}
+beispiel {'NN': 1675}
+dachziegel {'NN': 3}
+fallen {'VVFIN': 44, 'VVINF': 4}
+einige {'PIAT': 222, 'PIS': 57}
+bäume {'NN': 80}
+um {'PTKVZ': 6, 'APPR': 138, 'KOUI': 3}
+besten {'ADJD': 15, 'ADJA': 70}
+draußen {'ADV': 36}
+bahn {'NN': 76}
+zugstrecken {'NN': 20}
+diesen {'PDAT': 607}
+züge {'NN': 166}
+fahren {'VVINF': 434, 'VVFIN': 185, 'NN': 4}
+müssen {'VMFIN': 407}
+lange {'ADV': 163, 'ADJA': 45, 'NE': 10}
+warten {'VVINF': 47, 'VVFIN': 1, 'NN': 1}
+fähren {'NN': 45}
+konnten {'VMFIN': 151}
+gut {'ADJD': 188, 'NN': 2}
+fähre {'NN': 150}
+schiff {'NN': 161}
+transportiert {'VVFIN': 32, 'VVPP': 4}
+autos {'NN': 410}
+an {'APPR': 644, 'PTKVZ': 46, 'APZR': 1}
+nordsee {'NE': 115}
+ausgefallen {'VVPP': 25}
+wangerooge {'NE': 20}
+insel {'NN': 62}
+gehört {'VVFIN': 61, 'VVPP': 4}
+zu {'APPR': 387, 'PTKA': 112, 'PTKVZ': 6, 'PTKZU': 6, 'ADV': 5}
+schäden {'NN': 79}
+gemacht {'VVPP': 290}
+umgeweht {'VVFIN': 3, 'NE': 2, 'ADJD': 2}
+bäumen {'NN': 4}
+gefallen {'VVPP': 60}
+windkraftanlage {'NN': 39}
+kippt {'VVFIN': 2}
+hoher {'ADJA': 18}
+turm {'NN': 50}
+diesem {'PDAT': 507}
+großes {'ADJA': 217}
+windrad {'NN': 51}
+dreht {'VVFIN': 10}
+sich {'PRF': 455}
+im {'APPRART': 1156}
+macht {'VVFIN': 128, 'NN': 1}
+strom {'NN': 88}
+volksdorf {'NE': 1}
+nähe {'NN': 374}
+wiesmoor {'NE': 1}
+lkw {'NN': 352}
+straße {'NN': 195}
+geweht {'VVPP': 4}
+fahrer {'NN': 216}
+leicht {'ADJD': 98}
+lathen {'NE': 1}
+anhänger {'NN': 12}
+unfall {'NN': 1019}
+niemand {'PIS': 16}
+hamburg {'NE': 1182}
+u-bahn {'NN': 26}
+kann {'VMFIN': 209}
+baum {'NN': 47}
+gleise {'NN': 22, 'ADV': 1}
+u-bahnen {'NN': 15}
+arbeiter {'NN': 238}
+gleisen {'NN': 17}
+geholt {'VVPP': 35}
+konnte {'VMFIN': 84}
+regen {'NN': 23}
+viel {'PIAT': 241, 'ADV': 54, 'PIS': 50}
+wasser {'NN': 178}
+mehrere {'PIAT': 134, 'PIS': 2}
+keller {'NN': 13}
+gelaufen {'VVPP': 36}
+überschwemmt {'VVPP': 17}
+straßen {'NN': 241}
+feuerwehr {'NN': 275}
+weggepumpt {'ADJD': 1}
+ermittelt {'VVFIN': 121, 'VVPP': 13}
+zugunglück {'NN': 14}
+gegen {'APPR': 344}
+glaubt {'VVFIN': 38}
+nämlich {'ADV': 1215}
+schuld {'ADJD': 7, 'NN': 1}
+november {'NN': 12}
+bahnhof {'NN': 69}
+elmshorn {'NE': 16}
+zug {'NN': 206}
+entgleist {'VVFIN': 10}
+schienen {'NN': 15}
+gerutscht {'VVPP': 19}
+wurden {'VAFIN': 191}
+gibt {'VVFIN': 325}
+text {'NN': 128}
+leichter {'ADJA': 90}
+sprache {'NN': 96}
+sie {'PPER': 295}
+wollen {'VMFIN': 384}
+lesen {'VVINF': 76, 'VVFIN': 2}
+hören {'VVINF': 54, 'VVFIN': 3}
+klicken {'VVFIN': 78}
+hier {'ADV': 102}
+waren {'VAFIN': 714, 'NN': 22}
+gesperrt {'VVPP': 267}
+falschen {'ADJA': 4}
+gefahren {'VVPP': 379}
+durfte {'VMFIN': 44}
+kein {'PIAT': 314}
+kaputt {'ADJD': 54, 'PTKVZ': 44}
+kaputten {'ADJA': 24}
+glauben {'VVFIN': 117, 'NN': 2}
+lassen {'VVINF': 11, 'VVFIN': 4}
+ermitteln {'VVFIN': 14, 'VVINF': 2}
+zugausfälle {'NN': 2}
+immer {'ADV': 130}
+noch {'ADV': 448}
+repariert {'VVFIN': 4, 'VVPP': 43}
+reparatur {'NN': 37}
+wochenende {'NN': 35}
+wegen {'APPR': 49, 'NN': 1}
+preis {'NN': 29}
+film {'NN': 21}
+fatih {'NE': 8}
+akin {'NE': 8}
+wichtigen {'ADJA': 38}
+bekommen {'VVINF': 114, 'VVFIN': 98, 'VVPP': 6}
+bekannter {'ADJA': 31, 'NN': 6}
+regisseur {'NN': 2}
+filme {'NN': 17}
+kino {'NN': 1}
+nichts {'NN': 1, 'PIAT': 47, 'PIS': 15}
+golden {'NE': 9}
+globe {'NE': 9}
+wichtige {'ADJA': 159}
+preisverleihung {'NN': 3}
+los {'NE': 3, 'PTKVZ': 1}
+angeles {'NE': 3}
+große {'ADJA': 311}
+usa {'NE': 8}
+werden {'VAFIN': 76, 'VAINF': 77}
+stadtteil {'NN': 167}
+hollywood {'NE': 1}
+verschiedenen {'ADJA': 39}
+kategorien {'NN': 12}
+schauspieler {'NN': 27}
+englisch {'NN': 12, 'ADJD': 10}
+anderen {'ADJA': 410}
+fremdsprachigen {'ADJA': 1}
+gewonnen {'VVPP': 128}
+bedankt {'VVFIN': 2}
+diane {'NE': 6}
+kruger {'NE': 6}
+hannover {'NE': 312, 'ADJA': 13}
+hauptstadt {'NN': 135}
+bekannte {'ADJA': 41, 'NN': 2}
+schauspielerin {'NN': 5}
+mitgespielt {'VVPP': 4}
+gute {'ADJA': 26, 'NN': 1}
+mein {'PPOSAT': 8}
+bedanke {'VVFIN': 1}
+mich {'PRF': 30, 'PPER': 18}
+freue {'VVFIN': 25}
+über {'APPR': 289, 'ADV': 11}
+verdient {'VVFIN': 9, 'VVPP': 7}
+geld {'NN': 390}
+elbphilharmonie {'NN': 26}
+politiker {'NN': 281}
+freuen {'VVFIN': 39, 'VVINF': 2}
+konzerthaus {'NN': 8}
+musikkonzerte {'NN': 18}
+eröffnung {'NN': 17}
+gedacht {'VVPP': 27}
+besuchen {'VVINF': 6, 'VVFIN': 11}
+bezahlen {'VVFIN': 18, 'VVINF': 65}
+besuch {'NN': 9}
+dieses {'PDAT': 339}
+reicht {'VVFIN': 1}
+mehr {'PIAT': 718, 'ADV': 388, 'PIS': 13}
+heizung {'NN': 3}
+reparaturen {'NN': 16}
+verdienen {'VVFIN': 32}
+besucht {'VVPP': 8, 'VVFIN': 12}
+bezahlt {'VVPP': 9, 'VVFIN': 11}
+darüber {'PROAV': 16}
+uns {'PRF': 30, 'PPER': 83}
+jahr {'NN': 301}
+erste {'ADJA': 23}
+konzert {'NN': 26}
+zur {'APPRART': 96}
+missbrauch {'NN': 10}
+neuer {'ADJA': 75}
+prozess {'NN': 282}
+begonnen {'VVPP': 62}
+streit {'NN': 148}
+gericht {'NN': 340}
+entscheidet {'VVFIN': 50}
+etwas {'PIAT': 65, 'ADV': 10, 'PIS': 9}
+verbotenes {'NN': 99, 'ADJA': 2}
+getan {'VVPP': 92}
+junge {'ADJA': 67, 'NN': 18}
+männer {'NN': 252}
+tat {'NN': 61}
+zwischen {'APPR': 104, 'PTKVZ': 1, 'ADV': 1}
+jugendliche {'NN': 26}
+jungen {'ADJA': 21, 'NN': 26}
+sexuell {'ADJD': 20}
+missbraucht {'VVPP': 20}
+sexuellen {'ADJA': 9}
+dingen {'NN': 12}
+gezwungen {'VVPP': 12}
+schlimmes {'ADJA': 3, 'NN': 1}
+verbrechen {'NN': 48}
+gefilmt {'VVPP': 2}
+urteil {'NN': 13}
+mild {'ADJD': 5}
+februar {'NN': 25}
+monate {'NN': 57}
+verurteilt {'VVPP': 97}
+anderes {'ADJA': 57}
+schlimm {'ADJD': 23}
+urteile {'NN': 1}
+muss {'VMFIN': 338}
+neuen {'ADJA': 275}
+geben {'VVINF': 40, 'VVFIN': 5}
+neue {'ADJA': 390}
+wohnung {'NN': 137}
+hinterhof {'NN': 2}
+gelegt {'VVPP': 8}
+fast {'ADV': 55}
+erfroren {'VVPP': 3}
+nachbarn {'NN': 22}
+gefunden {'VVPP': 274}
+streiken {'VVFIN': 46, 'VVINF': 5}
+ihrer {'PPOSAT': 33}
+arbeit {'NN': 114}
+zufrieden {'ADJD': 40}
+metall- {'TRUNC': 8}
+elektroindustrie {'NN': 8}
+mechaniker {'NN': 2}
+schlosser {'NN': 2}
+wo {'PWAV': 16}
+airbus {'NE': 24, 'NN': 7}
+firma {'NN': 266}
+baut {'VVFIN': 44}
+flugzeuge {'NN': 129}
+mercedes {'NE': 3}
+mecklenburg-vorpommern {'NE': 378}
+werften {'NN': 20}
+werft {'NN': 71, 'NE': 1}
+bauen {'VVFIN': 58, 'VVINF': 46, 'NN': 6, 'ADJA': 1}
+schiffe {'NN': 149}
+reparieren {'VVFIN': 25, 'VVINF': 27}
+warum {'PWAV': 202}
+genug {'PIAT': 21, 'ADV': 17}
+unsere {'PPOSAT': 67}
+möchten {'VMFIN': 10}
+andere {'ADJA': 290, 'PIS': 7}
+arbeitszeiten {'NN': 2}
+weniger {'ADV': 6, 'PIAT': 85, 'PIS': 4, 'ADJD': 1}
+wie {'PWAV': 94, 'KOKOM': 37}
+weiter {'ADV': 35, 'PTKVZ': 14}
+nächste {'ADJA': 11}
+woche {'NN': 74}
+treffen {'NN': 71, 'VVFIN': 35, 'VVINF': 10}
+arbeitgeber {'NN': 32}
+chefs {'NN': 19}
+mitarbeitern {'NN': 32}
+mitarbeiter {'NN': 223}
+ihre {'PPOSAT': 169}
+ig {'NN': 9}
+metall {'NN': 15}
+gewerkschaft {'NN': 70}
+vereinigung {'NN': 17}
+hilft {'VVFIN': 54}
+sprechen {'VVFIN': 18, 'VVINF': 6}
+fällt {'VVFIN': 11}
+entscheidung {'NN': 33}
+angriff {'NN': 52}
+supermarkt {'NN': 43}
+geständnis {'NN': 18}
+beginn {'NN': 8}
+sagt {'VVFIN': 47}
+gebe {'VVFIN': 8}
+barmbek {'NE': 7}
+messer {'NN': 81}
+erstochen {'VVPP': 23}
+als {'KOKOM': 96, 'APPR': 41}
+entscheiden {'VVINF': 21, 'VVFIN': 18}
+feuer {'NN': 1058}
+zerstört {'VVFIN': 12, 'VVPP': 77}
+hotel {'NN': 35}
+husum {'NE': 18}
+übernachten {'VVINF': 4}
+übernachtung {'NN': 4}
+nordsee-hotel {'NN': 1}
+nacht {'NN': 51}
+gesehen {'VVPP': 110}
+gerufen {'VVPP': 37}
+gelöscht {'VVPP': 53}
+gesucht {'VVPP': 66}
+keinen {'PIAT': 53}
+geschlossen {'VVPP': 50}
+schwieriger {'ADJA': 3}
+einsatz {'NN': 74}
+feuerwehrleute {'NN': 88}
+löschen {'NN': 48, 'VVFIN': 1, 'VVINF': 41}
+schwierig {'ADJD': 33}
+mussten {'VMFIN': 134}
+hafen {'NN': 83}
+holen {'VVINF': 20, 'VVFIN': 14}
+kilometer {'NN': 22}
+entfernt {'VVPP': 1, 'ADJD': 1}
+wasserschläuche {'NN': 1}
+vom {'APPRART': 692}
+bis {'APPR': 157, 'ADV': 5, 'KON': 2}
+legen {'VVINF': 1, 'NN': 1, 'VVFIN': 3}
+wasserschläuchen {'NN': 1}
+gedauert {'VVPP': 30}
+will {'VMFIN': 283}
+entstanden {'VVPP': 19}
+mord {'NN': 8}
+lebenslang {'ADJD': 48}
+ins {'APPRART': 269}
+gefängnis {'NN': 271}
+hildesheim {'NE': 23}
+frau {'NN': 800}
+ermordet {'VVPP': 29}
+mindestens {'ADV': 26}
+prostituierte {'NN': 5}
+gearbeitet {'VVPP': 41}
+prostituierten {'NN': 1}
+sex {'NN': 11}
+dafür {'PROAV': 26}
+wohnmobil {'NN': 11}
+besonderes {'ADJA': 110, 'NN': 9}
+auto {'NN': 440}
+schlafen {'VVINF': 20, 'VVFIN': 11}
+bekannten {'NN': 3, 'ADJA': 4}
+gekommen {'VVPP': 102}
+gestritten {'VVPP': 18}
+beraubt {'VVPP': 1}
+geraubt {'VVPP': 1}
+findet {'VVFIN': 18}
+hinweise {'NN': 30}
+gezeigt {'VVPP': 15}
+geglaubt {'VVPP': 13}
+schnee {'NN': 19}
+schweres {'ADJA': 1}
+unwetter {'NN': 66}
+starke {'ADJA': 23}
+gewitter {'NN': 14}
+geschneit {'VVPP': 7}
+probleme {'NN': 139}
+gegeben {'VVPP': 68}
+durften {'VMFIN': 80}
+unfälle {'NN': 87}
+vielen {'PIAT': 150, 'PIS': 2}
+schulen {'NN': 58}
+war.kein {'ADV': 2}
+unterricht {'NN': 17}
+zugverkehr {'NN': 1}
+langsamer {'ADJD': 8}
+dürfen {'VMFIN': 252}
+autofahrer {'NN': 240}
+glatt {'ADJD': 14, 'ADV': 9}
+rutschig {'ADJD': 5}
+bremsen {'VVINF': 28, 'VVFIN': 2, 'NN': 1}
+schwerer {'ADJA': 77}
+penzlin {'NE': 4}
+gestorben {'VVPP': 309}
+trotzdem {'PROAV': 39}
+schnell {'ADJD': 104}
+lenken {'VVINF': 2}
+ihrem {'PPOSAT': 17}
+einigen {'PIAT': 76, 'VVFIN': 2, 'PIS': 1}
+behörden {'NN': 15}
+schüler {'NN': 134}
+schule {'NN': 80}
+kommen {'VVINF': 38, 'VVFIN': 122}
+wird {'VAFIN': 114}
+schlimmer {'ADJD': 2, 'ADJA': 30}
+früher {'ADJD': 54, 'ADV': 6, 'ADJA': 5}
+ende {'NN': 53}
+sicher {'ADJD': 18}
+hause {'NN': 39}
+totes {'ADJA': 5}
+baby {'NN': 85}
+mutter {'NN': 68}
+schwerin {'NE': 57}
+ihr {'PPOSAT': 20, 'PPER': 6}
+getötet {'VVPP': 135}
+wohnt {'VVFIN': 6}
+wittenburg {'NE': 5}
+sollte {'VMFIN': 14}
+wollte {'VMFIN': 137}
+behalten {'VVINF': 8}
+vater {'NN': 17}
+geschlafen {'VVPP': 6}
+kurz {'ADJD': 9}
+geburt {'NN': 6}
+erstickt {'VVPP': 3, 'VVFIN': 1}
+gefrierschrank {'NN': 4}
+versteckt {'VVPP': 10}
+gerät {'NN': 19}
+kalt {'ADJD': 16}
+lebensmittel {'NN': 7}
+einfrieren {'VVINF': 1}
+jahren {'NN': 84}
+freund {'NN': 17}
+tote {'ADJA': 75, 'NN': 24}
+wald {'NN': 58}
+toten {'ADJA': 48, 'NN': 10}
+suche {'NN': 13}
+geplant {'VVPP': 6}
+hsv {'NE': 194, 'NN': 2}
+bernd {'NE': 29}
+hollerbach {'NE': 18}
+trainer {'NN': 138}
+fußballverein {'NN': 65}
+abkürzung {'NN': 294}
+hamburger {'ADJA': 96, 'NN': 1}
+sportverein {'NN': 9}
+spielt {'VVFIN': 66}
+1. {'ADJA': 124, 'ADV': 27, 'PTKVZ': 5}
+bundesliga {'NN': 113}
+spielen {'VVFIN': 128, 'NN': 37, 'VVINF': 27}
+fußballvereine {'NN': 51}
+deutschland {'NE': 367}
+montag {'NN': 74}
+training {'NN': 12}
+alte {'ADJA': 138}
+markus {'NE': 20}
+gisdol {'NE': 5}
+spiele {'NN': 70, 'VVFIN': 3}
+verloren {'VVPP': 53, 'PTKVZ': 1}
+entlassen {'VVPP': 43, 'VVFIN': 1}
+arbeitet {'VVFIN': 35}
+chef {'NN': 166}
+heribert {'NE': 5}
+bruchhagen {'NE': 5}
+steigen {'VVFIN': 9, 'VVINF': 6}
+2. {'ADJA': 101, 'ADV': 20}
+ab {'PTKVZ': 16, 'APPR': 49}
+absteigen {'VVINF': 1}
+gewinnen {'VVFIN': 14, 'VVINF': 9}
+kennt {'VVFIN': 12}
+fußball {'NN': 31}
+gespielt {'VVPP': 67}
+guter {'ADJA': 21}
+fußballspieler {'NN': 30}
+würzburger {'ADJA': 3}
+kickers {'NN': 3}
+würzburg {'NE': 3}
+bayern {'NE': 25}
+3. {'ADJA': 29, 'PTKVZ': 2}
+liga {'NN': 7}
+brennende {'ADJA': 4}
+gebrannt {'VVPP': 100}
+eimsbüttel {'NE': 4}
+brandstifter {'NN': 24}
+angezündet {'VVPP': 14}
+machen {'VVFIN': 238, 'VVINF': 186}
+absichtlich {'ADJD': 13}
+zünden {'VVFIN': 5}
+angst {'NN': 59}
+feuerwehrmänner {'NN': 3}
+brennenden {'ADJA': 8}
+engen {'ADJA': 2}
+anwohner {'NN': 2}
+angerufen {'VVPP': 24}
+beschädigt {'VVPP': 25, 'VVFIN': 9}
+ausgebrannt {'ADJD': 4, 'VVPP': 3}
+demonstrieren {'VVINF': 9, 'VVFIN': 7}
+demonstrationen {'NN': 55}
+demonstration {'NN': 90}
+gehen {'VVFIN': 26, 'VVINF': 73}
+gemeinsam {'ADJD': 14}
+einverstanden {'ADJD': 8}
+politikern {'NN': 29}
+rufen {'VVFIN': 6, 'VVINF': 2}
+laut {'APPR': 6, 'ADJD': 26}
+meinung {'NN': 33}
+städten {'NN': 68}
+kiel {'NE': 250, 'NN': 2}
+rostock {'NE': 195}
+bremen {'NE': 124}
+größte {'ADJA': 58}
+wichtiges {'ADJA': 52, 'NN': 1}
+morgen {'ADV': 4, 'NN': 9}
+schon {'ADV': 199}
+öfter {'ADV': 3}
+geeinigt {'VVPP': 4}
+mal {'ADV': 11, 'NN': 40}
+gestreikt {'VVPP': 25}
+stunden {'NN': 59}
+protestiert {'VVPP': 5}
+streik {'NN': 97}
+tennisspielerin {'NN': 16}
+angelique {'NE': 2, 'NN': 66}
+kerber {'NE': 71, 'NN': 1}
+verliert {'VVFIN': 5}
+tennisspiel {'NN': 26}
+tennisturnier {'NN': 42}
+nur {'ADV': 214}
+gewinner {'NN': 28}
+weiterspielen {'VVINF': 18}
+australian {'NE': 7}
+open {'NE': 9, 'NN': 2, 'FM': 1}
+australien {'NE': 9}
+tennisspieler {'NN': 33}
+welt {'NN': 67}
+halbfinale {'NN': 45}
+simona {'NE': 3}
+halep {'NE': 3}
+rumänien {'NE': 3}
+land {'NN': 154}
+osten {'NN': 23}
+europa {'NE': 36}
+satz {'NN': 13}
+mitspielen {'VVFIN': 2, 'VVINF': 4}
+müde {'ADJD': 3}
+gefühlt {'VVPP': 3}
+bin {'VAFIN': 22}
+millionen {'NN': 69}
+euro {'NN': 103}
+verschwunden {'VVPP': 17}
+geldtransporter {'NN': 31}
+besonders {'ADV': 123}
+gesichert {'VVPP': 7}
+dicke {'ADJA': 5}
+türen {'NN': 14}
+bringt {'VVFIN': 12}
+bank {'NN': 21, 'NE': 7}
+suchen {'VVFIN': 26, 'VVINF': 4}
+losgefahren {'VVPP': 6}
+rastplatz {'NN': 18}
+angehalten {'VVPP': 23}
+autobahn {'NN': 206}
+toilette {'NN': 8}
+pause {'NN': 11}
+fahrern {'NN': 4}
+weggegangen {'VVPP': 5}
+weitergefahren {'VVPP': 9}
+bemerkt {'VVPP': 6, 'VVFIN': 1}
+fehlt {'VVFIN': 3}
+großer {'ADJA': 119}
+ärger {'NN': 5}
+vw {'NE': 77}
+großen {'ADJA': 123}
+volkswagen {'NE': 8}
+wolfsburg {'NE': 125}
+besondere {'ADJA': 254}
+tests {'NN': 16}
+affen {'NN': 6}
+krank {'ADJD': 124}
+autofirmen {'NN': 8}
+wollten {'VMFIN': 73}
+abgase {'NN': 9}
+ihren {'PPOSAT': 78}
+testen {'VVINF': 6, 'VVFIN': 14}
+abgasen {'NN': 2}
+schadstoffe {'NN': 106}
+schmutzig {'ADJD': 26}
+lang {'ADJD': 89}
+einatmen {'VVINF': 1}
+zeigen {'VVINF': 11, 'VVFIN': 42}
+unseren {'PPOSAT': 15}
+wenig {'PIAT': 52, 'PIS': 12, 'ADJA': 1}
+tieren {'NN': 14}
+tiere {'NN': 97}
+entschuldigt {'VVPP': 2}
+falsch {'ADJD': 5}
+tut {'VVFIN': 4}
+leid {'ADJD': 4}
+zeitungen {'NN': 6}
+berichtet {'VVPP': 1, 'VVFIN': 3}
+eingeatmet {'VVPP': 20}
+untersucht {'VVPP': 21, 'VVFIN': 20}
+wütend {'ADJD': 11}
+münze {'NN': 14}
+bild {'NN': 5}
+helmut {'NE': 19}
+schmidt {'NE': 34}
+2-euro-münze {'NN': 1}
+zeigt {'VVFIN': 28}
+kopf {'NN': 16}
+wer {'PWS': 86}
+berühmter {'ADJA': 3}
+bundeskanzler {'NN': 8}
+gelebt {'VVPP': 36}
+10. {'ADJA': 6, 'ADV': 1}
+geworden {'VAPP': 48}
+tod {'NN': 6}
+entscheidungen {'NN': 9}
+erinnerung {'NN': 2}
+tochter {'NN': 39}
+bald {'ADV': 149}
+denken {'VVFIN': 4}
+meinen {'PPOSAT': 5}
+spieler {'NN': 59}
+vfl {'NE': 79}
+admir {'NE': 13}
+mehmedi {'NE': 14}
+stürmer {'NN': 12}
+soll {'VMFIN': 159}
+tore {'NN': 23}
+schießen {'VVINF': 11, 'VVFIN': 3, 'NN': 1}
+schweiz {'NE': 4}
+mitte {'NN': 6}
+schweizer {'ADJA': 1}
+nationalmannschaft {'NN': 34}
+bayer {'NE': 6}
+leverkusen {'NE': 8}
+nordrhein-westfalen {'NE': 27}
+sportchef {'NN': 47}
+olaf {'NE': 53}
+rebbe {'NE': 4}
+aufgaben {'NN': 18}
+verein {'NN': 23}
+kaufen {'VVINF': 49, 'VVFIN': 3}
+erfahrung {'NN': 11}
+schießt {'VVFIN': 5}
+schullandheim {'NN': 26, 'NE': 1}
+sylt {'NE': 47}
+gerettet {'VVPP': 25}
+schließen {'VVINF': 24, 'VVFIN': 24}
+schulklassen {'NN': 8}
+urlaub {'NN': 63}
+schulklasse {'NN': 8}
+klassenreise {'NN': 2}
+wohnen {'VVINF': 15, 'VVFIN': 31, 'NN': 1}
+essen {'VVINF': 8, 'NE': 17, 'NN': 31, 'VVFIN': 5}
+puan {'NE': 1}
+klent {'NE': 1}
+klassenreisen {'NE': 1, 'NN': 2}
+hatte {'VAFIN': 81}
+altes {'ADJA': 16}
+gebäude {'NN': 52}
+alten {'ADJA': 59}
+gebäuden {'NN': 3}
+teuer {'ADJD': 23}
+hausmeister {'NN': 1}
+koch {'NN': 1}
+retten {'VVINF': 12, 'VVFIN': 1}
+gerne {'ADV': 17}
+unserem {'PPOSAT': 4}
+erschossen {'VVPP': 24}
+schüsse {'NN': 8}
+büro {'NN': 4}
+anwältin {'NN': 3}
+weiß {'VVFIN': 52}
+gesetze {'NN': 30}
+helfen {'VVINF': 61, 'VVFIN': 30}
+weggelaufen {'VVPP': 19}
+feiern {'VVFIN': 18, 'NN': 2, 'VVINF': 1}
+karneval {'NN': 51}
+verkleiden {'VVFIN': 8}
+meisten {'PIAT': 52, 'PIS': 13}
+erst {'ADV': 51}
+karnevalsumzug {'NN': 52}
+verkleidete {'ADJA': 10}
+verkleideten {'ADJA': 9}
+laufen {'VVFIN': 14, 'VVINF': 18, 'NN': 1}
+bunte {'ADJA': 16}
+karnevalswagen {'NN': 12}
+tanzgruppen {'NN': 7}
+musikgruppen {'NN': 14}
+karnevalsumzüge {'NN': 18}
+damme {'NE': 12}
+samba {'NE': 2, 'ADJD': 1}
+samba-karneval {'NN': 3}
+tanz {'NN': 1}
+südamerika {'NE': 5}
+musik {'NN': 22}
+getanzt {'VVPP': 1}
+sonntag {'NN': 89}
+köln {'NE': 9}
+düsseldorf {'NE': 6}
+marne {'NE': 23}
+braunschweig {'NE': 76}
+karnevalumzug {'NN': 3}
+ndr {'NE': 121}
+uhr {'NN': 70}
+fernsehen {'NN': 34}
+schlimme {'ADJA': 20}
+1980. {'$.': 1}
+damals {'ADV': 5}
+angegriffen {'VVPP': 45}
+vergewaltigen {'VVFIN': 4}
+zwingen {'VVINF': 2}
+weglaufen {'VVINF': 3}
+vergewaltigt {'VVPP': 15}
+später {'ADJD': 27}
+foto {'NN': 5}
+veröffentlicht {'VVPP': 1}
+benutzt {'VVPP': 6, 'VVFIN': 1}
+gefragt {'VVPP': 5}
+wem {'PWS': 3}
+gemeldet {'VVPP': 2}
+kenne {'VVFIN': 4}
+braucht {'VVFIN': 29}
+bürgermeister {'NN': 171}
+regierung {'NN': 100}
+minister {'NN': 22}
+wichtiger {'ADJA': 48}
+bestimmte {'ADJA': 54, 'VVFIN': 7}
+bestimmten {'ADJA': 36}
+bereich {'NN': 11}
+politik {'NN': 31}
+wirtschaft {'NN': 10}
+bildung {'NN': 5}
+experten {'NN': 4}
+ministern {'NN': 2}
+scholz {'NE': 63}
+spd {'NE': 146}
+sozialdemokratische {'ADJA': 34}
+partei {'NN': 82}
+deutschlands {'NE': 40}
+finanzminister {'NN': 28}
+kümmert {'VVFIN': 38}
+finanzen {'NN': 17}
+wort {'NN': 25}
+parteien {'NN': 24}
+cdu {'NE': 63}
+christlich {'ADJD': 14}
+demokratische {'ADJA': 20}
+union {'NN': 17}
+csu {'NE': 4}
+christlich-soziale {'ADJA': 1}
+berlin {'NE': 48}
+verlässt {'VVFIN': 9}
+andreas {'NE': 23}
+dressel {'NE': 10}
+wochen {'NN': 65}
+abstimmung {'NN': 7}
+mitglieder {'NN': 13}
+wartet {'VVFIN': 2}
+pressekonferenz {'NN': 9}
+veranstaltung {'NN': 28}
+journalisten {'NN': 15}
+journalist {'NN': 16}
+radio {'NN': 12}
+sportler {'NN': 43}
+beantworten {'VVFIN': 3}
+fragen {'NN': 16, 'VVINF': 4, 'VVFIN': 3}
+dazu {'PROAV': 2}
+verlassen {'VVFIN': 13, 'VVINF': 71, 'VVPP': 3}
+verlasse {'VVFIN': 2}
+mitgliedern {'NN': 1}
+arnd {'NE': 9}
+peiffer {'NE': 9}
+olympischen {'ADJA': 30}
+freitag {'NN': 43}
+sportwettbewerb {'NN': 8}
+allen {'PIAT': 23}
+ländern {'NN': 72}
+jeder {'PIAT': 15, 'PIS': 5}
+sportart {'NN': 4}
+medaillen {'NN': 1}
+alle {'PIAT': 146, 'PIS': 9}
+sommerspiele {'NN': 1}
+winterspiele {'NN': 1}
+südkorea {'NE': 10}
+asien {'NE': 28}
+bekannteste {'ADJA': 1}
+sportlern {'NN': 1}
+clausthal-zellerfeld {'NE': 7}
+biathlon {'NE': 3}
+skilanglauf {'NE': 1, 'NN': 1}
+strecke {'NN': 39}
+skiern {'NN': 1}
+gewehren {'NN': 1}
+scheiben {'NN': 5}
+medaille {'NN': 4}
+letzte {'ADJA': 13}
+wettkampf {'NN': 7}
+25. {'ADJA': 1}
+informationen {'NN': 63}
+rosenmontag {'NN': 13}
+wichtigste {'ADJA': 30}
+groß {'ADJD': 64, 'NE': 6}
+bekannt {'ADJD': 3}
+schoduvel {'NE': 5, 'NN': 10}
+rendsburg {'NE': 23}
+weiterfahren {'VVINF': 19}
+zügen {'NN': 9}
+weg {'NN': 18, 'PTKVZ': 12, 'ADV': 5}
+versperrt {'VVFIN': 4}
+bahnstrecken {'NN': 2}
+spät {'ADJD': 38}
+untersuchen {'VVFIN': 42, 'VVINF': 11}
+aufgabe {'NN': 7}
+kommissarisch {'ADJD': 3}
+kurze {'ADJA': 5}
+zeit {'NN': 54}
+22. {'ADJA': 6}
+april {'NN': 47}
+wählt {'VVFIN': 7}
+martin {'NE': 25}
+schulz {'NE': 5}
+zurückgetreten {'VVPP': 7}
+andrea {'NE': 11}
+nahles {'NE': 11}
+chefin {'NN': 53}
+politikerin {'NN': 26}
+ministerin {'NN': 8}
+31. {'ADJA': 21, 'PTKVZ': 3}
+oktober {'NN': 27}
+feiertag {'NN': 27}
+neujahr {'NN': 4}
+januar {'NN': 16}
+jedes {'PIAT': 81}
+feiertage {'NN': 6}
+bundesländern {'NN': 41}
+mehreren {'PIAT': 22}
+kirche {'NN': 52}
+katholische {'ADJA': 5}
+katholischen {'ADJA': 4}
+dinge {'NN': 97}
+teure {'ADJA': 5}
+kirchen-gebäude {'NN': 2}
+luther {'NE': 12}
+texte {'NN': 9}
+geschrieben {'VVPP': 14}
+texten {'NN': 2}
+finde {'VVFIN': 3}
+ändern {'VVINF': 6}
+gelesen {'VVPP': 4}
+recht {'NN': 5}
+erneuern {'VVINF': 2, 'VVFIN': 3}
+erneuerung {'NN': 5}
+reformation {'NN': 8}
+seit {'APPR': 71}
+evangelische {'ADJA': 6}
+wichtig {'ADJD': 50}
+richtig {'ADJD': 26}
+angefangen {'VVPP': 7}
+heute {'ADV': 30}
+mecklenburg {'NE': 2}
+vorpommern {'NE': 7, 'NN': 1}
+parlamenten {'NN': 1}
+abstimmungen {'NN': 2}
+parlament {'NN': 22}
+bundesland {'NN': 49}
+parlamente {'NN': 1}
+lagerhalle {'NN': 28}
+vahrenheide {'NN': 1, 'NE': 1}
+norden {'NN': 23}
+neben {'APPR': 21}
+größer {'ADJD': 37}
+brennen {'VVFIN': 5, 'VVINF': 5}
+unterkunft {'NN': 9}
+obdachlose {'NN': 41}
+eigene {'ADJA': 4}
+obdachlosen {'NN': 21}
+sicherheit {'NN': 41}
+teil {'NN': 166, 'PTKVZ': 1}
+eingestürzt {'VVPP': 6}
+rauch {'NN': 94}
+häusern {'NN': 78}
+fenster {'NN': 30}
+häuser {'NN': 99}
+zerstörte {'ADJA': 2}
+mai {'NN': 48}
+2017. {'NE': 2, 'CARD': 1}
+innenstadt {'NN': 30}
+taxi {'NN': 27}
+mitfahren {'VVINF': 10, 'NN': 1}
+ohne {'APPR': 57}
+licht {'NN': 10}
+anhalten {'VVINF': 9}
+überprüfen {'VVINF': 2}
+ausweis {'NN': 3}
+geflohen {'VVPP': 15}
+weggefahren {'VVPP': 13}
+verfolgt {'VVPP': 6, 'VVFIN': 2}
+gestohlen {'VVPP': 33}
+bruno {'NE': 24}
+labbadia {'NE': 24}
+wenige {'PIAT': 35}
+aufgehört {'VVPP': 4}
+oiaf {'NE': 1}
+gebraucht {'VVPP': 6}
+vereine {'NN': 27}
+sv {'NN': 8}
+münchen {'NE': 20}
+vfb {'NE': 1, 'NN': 5}
+stuttgart {'NE': 20}
+september {'NN': 15}
+fühle {'VVFIN': 2}
+ausgeruht {'VVPP': 1}
+zugunfall {'NN': 5}
+cuxhaven {'NE': 20}
+autozug {'NN': 6}
+güterzug {'NN': 10}
+güter {'NN': 8}
+kohle {'NN': 7}
+holz {'NN': 11}
+weit {'ADJD': 7}
+weiche {'NN': 5}
+gleis {'NN': 14}
+verstellen {'VVINF': 1}
+fährt {'VVFIN': 85}
+gestanden {'VVPP': 4}
+waggons {'NN': 6}
+gesprungen {'VVPP': 13}
+umgefallen {'VVPP': 10}
+heruntergefallen {'VVPP': 4}
+zugstrecke {'NN': 59}
+beschädigten {'ADJA': 2}
+wegräumen {'VVINF': 10}
+bus {'NN': 143}
+post {'NN': 9}
+briefträger {'NN': 16}
+briefe {'NN': 11}
+städte {'NN': 23}
+neumünster {'NE': 31}
+mölln {'NE': 5}
+ratzeburg {'NE': 4}
+wollt {'VMFIN': 1}
+euch {'PRF': 2, 'PPER': 4}
+hoffen {'VVFIN': 19}
+doch {'ADV': 1}
+streiks {'NN': 4}
+michael {'NE': 28}
+schulte {'NE': 18}
+singt {'VVFIN': 6}
+sendung {'NN': 54}
+name {'NN': 6}
+unser {'PPOSAT': 9}
+lied {'NN': 30}
+lissabon {'NE': 6}
+zuschauer {'NN': 46}
+welcher {'PWAT': 6, 'PWS': 1}
+musiker {'NN': 42}
+esc {'NE': 76, 'NN': 4}
+singen {'VVINF': 9, 'VVFIN': 4}
+eurovision {'NN': 6, 'NE': 1}
+song {'NE': 7}
+contest {'NE': 7}
+musikwettbewerb {'NN': 8}
+länder {'NN': 43}
+schickt {'VVFIN': 6, 'VVIMP': 2}
+entschieden {'VVPP': 17}
+sänger {'NN': 31}
+buxtehude {'NE': 13}
+gesungen {'VVPP': 10}
+fernsehsender {'NN': 3}
+anrufen {'VVINF': 13}
+gefällt {'VVFIN': 13}
+you {'FM': 3, 'NE': 1}
+let {'FM': 4}
+me {'FM': 4}
+walk {'FM': 2, 'NE': 2}
+alone {'FM': 1, 'NE': 3}
+deutsch {'NN': 3, 'ADJD': 1, 'NE': 1}
+du {'PPER': 6}
+lässt {'VVFIN': 4}
+allein {'ADV': 11}
+singe {'VVFIN': 1}
+12. {'ADJA': 5}
+portugal {'NE': 4}
+südwesten {'NN': 7}
+vergangenen {'ADJA': 52}
+kiew {'NE': 5}
+ukraine {'NE': 4}
+osteuropa {'NE': 14}
+levina {'NE': 2}
+vorletzten {'ADJA': 1}
+platz {'NN': 56}
+glatten {'ADJA': 16}
+orten {'NN': 68}
+eisschicht {'NN': 4}
+weggerutscht {'VVPP': 4}
+unfällen {'NN': 42}
+abgekommen {'VVPP': 25}
+lübeck {'NE': 91}
+wenigen {'PIAT': 2}
+etwa {'ADV': 10}
+flughafen {'NN': 117}
+landen {'VVINF': 20, 'VVFIN': 3, 'NN': 1}
+flughäfen {'NN': 38}
+fachmann {'NN': 7}
+bleibt {'VVFIN': 26}
+dieselmotoren {'NN': 25}
+bundesverwaltungsgericht {'NN': 8}
+verbrauchen {'VVFIN': 4, 'VVINF': 2}
+diesel {'NN': 11}
+kraftstoff {'NN': 16}
+verbieten {'VVINF': 5, 'VVFIN': 7}
+überlegen {'VVFIN': 6, 'VVINF': 1}
+unserer {'PPOSAT': 9}
+fahrverbot {'NN': 13}
+fahrverbote {'NN': 1}
+teilen {'NN': 10}
+max-brauer-allee {'NE': 2}
+stresemannstraße {'NE': 2}
+sauberer {'ADJD': 3}
+ältere {'ADJA': 8}
+hsh {'NE': 28}
+nordbank {'NE': 28}
+verkauft {'VVPP': 21, 'VVFIN': 11}
+verkaufen {'VVFIN': 21, 'VVINF': 13}
+landesbank {'NN': 2}
+schulden {'NN': 6}
+kauft {'VVFIN': 6}
+investoren {'NN': 4}
+investor {'NN': 8}
+firmen {'NN': 114}
+christopher {'NE': 2}
+flowers {'NE': 2}
+amerika {'NE': 19}
+anderer {'ADJA': 34}
+cerberus {'NE': 2}
+milliarde {'NN': 6}
+bundesländer {'NN': 20}
+verlieren {'VVFIN': 11}
+geliehen {'VVPP': 1}
+zurückbezahlen {'VVINF': 3}
+verkauf {'NN': 6}
+ermittlungen {'NN': 4}
+leute {'NN': 1}
+schlecht {'ADJD': 58}
+gesetz {'NN': 7}
+verstoßen {'VVPP': 6, 'VVFIN': 1}
+messerstecher {'NN': 1}
+weitere {'ADJA': 10}
+töten {'VVINF': 24, 'VVFIN': 4, 'NN': 2}
+is {'NE': 21, 'NN': 5}
+islamischer {'ADJA': 6}
+staat {'NN': 23}
+terrorgruppe {'NN': 12}
+terroristen {'NN': 70}
+anschläge {'NN': 16}
+anschlägen {'NN': 11}
+anschlag {'NN': 33}
+inseln {'NN': 43}
+busse {'NN': 49}
+zusammengeschoben {'VVPP': 1}
+hohe {'ADJA': 15}
+schneeberge {'NN': 6}
+gebildet {'VVPP': 1}
+wege {'NN': 4}
+bleiben {'VVINF': 34, 'VVFIN': 11}
+liegen {'VVFIN': 4, 'VVINF': 2}
+kälte {'NN': 6}
+eis {'NN': 22}
+verletzte {'NN': 21, 'ADJA': 6}
+hingefallen {'VVPP': 6}
+montagmorgen {'NN': 12}
+regnet {'VVFIN': 7}
+boden {'NN': 53}
+gefriert {'VVFIN': 1}
+drogen {'NN': 103}
+durchsucht {'VVFIN': 6, 'VVPP': 48}
+wohnungen {'NN': 98}
+polizeieinsatz {'NN': 96}
+polizisten {'NN': 171}
+hameln {'NE': 3}
+fischbeck {'NE': 1}
+emmerthal {'NE': 2}
+beweisen {'NN': 3, 'VVINF': 22}
+durchsuchungen {'NN': 5}
+verschiedene {'ADJA': 18}
+waffen {'NN': 37}
+cannabis-pflanzen {'NN': 22}
+anbau {'NN': 4}
+verboten {'VVPP': 74, 'ADJD': 2}
+marihuana {'NN': 4, 'NE': 1}
+angebaut {'VVPP': 7}
+handballer {'NN': 1}
+hannover-burgdorf {'NE': 21}
+tsv {'NN': 11, 'NE': 8}
+spiel {'NN': 83}
+handballverein {'NN': 13}
+dhb-pokal {'NN': 29}
+dhb {'NE': 6}
+deutscher {'ADJA': 33, 'NN': 2}
+handballbund {'NN': 6}
+frisch {'NN': 2, 'ADJD': 1}
+göppingen {'NE': 4}
+baden-württemberg {'NE': 15}
+wettbewerb {'NN': 33}
+gefreut {'VVPP': 7}
+nie {'ADV': 54}
+turnier {'NN': 45}
+handballvereine {'NN': 3}
+5. {'ADJA': 12}
+6. {'ADJA': 10, 'PTKVZ': 1}
+gewinnt {'VVFIN': 24}
+mortensen {'NE': 3}
+bester {'ADJA': 8}
+31:30 {'NN': 2}
+geworfen {'VVPP': 18}
+casper {'NE': 2}
+entlässt {'VVFIN': 14}
+jens {'NE': 15}
+todt {'NE': 3}
+unzufrieden {'ADJD': 9}
+letzten {'ADJA': 22}
+monaten {'NN': 10}
+aufsichtsrat {'NN': 9}
+ausgeben {'VVINF': 8}
+hoffmann {'NE': 4}
+verändern {'VVINF': 8}
+sucht {'VVFIN': 50}
+mir {'PPER': 18, 'PRF': 1}
+spaß {'NN': 2}
+verheiratet {'VVPP': 6}
+kinder {'NN': 113}
+bürgerschaft {'NN': 45}
+24. {'ADJA': 5, 'PTKVZ': 3}
+märz {'NN': 13}
+christian {'NE': 10}
+titz {'NE': 8}
+u21-mannschaft {'NN': 3}
+jünger {'ADJD': 1}
+erfolgreich {'ADJD': 10}
+wohnhaus {'NN': 97}
+harvestehude {'NE': 3}
+zuerst {'ADV': 31}
+erdgeschoss {'NN': 5}
+giftiger {'ADJA': 20}
+giftigen {'ADJA': 19}
+bewegen {'VVINF': 9, 'VVFIN': 1}
+überlebt {'VVFIN': 1}
+ausgebrochen {'VVPP': 13}
+katharina {'NE': 14}
+fegebank {'NE': 14}
+bürgermeisterin {'NN': 18}
+grünen {'NN': 30}
+politische {'ADJA': 1}
+gewählt {'VVPP': 24}
+zweite {'ADJA': 10}
+vertritt {'VVFIN': 4}
+übernimmt {'VVFIN': 8}
+wenn {'KOUS': 9}
+termine {'NN': 10}
+28. {'ADJA': 7}
+wahl {'NN': 87}
+wählen {'VVFIN': 14, 'VVINF': 17}
+peter {'NE': 59}
+tschentscher {'NE': 59}
+finanzsenator {'NN': 4}
+öffentlichen {'ADJA': 10}
+dienst {'NN': 10}
+busfahrer {'NN': 73}
+erzieher {'NN': 10}
+reinigungskräfte {'NN': 2}
+lüneburg {'NE': 17}
+straßenbahnfahrer {'NN': 2}
+straßenbahnen {'NN': 8}
+kita {'NN': 11}
+bringen {'VVINF': 8, 'VVFIN': 23}
+kindertagesstätte {'NN': 2}
+kümmern {'VVFIN': 25, 'VVINF': 9}
+monat {'NN': 3}
+ver.di {'NE': 25}
+miteinander {'ADV': 10}
+windig {'ADJD': 8}
+reederei {'NN': 10}
+frisia {'NE': 3}
+juist {'NE': 3}
+ostfriesische {'ADJA': 1}
+ostfriesischen {'ADJA': 3}
+gehören {'VVFIN': 34, 'VVINF': 2}
+norderney {'NE': 1}
+baltrum {'NN': 1}
+ostsee {'NE': 110}
+scandlines {'NE': 2}
+gedser {'NN': 1, 'ADJD': 1}
+dänemark {'NE': 42}
+neues {'ADJA': 38, 'NN': 3}
+luxushotel {'NN': 7}
+eröffnet {'VVPP': 22, 'VVFIN': 1}
+worden {'VAPP': 13}
+hamburg-rotherbaum {'NN': 1}
+rotherbaum {'NE': 5}
+ausstattung {'NN': 3}
+möbel {'NN': 9}
+badezimmer {'NN': 1}
+teppiche {'NN': 1}
+kostet {'VVFIN': 40}
+hotels {'NN': 4}
+the {'NE': 1}
+fontenay {'NE': 6}
+alster {'NN': 32, 'NE': 1, 'ADJA': 1}
+fluss {'NN': 49}
+fließt {'VVFIN': 40}
+zentrum {'NN': 8}
+sieht {'VVFIN': 8}
+see {'NN': 37}
+alstersee {'NE': 1}
+reichen {'ADJA': 3}
+benannt {'VVPP': 1}
+reiche {'ADJA': 5}
+john {'NE': 2}
+schiffsmakler {'NN': 2}
+handelt {'VVFIN': 1}
+schiffen {'NN': 12}
+bau {'NN': 46}
+baufirma {'NN': 1}
+form {'NN': 1}
+extra {'ADV': 1}
+gebaut {'VVPP': 57}
+wasserschaden {'NN': 1}
+wasserleitung {'NN': 14}
+kaputtgegangen {'VVPP': 7}
+teile {'NN': 70}
+neu {'ADJD': 22}
+hotelbesitzer {'NN': 1}
+eröffnen {'VVINF': 3, 'VVFIN': 1}
+gekostet {'VVPP': 13}
+vechta {'NE': 14}
+flucht {'NN': 14}
+besonderen {'ADJA': 81}
+überwacht {'VVPP': 1}
+fliehen {'VVINF': 1}
+geklettert {'VVPP': 3}
+mauer {'NN': 9}
+haft {'NN': 3}
+verurteilen {'VVFIN': 4}
+toter {'NN': 3, 'ADJA': 5}
+schwere {'ADJA': 35}
+a1. {'ADJA': 9, 'ADJD': 9}
+a33. {'NN': 1}
+a33 {'NN': 5, 'KON': 1}
+33. {'PTKVZ': 1, 'ADJA': 2}
+ahrensburg {'NE': 7}
+a1 {'NE': 91, 'CARD': 4, 'XY': 2}
+stau {'NN': 53}
+transporter {'NN': 34}
+gebremst {'VVPP': 18}
+wildeshausen {'NE': 7}
+nebel {'NN': 2}
+eisenstangen {'NN': 3}
+vorne {'ADV': 3}
+eingeklemmt {'VVPP': 8}
+musste {'VMFIN': 37}
+befreien {'VVINF': 2, 'VVFIN': 1}
+georgsmarienhütte {'NE': 6}
+pkw {'NN': 6}
+ineinander {'ADV': 3}
+bauarbeiten {'NN': 134}
+beginnen {'VVFIN': 13, 'VVINF': 6}
+dauern {'VVFIN': 36, 'VVINF': 6}
+8. {'ADJA': 5}
+strecken {'NN': 20}
+flensburg {'NE': 46}
+itzehoe {'NE': 8}
+voll {'ADJD': 7}
+fahrzeiten {'NN': 3}
+informieren {'VVINF': 3}
+finden {'VVFIN': 36, 'VVINF': 3}
+bahnhöfen {'NN': 9}
+ersten {'ADJA': 17, 'NN': 3}
+flixtrain {'NN': 1}
+train {'NE': 2}
+kosten {'VVFIN': 10, 'VVINF': 1, 'NN': 3}
+fahrkarten {'NN': 1}
+fahrgäste {'NN': 6}
+hält {'VVFIN': 12}
+osnabrück {'NE': 32}
+bahnhöfe {'NN': 3}
+münster {'NE': 3}
+gelsenkirchen {'NE': 1}
+duisburg {'NE': 1}
+carles {'NE': 43}
+puigdemont {'NE': 43}
+katalonien {'NE': 13}
+spanien {'NE': 32}
+südeuropa {'NE': 6}
+eigenes {'ADJA': 4}
+belgien {'NE': 5}
+gewohnt {'VVPP': 14}
+reise {'NN': 19}
+haftbefehl {'NN': 4}
+anordnung {'NN': 2}
+steht {'VVFIN': 33}
+prüft {'VVFIN': 7}
+zurück {'ADV': 18, 'PTKVZ': 31}
+frei {'PTKVZ': 7, 'ADJD': 23}
+tankstelle {'NN': 10}
+tanken {'VVFIN': 2, 'VVINF': 1}
+wasserstoff {'NN': 6}
+treibstoff {'NN': 10}
+motor {'NN': 23}
+antreiben {'VVINF': 3}
+benzin {'NN': 11}
+technik {'NN': 27}
+althusmann {'NE': 7}
+verkehrsminister {'NN': 5}
+niedersachen {'NN': 11}
+verschmutzt {'VVFIN': 1}
+umwelt {'NN': 26}
+vorher {'ADV': 20}
+aufgeklärt {'VVPP': 1}
+pausen {'NN': 4}
+fehlen {'VVFIN': 2}
+beobachtet {'VVPP': 2}
+geholfen {'VVPP': 22}
+seinem {'PPOSAT': 78}
+touristen {'NN': 11}
+urlauber {'NN': 22}
+geparkt {'VVPP': 4}
+zusammengestoßen {'VVPP': 43}
+hund {'NN': 7}
+tötet {'VVFIN': 5}
+sohn {'NN': 17}
+alter {'ADJA': 16, 'NN': 1}
+kampfhund {'NN': 8}
+kampfhunde {'NN': 3}
+oft {'ADV': 134}
+zubeißen {'VVINF': 1}
+besitzer {'NN': 21}
+kampfhunden {'NN': 1}
+strenge {'ADJA': 4}
+regeln {'NN': 117}
+leine {'NN': 9}
+ans {'APPRART': 4}
+telefon {'NN': 1}
+gegangen {'VVPP': 39}
+geguckt {'VVPP': 2}
+tür {'NN': 7}
+aufgebrochen {'VVPP': 8}
+eingefangen {'VVPP': 3}
+greift {'VVFIN': 1}
+tierarzt {'NN': 6}
+einschläfern {'VVINF': 2}
+spritze {'NN': 9}
+medikament {'NN': 10}
+stirbt {'VVFIN': 83}
+sexueller {'ADJA': 4}
+belästigung {'NN': 3}
+staatsanwaltschaft {'NN': 12}
+behörde {'NN': 22}
+fordert {'VVFIN': 5}
+frauen {'NN': 77}
+belästigt {'VVPP': 4}
+sexuelle {'ADJA': 4}
+straftat {'NN': 39}
+fasst {'VVFIN': 1}
+täter {'NN': 47}
+opfer {'NN': 5}
+beine {'NN': 2}
+organisation {'NN': 8}
+gruppe {'NN': 36}
+weißer {'ADJA': 4}
+ring {'NN': 4}
+weiße {'ADJA': 3}
+opfern {'NN': 3}
+überfallen {'VVPP': 21}
+weißen {'ADJA': 6}
+herausfinden {'VVINF': 6, 'VVFIN': 1}
+rebellion {'NN': 4}
+aufstand {'NN': 1}
+prüfen {'VVINF': 7, 'VVFIN': 6}
+jede {'PIAT': 11}
+melden {'VVINF': 1}
+kastorfer {'ADJA': 1}
+wildberg {'NE': 3}
+ort {'NN': 146}
+neubrandenburg {'NE': 23}
+boot {'NN': 10}
+gekentert {'VVPP': 7}
+umgekippt {'VVPP': 25}
+männern {'NN': 39}
+ufer {'NN': 20}
+geschwommen {'VVPP': 3}
+leiche {'NN': 15}
+taucher {'NN': 11}
+betrunken {'ADJD': 8}
+ertrunken {'VVPP': 19}
+kind {'NN': 64, 'NE': 1}
+meine {'PPOSAT': 29, 'NE': 4}
+freundin {'NN': 31}
+abend {'NN': 18}
+freundinnen {'NN': 1}
+aufgepasst {'VVPP': 5}
+eins {'PIS': 2, 'ART': 3}
+kindern {'NN': 29}
+geweckt {'VVPP': 2}
+geärgert {'VVPP': 2}
+geschüttelt {'VVPP': 1}
+schütteln {'NN': 1}
+tage {'NN': 31}
+rede {'NN': 29}
+gehalten {'VVPP': 10}
+regierungserklärung {'NN': 8}
+regieren {'VVINF': 8, 'NN': 1}
+seiner {'PPOSAT': 29}
+erfolgreiche {'ADJA': 2}
+weitermachen {'VVINF': 1}
+möchte {'VMFIN': 16}
+bessere {'ADJA': 5}
+ausbildung {'NN': 11}
+umbauen {'VVINF': 3}
+u-bahn-linie {'NN': 3}
+u5. {'NE': 1}
+u5 {'NE': 1}
+wirklich {'ADJD': 12}
+ex-frau {'NN': 13}
+s-bahnhof {'NN': 21}
+jungfernstieg {'NE': 5}
+getrennt {'VVPP': 13}
+seine {'PPOSAT': 62}
+hatten {'VAFIN': 68}
+obstkisten {'NN': 12}
+menge {'NN': 4}
+kokain {'NN': 51}
+droge {'NN': 8}
+körper {'NN': 35}
+edeka {'NE': 11}
+supermärkte {'NN': 16}
+valluhn {'NE': 1}
+ausgepackt {'VVPP': 2}
+ananas {'NN': 2}
+unter {'APPR': 37}
+plastiktüten {'NN': 6}
+kilo {'NN': 5}
+selten {'ADJD': 6}
+ungefähr {'ADJD': 13, 'ADV': 2}
+wert {'ADJD': 7}
+vernichten {'VVFIN': 2}
+wen {'PWS': 2}
+schatz {'NN': 13}
+rügen {'NE': 41}
+archäologen {'NN': 13}
+forscher {'NN': 40}
+knochen {'NN': 13}
+schmuck {'NN': 9}
+werkzeuge {'NN': 3}
+könig {'NN': 6}
+harald {'NE': 5}
+blauzahn {'NE': 6}
+münzen {'NN': 6}
+perlen {'NN': 1}
+erde {'NN': 51}
+gegraben {'VVPP': 2}
+nachts {'ADV': 12}
+überfall {'NN': 30}
+geschlagen {'VVPP': 25}
+gewürgt {'VVPP': 3}
+eingesperrt {'VVPP': 11}
+beweise {'NN': 9}
+verbrecherbande {'NN': 11}
+thailand {'NE': 11}
+südostasien {'NE': 2}
+eingeschleust {'VVPP': 1}
+heimlich {'ADJD': 1}
+brauchen {'VVFIN': 75}
+sollten {'VMFIN': 4}
+gebt {'VVFIN': 1, 'VVIMP': 3}
+bordelle {'NN': 1}
+bordell {'NN': 1}
+mieter {'NN': 7}
+kontrolliert {'VVFIN': 20, 'VVPP': 13}
+wandsbek {'NE': 18}
+sozialbehörde {'NN': 5}
+arm {'ADJD': 1}
+vermieter {'NN': 15}
+nutzt {'VVFIN': 1}
+längere {'ADJA': 1}
+kontrolle {'NN': 26}
+kleine {'ADJA': 49}
+kleinen {'ADJA': 24, 'NE': 3}
+leben {'VVFIN': 62, 'VVINF': 4, 'NN': 2}
+hilfe {'NN': 51}
+helfe {'VVFIN': 2}
+vermiete {'VVFIN': 1}
+vermietet {'VVPP': 1}
+klein {'ADJD': 10, 'NE': 2}
+schlechten {'ADJA': 6}
+zustand {'NN': 2}
+wände {'NN': 9}
+bedroht {'VVFIN': 2, 'VVPP': 17}
+festnehmen {'VVINF': 8}
+polizist {'NN': 28}
+damit {'PROAV': 2}
+weggelegt {'VVPP': 1}
+zugegangen {'VVPP': 1}
+angreifen {'VVINF': 3}
+bein {'NN': 5}
+psychisch {'ADJD': 3}
+manchmal {'ADV': 14}
+vermisster {'NN': 1}
+schottland {'NE': 6}
+tot {'ADJD': 40}
+elbe {'NE': 112}
+liam {'NE': 16}
+colgan {'NE': 15}
+nördlich {'ADJD': 2}
+england {'NE': 18}
+feier {'NN': 64}
+bruder {'NN': 6}
+familie {'NN': 16}
+zettel {'NN': 4}
+zetteln {'NN': 2}
+stand {'VVFIN': 3}
+bitte {'PTKANT': 4, 'ADV': 2}
+helft {'VVFIN': 1}
+verteilt {'VVPP': 5}
+klar {'ADJD': 15}
+löcher {'NN': 1}
+risse {'NN': 4}
+herausgefunden {'VVPP': 19}
+beruf {'NN': 9}
+panorama {'NE': 3}
+fernsehsendung {'NN': 36}
+umfrage {'NN': 6}
+ergebnis {'NN': 10}
+viertel {'NN': 1}
+milliarden {'NN': 5}
+gebieten {'NN': 5}
+gebiete {'NN': 3}
+landkreis {'NN': 11}
+stade {'NE': 12}
+übung {'NN': 75}
+mitgemacht {'VVPP': 17}
+anti-terror-übung {'NN': 11}
+üben {'VVFIN': 14, 'VVINF': 3}
+kampf {'NN': 7}
+bomben {'NN': 79}
+vorbereiten {'VVINF': 2}
+geübt {'VVPP': 4}
+zusammen {'PTKVZ': 20, 'ADV': 27}
+verhalten {'VVFIN': 5, 'VVPP': 1}
+lübecker {'ADJA': 2}
+heißen {'VVFIN': 39, 'ADJA': 3, 'VVINF': 2}
+spezialkräfte {'NN': 6}
+ausrüstung {'NN': 4}
+rastplätze {'NN': 9}
+getestet {'VVPP': 10}
+meistens {'ADV': 49}
+autobahnen {'NN': 18}
+rastplätzen {'NN': 3}
+ausruhen {'VVINF': 1}
+test {'NN': 35}
+sauber {'ADJD': 4, 'PTKVZ': 2}
+beste {'ADJA': 15}
+adac {'NE': 32}
+allgemeiner {'ADJA': 4}
+automobil-club {'NN': 4}
+autofahrern {'NN': 5}
+panne {'NN': 13}
+fühlen {'VVFIN': 7}
+wohl {'ADV': 5}
+dunkel {'ADJD': 2}
+sauberkeit {'NN': 2}
+toiletten {'NN': 10}
+beleuchtet {'VVPP': 1}
+sehen {'VVINF': 46, 'VVFIN': 23}
+cappeln {'NE': 1}
+hagelage {'NE': 1}
+west {'NE': 1}
+beleuchtung {'NN': 2}
+leise {'ADJD': 3, 'ADJA': 2}
+erholen {'VVINF': 1}
+schiffstaufe {'NN': 8}
+taufe {'NN': 1}
+namen {'NN': 12}
+halunder {'ADJA': 3, 'NN': 1}
+jet {'NN': 3, 'NE': 1}
+helgoland {'NE': 55}
+katamaran {'NN': 22}
+rümpfe {'NN': 3}
+rumpf {'NN': 3}
+schwimmt {'VVFIN': 3}
+passagierschiff {'NN': 1}
+fahrstuhl {'NN': 4}
+walpurgisnacht {'NN': 10}
+30. {'ADJA': 7}
+harz {'NN': 37, 'NE': 3}
+gebirge {'NN': 11}
+sachsen-anhalt {'NE': 11}
+thüringen {'NE': 5}
+sage {'NN': 6}
+geschichte {'NN': 7}
+ähnlich {'ADJD': 6}
+märchen {'NN': 2}
+erzählen {'VVFIN': 1}
+hexen {'NN': 4}
+brocken {'NN': 8}
+höchste {'ADJA': 3}
+berg {'NN': 11}
+tanzen {'VVFIN': 7, 'NN': 1, 'VVINF': 1}
+teufel {'NN': 2}
+spannend {'ADJD': 1}
+hexe {'NN': 1}
+konzerte {'NN': 19}
+theateraufführungen {'NN': 5}
+feuerwerke {'NN': 3}
+feste {'NN': 1, 'ADJA': 1}
+bad {'NE': 50}
+grund {'NN': 15}
+braunlage {'NE': 3}
+hahnenklee {'NE': 1}
+friedliche {'ADJA': 1}
+lehrte {'NE': 4}
+gewerkschaften {'NN': 3}
+gerecht {'ADJD': 2}
+behandelt {'VVPP': 1, 'VVFIN': 2}
+gedenktag {'NN': 1}
+ereignis {'NN': 2}
+nordamerika {'NE': 3}
+rechte {'NN': 3}
+gekämpft {'VVPP': 3}
+gerechte {'ADJA': 1}
+bezahlung {'NN': 2}
+krawalle {'NN': 5}
+krawallen {'NN': 1}
+fensterscheiben {'NN': 1}
+friedlich {'ADJD': 1}
+einsätze {'NN': 6}
+museum {'NN': 27}
+geöffnet {'VVPP': 13}
+wertvoll {'ADJD': 4}
+bilder {'NN': 3}
+berühmten {'ADJA': 2}
+malern {'NN': 2}
+schleswig {'NE': 7}
+haithabu {'NE': 17}
+wikinger {'NN': 17}
+nordeuropa {'NE': 21}
+wikingern {'NN': 10, 'NE': 1}
+seefahrer {'NN': 7}
+seefahrern {'NN': 3}
+dörfer {'NN': 5}
+bauern {'NN': 181}
+handwerker {'NN': 5}
+umgebaut {'VVPP': 7}
+fertig {'ADJD': 43}
+boote {'NN': 17}
+werkzeug {'NN': 3}
+sprecher {'NN': 53}
+vergangen {'ADJA': 1}
+goldschmuck {'NN': 3}
+besucher {'NN': 111}
+kommunalwahl {'NN': 14}
+kommunen {'NN': 8}
+kommune {'NN': 6}
+gemeinde {'NN': 4}
+also {'ADV': 4}
+ganz {'ADJD': 14, 'ADV': 18}
+kindergarten {'NN': 13}
+sportplatz {'NN': 2}
+vertreten {'VVFIN': 2, 'VVPP': 1}
+wähler {'NN': 5}
+wählern {'NN': 5}
+wählergruppe {'NN': 4}
+ähnliches {'ADJA': 1}
+einzelbewerber {'NN': 1}
+keiner {'PIAT': 11, 'PIS': 3}
+stimmen {'NN': 18}
+gemeindevertretung {'NN': 1}
+kreisvertretung {'NN': 1}
+wahlbenachrichtigung {'NN': 3}
+wahllokal {'NN': 2}
+mitbringen {'VVINF': 2}
+mitbestimmen {'VVINF': 2}
+beiden {'PIAT': 15}
+großstädte {'NN': 1}
+polizeieinsätze {'NN': 15}
+polizeieinsätzen {'NN': 4}
+schleusern {'NN': 5}
+schleuser {'NN': 14}
+eigenen {'ADJA': 9}
+papiere {'NN': 11}
+pass {'NN': 4}
+republik {'NN': 2}
+moldau {'NE': 2}
+südosten {'NN': 6}
+gefälschte {'ADJA': 4}
+pässe {'NN': 3}
+echt {'ADJD': 5}
+feiert {'VVFIN': 8}
+hafengeburtstag {'NN': 31}
+donnerstag {'NN': 35}
+829. {'NN': 1}
+hafenfest {'NN': 2}
+segelschiffe {'NN': 5}
+kreuzfahrtschiffe {'NN': 20}
+kreuzfahrtschiff {'NN': 72}
+japan {'NE': 3}
+russland {'NE': 29}
+besichtigen {'VVINF': 4}
+genau {'ADJD': 16, 'ADV': 1}
+angucken {'VVINF': 11}
+million {'NN': 5}
+karussell {'NN': 8}
+trinken {'NN': 3, 'VVFIN': 9, 'VVINF': 11}
+bühnen {'NN': 4}
+sonnabend {'NN': 35}
+feuerwerk {'NN': 27}
+schön {'ADJD': 6}
+sendungen {'NN': 3}
+journal {'NE': 2}
+unwettern {'NN': 12}
+geregnet {'VVPP': 27}
+vollgelaufen {'VVPP': 4}
+rauspumpen {'NN': 3, 'VVINF': 1}
+hagelkörner {'NN': 1}
+bereiche {'NN': 7}
+unterspült {'VVPP': 1}
+weich {'ADJD': 3}
+stellen {'NN': 16, 'VVFIN': 7, 'VVINF': 3}
+weggesackt {'ADJD': 1}
+mauern {'NN': 4}
+hamburg-lohbrügge {'NE': 1}
+lohbrügge {'NE': 9}
+oststeinbek {'NE': 2}
+einstürzen {'VVINF': 8}
+abgerissen {'VVPP': 7}
+vierter {'ADJA': 1}
+4. {'ADJA': 7, 'PTKVZ': 2, 'ADV': 1}
+musikern {'NN': 4}
+gutes {'ADJA': 5}
+israel {'NE': 14}
+netta {'NE': 2}
+toy {'NE': 3}
+spielzeug {'NN': 2}
+abgestiegen {'VVPP': 9, 'VVIZU': 1}
+fußballspiele {'NN': 21}
+saison {'NN': 26}
+eintracht {'NN': 19}
+brachschweig {'NE': 1}
+gegeneinander {'PTKVZ': 11, 'ADV': 22}
+schlechtesten {'ADJD': 1, 'ADJA': 1}
+fußballvereinen {'NN': 3}
+17. {'ADJA': 5}
+abstieg {'NN': 3}
+traurig {'ADJD': 14}
+torsten {'NE': 2}
+lieberknecht {'NE': 2}
+schlimmste {'ADJA': 1}
+special {'NE': 9, 'FM': 1}
+olympics {'NE': 10}
+besonderer {'ADJA': 56}
+olympische {'ADJA': 2}
+behinderung {'NN': 16}
+geistiger {'ADJA': 1}
+14. {'ADJA': 8, 'PTKVZ': 2}
+18. {'ADJA': 7}
+wettbewerbe {'NN': 9}
+wettbewerben {'NN': 2}
+welche {'PWAT': 15}
+sportarten {'NN': 6}
+schwimmen {'VVIZU': 3, 'VVINF': 13, 'NN': 1, 'VVFIN': 5}
+tennis {'NN': 8, 'NE': 1}
+pipeline {'NN': 9}
+langes {'ADJA': 3}
+rohr {'NN': 29, 'ADJD': 1}
+öl {'NN': 5}
+fließen {'VVINF': 3}
+gas {'NN': 20}
+nord {'NE': 22}
+stream {'NE': 14, 'NN': 6}
+liegt {'VVFIN': 5}
+anfang {'NN': 21, 'NE': 6}
+lubmin {'NE': 3}
+klage {'NN': 4}
+naturschützer {'NN': 3}
+natur {'NN': 18}
+naturschutzgebiete {'NN': 2}
+naturschutz∙gebiet {'NN': 2}
+gebiet {'NN': 59}
+pflanzen {'NN': 45, 'VVFIN': 2}
+gestört {'VVPP': 5}
+geschützt {'VVPP': 8}
+naturschutzgebieten {'NN': 1}
+klagen {'VVFIN': 2, 'VVINF': 2}
+holstein {'NE': 31}
+relegationsspiele {'NN': 7}
+relegationsspielen {'NN': 1}
+fußballsaison {'NN': 2}
+mannschaften {'NN': 41}
+mannschaft {'NN': 38}
+16. {'ADJA': 11}
+verlierer {'NN': 4}
+relegationsspiel {'NN': 11}
+wäre {'VAFIN': 2}
+angefahren {'VVPP': 10}
+autofahrt {'NN': 7}
+disco {'NN': 11}
+laute {'ADJA': 4}
+getränke {'NN': 2}
+bier {'NN': 1}
+festgehalten {'VVPP': 4}
+alkohol {'NN': 9}
+getrunken {'VVPP': 9}
+erinnern {'VVINF': 5}
+verletzen {'VVINF': 4, 'VVFIN': 1}
+fußballspiel {'NN': 51}
+3:1 {'NN': 2}
+tor {'NN': 8}
+dauert {'VVFIN': 56}
+1:0 {'CARD': 2, 'NN': 3}
+beide {'PIAT': 6}
+anstrengend {'ADJD': 5}
+stolz {'ADJD': 3}
+sperrt {'VVFIN': 17}
+gilt {'VVFIN': 6}
+altona-nord {'NE': 3}
+a2. {'NN': 8}
+a2 {'NE': 42, 'CARD': 6, 'NN': 1, 'XY': 2}
+a27. {'NN': 2}
+a27 {'NN': 4}
+27. {'PTKVZ': 1, 'ADJA': 3}
+verden {'NE': 5}
+langwedel {'NE': 2}
+blockiert {'VVPP': 2, 'VVFIN': 1}
+vorbeifahren {'VVINF': 2}
+waldbrände {'NN': 13}
+warm {'ADJD': 10}
+trocken {'ADJD': 20}
+böden {'NN': 11}
+trockene {'ADJA': 6}
+wälder {'NN': 7}
+trockenen {'ADJA': 7}
+waldbrandgefahr {'NN': 5}
+hoch {'ADJD': 24}
+rauchen {'VVINF': 8, 'NN': 1}
+wäldern {'NN': 6}
+buchholz {'NE': 3}
+nordheide {'NN': 1, 'NE': 1}
+verspätung {'NN': 17}
+damm {'NN': 9}
+verbindet {'VVFIN': 5}
+niebüll {'NE': 3}
+küste {'NN': 4}
+nikolas {'NE': 2}
+häckel {'NE': 2}
+erschießt {'VVFIN': 4}
+gestiegen {'VVPP': 7}
+schüssen {'NN': 6}
+geflüchtet {'VVPP': 17}
+kannte {'VVFIN': 1}
+wusste {'VVFIN': 8}
+westerkappeln {'NE': 3}
+polizistin {'NN': 13}
+afrika {'NE': 2}
+flüchtling {'NN': 13}
+flüchtlinge {'NN': 13}
+flüchtlingen {'NN': 3}
+krieg {'NN': 10}
+daniel {'NE': 17}
+günther {'NE': 17}
+ministerpräsident {'NN': 38}
+mutig {'ADJD': 1}
+hoffentlich {'ADV': 2}
+gesund {'ADJD': 11}
+zeugen {'NN': 67}
+klumpen {'NN': 7}
+strand {'NN': 31}
+reinigung {'NN': 5}
+untersuchung {'NN': 11}
+fett {'NN': 3}
+stränden {'NN': 2}
+strände {'NN': 4}
+greifswalder {'ADJA': 2}
+bodden {'NN': 2}
+schmierfett {'NN': 3}
+maschinen {'NN': 24}
+baggerschiff {'NN': 6}
+baggerschiffe {'NN': 4}
+graben {'VVFIN': 2, 'NN': 8}
+meer {'NN': 36}
+baggerschiffen {'NN': 2}
+leck {'NN': 3, 'ADV': 1}
+loch {'NN': 26}
+gestoppt {'VVPP': 5}
+fettklumpen {'NN': 2}
+stromausfall {'NN': 32}
+funktioniert {'VVFIN': 6}
+anzeigetafeln {'NN': 1}
+sicherheitsschleusen {'NN': 1}
+sicherheitsschleuse {'NN': 1}
+kontrollieren {'VVFIN': 15, 'VVINF': 1}
+gefährliche {'ADJA': 23}
+gegenstände {'NN': 3}
+starten {'VVINF': 24, 'VVFIN': 6, 'NN': 1}
+gewartet {'VVPP': 5}
+wegfliegen {'VVINF': 2}
+flugzeug {'NN': 78}
+nachmittag {'NN': 4}
+gar {'ADV': 7}
+betten {'NN': 7}
+aufgestellt {'VVPP': 4}
+schaden {'NN': 25, 'VVINF': 1}
+flüge {'NN': 45, 'NE': 1}
+ausfallen {'VVINF': 1}
+normal {'ADJD': 1}
+dienstag {'NN': 57}
+kabel {'NN': 11}
+kaputte {'ADJA': 15}
+leider {'ADV': 2}
+verhindern {'VVINF': 8, 'VVFIN': 2}
+entschuldigen {'VVFIN': 1}
+stromausfälle {'NN': 1}
+müll-deponie {'NN': 6}
+lagert {'VVFIN': 4}
+müll {'NN': 41}
+plastik {'NN': 7}
+berge {'NN': 2}
+bergen {'NN': 1, 'NE': 10}
+gelände {'NN': 8}
+löschwasser {'NN': 3}
+nachbarort {'NN': 1}
+startet {'VVFIN': 1}
+juni {'NN': 20}
+schneller {'ADJD': 7}
+fahrt {'NN': 18}
+töchter {'NN': 4}
+töchtern {'NN': 1}
+getreten {'VVPP': 5}
+cebit {'NE': 24}
+messe {'NN': 123}
+ausstellung {'NN': 16}
+produkte {'NN': 43}
+kleidung {'NN': 15}
+erklären {'VVFIN': 12}
+interessieren {'VVFIN': 16}
+technologiemesse {'NN': 5}
+roboter {'NN': 4}
+computer {'NN': 30}
+handys {'NN': 3}
+stände {'NN': 9}
+ständen {'NN': 4}
+15. {'ADJA': 4}
+oliver {'NE': 9}
+frese {'NE': 1}
+anders {'ADV': 1}
+veranstaltungen {'NN': 60}
+öffnungszeiten {'NN': 3}
+öffnen {'VVFIN': 2, 'VVINF': 19}
+eintrittskarten {'NN': 13}
+eintrittskarte {'NN': 20}
+ganze {'ADJA': 17}
+billiger {'ADJD': 3}
+schwertransporter {'NN': 35}
+passen {'VVFIN': 5, 'VVINF': 1}
+tunnel {'NN': 64}
+langer {'ADJA': 13}
+a7. {'NN': 10, 'ADV': 21, 'ADJA': 2, 'PTKVZ': 1, 'APPR': 1}
+a7 {'NN': 64, 'NE': 74, 'XY': 3, 'PIS': 2, 'PDS': 9, 'VVPP': 3, 'FM': 1}
+7. {'PTKVZ': 28, 'ADV': 8, 'ADJA': 6}
+elbtunnel {'NN': 56}
+transportieren {'VVFIN': 14, 'VVINF': 5}
+schwertransportern {'NN': 1}
+flügel {'NN': 21}
+drehen {'VVFIN': 9, 'VVINF': 1}
+flügeln {'NN': 1}
+fahrzeuge {'NN': 21}
+stehen {'VVINF': 12, 'VVFIN': 21}
+fahrspuren {'NN': 17}
+wegfahren {'VVINF': 4}
+sperren {'VVINF': 9, 'VVFIN': 11}
+geplanten {'ADJA': 1}
+uhrzeit {'NN': 1}
+gelandet {'VVPP': 10}
+eigentlich {'ADV': 11}
+nachtflugverbot {'NN': 7}
+mitten {'ADV': 5}
+lärm {'NN': 19}
+ausnahmen {'NN': 1}
+genehmigung {'NN': 7}
+verspätungen {'NN': 5}
+gründe {'NN': 2}
+flugzeugen {'NN': 13}
+problemen {'NN': 3}
+betroffen {'VVPP': 3}
+kieler {'ADJA': 43}
+beginnt {'VVFIN': 39}
+endet {'VVFIN': 14}
+segelregatten {'NN': 13}
+wettfahrten {'NN': 4}
+segelboote {'NN': 5}
+tim {'NE': 5}
+bendzko {'NE': 1}
+sasha {'NE': 1}
+gucken {'VVINF': 4, 'VVFIN': 5}
+public {'FM': 7, 'NN': 2}
+viewing {'NN': 6, 'FM': 3}
+öffentliches {'ADJA': 2}
+anschauen {'NN': 2, 'VVINF': 3}
+bildschirm {'NN': 4}
+fußball-wm {'NE': 5}
+fußball-weltmeisterschaft {'NN': 1}
+fußballmannschaften {'NN': 2}
+entschärfen {'VVFIN': 12, 'VVINF': 12, 'NN': 1}
+entschärft {'VVPP': 23}
+ungefährlich {'ADJD': 23}
+explodieren {'VVINF': 45, 'VVFIN': 2}
+entschärfung {'NN': 41}
+büros {'NN': 6}
+woher {'PWAV': 3}
+weltkrieg {'NN': 33}
+abgeworfen {'VVPP': 14}
+explodiert {'VVPP': 24, 'VVFIN': 16}
+blindgänger {'NN': 15}
+sprengen {'VVINF': 5, 'VVFIN': 4}
+brücke {'NN': 163}
+a20 {'NN': 53, 'ADJD': 3, 'ADV': 2}
+20. {'ADJA': 11, 'PTKVZ': 1}
+sülze {'NE': 2}
+tribsees {'NE': 2}
+a20. {'NN': 5, 'NE': 4}
+stelle {'NN': 3}
+abgesackt {'VVPP': 12}
+fahrbahn {'NN': 73}
+unten {'ADV': 7}
+bewegt {'VVFIN': 6}
+abgesackte {'ADJA': 2}
+heide {'NE': 16, 'NN': 4}
+gewerbegebiet {'NN': 14}
+lager {'NN': 15}
+hallen {'NN': 22}
+erreichen {'VVINF': 2}
+gasflaschen {'NN': 15}
+fritz-thiedemann-ring {'NN': 3}
+reformationstag {'NN': 6}
+christliche {'ADJA': 1}
+sonst {'ADV': 6}
+bestraft {'VVFIN': 1, 'VVPP': 2}
+gott {'NN': 1}
+erneuert {'VVPP': 4, 'VVFIN': 1}
+reformieren {'VVINF': 1}
+hansetag {'NN': 11}
+geburtstag {'NN': 7}
+märkte {'NN': 1}
+ausstellungen {'NN': 2}
+hanse {'NE': 23}
+zusammenschluss {'NN': 1}
+hießen {'VVFIN': 2}
+hansestädte {'NN': 4}
+zusammengearbeitet {'VVPP': 5}
+händler {'NN': 4}
+beschützen {'VVINF': 1, 'VVFIN': 1}
+reisen {'VVINF': 5, 'NN': 4, 'VVFIN': 3}
+vertreter {'NN': 3}
+hansestädten {'NN': 2}
+hansetage {'NN': 1}
+gab {'VVFIN': 3}
+schnelsen {'NE': 13}
+a7-deckel {'NN': 4}
+stört {'VVFIN': 2}
+wänden {'NN': 1}
+dach {'NN': 39}
+lärmschutztunnel {'NN': 5}
+sperrungen {'NN': 3}
+moment {'NN': 11}
+verlegen {'ADJD': 1, 'VVFIN': 2}
+umleiten {'VVINF': 1}
+stadtteilen {'NN': 9}
+stellingen {'NN': 7}
+altona {'NE': 31}
+fahrerflucht {'NN': 1}
+überfahren {'VVPP': 35}
+gestellt {'VVPP': 5}
+führerschein {'NN': 21}
+saßen {'VVFIN': 1}
+polizeikontrolle {'NN': 3}
+polizeiauto {'NN': 8}
+fußgängerzone {'NN': 6}
+rettungswagen {'NN': 8}
+entkommen {'VVIZU': 1}
+autokennzeichen {'NN': 6}
+stellt {'VVFIN': 4}
+richter {'NN': 4}
+lkw-unfälle {'NN': 2}
+posthausen {'NE': 3}
+baustelle {'NN': 46}
+dabei {'PROAV': 19, 'PTKVZ': 2}
+lkw-fahrer {'NN': 95}
+gaffer {'NN': 11}
+neugierige {'ADJA': 1}
+verbotene {'ADJA': 20}
+stören {'VVFIN': 4, 'VVINF': 1}
+rettungsdiensten {'NN': 1}
+langsam {'ADJD': 8}
+unfallstellen {'NN': 1}
+vorbei {'PTKVZ': 4, 'ADV': 2}
+halten {'VVFIN': 21, 'VVINF': 21}
+versperren {'VVFIN': 1}
+unfallstelle {'NN': 6}
+verletzten {'NN': 7, 'ADJA': 11, 'VVFIN': 2}
+internet {'NN': 30}
+parkhaus {'NN': 20}
+gestürzt {'VVPP': 9}
+einkaufszentrum {'NN': 7}
+barmbek-süd {'NE': 2}
+etage {'NN': 2}
+meter {'NN': 38}
+höhe {'NN': 5}
+ausparken {'VVINF': 1, 'NN': 1}
+rückwärts {'ADV': 1}
+wand {'NN': 8}
+danach {'PROAV': 19}
+vorwärts {'ADV': 1}
+außenseite {'NN': 2}
+heruntergestürzt {'VVPP': 2}
+zerquetscht {'VVPP': 1}
+parken {'VVINF': 2}
+explosion {'NN': 39}
+huchting {'FM': 1, 'NE': 1}
+reihenhaus {'NN': 12}
+reihenhäuser {'NN': 8}
+direkt {'ADJD': 3}
+nebeneinander {'ADV': 4}
+aneinander {'ADV': 2}
+dachgeschoss {'NN': 2}
+reihe {'NN': 3}
+explodierten {'ADJA': 1}
+geflogen {'VVPP': 23}
+erstes {'ADJA': 2}
+landet {'VVFIN': 3}
+bisher {'ADV': 7}
+boeing {'NE': 4}
+787. {'NN': 1}
+mailand {'NE': 2}
+italien {'NE': 18}
+umbau {'NN': 21}
+urlaubern {'NN': 1}
+auszeichnung {'NN': 32}
+weltkulturerbe {'NN': 6}
+schützen {'VVINF': 56, 'VVFIN': 10}
+dorf {'NN': 10}
+reste {'NN': 1}
+ausgegraben {'VVPP': 1}
+nachgebaut {'VVPP': 1}
+unesco {'NE': 5}
+kultur {'NN': 5}
+einmal {'ADV': 12}
+wall {'NN': 2, 'NE': 4}
+aufgeschüttete {'ADJA': 1}
+danewerk {'NN': 1}
+campingplatz {'NN': 15}
+hohenfelde {'NE': 5}
+plön {'NE': 2}
+wohnwagen {'NN': 23}
+zelten {'NN': 12}
+heiß {'ADJD': 30}
+flaschen {'NN': 2}
+gasherd {'NN': 2}
+kochen {'VVINF': 2}
+gase {'NN': 4}
+hubschrauber {'NN': 40}
+dier {'NE': 1}
+fahrradfahrer {'NN': 28}
+ex-schwager {'NN': 1}
+schwester {'NN': 3}
+höhere {'ADJA': 1}
+zirkus {'NN': 23}
+elefant {'NN': 6}
+clowns {'NN': 1}
+artisten {'NN': 1}
+zauberer {'NN': 1}
+unterhalten {'VVFIN': 1}
+vorstellung {'NN': 5}
+elefanten {'NN': 10}
+kunststücke {'NN': 1}
+sturz {'NN': 1}
+kennen {'VVFIN': 14, 'VVINF': 8}
+circus {'NE': 1, 'NN': 1}
+krone {'NE': 1}
+schreibweise {'NN': 1}
+manege {'NN': 6}
+bühne {'NN': 3}
+rund {'ADV': 2}
+sitzen {'VVFIN': 5, 'VVINF': 1}
+herum {'PTKVZ': 1}
+zuschauern {'NN': 2}
+absperrung {'NN': 7}
+geschubst {'VVPP': 2}
+stolpern {'NN': 1}
+tierschützer {'NN': 2}
+wilde {'NE': 1, 'ADJA': 8}
+löwen {'NN': 6}
+tiger {'NN': 7}
+fordern {'VVFIN': 4}
+verbot {'NN': 11}
+wilden {'ADJA': 9}
+komplize {'NN': 2}
+planung {'NN': 2}
+abends {'ADV': 3}
+lauten {'ADJA': 5}
+beendet {'VVPP': 7, 'VVFIN': 2}
+geblieben {'VVPP': 6}
+genommen {'VVPP': 18}
+eingestochen {'VVPP': 3}
+schlechte {'ADJA': 18}
+ernte {'NN': 28}
+felder {'NN': 12}
+feldern {'NN': 22}
+mais {'NN': 5, 'NE': 1}
+raps {'NN': 2}
+kartoffeln {'NN': 15}
+getreide {'NN': 15}
+weizen {'NN': 3}
+brot {'NN': 4}
+wachsen {'VVFIN': 14, 'VVINF': 2}
+gewachsen {'VVPP': 7}
+sorgen {'NN': 12, 'VVINF': 2}
+schlechteste {'ADJA': 1}
+musikfest {'NN': 13}
+sportveranstaltung {'NN': 5}
+st. {'NE': 78}
+pauli {'NE': 79}
+bewohner {'NN': 21}
+genervt {'ADJD': 1}
+schlagermove {'NE': 2, 'NN': 5}
+lastwagen {'NN': 7}
+hinter {'APPR': 10}
+bunt {'ADJD': 1}
+geschmückt {'VVPP': 1}
+anhängern {'NN': 4}
+schlager {'NN': 6}
+lieder {'NN': 2}
+schlagern {'NN': 2}
+verkleidet {'VVPP': 2}
+perücken {'NN': 2}
+unechte {'ADJA': 1}
+haare {'NN': 2}
+sonnenbrillen {'NN': 1}
+triathlon {'NN': 7}
+zurücklegen {'VVINF': 1}
+rad {'NN': 1}
+beate {'NE': 8}
+zschäpe {'NE': 8}
+gewalt {'NN': 6}
+verbreiten {'VVINF': 4}
+bombenanschläge {'NN': 2}
+überfälle {'NN': 3}
+nsu {'NE': 10}
+nationalsozialistischer {'ADJA': 1}
+untergrund {'NN': 2}
+uwe {'NE': 18}
+mundlos {'NE': 3}
+böhnhardt {'NE': 3}
+selbst {'ADV': 3}
+ausländer {'NN': 17}
+banken {'NN': 4}
+taten {'NN': 10}
+unbekannte {'NN': 10, 'ADJA': 2}
+erpressen {'VVFIN': 1}
+erpressung {'NN': 6}
+verbrecher {'NN': 2}
+gib {'VVFIN': 1}
+mache {'VVFIN': 2}
+erpresst {'VVPP': 1}
+unbekannten {'ADJA': 8, 'NN': 11}
+eure {'PIAT': 2, 'PPOSAT': 2}
+bett {'NN': 5}
+morgens {'ADV': 5}
+fotos {'NN': 13}
+schlafenden {'ADJA': 1}
+pistole {'NN': 5}
+zielt {'VVFIN': 1}
+tätern {'NN': 1}
+halle {'NE': 12, 'NN': 38}
+dünger {'NN': 20}
+westerstede {'NE': 7}
+giftig {'ADJD': 11}
+wussten {'VVFIN': 7}
+geprüft {'VVPP': 2}
+festgestellt {'VVPP': 6}
+wimbledon {'NE': 38}
+london {'NE': 20}
+tennisspiele {'NN': 6}
+rasen {'NN': 2}
+tennisspielen {'NN': 2}
+endspiel {'NN': 24}
+serena {'NE': 3}
+williams {'NE': 3}
+trainiert {'VVPP': 3}
+traum {'NN': 1}
+erfüllt {'VVPP': 1}
+weltrangliste {'NN': 4}
+tabelle {'NN': 2}
+sieg {'NN': 10}
+punkte {'NN': 2}
+punkten {'NN': 1}
+glückwünsche {'NN': 1}
+gratuliert {'VVPP': 1, 'VVFIN': 1}
+boris {'NE': 16}
+becker {'NE': 12}
+angela {'NE': 41}
+merkel {'NE': 44}
+bundeskanzlerin {'NN': 33}
+weinernte {'NN': 2}
+weinbauern {'NN': 5}
+erwarten {'VVFIN': 1}
+weinreben {'NN': 3}
+weintrauben {'NN': 9}
+weinrebe {'NN': 1}
+strauch {'NN': 2}
+ernten {'VVFIN': 9, 'VVINF': 4}
+wein {'NN': 12}
+weinbauer {'NN': 1}
+winzer {'NN': 1}
+sonnenschein {'NN': 1}
+stare {'NN': 4}
+vögel {'NN': 21}
+gefressen {'VVPP': 2}
+kaum {'ADV': 2}
+wächst {'VVFIN': 3}
+anbaugebiete {'NN': 1}
+anbaugebiet {'NN': 1}
+stargarder {'ADJA': 2}
+august {'NN': 14}
+bäderregelung {'NN': 7}
+ungültig {'ADJD': 2}
+greifswald {'NE': 13}
+erlaubt {'VVFIN': 1, 'VVPP': 3}
+läden {'NN': 6}
+sonntagen {'NN': 1}
+sonntage {'NN': 1}
+einkaufen {'VVINF': 4, 'NN': 3}
+wismar {'NE': 36}
+verstößt {'VVFIN': 5}
+verfassung {'NN': 2}
+futter {'NN': 9}
+kühe {'NN': 11}
+fressen {'VVFIN': 10}
+gras {'NN': 7}
+travemünde {'NE': 10}
+travemünder {'ADJA': 16}
+29. {'ADJA': 4, 'PTKVZ': 3}
+juli {'NN': 12}
+segelveranstaltungen {'NN': 1}
+segler {'NN': 2}
+angebot {'NN': 3}
+nienburg {'NE': 8}
+schweden {'NE': 36}
+feuerwehrleuten {'NN': 8}
+waldbrand {'NN': 10}
+entsteht {'VVFIN': 22}
+alleine {'ADV': 18}
+löschfahrzeugen {'NN': 2}
+polen {'NE': 15}
+frankreich {'NE': 26}
+löschflugzeugen {'NN': 1}
+löschflugzeuge {'NN': 1}
+innenminister {'NN': 21}
+pistorius {'NE': 3}
+bombe {'NN': 304}
+gesprengt {'VVPP': 19}
+fach∙leute {'ADV': 2, 'NN': 5}
+tief {'ADJD': 15}
+förde {'NN': 8}
+sprengung {'NN': 24}
+welt∙krieg {'NN': 6}
+entdeckt {'VVPP': 3}
+zerstören {'VVINF': 1}
+dufte {'VVFIN': 1}
+beton {'NN': 38}
+startbahn {'NN': 8}
+fläche {'NN': 13}
+baustoff {'NN': 4}
+flüssig {'ADJD': 4}
+hart {'ADJD': 7}
+stein {'NN': 4}
+aufgeplatzt {'VVPP': 3}
+hitze {'NN': 28}
+dehnt {'VVFIN': 3}
+platzt {'VVFIN': 3}
+gestartet {'VVPP': 9}
+bauarbeiter {'NN': 23}
+baden {'NN': 15, 'VVINF': 6, 'NE': 1}
+untergegangen {'VVPP': 6}
+atmen {'VVINF': 4, 'NN': 2}
+uelzen {'NE': 5}
+haren {'NE': 1}
+warnt {'VVFIN': 8}
+beachten {'VVINF': 11, 'VVFIN': 4}
+bewachten {'ADJA': 2}
+seen {'NN': 26}
+rettungsschwimmer {'NN': 6}
+eiswagen {'NN': 10}
+osdorf {'NE': 10}
+verkäufer {'NN': 3}
+kleines {'ADJA': 15}
+wann {'PWAV': 15}
+blut {'NN': 4}
+heraus {'PTKVZ': 3, 'APZR': 1}
+oldesloe {'NE': 8}
+lag {'VVFIN': 4}
+brechen {'VVFIN': 1}
+zusammengebrochen {'VVPP': 5}
+schwindelig {'ADJD': 3}
+übel {'ADJD': 2}
+bewusstlos {'ADJD': 3}
+ansprechbar {'ADJD': 3}
+bösel {'NE': 2}
+ausflug {'NN': 6}
+parkplatz {'NN': 9}
+klimaanlage {'NN': 2}
+kühlt {'VVFIN': 1}
+maschsee {'NE': 4}
+maschseefest {'NN': 18}
+19. {'ADJA': 4, 'PTKVZ': 1}
+sängerin {'NN': 4}
+stefanie {'NE': 3}
+heinzmann {'NE': 1}
+namika {'NE': 1}
+band {'NN': 3}
+marquess {'NN': 1}
+musikgruppe {'NN': 6}
+basteln {'VVFIN': 1}
+blaualgen {'NN': 17}
+bakterien {'NN': 27}
+lebewesen {'NN': 6}
+seeburger {'ADJA': 1}
+dümmer {'NN': 3}
+thülsfelder {'NN': 1}
+talsperre {'NN': 1}
+entstehen {'VVINF': 5}
+schlucken {'VVFIN': 1}
+durchfall {'NN': 7}
+erbrechen {'NN': 1}
+badestellen {'NN': 1}
+hunde {'NN': 23}
+a24 {'NE': 7}
+schwertransport {'NN': 1}
+begleitfahrzeug {'NN': 10}
+warnlichter {'NN': 1}
+auffällige {'ADJA': 1}
+farbe {'NN': 14}
+schilder {'NN': 1}
+überholen {'VVINF': 13, 'NN': 1}
+ruderer {'NN': 4}
+europameister {'NN': 3}
+ruderrennen {'NN': 16}
+rudern {'VVFIN': 4, 'VVINF': 2}
+booten {'NN': 4}
+europameisterschaften {'NN': 4}
+glasgow {'NE': 5}
+achter {'NN': 5}
+deutschland-achter {'NN': 2}
+torben {'NE': 2}
+johannesen {'NN': 2}
+hannes {'NE': 13}
+ocik {'NE': 2}
+ecs {'NE': 6}
+european {'NE': 3}
+championships {'NE': 1, 'NN': 2}
+englische {'ADJA': 3}
+begriff {'NN': 1}
+enden {'VVFIN': 3}
+radfahren {'NN': 1}
+turnen {'VVFIN': 1}
+leichtathletik {'NN': 4}
+schwäne {'NN': 40}
+flüssen {'NN': 11}
+alsterschwäne {'NN': 4}
+sommer {'NN': 33}
+umgezogen {'VVPP': 6}
+schwänen {'NN': 2}
+eppendorfer {'ADJA': 10}
+mühlenteich {'NN': 9}
+kleiner {'ADJA': 22, 'ADJD': 1}
+kranken {'ADJA': 21}
+schwan {'NN': 5}
+polizeischule {'NN': 14}
+ausgebildet {'VVPP': 2}
+räume {'NN': 10}
+winterhude {'NE': 3}
+polizeiakademie {'NN': 1}
+akademie {'NN': 1}
+lernen {'VVFIN': 10, 'VVINF': 2}
+timo {'NE': 15}
+zill {'NE': 2}
+bilden {'VVFIN': 4}
+etagen {'NN': 2}
+sail {'NE': 19}
+9. {'ADJA': 1}
+museumsschiffe {'NN': 4}
+traditionssegler {'NN': 4}
+segelschiffen {'NN': 2}
+mitsegeln {'VVINF': 2}
+regatta {'NN': 4}
+wettfahrt {'NN': 2}
+bahngleise {'NN': 6}
+bahngleisen {'NN': 10}
+a23. {'NN': 3}
+a23 {'NN': 6, 'NE': 3}
+23. {'PTKVZ': 2, 'ADJA': 6}
+weggeräumt {'VVPP': 3}
+peine {'NE': 9}
+lensahn {'NE': 3}
+recyclinghof {'NN': 13}
+papier {'NN': 13}
+glas {'NN': 7}
+altem {'ADJA': 2}
+brennender {'ADJA': 1}
+stromleitung {'NN': 19}
+stromleitungen {'NN': 13}
+abgeschaltet {'VVPP': 1}
+brücken {'NN': 13}
+genua {'NE': 2}
+stürzen {'VVFIN': 1, 'VVINF': 1}
+wm {'NN': 31, 'NE': 25}
+rollstuhlbasketball {'NN': 5, 'NE': 1}
+weltmeisterschaft {'NN': 14}
+art {'NN': 6}
+basketball {'NE': 2, 'NN': 1}
+rollstuhl {'NN': 7}
+wilhelmsburg {'NE': 7}
+süden {'NN': 17}
+26. {'ADJA': 4}
+männermannschaften {'NN': 1}
+frauenmannschaften {'NN': 1}
+frauenmannschaft {'NN': 6}
+paralympics {'NE': 2}
+zweiten {'ADJA': 6}
+favoriten {'NN': 4}
+männermannschaft {'NN': 2}
+linstow {'NE': 4}
+a19. {'NN': 2}
+a19 {'PROAV': 3, 'ADJA': 2, 'NN': 1}
+fernbus {'NN': 14}
+stockholm {'NE': 2}
+umgekippten {'ADJA': 4}
+sonntagabend {'NN': 1}
+weite {'ADJA': 1}
+stralsund {'NE': 19}
+mv {'NE': 17}
+jacht {'NN': 5}
+dickes {'ADJA': 2}
+arktis {'NN': 2, 'NE': 2}
+nordpol {'NE': 14}
+nördlichste {'ADJA': 6}
+punkt {'NN': 6}
+überall {'ADV': 10}
+bundes∙kanzlerin {'NN': 1}
+manuela {'NE': 32}
+schwesig {'NE': 32}
+ministerpräsidentin {'NN': 20}
+eingestellt {'VVPP': 3}
+jachten {'NN': 1}
+landwirtschaftsministerin {'NN': 7}
+julia {'NE': 5}
+klöckner {'NE': 5}
+finder {'NN': 1}
+denkmalpreis {'NE': 1, 'NN': 5}
+blauzahn-schatz {'NE': 1, 'NN': 5}
+de {'NE': 3, 'FM': 2}
+ackerlöper {'NE': 3}
+plattdeutsch {'ADJD': 1}
+bedeutet {'VVFIN': 6}
+ackerläufer {'NN': 1}
+spuren {'NN': 11}
+hinterlassen {'VVINF': 1}
+acker {'NN': 4}
+tiefer {'ADJD': 11}
+nennen {'VVFIN': 3}
+kultusministerin {'NN': 5}
+theater {'NN': 16}
+museen {'NN': 2}
+birgit {'NE': 5}
+hesse {'NE': 5}
+belohnung {'NN': 5}
+bedanken {'VVINF': 1}
+fachleuten {'NN': 7}
+lüftung {'NN': 1}
+verkehrsschilder {'NN': 1}
+kontrollen {'NN': 26}
+ganzen {'ADJA': 16}
+decke {'NN': 4}
+hells {'NE': 1, 'ADJA': 3, 'NN': 4}
+angels {'NN': 8}
+rockerklub {'NN': 6}
+motorrad {'NN': 23}
+kriminell {'ADJD': 2}
+manchen {'PIAT': 11}
+ampel {'NN': 7}
+kugeln {'NN': 2}
+sofort {'ADV': 11}
+ausländerfeindlichkeit {'NN': 2}
+demonstriert {'VVPP': 8}
+ausländerfeindliche {'ADJA': 5}
+mögen {'VMFIN': 14}
+chemnitz {'NE': 7}
+sachsen {'NE': 8}
+ausländerfeindlichen {'ADJA': 4}
+randale {'NN': 7}
+ausland {'NN': 12}
+ausländerfeinlichkeit {'NN': 2}
+syrien {'NE': 28}
+nahen {'ADJA': 3}
+nahe {'ADJA': 3, 'ADJD': 3}
+gegend {'NN': 12}
+flüchten {'VVFIN': 2, 'VVINF': 1}
+beschimpft {'VVPP': 1}
+beschimpfungen {'NN': 2}
+ausländerfeindlich {'ADJD': 2}
+eisenkette {'NN': 1}
+drese {'NE': 2}
+sozialministerin {'NN': 2}
+nachrichten {'NN': 400}
+31.08.2018. {'NN': 1}
+verhaftet {'VVPP': 10}
+untersuchungshaft {'NN': 31}
+weiteren {'ADJA': 1}
+windkraftanlagen {'NN': 33}
+abbauen {'VVINF': 1}
+ferienwohnungen {'NN': 3}
+ferienwohnung {'NN': 1}
+elbvertiefung {'NN': 26}
+sogar {'ADV': 10}
+frank {'NE': 15}
+horch {'NE': 15}
+wirtschaftssenator {'NN': 12}
+planungen {'NN': 2}
+günstiger {'ADJD': 1}
+teurer {'ADJD': 4}
+außerdem {'PROAV': 3}
+umweltschutz {'NN': 5}
+03.09.2018. {'NN': 1}
+millionenraub {'NN': 1}
+angeklagt {'VVPP': 9}
+festnahme {'NN': 3}
+eingang {'NN': 3}
+festgesteckt {'VVPP': 2}
+entfernen {'VVFIN': 1, 'VVINF': 2}
+ziehen {'VVFIN': 5, 'VVINF': 3}
+geldautomaten {'NN': 21}
+geldautomat {'NN': 12}
+maschine {'NN': 24}
+abheben {'VVINF': 5}
+überfällen {'NN': 2}
+aufführungen {'NN': 20}
+theaterstücke {'NN': 3}
+segeberg {'NE': 11}
+karl-may-spiele {'NN': 14}
+karl-may-spielen {'NN': 22}
+388.000 {'ADJA': 1}
+nachricht {'NN': 6}
+geschichten {'NN': 15}
+westen {'NN': 21}
+indianer {'NN': 9}
+cowboys {'NE': 4, 'NN': 1}
+karl {'NE': 18}
+may {'NE': 9}
+autor {'NN': 2}
+winnetou {'NE': 11}
+hört {'VVFIN': 8}
+schauspielern {'NN': 1}
+jan {'NE': 56}
+sosniok {'NE': 3}
+04.09.2018. {'NN': 1}
+affe {'NN': 7}
+zoo {'NN': 22}
+käfig {'NN': 1}
+man {'PIS': 3}
+beifahrerin {'NN': 5}
+breiter {'ADJD': 5}
+baustellen {'NN': 17}
+staus {'NN': 61}
+dezember {'NN': 27}
+2018. {'NN': 2}
+2019. {'NN': 5, 'NE': 2, '$.': 1}
+05.09.2018. {'ADJA': 2}
+campingurlauber {'NN': 2}
+campingurlaub {'NN': 2}
+campingplätzen {'NN': 4}
+nordseeküste {'NN': 4}
+ostfriesland {'NE': 7}
+lüneburger {'ADJA': 3}
+orden {'NN': 21}
+bundesverdienstkreuz {'NE': 4, 'NN': 2}
+rolf {'NE': 12}
+zuckowski {'NE': 12}
+kinderlieder {'NN': 2}
+dass {'KOUS': 2}
+geboren {'VVPP': 10}
+bist {'VAFIN': 2}
+weihnachtsbäckerei {'NN': 2}
+sammelt {'VVFIN': 16}
+arme {'ADJA': 4}
+zuckerrüben {'NN': 10}
+zucker {'NN': 2}
+zuckerfabriken {'NN': 6}
+segelschiff {'NN': 30}
+peking {'NE': 1}
+gift {'NN': 14}
+wegmachen {'VVINF': 4}
+wewelsfleth {'NE': 3}
+hafenmuseum {'NN': 2}
+06.09.2018. {'ADJA': 1}
+stehlen {'VVINF': 3, 'VVFIN': 3}
+kaputtgemacht {'VVPP': 4, 'VVFIN': 1}
+kranwagen {'NN': 7}
+a29 {'NN': 11}
+oldenburg {'NE': 30}
+fahrzeug {'NN': 15}
+heben {'VVINF': 3}
+räumen {'VVINF': 2, 'NN': 8, 'VVFIN': 1}
+radiopreis {'NN': 20}
+radiosendern {'NN': 4}
+moderator {'NN': 9}
+moderatoren {'NN': 8}
+treten {'VVFIN': 1}
+stars {'NN': 2}
+lenny {'NE': 2}
+kravitz {'NE': 2}
+senator {'NN': 16}
+senat {'NN': 8}
+wofür {'PWAV': 7}
+arbeitsplätze {'NN': 10}
+parteilos {'ADJD': 5}
+ehefrau {'NN': 15}
+brauche {'VVFIN': 1}
+trete {'VVFIN': 2}
+reinhard {'NE': 15}
+meyer {'NE': 22}
+garrelt {'NE': 3}
+duin {'NE': 3}
+höre {'VVFIN': 2}
+07.09.2018. {'NN': 1}
+darfst {'VMFIN': 1}
+dich {'PRF': 1, 'PPER': 1}
+kümmere {'VVFIN': 1}
+sottrum {'NE': 1}
+radiopreise {'NE': 1, 'NN': 3}
+kategorie {'NN': 4}
+radiosender {'NN': 8}
+philipp {'NE': 7}
+schmid {'NE': 2}
+lokführer {'NN': 15}
+schienenersatzverkehr {'NN': 3}
+späten {'ADJA': 2}
+frühen {'ADJA': 4}
+auszubildende {'NN': 3}
+auszubildenden {'NN': 1}
+10.09.2018. {'NN': 1}
+horst {'NE': 14}
+heldt {'NE': 14}
+96. {'ADJA': 16, 'NN': 3}
+manager {'NN': 5}
+verträge {'NN': 2}
+spielern {'NN': 4}
+vertrag {'NN': 11}
+verlängert {'VVPP': 3, 'VVFIN': 1}
+wiedergewählt {'VVPP': 2}
+wahlen {'NN': 6}
+pinneberg {'NE': 6}
+barsbüttel {'NE': 3}
+urte {'NE': 4}
+steinberg {'NE': 4}
+thomas {'NE': 25}
+schreitmüller {'NE': 3}
+bundesgartenschau {'NN': 12, 'NE': 1}
+gärten {'NN': 5}
+blumen {'NN': 2}
+kräuter {'NN': 1}
+roland {'NE': 7}
+methling {'NE': 7}
+11.09.2018. {'NN': 1}
+piloten {'NN': 9}
+flugbegleiter {'NN': 11}
+ryanair {'NE': 8}
+fluggesellschaft {'NN': 17}
+linden-nord {'NE': 2}
+polizeiautos {'NN': 6}
+bezirksleiterin {'NN': 1}
+harburg {'NE': 17}
+bezirksamtsleiter {'NN': 4}
+bezirk {'NN': 3}
+bezirksamtsleiterin {'NN': 1}
+sophie {'NE': 3}
+fredenhagen {'NN': 2, 'NE': 1}
+völsch {'NN': 1, 'NE': 2}
+warnemünde {'NE': 27}
+orte {'NN': 34}
+12.09.2018. {'NN': 1}
+moorbrand {'NN': 5}
+meppen {'NE': 4}
+moor {'NN': 59, 'NE': 2}
+nass {'ADJD': 12}
+sumpfig {'ADJD': 1}
+bundeswehr {'NN': 76}
+armee {'NN': 13}
+soldaten {'NN': 37}
+heran {'PTKVZ': 1}
+brennt {'VVFIN': 21}
+haushalte {'NN': 1}
+friesland {'NE': 1}
+wasserhahn {'NN': 2}
+gewusst {'VVPP': 5}
+wieso {'PWAV': 5}
+überprüft {'VVPP': 6, 'VVFIN': 2}
+preise {'NN': 19}
+kleinere {'ADJA': 4}
+kartoffelernte {'NN': 2}
+geerntet {'VVPP': 3}
+lebensmitteln {'NN': 1}
+pommes {'FM': 1}
+frites {'FM': 1}
+kartoffelchips {'NN': 1}
+13.09.2018. {'NN': 1}
+bleckede {'NE': 1}
+helmstedt {'NE': 7}
+ehepaar {'NN': 18}
+eingebrochen {'VVPP': 5}
+kameras {'NN': 9}
+besuchern {'NN': 2}
+güstrow {'NE': 8}
+mela {'NN': 35}
+landwirtschaftsmesse {'NN': 15}
+trecker {'NN': 12}
+aussteller {'NN': 5}
+ausstellern {'NN': 1}
+hühner {'NN': 6}
+schafe {'NN': 41}
+14.09.2018. {'ADJA': 1}
+reisebus {'NN': 2}
+zoll {'NN': 29}
+grenze {'NN': 16}
+koffer {'NN': 6}
+cruise-festival {'NE': 1, 'NN': 4}
+lürssen-werft {'NE': 7}
+dock {'NN': 13}
+werkstatt {'NN': 6}
+luxus-jacht {'NN': 5, 'NE': 1}
+löschboot {'NN': 2}
+rauchwolke {'NN': 2}
+lürrsen-werft {'NN': 1}
+17.09.2018. {'NN': 1}
+rügendamm {'NE': 8}
+bremervörde {'NE': 2}
+antrieb {'NN': 2}
+wasserstoffantrieb {'NN': 4}
+veranstalter {'NN': 18}
+benutzen {'VVFIN': 7, 'NN': 4, 'VVINF': 7}
+autofahren {'NN': 7}
+handy {'NN': 15}
+handyverbot {'NN': 1}
+schreiben {'VVFIN': 3, 'VVINF': 3}
+telefonieren {'VVFIN': 1, 'VVINF': 1, 'NN': 1}
+hand {'NN': 22}
+freisprechanlage {'NN': 4}
+befestigt {'VVPP': 2}
+hände {'NN': 9}
+abgelenkt {'VVPP': 2}
+reagieren {'VVINF': 1}
+rechtzeitig {'ADJD': 16}
+strafen {'NN': 6}
+18.09.2018. {'NN': 1}
+kohltage {'NN': 5, 'NE': 2}
+dithmarschen {'NE': 15}
+region {'NN': 22}
+kohltagen {'NN': 2}
+kohlernte {'NN': 2}
+kohl {'NE': 8}
+gemüse {'NN': 13}
+weißkohl {'NE': 2}
+rotkohl {'NN': 2}
+kohlbrot {'NN': 2}
+backen {'VVINF': 2}
+möbelhaus {'NN': 11}
+jaderberg {'NE': 2}
+g20-gipfel {'NN': 16}
+gewalttätig {'ADJD': 7}
+g20 {'NE': 4}
+steine {'NN': 12}
+geschäfte {'NN': 39}
+mitgenommen {'VVPP': 2}
+19.09.2018. {'NN': 1}
+reeperbahn {'NE': 7, 'ADJA': 7, 'NN': 9}
+festival {'NN': 12}
+musikfestival {'NN': 45}
+unterschiedliche {'ADJA': 6}
+pop {'FM': 1}
+rock {'NN': 1}
+hip-hop {'NN': 1}
+altentreptow {'NE': 2}
+weide {'NN': 9}
+wiese {'NN': 2}
+getrieben {'VVPP': 1}
+schäfer {'NE': 4}
+diebe {'NN': 9}
+tabellenführer {'NN': 2}
+dresden {'NE': 8}
+dynamo {'NN': 2}
+hee-chan {'NE': 2}
+hwang {'NE': 2}
+gold {'NN': 12}
+schrank {'NN': 9}
+gekauft {'VVPP': 11}
+ehrlich {'ADJD': 2}
+fundbüro {'NN': 5}
+verlorene {'ADJA': 4}
+sache {'NN': 11}
+jemand {'PIS': 1}
+finderlohn {'NN': 2, 'NE': 1}
+83.500 {'APPRART': 1}
+reicher {'ADJA': 1}
+20.09.2018. {'NN': 1}
+riechen {'VVFIN': 2}
+riecht {'VVFIN': 1}
+geruch {'NN': 2}
+emsland {'NE': 32}
+gebüsch {'NN': 3}
+gezerrt {'VVPP': 1}
+testet {'VVFIN': 6}
+raketen {'NN': 11}
+löschfahrzeuge {'NN': 2}
+21.09.2018. {'NN': 1}
+gehege {'NN': 25}
+zäune {'NN': 2}
+eisbären {'NN': 3}
+pinguine {'NE': 1, 'NN': 1}
+südpol {'NE': 1}
+polarium {'NE': 1}
+kanal-cup {'NE': 1, 'NN': 1}
+nord-ostsee-kanal {'NE': 26}
+künstlicher {'ADJA': 4}
+holland {'NE': 24}
+usedom {'NE': 36}
+13. {'ADJA': 6}
+künstler {'NN': 14}
+stärker {'ADJD': 2}
+stavern {'NE': 4}
+starkem {'ADJA': 9}
+katastrophenfall {'NN': 16}
+kastastrophenfall {'NN': 5}
+gefahr {'NN': 14}
+erdbeben {'NN': 20}
+überschwemmung {'NN': 5}
+24.09.2018. {'ADJA': 1}
+autounfall {'NN': 4}
+gifhorn {'NE': 4}
+fürst {'NN': 4}
+albert {'NE': 4}
+klimawoche {'NN': 10}
+gast {'NN': 2}
+ii. {'NE': 2}
+monaco {'NE': 4}
+reden {'VVFIN': 5, 'NN': 4, 'VVINF': 4}
+klima {'NN': 46}
+verändert {'VVFIN': 8, 'VVPP': 1}
+klimawandel {'NN': 6}
+bahrenfeld {'NE': 5}
+vorträge {'NN': 4}
+themen {'NN': 8}
+anhören {'VVINF': 1}
+25.09.2018. {'NN': 1}
+handballspieler {'NN': 7}
+holger {'NE': 10}
+glandorf {'NE': 7}
+handball {'NN': 7, 'NE': 3}
+sg {'ADJA': 32, 'ADJD': 1, 'ADV': 1}
+flensburg-handewitt {'NN': 35}
+jung {'ADJD': 4}
+bleibe {'VVFIN': 3}
+maik {'NE': 4}
+machulla {'NE': 4}
+setzen {'VVFIN': 2}
+windenergy {'NE': 4}
+windenergie {'NN': 14}
+energie {'NN': 17}
+windräder {'NN': 1}
+26.09.2018. {'NN': 1}
+weser {'NE': 10}
+bahnübergang {'NN': 29}
+bahnübergänge {'NN': 9}
+bahnübergängen {'NN': 10}
+bahnschienen {'NN': 20}
+schranken {'NN': 12}
+kehrwieder {'NE': 1}
+hadag {'NE': 4}
+hafen-dampfschifffahrtsgesellschaft {'NN': 1}
+landungsbrücken {'NN': 7}
+finkenwerder {'NE': 4}
+moschee {'NN': 10}
+beten {'VVFIN': 1}
+muslime {'NN': 3}
+islam {'NN': 5}
+religionen {'NN': 5}
+christentum {'NN': 2}
+hinduismus {'NN': 2}
+buddhismus {'NN': 2}
+judentum {'NN': 3}
+hamburg-horn {'NE': 1}
+horn {'NE': 3}
+kapernaum-kirche {'NN': 2}
+evangelischen {'ADJA': 1}
+kirchen {'NN': 10}
+27.09.2018. {'NN': 1}
+reisenden {'NN': 7}
+kutsche {'NN': 17}
+wagen {'NN': 18}
+pferde {'NN': 7}
+friedhof {'NN': 22}
+ohlsdorf {'NE': 9}
+größten {'ADJA': 5}
+friedhöfen {'NN': 1}
+park {'NN': 17}
+kutschen {'NN': 1}
+kutschfahrten {'NN': 1}
+ansehen {'VVINF': 3}
+kutschfahrt {'NN': 1}
+pferd {'NN': 3}
+plötzlich {'ADJD': 12}
+28.09.2018. {'NN': 1}
+bahnstrecke {'NN': 41}
+maschen {'NN': 2}
+rettet {'VVFIN': 8}
+hartenholm {'NE': 2}
+fallschirm {'NN': 9}
+sportgerät {'NN': 1}
+hängen {'VVFIN': 3, 'VVINF': 3}
+schweben {'VVINF': 1}
+flugplatz {'NN': 3}
+fallschirmsprung {'NN': 1}
+runterholen {'VVINF': 1}
+derby {'NN': 53}
+derselben {'PDAT': 4}
+fc {'NN': 51}
+volksparkstadion {'NN': 3, 'NE': 1}
+stadion {'NN': 18}
+ausverkauft {'VVPP': 2}
+millerntor-stadion {'NE': 1, 'NN': 2}
+leinwände {'NN': 1}
+fußballmannschaft {'NN': 2}
+fans {'NN': 26}
+schlägereien {'NN': 2}
+aufpassen {'VVFIN': 4, 'VVINF': 4}
+sportclub {'NN': 6}
+bericht {'NN': 2}
+01.10.2018. {'ADJA': 1}
+schmidt-gutzat {'NE': 3}
+ulf {'NE': 14}
+stecher {'NE': 3}
+0:0. {'NN': 1}
+friedliches {'ADJA': 1}
+umgeleitet {'VVPP': 2}
+1880. {'NE': 1}
+02.10.2018. {'ADJA': 1}
+kassiererin {'NN': 2}
+geschäft {'NN': 5}
+kasse {'NN': 2}
+ja {'PTKANT': 2}
+bewährung {'NN': 8}
+spielerin {'NN': 6}
+fußballspielerin {'NN': 1}
+nilla {'NN': 6}
+fischer {'NE': 10, 'NN': 17}
+abwehr {'NN': 1}
+kapitänin {'NN': 9, 'NE': 1}
+meiner {'PPOSAT': 3}
+aufwachsen {'VVINF': 1}
+otto {'NE': 21}
+leistungen {'NN': 3}
+komiker {'NN': 3}
+lachen {'NN': 1, 'VVFIN': 1}
+erzählt {'VVFIN': 3, 'VVPP': 2}
+witze {'NN': 2}
+emden {'NE': 18}
+filmemacher {'NN': 1}
+bundespräsident {'NN': 23}
+vergeben {'VVPP': 3}
+frank-walter {'NE': 26}
+steinmeier {'NE': 27}
+04.10.2018. {'NN': 1}
+messerangriff {'NN': 13}
+flüchtlingsheim {'NN': 4}
+boostedt {'NE': 1}
+dannenberg {'NE': 6}
+feuerwehrmann {'NN': 16}
+leichte {'ADJA': 1}
+rauchvergiftung {'NN': 6}
+05.10.2018. {'NN': 1}
+pünktlicher {'ADJD': 1}
+ärgern {'VVFIN': 6}
+fluggesellschaften {'NN': 15}
+geredet {'VVPP': 1}
+beschlossen {'VVPP': 2}
+schwimmbad {'NN': 4}
+hörnbad {'NE': 1}
+schwimmbäder {'NN': 4}
+schwimmbädern {'NN': 1}
+paderborn {'NE': 6}
+höxter {'NE': 4}
+gelockt {'VVPP': 1}
+einsam {'ADJD': 1}
+misshandelt {'VVPP': 9, 'VVFIN': 1}
+gefesselt {'VVPP': 3}
+misshandlungen {'NN': 1}
+psychiatrie {'NN': 6}
+kranke {'ADJA': 24}
+stoffe {'NN': 34}
+09.10.2018. {'NN': 2}
+rettungshubschrauber {'NN': 10}
+ems {'NE': 20}
+westoverledingen {'NN': 2}
+ausgegangen {'VVPP': 2}
+stehengeblieben {'VVINF': 4, 'VVFIN': 2}
+passagiere {'NN': 9}
+papenburg {'NE': 5}
+sperrwerk {'NN': 14}
+bauwerk {'NN': 7}
+erdgas {'NN': 11}
+10.10.2018. {'NN': 1}
+seehunde {'NN': 18}
+friedrichskoog {'NE': 3}
+seehundstation {'NN': 29}
+pflegen {'VVFIN': 5}
+heuler {'NN': 14}
+achtelfinale {'NN': 7}
+alexander {'NE': 60}
+zverev {'NE': 45, 'NN': 2}
+china {'NE': 20}
+nikolos {'NE': 2}
+basilaschwili {'NE': 2}
+georgien {'NE': 4}
+journalistin {'NN': 4}
+vergewaltigung {'NN': 6}
+zwingt {'VVFIN': 3}
+bulgarien {'NE': 5}
+donau {'NE': 4}
+erwürgt {'VVPP': 4}
+11.10.2018. {'NN': 1}
+monika {'NE': 5}
+crantz {'NE': 5}
+studenten {'NN': 8}
+studium {'NN': 5}
+universität {'NN': 8}
+schießerei {'NN': 10}
+u-bahnhof {'NN': 12}
+markt {'NN': 5}
+glinde {'NE': 7}
+12.10.2018. {'NN': 1}
+mallorca {'NE': 15}
+überschwemmungen {'NN': 5}
+brotdosen {'NN': 6}
+schulkinder {'NN': 3}
+verteilen {'VVFIN': 8, 'VVINF': 3}
+gesundes {'ADJA': 3}
+frühstück {'NN': 3}
+möhre {'NN': 1}
+müsli {'NN': 1}
+till {'NE': 8}
+backhaus {'NE': 8}
+landwirtschaftsminister {'NN': 2}
+rhede {'NE': 1}
+oben {'ADV': 3}
+15.10.2018. {'NN': 1}
+imbiss {'NN': 1}
+ex-freundin {'NN': 13}
+naturschutzgebiet {'NN': 6}
+boberger {'ADJA': 4}
+niederung {'NN': 4}
+dioxin {'NE': 3, 'NN': 6}
+gefährliches {'ADJA': 1}
+krebs {'NN': 35, 'NE': 11}
+krankheit {'NN': 57}
+welchen {'PWAT': 1}
+nehmen {'VVFIN': 5, 'VVINF': 4}
+verbrennen {'VVFIN': 2, 'VVINF': 1}
+gekippt {'VVPP': 6}
+16.10.2018. {'NN': 1}
+retter {'NN': 4}
+kollegen {'NN': 6}
+hubschraubern {'NN': 1}
+fahrrad {'NN': 16}
+vorbeigefahren {'VVIZU': 1}
+langsames {'ADJA': 1}
+langsamen {'ADJA': 4}
+schnelle {'ADJA': 4}
+schnellen {'ADJA': 2}
+schleudern {'NN': 1}
+gedreht {'VVPP': 3}
+gestoßen {'VVPP': 2}
+17.10.2018. {'NN': 1}
+zelle {'NN': 8}
+zellen {'NN': 1}
+gefangene {'NN': 4}
+matratze {'NN': 1}
+klauen {'VVFIN': 1, 'VVINF': 1}
+tresor {'NN': 10}
+walkenried {'NE': 2}
+geklaut {'VVPP': 3}
+schloss {'NN': 13}
+tragen {'VVINF': 13, 'VVFIN': 4}
+pech {'NN': 1}
+wertvollen {'ADJA': 2}
+russlandtag {'NN': 8}
+zusammenarbeiten {'VVINF': 3}
+meinungen {'NN': 1}
+behandeln {'VVINF': 1}
+18.10.2018. {'NN': 1}
+hafeninsel {'NN': 2}
+stützen {'NN': 7, 'VVFIN': 1, 'VVINF': 1}
+ausgeschieden {'VVPP': 12}
+sc {'NN': 14}
+magdeburg {'NE': 16}
+28:31 {'NN': 1}
+lkw-unfall {'NN': 1}
+oyten {'NE': 3}
+kaputter {'ADJA': 1}
+seitenstreifen {'NN': 1}
+dritter {'ADJA': 1}
+ausweichen {'VVINF': 4}
+dritte {'ADJA': 2}
+19.10.2018. {'NN': 1}
+geklaute {'ADJA': 1}
+hundebabys {'NN': 10}
+da {'ADV': 5, 'PTKVZ': 1}
+quitzerow {'NE': 2}
+demmin {'NE': 2}
+zurückgebracht {'VVPP': 2}
+schlechtes {'ADJA': 3}
+gewissen {'NN': 2}
+gemerkt {'VVPP': 3}
+fehler {'NN': 14}
+grundstück {'NN': 8}
+weggetragen {'VVPP': 1}
+verkauften {'ADJA': 2}
+zurückbringen {'VVFIN': 1}
+tennishalle {'NN': 12}
+laatzen {'NE': 1}
+langenfelder {'ADJA': 1}
+führt {'VVFIN': 6}
+22.10.2018. {'NN': 1}
+mehrmals {'ADV': 3}
+sexuellem {'ADJA': 1}
+cch {'NE': 11}
+congress {'NE': 2}
+center {'NE': 2}
+schaffen {'VVFIN': 1, 'VVINF': 1}
+stattfinden {'VVINF': 1}
+teststrecke {'NN': 32}
+reinfeld {'NE': 2}
+stück {'NN': 7}
+elektro-lkw {'NN': 11}
+einiger {'PIAT': 2}
+normale {'ADJA': 1}
+23.10.2018. {'NN': 1}
+sturmflut {'NN': 26}
+halligen {'NN': 2}
+einbrecher-bande {'NN': 1}
+einbrecher {'NN': 34}
+fremde {'ADJA': 5}
+klettert {'VVFIN': 3}
+stiehlt {'VVFIN': 5}
+niederlanden {'NE': 1}
+niederlande {'NE': 2}
+nordwesten {'NN': 3}
+bande {'NN': 13}
+einbrüche {'NN': 16}
+harrislee {'NE': 2}
+reihenhäusern {'NN': 1}
+sport-verein {'NN': 15}
+aufsteigen {'VVINF': 9}
+wolf {'NE': 26, 'NN': 19}
+aufgestiegen {'VVPP': 2}
+24.10.2018. {'NN': 1}
+grevesmühlen {'NE': 1}
+fußballspielen {'NN': 7}
+randalen {'NN': 1}
+darauf {'PROAV': 1}
+hirsch {'NE': 9, 'NN': 14}
+hirsche {'NN': 12}
+herbst {'NN': 6}
+paarungszeit {'NN': 2}
+paaren {'VVFIN': 1}
+männliche {'ADJA': 2}
+tier {'NN': 19}
+weibliches {'ADJA': 1}
+weiblichen {'ADJA': 1}
+tierbabys {'NN': 1}
+hirschkuh {'NN': 2}
+weiblicher {'ADJA': 1}
+wildunfälle {'NN': 3}
+wildunfall {'NN': 1}
+wildtier {'NN': 1}
+wildtiere {'NN': 12}
+rehe {'NN': 2}
+reflektoren {'NN': 6}
+strahlen {'VVFIN': 2}
+strahlt {'VVFIN': 2}
+wildtieren {'NN': 1}
+25.10.2018. {'NN': 1}
+tun {'VVINF': 8, 'VVFIN': 1}
+sukow {'NE': 2}
+gebuddelt {'VVPP': 1}
+granate {'NN': 1}
+ausgebuddelt {'VVPP': 1}
+granaten {'NN': 16}
+kiste {'NN': 3}
+kostenlose {'ADJA': 2}
+gehbehinderung {'NN': 12}
+ag {'NN': 14}
+borkum {'NE': 22}
+kostenlos {'ADJD': 12}
+geklagt {'VVPP': 4}
+wohne {'VVFIN': 1}
+fahre {'VVFIN': 1}
+nah {'ADJD': 4}
+beieinander {'ADV': 2}
+denke {'VVFIN': 2}
+nahverkehr {'NN': 9}
+verstehe {'VVFIN': 2}
+26.10.2018. {'ADJA': 1}
+kreuzfahrten {'NN': 1}
+angekommen {'VVPP': 7}
+kreuzfahrtschiffen {'NN': 4}
+berkenthin {'NE': 5}
+pflanzenschutzmittel {'NN': 5}
+flüssigkeit {'NN': 8}
+schädlingen {'NN': 1}
+schädlinge {'NN': 1}
+schlauch {'NN': 3}
+geplatzt {'VVPP': 2}
+katrin {'NE': 12}
+konert {'NE': 12}
+wendland {'NE': 2}
+befragt {'VVFIN': 1, 'VVPP': 1}
+dumme {'NN': 5}
+nein {'PTKANT': 1}
+befragen {'VVINF': 3, 'VVFIN': 2}
+mobile {'ADJA': 4}
+wache {'NN': 3}
+wachen {'NN': 1}
+fahrzeugen {'NN': 7}
+mobilen {'ADJA': 1}
+29.10.2018. {'NN': 1}
+westhagemann {'NE': 4}
+führung {'NN': 1}
+unternehmen {'NN': 5}
+amt {'NN': 3}
+rücktritt {'NN': 3}
+windpark {'NN': 18}
+passagierflugzeug {'NN': 1}
+a380. {'NN': 4}
+a380 {'NE': 6, 'NN': 14}
+380. {'NN': 3}
+fabrik {'NN': 21}
+dubai {'NE': 8}
+vereinigten {'ADJA': 5}
+arabischen {'ADJA': 6}
+emirate {'NN': 4}
+persischen {'ADJA': 1}
+golf {'NN': 3, 'NE': 1}
+persische {'ADJA': 1}
+arabien {'NE': 3}
+fliegt {'VVFIN': 7}
+täglich {'ADJD': 1}
+30.10.2018. {'NN': 1}
+filmfest {'NN': 28}
+60. {'ADJA': 1}
+nordische {'ADJA': 2}
+filmtage {'NN': 2}
+estland {'NE': 1}
+lettland {'NE': 1}
+island {'NE': 1}
+filmen {'NN': 4, 'VVFIN': 2}
+hoheluft-west {'NN': 2}
+eng {'ADJD': 1}
+krankenpfleger {'NN': 11}
+niels {'NE': 2}
+högel {'NE': 2}
+krankenhäusern {'NN': 17}
+delmenhorst {'NE': 11}
+patienten {'NN': 16}
+falsche {'ADJA': 11}
+medikamente {'NN': 12}
+lebenslangen {'ADJA': 1}
+gefängnisstrafe {'NN': 1}
+02.11.2018. {'ADJA': 1, 'NN': 1}
+zigaretten {'NN': 4}
+geschmuggelt {'VVPP': 2}
+steuern {'NN': 20, 'VVINF': 8, 'VVFIN': 3}
+zahlen {'VVINF': 4, 'NN': 1, 'VVFIN': 9}
+fahrten {'NN': 10}
+wölfe {'NN': 34}
+ludwigslust {'NE': 5}
+wölfen {'NN': 6}
+schafen {'NN': 3}
+zaun {'NN': 29}
+hoffe {'VVFIN': 1}
+winternotprogramm {'NN': 12}
+winter {'NN': 34}
+obachlose {'NN': 1}
+erfrieren {'VVINF': 3}
+friesenstraße {'NE': 4}
+hammerbrook {'NE': 3}
+kollaustraße {'NN': 4}
+lokstedt {'NE': 2}
+warmes {'ADJA': 4}
+warme {'ADJA': 4}
+vereinen {'NN': 3}
+rekord {'NN': 4}
+spitzenspiel {'NN': 2}
+erster {'NN': 1}
+zweiter {'NN': 1}
+26:25 {'NE': 1}
+11. {'ADJA': 5, 'PTKVZ': 1}
+kran {'NN': 20}
+hafenmauer {'NN': 3}
+tonnen {'NN': 7}
+tonne {'NN': 4}
+kilogramm {'NN': 6}
+wiegt {'VVFIN': 1}
+05.11.2018. {'ADJA': 1}
+seeler {'NE': 9}
+orgel {'NN': 7}
+klosterkirche {'NN': 2}
+dobbertin {'NE': 1}
+musikinstrument {'NN': 1}
+gesammelt {'VVPP': 17}
+schlimmen {'ADJA': 3}
+langenhagen {'NE': 2}
+wintergarten {'NN': 4}
+raum {'NN': 3}
+überfährt {'VVFIN': 3}
+kreuzung {'NN': 21}
+zeuge {'NN': 2}
+herzinfarkt {'NN': 3}
+herz {'NN': 4}
+hafencity {'NE': 10}
+altengamme {'NE': 1}
+07.11.2018. {'ADJA': 1}
+stößt {'VVFIN': 2}
+peene-werft {'NE': 14}
+wolgast {'NE': 9}
+eisenbahnfähre {'NN': 2}
+eisenbahnwagen {'NN': 1}
+elbbrücken {'NN': 13}
+führen {'VVFIN': 2, 'VVINF': 2}
+planen {'VVFIN': 3, 'VVINF': 2}
+reißen {'VVFIN': 5}
+breitere {'ADJA': 1}
+bestimmt {'ADJD': 1, 'VVFIN': 2}
+verkehr {'NN': 4}
+08.11.2018. {'NN': 1}
+dom {'NN': 17}
+volksfest {'NN': 13}
+achterbahn {'NN': 3}
+überrollt {'VVPP': 2}
+celle {'NE': 11}
+linus {'NE': 6}
+bruhn {'NE': 6}
+schicken {'VVFIN': 3}
+insgesamt {'ADV': 1}
+ausgesucht {'VVPP': 2}
+videos {'NN': 13, 'NE': 1}
+sängern {'NN': 3}
+angesehen {'VVPP': 4}
+mittelmeer {'NE': 3}
+09.11.2018. {'NN': 1}
+handeln {'VVFIN': 1}
+rockerbande {'NN': 1}
+lehre {'NN': 2}
+gasleitung {'NN': 7}
+leitung {'NN': 3}
+kurzarbeit {'NN': 18}
+genügend {'PIAT': 4}
+auftrag {'NN': 14}
+stefan {'NE': 29}
+weigler {'NE': 2}
+12.11.2018. {'NN': 1}
+kaianlage {'NN': 5}
+dicken {'ADJA': 1}
+meist {'ADV': 3}
+anlegen {'VVINF': 3}
+beladen {'VVPP': 2}
+entladen {'VVFIN': 1}
+größere {'ADJA': 2}
+stock {'NN': 9}
+ausgebreitet {'VVPP': 2}
+leiter {'NN': 2}
+13.11.2018. {'ADJA': 1}
+schanzenviertel {'NN': 4}
+evakuiert {'VVFIN': 2, 'VVPP': 8}
+kamele {'NN': 8}
+kamelen {'NE': 1}
+reiten {'VVINF': 1, 'VVFIN': 1}
+wüste {'NN': 1}
+bremerhaven {'NE': 16}
+gorch {'NE': 3}
+fock {'NE': 3}
+2020. {'NN': 1, 'NE': 2}
+masten {'NN': 2}
+länger {'ADJD': 15}
+festen {'ADJA': 3}
+vereinbart {'VVPP': 1}
+14.11.2018. {'ADJA': 1}
+beifahrer {'NN': 10}
+feuern {'NN': 4}
+mieten {'NN': 6}
+miete {'NN': 8}
+wegziehen {'VVINF': 1}
+mieterverein {'NN': 8}
+mitglied {'NN': 2}
+modernisiert {'VVPP': 1}
+modernisierung {'NN': 4}
+höher {'ADJD': 2}
+ausziehen {'VVINF': 1}
+15.11.2018. {'ADJA': 1}
+kollege {'NN': 3}
+reinigen {'VVINF': 4, 'VVFIN': 2}
+korb {'NN': 3}
+seilen {'NN': 2}
+seil {'NN': 1}
+gerissen {'VVPP': 4}
+geflügelhöfe {'VVPP': 1, 'NN': 3}
+geflügelhöfen {'NN': 1}
+betriebe {'NN': 2}
+betrieben {'NN': 1}
+eier {'NN': 4}
+hühnerfutter {'NN': 2}
+hühnern {'NN': 1}
+vergiftet {'VVPP': 1}
+letzter {'ADJA': 2}
+aufhören {'VVINF': 2}
+annegret {'NE': 2}
+kramp-karrenbauer {'NE': 2}
+generalsekretärin {'NN': 1}
+generalsekretär {'NN': 2}
+erklärt {'VVFIN': 1, 'VVPP': 1}
+friedrich {'NE': 3}
+merz {'NE': 3}
+spahn {'NE': 4}
+gesundheitsminister {'NN': 10}
+krankenhäuser {'NN': 25}
+bestimmen {'VVFIN': 1}
+16.11.2018. {'ADJA': 1}
+kulturzentrum {'NN': 1}
+konzertsaal {'NN': 3}
+frachter {'NN': 51}
+schlepper {'NN': 13}
+starken {'ADJA': 4}
+rausgezogen {'VVPP': 1}
+verbogen {'VVPP': 2}
+19.11.2018. {'ADJA': 1}
+junger {'ADJA': 5}
+schlaf {'NN': 1}
+afghanistan {'NE': 2}
+gekannt {'VVPP': 1}
+verkehrsteilnehmer {'NN': 2}
+fußgänger {'NN': 15}
+atp-finale {'NN': 7}
+atp {'NE': 3}
+tennisspielern {'NN': 1}
+novak {'NE': 4}
+djokovic {'NE': 4}
+serbien {'NE': 8}
+bundesregierung {'NN': 10}
+her {'PTKVZ': 2}
+20.11.2018. {'ADJA': 1}
+weihnachtsbaum {'NN': 5}
+reichstag {'NN': 4}
+fichte {'NN': 6}
+sägen {'VVFIN': 2}
+umziehen {'VVINF': 3}
+umzug {'NN': 4}
+gefangen {'PTKVZ': 5, 'VVPP': 1, 'ADJD': 2}
+teich {'NN': 33, 'NE': 2}
+uetersen {'NE': 4}
+feldmuehle {'NN': 1}
+insolvent {'ADJD': 4, 'NN': 1}
+transportern {'NN': 1}
+nizza {'NE': 2}
+menschengruppe {'NN': 1}
+21.11.2018. {'ADJA': 1}
+garage {'NN': 2}
+gebühr {'NN': 11}
+hausbesitzer {'NN': 3}
+abgeschafft {'VVPP': 2}
+ausbau {'NN': 11}
+straßenausbaubeitrag {'NN': 1}
+ungerecht {'ADJD': 3}
+unterschriften {'NN': 2}
+gebühren {'NN': 2}
+abschaffen {'VVINF': 1}
+faire {'ADJA': 1}
+guppe {'NN': 1}
+hausbesitzern {'NN': 1}
+erhöhen {'VVFIN': 1}
+grunderwerbssteuer {'NN': 2}
+22.11.2018. {'NN': 1}
+otto-katalog {'NN': 4}
+katalog {'NN': 2}
+bestellen {'VVINF': 1}
+nutzen {'VVFIN': 4, 'VVINF': 6}
+s-bahn {'NN': 4}
+s-bahn-strecke {'NN': 9}
+stecke {'NN': 1}
+s-bahnen {'NN': 24}
+göttingen {'NE': 28}
+23.11.2018. {'NN': 1}
+großensee {'NE': 2}
+busfahrerin {'NN': 4}
+gesundheit {'NN': 7}
+kreuzfahrtterminal {'NE': 6}
+burgdorf {'NE': 4}
+abbiegen {'VVINF': 10, 'NN': 7}
+wilstorf {'NE': 2}
+schere {'NN': 1}
+verletzungen {'NN': 12}
+26.11.2018. {'ADJA': 1}
+weihnachtsmärkte {'NN': 10}
+weihnachtsmarkt {'NN': 15}
+hütten {'NN': 4}
+stimmung {'NN': 5}
+weihnachtslieder {'NN': 1}
+leuchten {'VVFIN': 3}
+lichter {'NN': 4}
+wolfenbüttel {'NE': 2}
+garten {'NN': 12}
+vergraben {'VVPP': 1}
+27.11.2018. {'NN': 1}
+pierre-michel {'NE': 5}
+lasogga {'NE': 5}
+wade {'NN': 1}
+weiterbau {'NN': 9}
+wittenborn {'NE': 2}
+weiterbauen {'VVINF': 3}
+umweltschützer {'NN': 9}
+stoppen {'VVINF': 2}
+meere {'NN': 8}
+werfen {'VVINF': 2, 'VVFIN': 4}
+fledermäuse {'NN': 5}
+höhlen {'NN': 1}
+höhle {'NN': 1}
+stettin {'NE': 2}
+autowerkstatt {'NN': 10}
+gebissen {'VVPP': 6}
+steinfeld {'NE': 5}
+scheue {'ADJA': 1}
+werkzeugkiste {'NN': 2}
+gegriffen {'VVPP': 1}
+umgedreht {'VVPP': 1}
+hammer {'NN': 3}
+arzt {'NN': 37}
+hinweisen {'NN': 3}
+eingesammelt {'VVPP': 2}
+pullover {'NN': 3}
+tierhaare {'NN': 1}
+ergebnisse {'NN': 1}
+spenden {'NN': 18, 'VVINF': 12, 'VVFIN': 5}
+demenz {'NN': 30}
+vergessen {'VVFIN': 4, 'VVPP': 2}
+erkennen {'VVFIN': 4, 'VVINF': 3}
+familien {'NN': 8}
+aktion {'NN': 25}
+berichten {'NN': 3}
+spendentag {'NN': 15}
+höhepunkt {'NN': 2}
+lutz {'NE': 15}
+marmor {'NE': 13}
+erfahren {'VVFIN': 2, 'VVPP': 1}
+seite {'NN': 15}
+friedland {'NE': 3}
+biogasanlage {'NN': 4}
+behälter {'NN': 3}
+behältern {'NN': 2}
+biogas {'NN': 4}
+breit {'ADJD': 4}
+explosionen {'NN': 3}
+feuerwehrauto {'NN': 1}
+reinbek {'NE': 9}
+östlich {'ADJD': 5}
+asbest {'NN': 21}
+mineral {'NN': 2}
+minerale {'NN': 2}
+björn {'NE': 8}
+warmer {'NE': 2}
+unterrichten {'VVFIN': 2}
+lehrer {'NN': 13}
+sporthalle {'NN': 6}
+ehemann {'NN': 2}
+zusammengelebt {'VVPP': 1}
+neugierig {'ADJD': 1}
+evg {'NE': 5}
+eisenbahn- {'TRUNC': 1}
+verkehrsgewerkschaft {'NN': 1}
+gesprochen {'VVPP': 19}
+islamische {'ADJA': 3}
+islamischen {'ADJA': 3}
+prominente {'NN': 10}
+sammeln {'VVFIN': 8}
+fernsehsendungen {'NN': 8}
+prominenten {'NN': 7}
+max {'NE': 5}
+giesinger {'NE': 3}
+radiosendungen {'NN': 1}
+spendenabend {'NN': 1}
+sportlerin {'NN': 4}
+des {'ART': 7}
+jahres {'NN': 5}
+baden-baden {'NE': 3}
+erfolge {'NN': 4}
+auszeichnungen {'NN': 1}
+patrick {'NE': 2}
+eishockey-nationalmannschaft {'NN': 1}
+ausgebaut {'VVPP': 2}
+nützen {'NN': 1, 'VVINF': 1}
+freigegeben {'VVPP': 3}
+enak {'NE': 2}
+ferlemann {'NE': 2}
+bundesverkehrsministerium {'NN': 2}
+bordesholm {'NE': 3}
+langen {'ADJA': 4}
+fische {'NN': 31}
+fangen {'VVINF': 12, 'VVFIN': 1}
+fischarten {'NN': 15}
+hering {'NE': 2}
+kabeljau {'NN': 1}
+fangquote {'NN': 10}
+vorschrift {'NN': 4}
+fischart {'NN': 2}
+jedem {'PIAT': 6}
+meeren {'NN': 7}
+heringe {'NN': 6}
+gefälscht {'VVPP': 4}
+spiegel {'NE': 1, 'NN': 9}
+skandal {'NN': 6}
+zeitschrift {'NN': 2}
+wahr {'PTKVZ': 1}
+reportagen {'NN': 8}
+reportage {'NN': 5}
+zeitung {'NN': 2}
+ausgedacht {'VVPP': 4}
+wahrheit {'NN': 1}
+bergwerk {'NN': 22}
+k+s. {'NE': 1}
+wunstorf {'NE': 3}
+salz {'NN': 3}
+abgebaut {'VVPP': 3}
+kalisalz {'NE': 1, 'NN': 5}
+k+s {'NE': 2}
+abbau {'NN': 1}
+arbeitslos {'ADJD': 1}
+bergwerken {'NN': 1}
+rente {'NN': 3}
+umgefallene {'ADJA': 1}
+beschädigter {'ADJA': 1}
+abgesägt {'VVPP': 1}
+containern {'NN': 15}
+container {'NN': 44, 'NE': 1}
+kisten {'NN': 18}
+schweren {'ADJA': 6}
+giftige {'ADJA': 9}
+zusammenstoßen {'VVIZU': 3}
+beschädigen {'VVINF': 1}
+gespült {'VVPP': 9}
+inhalt {'NN': 2}
+berühren {'VVINF': 1, 'VVFIN': 2}
+plastikmüll {'NN': 7}
+plastikflaschen {'NN': 1}
+forschern {'NN': 2}
+böller {'NN': 8}
+verpackung {'NN': 2}
+beachvolleyball {'NE': 8, 'NN': 22}
+walkenhorst {'NE': 10}
+kira {'NE': 9}
+beachvolleyballspielerin {'NN': 2}
+volleyball {'NN': 6}
+sand {'NN': 11}
+meinem {'PPOSAT': 3}
+turniere {'NN': 2}
+laura {'NE': 23}
+ludwig {'NE': 23}
+wünsche {'VVFIN': 1}
+erfolg {'NN': 3}
+sturmfluten {'NN': 15}
+glücksburg {'NE': 4}
+ampeln {'NN': 7}
+lampen {'NN': 1}
+elektrische {'ADJA': 2}
+geräte {'NN': 16}
+kaffeemaschinen {'NN': 1}
+radios {'NN': 1}
+straßenlaternen {'NN': 1}
+gehabt {'VAPP': 5}
+bonn {'NE': 1}
+arbeitern {'NN': 37}
+passagieren {'NN': 2}
+vereinte {'ADJA': 2}
+dienstleistungsgewerkschaft {'NN': 2}
+arbeitgebern {'NN': 4}
+steckengeblieben {'VVPP': 2}
+brockenbahn {'NN': 5}
+rauf {'PTKVZ': 1}
+runter {'PTKVZ': 1}
+lokomotive {'NN': 3}
+zieht {'VVFIN': 3}
+lokomotiven {'NN': 1}
+dampflokomotiven {'NN': 1}
+dampflokomotive {'NN': 1}
+wasserdampf {'NN': 1}
+gesteckt {'VVPP': 1}
+schneefräse {'NN': 3}
+freigemacht {'VVPP': 1}
+gezogen {'VVPP': 2}
+blitzanlage {'NN': 15}
+misst {'VVFIN': 3}
+geschwindigkeit {'NN': 4}
+radarfalle {'NN': 1}
+b6. {'ADJA': 1}
+b6 {'NE': 3}
+bundesstraße {'NN': 32}
+quickborn {'NE': 5}
+zusammenstoß {'NN': 1}
+pilot {'NN': 19}
+krankenwagen {'NN': 4}
+melbourne {'NE': 17}
+grand-slam-turnier {'NN': 7}
+grand {'NE': 6}
+slam {'FM': 6}
+schlag {'NN': 3}
+100. {'ADJA': 3}
+wichtigsten {'ADJA': 12}
+tennisturniere {'NN': 9}
+grand-slam-turniere {'NN': 2}
+paris {'NE': 12}
+new {'NE': 10}
+york {'NE': 10}
+tennisturnieren {'NN': 2}
+beatriz {'NE': 2}
+haddad {'NE': 2}
+maia {'NE': 2}
+brasilien {'NE': 3}
+warnjacken {'NN': 13}
+warnjacke {'NN': 2}
+jacke {'NN': 1}
+gelb {'NN': 1}
+orange {'NE': 1}
+streifen {'NN': 4}
+leuchtet {'VVFIN': 2}
+blau {'ADJD': 2}
+ärmel {'NN': 1}
+vorsichtiger {'ADJD': 1}
+glatte {'ADJA': 1}
+autofahrerin {'NN': 5}
+gehwege {'NN': 2}
+ausgerutscht {'VVPP': 2}
+schneien {'VVINF': 1}
+milos {'NE': 2}
+raonic {'NE': 2}
+kanada {'NE': 4}
+ärgere {'VVFIN': 1}
+danielle {'NE': 2}
+collins {'NE': 2}
+dastennisturnier {'NN': 1}
+gezählt {'VVPP': 4}
+sonderkommission {'NN': 4}
+gegründet {'VVPP': 2}
+soko {'NE': 5, 'NN': 1}
+castle {'NE': 7}
+verhindert {'VVPP': 1}
+elektrobus {'NN': 1}
+elektrobusse {'NN': 5}
+steuert {'VVFIN': 2}
+forschung {'NN': 1}
+passt {'VVFIN': 2}
+sylter {'ADJA': 4}
+verkehrsgesellschaft {'NN': 4}
+keitum {'NE': 2}
+handball-wm {'NE': 7}
+handball-spiele {'NN': 3}
+nationalmannschaften {'NN': 3}
+runde {'NN': 3}
+sportturnier {'NN': 3}
+halbfinalen {'NN': 3}
+norwegen {'NE': 10}
+kopenhagen {'NE': 2}
+herning {'NE': 2}
+abpumpen {'VVINF': 1}
+gepumpt {'VVPP': 1}
+sassnitz {'NE': 4}
+fußball-bundesliga {'NN': 17}
+doll {'NE': 17}
+andre {'NE': 10}
+breitenreiter {'NE': 6}
+borussia {'NE': 4}
+dortmund {'NE': 2}
+feuerwehrautos {'NN': 2}
+drohnen {'NN': 11}
+drohne {'NN': 3}
+fluggerät {'NN': 12}
+fernbedienung {'NN': 3}
+kamera {'NN': 7}
+befestigen {'VVINF': 3}
+meldorf {'NE': 3}
+irak {'NE': 2}
+islamisten {'NN': 6}
+muslimen {'NN': 1}
+religion {'NN': 1}
+radikal {'ADJD': 1}
+akzeptieren {'VVFIN': 1}
+sterben {'VVINF': 7, 'VVFIN': 15}
+theodor-heuss-ring {'NN': 2}
+bestimmter {'ADJA': 2}
+schadstoff {'NN': 4}
+stickstoffdioxid {'NN': 12}
+umweltbundesamt {'NN': 2}
+sperrung {'NN': 29}
+lingen {'NE': 7}
+ikea {'NE': 5}
+oberkörper {'NN': 1}
+gestochen {'VVPP': 2}
+lebensgefahr {'NN': 2}
+telefonnummer {'NN': 5}
+56789. {'NE': 1}
+germania {'NE': 13}
+insolvenz {'NN': 2}
+angemeldet {'VVPP': 1}
+zurückzahlen {'VVFIN': 1}
+anlage {'NN': 24}
+saugt {'VVFIN': 1}
+filter {'NN': 3}
+trennt {'VVFIN': 2}
+voneinander {'PTKVZ': 1}
+flüssigkeiten {'NN': 6}
+saubere {'ADJA': 2}
+tankschiff {'NN': 7}
+schwimmende {'ADJA': 1}
+kairos {'NE': 4}
+lng {'NE': 2, 'NN': 5}
+englisches {'ADJA': 1}
+flüssiges {'ADJA': 2}
+schweröl {'NN': 3}
+versorgen {'VVINF': 4, 'VVFIN': 2}
+trottellummen {'NN': 10}
+enten {'NN': 1}
+bauch {'NN': 1}
+braunen {'ADJA': 1}
+rücken {'NN': 2}
+fähranleger {'NN': 7}
+haltestelle {'NN': 15}
+gedrückt {'VVPP': 2}
+müllanlage {'NN': 3}
+hambühren {'NE': 2}
+recycling {'NN': 4}
+wiederverwendung {'NN': 1}
+brokdorf {'NE': 3}
+prozesse {'NN': 4}
+toulouse {'NE': 2}
+bietet {'VVFIN': 2}
+emirates {'NE': 5}
+emiraten {'NN': 1}
+lieber {'ADV': 2}
+bestellt {'VVPP': 1}
+tom {'NE': 2}
+enders {'NE': 2}
+sorgerecht {'NN': 2}
+rächen {'VVINF': 1}
+bezirksämtern {'NN': 6}
+bezirksamt {'NN': 5}
+personalausweis {'NN': 2}
+bezirke {'NN': 2}
+aufgeteilt {'VVPP': 1}
+bezirksämter {'NN': 2}
+anträge {'NN': 1}
+antrag {'NN': 4}
+baugenehmigung {'NN': 1}
+verhandeln {'VVINF': 1}
+versorgungsschiff {'NN': 4}
+versorgungsschiffe {'NN': 1}
+besatzung {'NN': 1}
+mukran {'NE': 2}
+flybmi {'NE': 1, 'NN': 1}
+laudamotion {'NN': 2}
+österreich {'NE': 14}
+sprecherin {'NN': 3}
+corendon {'NE': 2}
+türkei {'NE': 4}
+antalya {'NE': 3}
+badetote {'NN': 4}
+dlrg {'NE': 6}
+lebens-rettungs-gesellschaft {'NN': 1}
+flüsse {'NN': 2}
+karnevalsumzügen {'NN': 1}
+verbotener {'ADJA': 1}
+handel {'NN': 3}
+pistolen {'NN': 7}
+verbotenen {'ADJA': 5}
+sig {'NE': 2}
+sauer {'NE': 2}
+eckernförde {'NE': 16}
+kolumbien {'NE': 6}
+bürgerkrieg {'NN': 4}
+kämpfen {'VVFIN': 1, 'VVINF': 2}
+gruppen {'NN': 10}
+demselben {'PDAT': 1}
+oberbillwerder {'NE': 6, 'NN': 3}
+pläne {'NN': 11}
+bergedorf {'NE': 7}
+bespiel {'NN': 1}
+kindergärten {'NN': 4}
+grundschulen {'NN': 4}
+grundschule {'NN': 8}
+klasse {'NN': 3}
+spielplätze {'NN': 2}
+umweltfreundlich {'ADJD': 1}
+hanseschau {'NE': 1, 'NN': 10}
+verbrauchermesse {'NN': 1}
+verbraucher {'NN': 2}
+kunden {'NN': 1}
+möbelhäusern {'NN': 1}
+autohäusern {'NN': 1}
+autohaus {'NN': 10}
+handwerkern {'NN': 1}
+schülerin {'NN': 9}
+klimaschutz {'NN': 37}
+ziel {'NN': 5}
+wärmer {'ADJD': 11}
+schmelzen {'VVINF': 4}
+greta {'NE': 13}
+thunberg {'NE': 13}
+schülern {'NN': 12}
+schwänzen {'VVFIN': 2}
+geschwänzt {'VVPP': 1}
+dömitz {'NE': 2}
+rathaus {'NN': 29}
+konfetti {'NN': 3}
+papierstückchen {'NN': 1}
+mitfeiern {'VVINF': 1}
+abtshagen {'NN': 1, 'VVPP': 1}
+fahrerin {'NN': 9}
+hesel {'NE': 4}
+weggeweht {'VVPP': 1}
+königspaar {'NN': 29}
+willem-alexander {'NE': 2}
+königin {'NN': 21}
+maxima {'NE': 1}
+goldene {'ADJA': 13}
+buch {'NN': 23}
+eintragen {'VVINF': 4}
+goldenes {'ADJA': 3}
+eintrag {'NN': 3}
+gegessen {'VVPP': 4}
+carsten {'NE': 2}
+sieling {'NE': 2}
+marktplatz {'NN': 6}
+tanklaster {'NN': 7}
+heimfeld {'NE': 2}
+liter {'NN': 1}
+ausgelaufen {'VVPP': 1}
+weggemacht {'VVPP': 1}
+gleichen {'ADJA': 12}
+millerntorstadion {'NN': 5}
+leinwand {'NN': 4}
+justin {'NE': 3}
+hoogma {'NE': 6}
+nico-jan {'NE': 3}
+länderspiel {'NN': 10}
+testspiel {'NN': 6}
+bundestrainer {'NN': 2}
+joachim {'NE': 3}
+löw {'NE': 2}
+maximilian {'NE': 3}
+eggestein {'NE': 4}
+maximilan {'NN': 1}
+werder {'NE': 17}
+nationalspieler {'NN': 1}
+nationalspielern {'NN': 1}
+nandus {'NN': 28}
+hals {'NN': 2}
+freiheit {'NN': 2}
+tierpark {'NN': 17}
+gepflanzt {'VVPP': 4}
+naturschutz {'NN': 2}
+gejagt {'VVPP': 1}
+zählen {'VVFIN': 1}
+vermehrt {'ADJD': 1}
+autorennen {'NN': 25}
+köhlbrandbrücke {'NN': 8}
+leitplanke {'NN': 5}
+begrenzung {'NN': 2}
+rennen {'NN': 6}
+geachtet {'VVPP': 1}
+gewechselt {'VVPP': 1}
+illegales {'ADJA': 5}
+illegal {'ADJD': 2}
+illegalen {'ADJA': 8}
+schnellere {'ADJA': 2}
+verabreden {'VVFIN': 2}
+möglich {'ADJD': 2}
+illegale {'ADJA': 4}
+achten {'VVFIN': 2}
+rote {'ADJA': 3}
+jederzeit {'ADV': 1}
+torgelow {'NE': 8}
+jagen {'VVFIN': 2, 'VVINF': 1}
+gehegen {'NN': 2}
+raus {'ADV': 1}
+bauernhof {'NN': 13}
+hohen {'ADJA': 2}
+wolfsspuren {'NN': 2}
+hirschen {'NN': 1}
+aufgefressen {'VVPP': 1}
+angriffe {'NN': 1}
+garbsen {'NE': 4, 'ADV': 3}
+erwachsene {'NN': 8}
+entgegengekommen {'VVIZU': 1, 'VVFIN': 1}
+überholt {'VVPP': 1}
+erwachsenen {'NN': 8}
+schreck {'NN': 1}
+seelsorger {'NN': 2}
+trösten {'VVFIN': 1}
+thema {'NN': 3}
+schnelles {'ADJA': 1}
+bombendrohung {'NN': 8}
+hinweis {'NN': 8}
+worte {'NN': 4}
+fahrgast {'NN': 2}
+mitarbeiterin {'NN': 4}
+worten {'NN': 1}
+durchsuchung {'NN': 6}
+gründlich {'ADJD': 2}
+chat {'NN': 6, 'NE': 2}
+unterhaltung {'NN': 2}
+gedroht {'VVPP': 1}
+töte {'VVFIN': 1}
+informiert {'VVPP': 1}
+ernst {'ADJD': 3}
+eingängen {'NN': 1}
+drohung {'NN': 1}
+supermärkten {'NN': 10}
+bananen {'NN': 2}
+lateinamerika {'NE': 3}
+kontinent {'NN': 1}
+mexiko {'NE': 1}
+osterferien {'NE': 1, 'NN': 4}
+ostern {'NE': 13}
+tipps {'NN': 4}
+ferien {'NN': 7}
+angesprochen {'VVPP': 2}
+altstadt {'NN': 8}
+älteste {'ADJA': 3}
+fußball-club {'NN': 1}
+jos {'NE': 9}
+luhukay {'NE': 10}
+kauczinki {'NE': 1}
+kauczinski {'NE': 4}
+mönchengladbach {'NE': 3}
+hertha {'NE': 1}
+bsc {'NE': 1}
+oke {'NE': 5}
+göttlich {'ADJD': 2, 'NE': 3}
+stöver {'NE': 3}
+torf {'NE': 2, 'NN': 5}
+breesen {'NE': 4}
+vonschwerin {'NN': 1}
+sek {'NE': 24}
+spezialeinsatzkommando {'NN': 3}
+geschickt {'VVPP': 7}
+a31 {'NN': 2, 'ADV': 5}
+bentheim {'NE': 11}
+ausgestiegen {'VVPP': 3}
+mitgefahren {'VVPP': 1}
+ex-freund {'NN': 2}
+paar {'NN': 3, 'PIAT': 1}
+fuß {'NN': 4}
+europawahl {'NN': 8}
+bundesverfassungsgericht {'NE': 3, 'NN': 1}
+europäische {'ADJA': 3}
+wahlrecht {'NN': 2}
+betreuer {'NN': 9}
+alltag {'NN': 1}
+benachteiligt {'VVPP': 1}
+abgeben {'VVINF': 5}
+dienstagabend {'NN': 7}
+vermisst {'VVPP': 8}
+unterkühlt {'ADJD': 1}
+unterkühlung {'NN': 3}
+temperatur {'NN': 1}
+niedrig {'ADJD': 2}
+mittwochmorgen {'NN': 4}
+orang-utan {'NN': 4}
+affenart {'NN': 1}
+bella {'NE': 16}
+lebt {'VVFIN': 8}
+hagenbeck {'NE': 12}
+orang-utan-frau {'NN': 1}
+tierpfleger {'NN': 5}
+denn {'KON': 1}
+orang-utans {'NN': 5}
+klettern {'VVINF': 1}
+zähne {'NN': 1}
+griesbrei {'NN': 1}
+obstbrei {'NE': 1}
+indonesien {'NE': 4}
+dschungel {'NN': 4}
+dichter {'ADJA': 2}
+aussterben {'NN': 1}
+moorbrände {'NN': 1}
+mooren {'NN': 3}
+wohnhäusern {'NN': 1}
+herangekommen {'VVPP': 1}
+moore {'NN': 1, 'NE': 1}
+klinikärzte {'NN': 1}
+uke {'NE': 9}
+universitätsklinikum {'NN': 8}
+hamburg-eppendorf {'NE': 1}
+notfall {'NN': 6}
+ärzten {'NN': 14}
+marburger {'ADJA': 4}
+bund {'NN': 4}
+operationen {'NN': 6}
+verschoben {'VVPP': 4}
+inselkonferenz {'NN': 2}
+konferenz {'NN': 3}
+fehmarn {'NE': 1}
+problem {'NN': 9}
+schmilzt {'VVFIN': 1}
+eisberge {'NN': 1}
+überspülen {'VVINF': 1}
+flach {'ADJD': 1}
+beraten {'VVFIN': 2}
+teuren {'ADJA': 1}
+billige {'ADJA': 2}
+besprechen {'VVFIN': 3, 'VVINF': 1}
+lauf {'NN': 5}
+wettlauf {'NN': 6}
+hamburg-marathon {'NE': 2}
+marathon {'NN': 5, 'NE': 1}
+mathias {'NE': 10}
+brodkorb {'NE': 9}
+vertrauen {'NN': 3, 'VVFIN': 1}
+davor {'PROAV': 1}
+bildungsminister {'NN': 2}
+staatskanzlei {'NN': 6}
+wirtschaftsminister {'NN': 5}
+schostok {'NE': 18}
+oberbürgermeister {'NN': 11}
+beamte {'NN': 1}
+dagegen {'PROAV': 1}
+unternommen {'VVPP': 1}
+hammoor {'NE': 3}
+bauer {'NN': 10, 'NE': 4}
+bargteheide {'NE': 1}
+feld {'NN': 12}
+yvonne {'NE': 1}
+r. {'NE': 1}
+obernkirchen {'NE': 3}
+segeljacht {'NN': 8}
+horumersiel {'NE': 2}
+seenotretter {'NN': 5, 'NE': 1}
+schiffsunfall {'NN': 1}
+wellen {'NN': 4}
+feuerwehreinsatz {'NN': 11}
+treppe {'NN': 2}
+umdrehen {'VVINF': 1}
+während {'APPR': 3}
+glück {'NN': 2}
+owschlag {'NN': 4}
+hauswand {'NN': 3}
+schmale {'ADJA': 1}
+abgebogen {'VVPP': 3}
+weitergerollt {'ADJD': 1}
+aufgeregt {'ADJD': 1}
+bremse {'NN': 3}
+gaspedal {'NN': 1}
+schmalen {'ADJA': 2}
+830. {'NN': 2}
+auslaufparade {'NN': 6}
+90,3. {'NE': 1}
+fußballfans {'NN': 3}
+fußballfan {'NN': 2}
+unterstützt {'VVFIN': 2, 'VVPP': 1}
+freut {'VVFIN': 4}
+steigt {'VVFIN': 5}
+steigt.nicht {'VVFIN': 1}
+jörg {'NE': 16}
+kastendiek {'NE': 12}
+bremischen {'ADJA': 1}
+bremische {'ADJA': 1}
+rudel {'NN': 3}
+lokale {'NN': 2}
+kneipen {'NN': 3}
+musikclubs {'NN': 2}
+tel {'NE': 5}
+aviv {'NE': 5}
+s {'NE': 6}
+sters {'NN': 6}
+sängerinnen {'NN': 2}
+eintritt {'NN': 5}
+westlich {'ADJD': 4}
+máxima {'NE': 1}
+eingetragen {'VVPP': 2}
+landtag {'NN': 21}
+beschäftigen {'VVFIN': 2}
+brandenburg {'NE': 6}
+pumpen {'VVINF': 6}
+wasserrohre {'NN': 1}
+zimmer {'NN': 9}
+blitz {'NN': 2}
+reetdachhäuser {'NN': 5}
+eingeschlagen {'VVPP': 1}
+reet {'NN': 1, 'ADJD': 1, 'NE': 1}
+stroh {'NN': 3}
+letzin {'NE': 2}
+einschlag {'NN': 1}
+reetdachhaus {'NN': 1}
+völlig {'ADJD': 1}
+hausbruch {'NN': 2}
+wohltorf {'NE': 3}
+verreist {'VVPP': 1}
+ralf {'NE': 8}
+verträgen {'NN': 1}
+aufstieg {'NN': 2}
+geschafft {'VVPP': 3}
+jonas {'NE': 5}
+boldt {'NE': 5}
+mirko {'NE': 17}
+slomka {'NE': 17}
+schalke {'NN': 2}
+04. {'ADJA': 2}
+2013. {'NN': 1}
+schlaudraff {'NE': 7}
+hecking {'NE': 8}
+fußball-verein {'NN': 3, 'ADJD': 1}
+dieter {'NE': 12}
+zuletzt {'ADV': 3}
+bissendorf {'NE': 3}
+reinigungsfahrzeug {'NN': 9}
+malu {'NE': 4}
+dreyer {'NE': 4}
+rheinland-pfalz {'NE': 2}
+thorsten {'NE': 3}
+schäfer-gümbel {'NE': 3}
+hessen {'NE': 10}
+unterstützen {'VVFIN': 1}
+baustellenfahrzeug {'NN': 6}
+sparen {'VVINF': 6}
+bereichen {'NN': 3}
+veränderungen {'NN': 4}
+plant {'VVFIN': 2}
+arbeitsplatz {'NN': 9}
+freie {'ADJA': 7}
+besetzt {'VVPP': 4}
+computerprogramm {'NN': 5}
+verwaltung {'NN': 3}
+programme {'NN': 4}
+it {'NN': 1, 'XY': 2}
+informationstechnik {'NN': 2}
+informatiker {'NN': 1}
+programmierer {'NN': 1}
+digitalisiert {'VVPP': 1}
+übernehmen {'VVFIN': 1}
+morde {'NN': 1}
+vorgeworfen {'VVPP': 1}
+fällen {'NN': 2, 'VVFIN': 3, 'VVINF': 1}
+abgelegt {'VVPP': 2}
+fußballturnier {'NN': 3}
+spielerinnen {'NN': 1}
+alexandra {'NE': 10}
+popp {'NE': 10}
+meister {'NN': 4}
+stürmerin {'NN': 1}
+mitspielerinnen {'NN': 1}
+ehre {'NN': 1}
+sieger {'NN': 1}
+ice-züge {'NN': 7}
+ice {'NN': 22, 'NE': 4}
+intercity-express {'NE': 5}
+schnellste {'ADJA': 5}
+ice-zügen {'NN': 1}
+süddeutschland {'NE': 3}
+frankfurt {'NE': 7}
+rausgepumpt {'VVFIN': 1}
+eitzum {'NN': 2, 'VVPP': 1}
+schlamm {'NN': 4}
+kneipe {'NN': 4}
+neugraben-fischbek {'NE': 2}
+getragen {'VVPP': 1}
+verstecken {'VVINF': 1}
+busch {'NN': 4}
+innenministern {'NN': 2}
+norddeutschen {'ADJA': 2}
+hans-joachim {'NE': 5}
+grote {'NE': 7}
+andy {'NE': 1}
+lorenz {'NE': 3}
+caffier {'NE': 3}
+seehofer {'NE': 1}
+sichere {'ADJA': 3}
+fördern {'VVINF': 1}
+einbauen {'VVINF': 1}
+rostocker {'NE': 1}
+claus {'NE': 19}
+ruhe {'NE': 19}
+madsen {'NE': 19}
+steffen {'NE': 6}
+bockhahn {'NE': 6}
+linke {'NN': 5, 'ADJA': 1}
+möbelhauskette {'NN': 3}
+geschäften {'NN': 8}
+lebe {'VVFIN': 1}
+lösen {'VVINF': 3}
+nachfolger {'NN': 2}
+geiselnahme {'NN': 7}
+geiselnehmer {'NN': 3}
+geisel {'NN': 2}
+häftling {'NN': 3}
+gefordert {'VVPP': 1}
+befreit {'VVPP': 1}
+sozialer {'ADJA': 1}
+soziale {'ADJA': 2}
+sozialen {'ADJA': 4}
+tierparks {'NN': 1}
+jordanien {'NE': 2}
+umleitungen {'NN': 3}
+billstedt {'NE': 8}
+1956. {'XY': 1}
+freitagabend {'NN': 9}
+glaube {'VVFIN': 2}
+zuschauen {'VVINF': 1, 'NN': 1}
+probieren {'VVINF': 1}
+konzerten {'NN': 4}
+johannes {'NE': 2}
+oerding {'NE': 2}
+tokio {'NE': 3}
+marineschiffe {'NN': 3}
+marineschiffen {'NN': 1}
+magazin {'NN': 2}
+sonnig {'ADJD': 1}
+heißer {'ADJD': 3}
+hitzerekord {'NN': 6}
+temperaturen {'NN': 2}
+grad {'NN': 4}
+sonne {'NN': 11}
+haut {'NN': 10}
+belastung {'NN': 1}
+schwitzen {'VVFIN': 1}
+kopfschmerzen {'NN': 1}
+vertragen {'VVINF': 1}
+fruchtsäfte {'NN': 1}
+.keinen {'ADJA': 1}
+anstrengenden {'ADJA': 1}
+sport {'NN': 3}
+.nicht {'NE': 1}
+schatten {'NN': 1}
+flugzeugabsturz {'NN': 3}
+malchow {'NE': 5}
+abgestürzt {'VVPP': 22}
+kampfflugzeuge {'NN': 9}
+abschießen {'VVINF': 3}
+absturz {'NN': 13}
+greife {'VVFIN': 1}
+kampfflugzeugen {'NN': 4}
+schleudersitz {'NN': 5}
+sitz {'NN': 2}
+herausgeschleudert {'VVPP': 1}
+schwebt {'VVFIN': 1}
+flugschreibern {'NN': 2}
+flugschreiber {'NN': 2}
+speichert {'VVFIN': 1}
+daten {'NN': 6}
+richtung {'NN': 9}
+s-bahn-strecken {'NN': 2}
+lessingtunnel {'NN': 11}
+othmarschen {'NN': 1, 'NE': 1}
+diebsteich {'NN': 6}
+holstenstraße {'NE': 1}
+suchsdorf {'NE': 1}
+donnerstagabend {'NN': 2}
+begleiter {'NN': 1}
+lübtheen {'NE': 10}
+übungsplatz {'NN': 4}
+munition {'NN': 27}
+laden {'VVFIN': 4, 'VVINF': 1}
+aerzen {'NE': 1, 'NN': 1}
+pilotin {'NN': 7}
+stürzt {'VVFIN': 2}
+co-pilot {'NN': 7}
+tiefflug {'NN': 2}
+dicht {'ADJD': 2}
+absturzstelle {'NN': 1}
+ursula {'NE': 9}
+leyen {'NE': 4}
+fluglehrer {'NN': 1}
+beibringen {'VVINF': 1}
+schneisen {'NN': 3}
+schneise {'NN': 4}
+löschautos {'NN': 2}
+enttäuscht {'VVPP': 2}
+lauren {'NE': 4}
+davis {'NE': 4}
+sätze {'NN': 1}
+überrascht {'VVPP': 2}
+us {'NE': 4}
+beachvolleyballspieler {'NE': 2}
+julius {'NE': 5}
+thole {'NE': 5}
+clemens {'NE': 4}
+wickler {'NE': 4}
+finale {'NN': 39}
+rothenbaum {'NN': 6}
+früh {'ADJD': 2}
+margareta {'NE': 10}
+kozuch {'NE': 10}
+anlagen {'NN': 12}
+vorgestellt {'VVPP': 4}
+energieversorger {'NN': 2}
+liefert {'VVFIN': 1}
+tennet {'NE': 5}
+großbritannien {'NE': 1}
+geheime {'ADJA': 4}
+akten {'NN': 12}
+diebstahl {'NN': 5}
+unbekannter {'NN': 3}
+tasche {'NN': 10}
+dokumente {'NN': 1}
+angler {'NN': 1}
+geheimen {'ADJA': 4}
+gelassen {'VVPP': 4}
+zeltlager {'NN': 7}
+zelte {'NN': 6}
+dersum {'NE': 2}
+regenwasser {'NN': 2}
+aufgebaut {'VVPP': 2}
+musik- {'TRUNC': 2}
+kongresshalle {'NN': 2}
+versammlungen {'NN': 1}
+wohngebiet {'NN': 5}
+eichholz {'NE': 1}
+schwimm-wm {'NE': 13}
+florian {'NE': 12}
+wellbrock {'NE': 8}
+schwimmer {'NN': 9}
+freiwasser-rennen {'NN': 7}
+rob {'NE': 15}
+muffels {'NE': 15}
+drittschnellste {'ADJA': 1}
+schwimmern {'NN': 2}
+peenemünde {'NE': 1}
+staffel-rennen {'NN': 6}
+nacheinander {'ADV': 2}
+lea {'NE': 1}
+boy {'NE': 1}
+sarah {'NE': 4}
+köhler {'NE': 1}
+sören {'NE': 1}
+meißner {'NE': 1}
+schnellsten {'ADJD': 1}
+gold-medaille {'NN': 2}
+zerstörten {'ADJA': 1}
+schweinestall {'NN': 4}
+kolbow {'NE': 2}
+schweine {'NN': 12}
+stall {'NN': 7}
+schweinen {'NN': 1}
+ställe {'NN': 1}
+baggern {'NN': 1}
+scheuer {'NE': 2}
+bundesverkehrsminister {'NN': 1}
+heißes {'ADJA': 1}
+schöne {'ADJA': 4}
+alsterschwan {'NN': 2}
+sportwettkampf {'NN': 2}
+hut {'NN': 1}
+waldbränden {'NN': 4}
+bekanntes {'ADJA': 1}
+docks {'NN': 4}
+trockendocks {'NN': 1}
+schwimmdocks {'NN': 2}
+schwimmdock {'NN': 1}
+wacken {'NN': 29}
+heavy {'NN': 8, 'XY': 3, 'FM': 2}
+metal {'NN': 13}
+musikrichtung {'NN': 3}
+berichte {'NN': 5}
+balkon {'NN': 8}
+aufgemacht {'VVPP': 1}
+untersuchungs∙haft {'NN': 2}
+bussen {'NN': 10}
+gleich {'ADV': 5}
+starkes {'ADJA': 1}
+stunde {'NN': 11}
+simone {'NE': 8}
+spd-chefin {'NN': 1}
+ahrens {'NE': 2}
+bautzen {'NE': 2}
+parchim {'NE': 6}
+dna-test {'NN': 12}
+dna {'NE': 14}
+erbgut {'NN': 4}
+haarfarbe {'NN': 2}
+unterschiedlich {'ADJD': 2}
+haaren {'NN': 2}
+geesthacht {'NE': 3, 'NN': 3}
+stauwehr {'NN': 12}
+offen {'PTKVZ': 1}
+kitas {'NN': 15, 'NE': 1}
+vereinbarung {'NN': 6}
+unterschrieben {'VVPP': 2}
+tagesstätte {'VVFIN': 1}
+gute-kita-gesetz {'NN': 1}
+franziska {'NE': 2}
+giffey {'NE': 2}
+bundesfamilienministerin {'NN': 1}
+melanie {'NE': 2}
+leonhard {'NE': 2}
+familiensenatorin {'NN': 1}
+senatorin {'NN': 3}
+rebelo {'NE': 2}
+sousa {'NE': 2}
+präsident {'NN': 1}
+fängt {'VVFIN': 3}
+altenheim {'NE': 2, 'NN': 26}
+eidelstedt {'NE': 3}
+luftwaffe {'NN': 5}
+abteilung {'NN': 2}
+flügen {'NN': 1}
+aurich {'NE': 4}
+pflegevater {'NN': 4}
+schafmarkt {'NN': 5, 'VVFIN': 1}
+wolle {'NN': 3}
+viehmarkt {'NN': 1}
+vieh {'NN': 1}
+ziegen {'NN': 1}
+keinem {'PIAT': 6}
+schönsten {'ADJA': 1}
+versteigerung {'NN': 3}
+meiste {'PIAT': 1, 'PIS': 2}
+auktion {'NN': 1}
+linken {'NN': 2, 'ADJA': 2}
+bovenschulte {'NE': 3}
+koalition {'NN': 8}
+senatoren {'NN': 4}
+zuständig {'ADJD': 3}
+dietmar {'NE': 3}
+strehl {'NE': 3}
+ulrich {'NE': 6}
+mäurer {'NE': 3}
+inneres {'NN': 2}
+kristina {'NE': 6}
+vogt {'NE': 3}
+uksh {'NN': 15}
+connor {'NE': 3}
+größtes {'ADJA': 1}
+msc {'NE': 9}
+gülsün {'NE': 9}
+containerschiff {'NN': 2}
+verfolgungsjagd {'NN': 13}
+flieht {'VVFIN': 2}
+passieren {'VVFIN': 3}
+runterfahren {'VVINF': 2}
+nachhilfelehrer {'NN': 4}
+schulaufgaben {'NN': 2}
+nachhilfe {'NN': 3}
+radrennen {'NN': 12}
+fahrrädern {'NN': 1}
+cyclassics {'NE': 1}
+anschlussstelle {'NN': 8}
+volkspark {'NN': 1}
+rathausmarkt {'NN': 5}
+pavillons {'NN': 15}
+pavillon {'NN': 4}
+stoff {'NN': 15}
+eisen {'NN': 4}
+dächer {'NN': 8}
+netzen {'NN': 3}
+denkmal {'NN': 3}
+person {'NN': 1}
+denkmalschutz {'NN': 1}
+ferdinand {'NE': 12}
+piëch {'NE': 12}
+verluste {'NN': 1}
+herstellung {'NN': 1}
+stephan {'NE': 11}
+weil {'NE': 11, 'PWAV': 1}
+gedankt {'VVPP': 1}
+erfolgreichen {'ADJA': 1}
+fabriken {'NN': 12}
+guten {'ADJA': 2}
+äste {'NN': 4}
+mittwochabend {'NN': 5}
+senvion {'NE': 31}
+norddeutsche {'ADJA': 2, 'NE': 1}
+osterrönfeld {'NE': 4}
+südlich {'ADJD': 4}
+verliere {'VVIMP': 1}
+käufer {'NN': 6}
+versammlung {'NN': 2}
+busunfall {'NN': 2}
+dammtor {'NN': 4, 'NE': 1}
+busspur {'NN': 5}
+bremsung {'NN': 1}
+scheibe {'NN': 4}
+stollhamm {'NN': 3}
+nordenham {'NE': 1}
+pfleger {'NN': 19}
+altenheime {'NN': 1}
+margrethe {'NE': 13}
+margarethe {'NE': 1}
+begrüßt {'VVPP': 2}
+kommenden {'ADJA': 2}
+vermisste {'ADJA': 2}
+gelegen {'VVPP': 3}
+humptrup {'NE': 5}
+nathalie {'NE': 8}
+m. {'NE': 8}
+stadum {'NE': 3}
+detmold {'NE': 2}
+mehrfach {'ADJD': 1}
+lügde {'NE': 2}
+pyrmont {'NE': 2}
+bewacht {'VVPP': 1}
+sicherungsverwahrung {'NN': 1}
+seele {'NN': 1}
+geschlossene {'ADJA': 1}
+geschlossenen {'ADJA': 1}
+hieß {'VVFIN': 1}
+maria {'NE': 1}
+zinnowitz {'NE': 5}
+messerstichen {'NN': 1}
+mordlust {'NN': 1}
+lust {'NN': 1}
+heimtücke {'NN': 1}
+wehren {'VVINF': 1}
+unechten {'ADJA': 1}
+klaws {'NE': 7}
+geiern {'NN': 1}
+bärenjägers {'NN': 1}
+ölprinz {'NN': 1}
+brustkrebs {'NN': 2}
+mühlengeez {'NE': 4}
+mecklenburgische {'ADJA': 2}
+landwirtschaftsausstellung {'NN': 2}
+cruise {'NE': 12}
+days {'NE': 12}
+kreuzfahrt-tage {'NE': 1}
+blaue {'ADJA': 2}
+hintereinander {'ADV': 2, 'PTKVZ': 1}
+schiffsparade {'NE': 1, 'NN': 1}
+gamesa {'NE': 5}
+siemens {'NE': 2}
+technologie-firma {'NN': 1}
+yves {'NE': 2}
+rannou {'NE': 2}
+froh {'ADJD': 2}
+sport-vverein {'NE': 1}
+2:0 {'NN': 2}
+ausschreitungen {'NN': 3}
+dächern {'NN': 1}
+grömitz {'NE': 4}
+übergeben {'VVPP': 1, 'VVINF': 1}
+ansteckend {'ADJD': 33}
+virus {'NN': 59}
+indien {'NE': 4}
+kanal {'NN': 4}
+brunsbüttel {'NE': 8}
+schleusen {'NN': 11}
+einfahrten {'NN': 1}
+schleuse {'NN': 18}
+ausgeglichen {'VVPP': 1}
+gefüllt {'VVPP': 1}
+angehoben {'VVPP': 1}
+niedriger {'ADJD': 1}
+abgelassen {'VVPP': 1}
+runtergelassen {'VVPP': 1}
+schleusentor {'NN': 1}
+schlick {'NN': 2, 'NE': 1}
+bagger {'NN': 8}
+weiten {'ADJA': 1}
+umweg {'NN': 7}
+bramstedt {'NE': 1}
+kaltenkirchen {'NE': 2}
+herunterfallen {'VVINF': 1}
+vogelmarker {'NN': 4}
+bewegungen {'NN': 1}
+abgeschreckt {'VVPP': 1}
+vogelmarkern {'NN': 1}
+festmachen {'VVINF': 1}
+herunterfliegen {'VVINF': 1}
+salpetersäure {'NN': 15}
+ätzend {'ADJD': 2}
+dampf {'NN': 2}
+rest {'NN': 1}
+lkw-fahrern {'NN': 2}
+kontakt {'NN': 13}
+interviews {'NN': 1}
+interview {'NN': 1}
+info {'NE': 5}
+sendet {'VVFIN': 1}
+n-joy {'NN': 4, 'PTKANT': 1}
+allem {'PIS': 4}
+erzählung {'NN': 1}
+senzel {'NN': 1}
+morgensendungen {'NN': 1}
+morgensendung {'NN': 1}
+lustig {'ADJD': 1}
+kuhlage {'NE': 1}
+hardeland {'NE': 1}
+herbert {'NE': 3}
+grönemeyer {'NE': 3}
+udo {'NE': 8}
+lindenberg {'NE': 7}
+elze {'NE': 4}
+ndr.de {'ADJA': 1}
+grone {'NE': 1}
+flüchtet {'VVFIN': 1}
+ansprechen {'VVINF': 1}
+mitnehmen {'VVINF': 1}
+a31. {'NN': 1}
+bürgerfest {'NN': 5}
+einheit {'NN': 2}
+staatsoberhaupt {'NN': 3}
+herbstferien {'NE': 3, 'NN': 1}
+schulunterricht {'NN': 3}
+hochhaus {'NN': 10}
+mümmelmannsberg {'NE': 3}
+hochhäuser {'NN': 1}
+treppenhaus {'NN': 6}
+masken {'NN': 3}
+fluchthauben {'NN': 2}
+giftigem {'ADJA': 2}
+aufgesetzt {'VVPP': 1}
+leitern {'NN': 6}
+angeguckt {'VVPP': 1}
+zentimeter {'NN': 4}
+listerien {'NN': 18}
+würsten {'NN': 4}
+würste {'NN': 9}
+wilke {'NE': 14}
+fieber {'NN': 8}
+firmen-gelände {'NN': 2}
+schmal {'ADJD': 1}
+schützt {'VVFIN': 8}
+jüdische {'ADJA': 2}
+juden {'NN': 5}
+synagoge {'NN': 4}
+synagogen {'NN': 5}
+abgeschlossen {'VVPP': 1}
+aufbekommen {'VVINF': 1}
+milch {'NN': 15}
+aldi {'NE': 6, 'NN': 2}
+rewe {'NE': 2}
+milchpackungen {'NN': 2}
+liste {'NN': 4}
+sievekingsallee {'NE': 2}
+fahrspur {'NN': 5}
+rechten {'ADJA': 2}
+geprallt {'VVPP': 8}
+parkende {'ADJA': 1}
+erwischt {'VVFIN': 1, 'VVPP': 4}
+greven {'NE': 3}
+flug {'NN': 1}
+montagabend {'NN': 5}
+ebenen {'NN': 1}
+reisende {'NN': 1}
+münder {'NE': 3}
+rutscht {'VVFIN': 3}
+leitplanken {'NN': 1}
+etzt {'VVPP': 1}
+keinauto {'ADJD': 1}
+luftraum {'NN': 1}
+betrug {'NN': 3}
+passwörter {'NN': 2}
+passwort {'NN': 5}
+buchstaben {'NN': 1}
+geheim {'ADJD': 1}
+private {'ADJA': 1}
+bankkonto {'NN': 5}
+eingeben {'VVINF': 1}
+bankkonten {'NN': 2}
+passwörtern {'NN': 1}
+willy {'NE': 16}
+brandt {'NE': 16}
+serpil {'NE': 2}
+midyatli {'NE': 2}
+engholm {'NE': 2}
+ämter {'NN': 1}
+außenminister {'NN': 4}
+reist {'VVFIN': 1}
+verbessert {'VVPP': 1}
+sowjetunion {'NE': 3}
+ddr {'NE': 2}
+depublik {'NN': 1}
+friedensnobelpreis {'NN': 2}
+frieden {'NN': 1}
+eingesetzt {'VVPP': 1}
+protestieren {'VVFIN': 10, 'VVINF': 2}
+proteste {'NN': 5}
+gesetzen {'NN': 7}
+treckern {'NN': 16}
+tierschutz {'NN': 2}
+gülle {'NN': 13}
+urin {'NN': 2}
+kot {'NN': 2}
+stinkt {'VVFIN': 3}
+düngen {'VVFIN': 2}
+bürgermeisterwahl {'NN': 5}
+mitmachen {'VVINF': 5}
+kämpfer {'NE': 4, 'NN': 7}
+ellendt {'NE': 2}
+thoroe {'NE': 2}
+wrobel {'NE': 2}
+gewählte {'ADJA': 1}
+stadthagen {'NE': 2}
+zeche {'NN': 2}
+brennstoff {'NN': 1}
+chancen {'NN': 1}
+marc {'NE': 2}
+hansmann {'NE': 2}
+belit {'NE': 21}
+onay {'NE': 21}
+eckard {'NE': 11}
+tritt {'VVFIN': 2}
+stichwahl {'NN': 2}
+erfolgreichsten {'ADJD': 1}
+verschwendet {'VVFIN': 2, 'VVPP': 1}
+ausgegeben {'VVPP': 1}
+verschwendeten {'ADJA': 1}
+schwarzbuch {'NN': 1}
+steuerzahlerbund {'NN': 10}
+beispiele {'NN': 5}
+steuerverschwendung {'NN': 1}
+messungen {'NN': 1}
+anheben {'VVINF': 1, 'NN': 1}
+gesangswettbewerb {'NN': 4}
+landeslied {'NE': 1, 'NN': 2}
+possehlbrücke {'NE': 1}
+umwege {'NN': 2}
+lindenau {'NE': 3}
+schlafplätze {'NN': 3}
+zusätzliche {'ADJA': 1}
+frikadellen {'NN': 9}
+goldenstedt {'NE': 2}
+fleisch-krone {'NN': 4}
+gebratenem {'ADJA': 1}
+hackfleisch {'NN': 1}
+norma {'NE': 1}
+glücklich {'ADJD': 9}
+studie {'NN': 8}
+glücksatlas {'NE': 1, 'NN': 3}
+freunde {'NN': 4}
+geantwortet {'VVPP': 1}
+gehe {'VVFIN': 1}
+einbrecherbanden {'NN': 2}
+gaststätten {'NN': 7}
+gaststätte {'NN': 1}
+lokal {'NN': 1}
+einbrecherbande {'NN': 4}
+ausweise {'NN': 3}
+lufthansa {'NE': 14}
+flugbegleitern {'NN': 2}
+universitätsuklinikum {'NE': 1}
+moderne {'ADJA': 2}
+krankenbett {'NN': 1}
+computern {'NN': 4}
+modern {'ADJD': 1}
+fußballfelder {'NN': 1}
+stockwerke {'NN': 1}
+angetreten {'VVPP': 1}
+darmstadt {'NE': 2}
+günstige {'ADJA': 1}
+fahrräder {'NN': 4}
+bahnen {'NN': 4}
+schostock {'NE': 1}
+agritechnica {'NE': 11}
+begriffen {'NN': 1}
+agrar {'NN': 2}
+landwirtschaft {'NN': 3}
+technikmesse {'NN': 1}
+statt {'PTKVZ': 1}
+457.000 {'ADJA': 1}
+betrogen {'VVPP': 3}
+krankheiten {'NN': 6}
+eingeredet {'VVPP': 2}
+habt {'VAFIN': 2}
+dürft {'VVFIN': 2}
+lunge {'NN': 5}
+anstrengen {'VVINF': 1}
+irgendwann {'ADV': 3}
+kenan {'NE': 8}
+kocak {'NE': 8}
+sandhausen {'NE': 3}
+bundesprädident {'NN': 1}
+hochschule {'NN': 1}
+hochschulen {'NN': 3}
+anwalt {'NN': 1}
+diskussion {'NN': 1}
+streiten {'VVINF': 1, 'NN': 1, 'VVFIN': 1}
+diskutieren {'VVINF': 1, 'NN': 1}
+meinungsfreiheit {'NN': 4}
+lügen {'VVFIN': 1, 'VVINF': 1}
+hass {'NN': 2}
+rektoren {'NN': 3}
+rektor {'NN': 1}
+windkraft {'NN': 7}
+hersteller {'NN': 4}
+herstellern {'NN': 1}
+ersetzt {'VVPP': 1}
+häfen {'NN': 2}
+rene {'NE': 2}
+matschke {'NE': 2}
+erdboden {'NN': 2}
+wackeln {'VVINF': 1}
+gespürt {'VVPP': 1}
+heizen {'VVINF': 1, 'VVFIN': 1}
+gestein {'NN': 1}
+verschieben {'VVINF': 2, 'VVFIN': 1}
+transport {'NN': 4}
+begleitet {'VVFIN': 1}
+global {'NE': 1}
+dream {'NE': 1}
+glühwein {'NN': 1}
+lebkuchen {'NN': 1}
+karussels {'NE': 1}
+weihnachtsmusik {'NN': 1}
+weihnachtsmärkten {'NN': 1}
+weihnachten {'NN': 3}
+größter {'ADJA': 1}
+riesenrad {'NN': 1}
+weihnachtspyramide {'NN': 7}
+engel {'NN': 1}
+hineingehen {'VVINF': 1}
+märchenwald {'NN': 3}
+figuren {'NN': 2}
+rumpelstilzchen {'NN': 1}
+aschenputtel {'NN': 1}
+weist {'VVFIN': 1}
+abgewiesen {'VVPP': 2}
+mobil {'ADJD': 3}
+maut {'NN': 7}
+rauchmelder {'NN': 5}
+alarm {'NN': 4}
+erkennt {'VVFIN': 1}
+toitenwinkel {'NE': 1}
+forderungen {'NN': 1}
+madrid {'NE': 2}
+endlich {'ADV': 2}
+gefährlichen {'ADJA': 4}
+organ {'NN': 3}
+körperteile {'NN': 7}
+brüste {'NN': 1}
+behandlungen {'NN': 10}
+schwach {'ADJD': 4}
+behandlung {'NN': 3}
+krebsgesellschaften {'NN': 10}
+munster {'NN': 4, 'NE': 3}
+dethlinger {'ADJA': 12}
+zugeschüttet {'VVPP': 2}
+einfach {'ADV': 2}
+tausende {'NN': 3}
+gebohrt {'VVPP': 1}
+erwartet {'VVPP': 1}
+vergiftete {'ADJA': 1}
+ausgetauscht {'VVPP': 1}
+sanierung {'NN': 2}
+co2 {'NN': 4}
+hälfte {'NN': 3}
+plänen {'NN': 2}
+ölheizungen {'NN': 5}
+heizungen {'NN': 3}
+solaranlagen {'NN': 14}
+erzeugen {'VVFIN': 2}
+platten {'NN': 2}
+scheint {'VVFIN': 2}
+zahlt {'VVFIN': 1}
+verbietet {'VVFIN': 5}
+jahreswechsel {'NN': 2}
+binnenalster {'NN': 8, 'NE': 1}
+silvesterraketen {'NN': 7}
+himmel {'NN': 2}
+buntes {'ADJA': 1}
+silvesterböller {'NN': 5, 'NE': 1}
+knall {'NN': 2}
+silvesterböllern {'NN': 1}
+sicherer {'ADJD': 1}
+taschen {'NN': 7}
+duschen {'NN': 2, 'VVFIN': 1}
+plätze {'NN': 1}
+plätzen {'NN': 1}
+normaler {'ADJA': 1}
+linienbus {'NN': 1}
+gespendet {'VVPP': 12}
+idee {'NN': 3}
+dominik {'NE': 6}
+bloh {'NE': 6}
+regelmäßig {'ADJD': 3}
+waschen {'VVINF': 5, 'NN': 1, 'VVFIN': 8}
+zusammengetan {'VVPP': 1}
+spende {'NN': 1}
+hochbahn {'NN': 9}
+deckel {'NN': 1}
+schutz {'NN': 6}
+abstürzen {'VVINF': 1}
+südlichen {'ADJA': 1}
+außerhalb {'APPR': 1}
+tierseuche {'NN': 11}
+afrikanische {'ADJA': 5}
+schweinepest {'NN': 5}
+wildschweine {'NN': 23}
+übertragen {'VVFIN': 2}
+springen {'VVINF': 2, 'VVFIN': 2}
+verhakt {'VVFIN': 1}
+verhaken {'VVFIN': 1}
+brink-hafen {'NN': 2}
+vinnhorst {'NE': 1}
+langenhagen-wiesenau {'NN': 1}
+spendenaktion {'NN': 13}
+zytoservice {'NN': 4}
+rezepte {'NN': 10}
+rezept {'NN': 8}
+bestimmtes {'ADJA': 2}
+apotheke {'NN': 4}
+krankenversicherungen {'NN': 6}
+krankenversicherung {'NN': 4}
+wohnhäuser {'NN': 4}
+apotheken {'NN': 3}
+apotheker {'NN': 2}
+firmenchefs {'NN': 2}
+operation {'NN': 7}
+notwendig {'ADJD': 1}
+überredet {'VVPP': 2}
+zweitgrößte {'ADJA': 1}
+weihnachtsferien {'NN': 7}
+skiurlaub {'NN': 1}
+verwandten {'NN': 1, 'ADJA': 1}
+schultag {'NN': 1}
+21. {'ADJA': 3}
+fedder {'NE': 38}
+großstadtrevier {'NN': 3}
+büttenwarder {'NN': 3}
+dirk {'NE': 10}
+matthies {'NE': 1}
+kurt {'NE': 1}
+brakelmann {'NE': 1}
+toller {'ADJA': 2}
+geliebt {'VVPP': 1}
+abgebrochen {'VVPP': 4}
+volker {'NE': 1}
+lechtenbrink {'NE': 1}
+gitte {'NE': 1}
+haenning {'NE': 1}
+mikrofonen {'NN': 3}
+mikrofone {'NN': 4}
+mikrofon {'NN': 1}
+mund {'NN': 6}
+lauter {'ADJD': 1, 'ADJA': 1}
+künstlern {'NN': 1}
+verärgert {'VVPP': 2}
+südtirol {'NE': 5}
+luttach {'NE': 2}
+kamen {'VVFIN': 1}
+fröhlichen {'ADJA': 2}
+katastrophe {'NN': 1}
+robben {'NE': 26}
+raubtiere {'NN': 2}
+fisch {'NN': 3}
+angebote {'NN': 5}
+zoodirektor {'NN': 2}
+nagel {'NE': 2}
+seebären {'NN': 1}
+wohler {'ADJD': 2}
+mecklenburgvorpommern {'NN': 3}
+tolle {'ADJA': 1}
+schöner {'ADJD': 3}
+cremlingen {'NE': 3}
+selbstfahrende {'ADJA': 1}
+thümler {'NE': 2}
+wissenschaftsminister {'NN': 1}
+selbstfahrenden {'ADJA': 3}
+leiten {'VVFIN': 1}
+abstand {'NN': 25}
+wechseln {'VVINF': 1}
+zukunft {'NN': 1}
+weiterentwickelt {'VVPP': 1}
+stieftochter {'NN': 3}
+leonie {'NE': 13}
+ging {'VVFIN': 3}
+stiefvater {'NN': 10}
+rettungskräfte {'NN': 3}
+lügt {'VVFIN': 1}
+northeim {'NE': 7}
+gestohlenen {'ADJA': 2, 'NN': 1}
+stundenkilometer {'NN': 1}
+radfahrer {'NN': 14}
+müllwagen {'NN': 3}
+radfahrern {'NN': 1}
+vorsicht {'NN': 1}
+trauerfeier {'NN': 17}
+michel {'NE': 13}
+gemocht {'VVPP': 2}
+heinz {'NE': 2}
+hönig {'NE': 2}
+mälzer {'NE': 2}
+fernseh-koch {'NN': 1}
+mamor {'NE': 2}
+leichenwagen {'NN': 5}
+sarg {'NN': 1}
+hauptbahnhof {'NN': 22}
+geflossen {'VVPP': 4}
+aussteigen {'VVINF': 4}
+ausgeschaltet {'VVPP': 1}
+warngeräte {'NN': 1}
+fahrradfahrern {'NN': 3}
+geräten {'NN': 2}
+signal {'NN': 1}
+warngerät {'NN': 1}
+stadtreinigung {'NN': 1}
+wind∙kraftanlagen {'NN': 1}
+nord∙deutschland {'NE': 1}
+wind∙kraft∙anlagen {'NN': 10}
+wind∙rad {'NN': 3}
+abreißen {'VVINF': 3}
+abriss {'NN': 3}
+recyclen {'VVINF': 2}
+stahl {'NN': 1}
+sondermüll {'NN': 1}
+windrädern {'NN': 1}
+verspätet {'ADJD': 1}
+abflug {'NN': 1}
+kandidaten {'NN': 9}
+kandidaten-check {'NE': 2, 'NN': 4}
+aufgenommen {'VVPP': 2}
+minuten {'NN': 2}
+einsetzen {'VVINF': 1}
+angeben {'VVINF': 1}
+wahlkreis {'NN': 2}
+wahlgebiet {'NN': 1}
+busfahrern {'NN': 24}
+zugführern {'NN': 1}
+vorpommern-rügen {'NE': 1}
+nordwestmecklenburg {'NE': 4}
+zugführer {'NN': 4}
+verkehrsbetriebe {'NN': 3}
+verkehrsbetrieben {'NN': 3}
+betrunkener {'ADJA': 1}
+rollerfahrer {'NN': 1}
+elektro-roller {'NN': 6}
+batterie {'NN': 1}
+angetrieben {'VVPP': 1}
+ausleihen {'VVINF': 1}
+betrunkene {'ADJA': 2}
+gelten {'VVFIN': 16}
+bestrafen {'VVINF': 2}
+elektro-rollern {'NN': 2}
+wiefelstede {'NE': 2}
+werbung {'NN': 2}
+niedrigen {'ADJA': 5}
+liefern {'VVINF': 1}
+vorbereitungen {'NN': 4}
+lungenkrankheit {'NN': 1}
+krankheitserreger {'NN': 6}
+corona-virus {'NE': 17, 'NN': 232}
+husten {'NN': 12}
+angesteckt {'VVPP': 12}
+vorbereitet {'VVPP': 3}
+bereiten {'VVFIN': 1}
+erholt {'VVFIN': 1}
+stan {'NE': 2}
+wawrinka {'NE': 2}
+grandslam-turnier {'NN': 1}
+nahbus {'NE': 1, 'NN': 2}
+regionen {'NN': 3}
+dritten {'ADJA': 1}
+landeshauptstadt {'NN': 1}
+sonntagmorgen {'NN': 2}
+holzfirma {'NE': 1, 'NN': 2}
+ueckermünde {'NE': 3}
+anklam {'NE': 8}
+gelagert {'VVPP': 2}
+erreicht {'VVPP': 1}
+kränen {'NN': 4}
+kräne {'NN': 11}
+hafenbecken {'NN': 9}
+schiffskran {'NN': 1}
+berührt {'VVFIN': 1}
+gewicht {'NN': 1}
+schief {'ADJD': 1}
+wiegen {'VVFIN': 1}
+abmachen {'VVINF': 1}
+einzelne {'ADJA': 1}
+einzelnen {'ADJA': 1}
+universitäten {'NN': 2}
+entlastet {'VVPP': 2}
+forschen {'VVFIN': 1}
+leer {'ADJD': 1, 'NE': 6}
+oberhausen {'NE': 2}
+wilhelmshaven {'NE': 11}
+umleitung {'NN': 1}
+scheune {'NN': 7}
+kriegswaffen {'NN': 3}
+maschinengewehre {'NN': 1}
+sprengstoff {'NN': 11}
+2015. {'NE': 1}
+neuallermöhe {'NN': 1, 'VVPP': 1, 'NE': 2}
+zugefahren {'VVPP': 2}
+verkehrskontrolle {'NN': 4}
+durchsuchen {'VVINF': 1}
+dunkles {'ADJA': 1}
+hinten {'ADV': 2}
+dunklen {'ADJA': 6}
+dunkle {'ADJA': 3}
+sabine {'NE': 1}
+warnungen {'NN': 1}
+goslar {'NE': 8}
+gewackelt {'VVPP': 1}
+umkippen {'VVINF': 1}
+fernzüge {'NN': 4}
+regionalzüge {'NN': 4}
+verkehrsclub {'NN': 6}
+kämpft {'VVFIN': 1}
+umweltfreundliche {'ADJA': 1}
+einigung {'NN': 2}
+busbahnhof {'NN': 3}
+versprochen {'VVPP': 2}
+renovierungen {'NN': 2}
+fahrradständer {'NN': 1}
+küsten {'NN': 2}
+gehagelt {'VVPP': 1}
+hagel {'NE': 4}
+gefroren {'VVPP': 1}
+tropfen {'NN': 1}
+verkehrskontrollen {'NN': 4}
+einbrechern {'NN': 2}
+wertvolle {'ADJA': 1}
+hindernisse {'NN': 2}
+tunneln {'NN': 2}
+haltestellen {'NN': 7}
+aufzug {'NN': 1}
+aufzüge {'NN': 3}
+kinderwagen {'NN': 4}
+barrierefreie {'ADJA': 1}
+u-bahn-haltestellen {'NN': 1}
+barrierefrei {'ADJD': 3}
+barrieren {'NN': 2}
+treppen {'NN': 8}
+rollstuhlfahrer {'NN': 1}
+hilfen {'NN': 5}
+sehbehinderte {'NN': 4, 'ADJA': 2}
+zurechtfinden {'VVINF': 1}
+bahnsteigerhöhungen {'NN': 1}
+bahnsteigerhöhung {'NN': 1}
+bahnsteig {'NN': 3}
+erhöht {'VVPP': 1}
+bahnsteigkante {'NN': 4}
+einsteigen {'VVINF': 3}
+lückenfüller {'NN': 3, 'NE': 1}
+verkleinern {'VVFIN': 1}
+kurve {'NN': 5}
+kurven {'NN': 1}
+lücke {'NN': 2}
+mäuse {'NN': 7}
+mäuse-plage {'NN': 3}
+barbara {'NE': 2}
+otte-kinast {'NE': 2}
+kaltes {'ADJA': 2}
+kiel-wik {'NN': 4}
+wik {'NE': 3}
+robben-babys {'NN': 3}
+babys {'NN': 6}
+herangehen {'VVINF': 3}
+verwandt {'ADJD': 1}
+brief {'NN': 2}
+süßigkeiten {'NN': 2}
+tausend {'CARD': 1}
+fdp {'NE': 21}
+wahlhelfer {'NN': 3}
+stimmzettel {'NN': 8}
+ausgezählt {'VVPP': 3}
+ankreuzen {'VVINF': 1}
+wähle {'VVFIN': 3}
+wahlentscheidung {'NN': 1}
+stimme {'NN': 2}
+auszählung {'NN': 3}
+afd. {'NE': 3}
+afd {'NE': 3}
+alternative {'NN': 3}
+langenhorn {'NE': 5}
+.langenhorn {'NN': 1}
+ergebnissen {'NN': 1}
+gepasst {'VVPP': 1}
+verwechselt {'VVPP': 2}
+fünf-prozent-regel {'NN': 1, 'NE': 1}
+prozent {'NN': 3}
+regel {'NN': 21}
+bürgerschaftswahl {'NN': 12}
+möglichkeiten {'NN': 1}
+ruder {'NN': 3}
+obst {'NN': 8}
+ruderblatt {'NN': 2}
+kapitän {'NN': 1}
+niesen {'VVFIN': 10, 'VVINF': 2}
+taschentuch {'NN': 5}
+versorgt {'VVPP': 1}
+henstedt-ulzburg {'NE': 7}
+eppendorf {'NE': 4}
+norditalien {'NN': 2, 'NE': 2}
+isolieren {'VVFIN': 1}
+dort {'ADV': 1}
+hof {'NN': 2}
+messen {'NN': 11}
+abgesagt {'VVPP': 14}
+veranstaltet {'VVFIN': 2}
+schwanger {'ADJD': 4}
+intelligent {'ADJD': 1}
+überfordert {'ADJD': 1}
+schwangerschaft {'NN': 1}
+verdrängt {'VVPP': 1}
+b76. {'NN': 2}
+b76 {'NNE': 2, 'NE': 1}
+organisiert {'VVPP': 1}
+schafft {'VVFIN': 1}
+verbindung {'NN': 2}
+unterstützung {'NN': 2}
+verbote {'NN': 2}
+freitagmittag {'NN': 1}
+anstecken {'VVINF': 38, 'VVFIN': 1}
+gerade {'ADV': 5}
+erkältet {'VVPP': 1}
+ägypten {'NE': 4}
+nordafrika {'NE': 1}
+sportveranstaltungen {'NN': 2}
+handballspielen {'NN': 3}
+basketballspielen {'NN': 1}
+eishockeyliga {'NN': 1}
+eishockeyspiele {'NN': 1}
+eishockeymeister {'NN': 1}
+mittwochmittag {'NN': 2}
+leipzig {'NE': 5}
+ludwigslust-parchim {'NE': 1}
+losgehen {'VVINF': 1}
+nürnberg {'NE': 4}
+dfl {'NE': 4}
+anmerkung {'NN': 1}
+frühling {'NN': 1}
+krankenhausbetten {'NN': 1}
+ministerpräsidenten {'NN': 5}
+steckt {'VVFIN': 1}
+grenzen {'NN': 4}
+maßnahmen {'NN': 1}
+einrichtungen {'NN': 1}
+restaurants {'NN': 19}
+kinos {'NN': 5}
+drogerien {'NN': 1}
+tankstellen {'NN': 1}
+gleichzeitig {'ADJD': 2}
+frühestens {'ADV': 1}
+spätestens {'ADV': 1}
+tischen {'NN': 1}
+zurückholen {'VVINF': 1}
+spricht {'VVFIN': 3}
+nichtin {'NE': 1}
+eu {'NE': 2}
+beerdigung {'NN': 1}
+keinemenschen {'NE': 2}
+menschen.nicht {'NN': 2}
+streichen {'VVINF': 2, 'VVFIN': 1}
+löhne {'NN': 1}
+corona-krise {'NE': 4}
+krise {'NN': 2}
+geirrt {'VVPP': 1}
+ausgangssperre {'NN': 8}
+freiburg {'NE': 4}
+zweit {'ADJD': 2}
+frisöre {'NN': 2}
+speisen {'NN': 2}
+terminen {'NN': 1}
+sollen.keinen {'CARD': 1}
+frage {'NN': 1}
+prüfungen {'NN': 2}
+kultusminister {'NN': 6}
+telefoniert {'VVPP': 1}
+abschlussprüfungen {'NN': 5}
+abschlussprüfung {'NN': 3}
+prüfung {'NN': 1}
+gymnasium {'NN': 1}
+abitur {'NN': 1}
+abiturprüfungen {'NN': 1}
+prinz {'NN': 2}
+charles {'NE': 2}
+englischen {'ADJA': 1}
+elisabeth {'NE': 1}
+haupstadt {'NN': 1}
+quarantäne {'NN': 12}
+ansteckende {'ADJA': 3}
+hübers {'NE': 13}
+zusammenhalten {'VVINF': 2}
+krankenschwestern {'NN': 2}
+danken {'VVINF': 1}
+donnerstagmittag {'NN': 1}
+geduld {'NN': 3}
+stecken {'VVFIN': 6, 'VVINF': 4}
+schränken {'VVFIN': 1}
+datum {'NN': 1}
+pflegeheim {'NN': 6}
+kranker {'ADJA': 2}
+aufnehmen {'VVINF': 2}
+wohin {'PWAV': 1}
+jena {'NE': 6}
+schutzmasken {'NN': 16}
+schutzmaske {'NN': 18}
+nase {'NN': 5}
+trägt {'VVFIN': 6}
+selber {'ADV': 3}
+berufen {'NN': 1}
+selbstgemachte {'ADJA': 1}
+anleitungen {'NN': 1}
+anleitung {'NN': 3}
+2 {'CARD': 2}
+hörern {'NN': 1}
+eurem {'PPOSAT': 2}
+selbstgemachten {'ADJA': 2}
+mundschutz {'NN': 3}
+visite {'NN': 2}
+teures {'ADJA': 1}
+verband {'NN': 2}
+bauernverband {'NE': 1, 'NN': 2}
+salat {'NN': 1}
+spargel {'NN': 6}
+erdbeeren {'NN': 1}
+abteilungen {'NN': 2}
+intensivstationen {'NN': 2}
+intensivbetten {'NN': 8}
+intensivstation {'NN': 1}
+intensivbett {'NN': 1}
+mittwochmitag {'NN': 1}
+spanische {'ADJA': 1}
+nichtans {'NE': 1}
+baumärkte {'NN': 1}
+ausbreitung {'NN': 1}
+trainieren {'VVFIN': 1, 'VVINF': 7}
+bundesligen {'NN': 1}
+dürfen.keine {'$(': 1}
+zugucken {'VVINF': 1}
+fußballtrainer {'NN': 1}
+robert {'NE': 10}
+koch-institut {'NE': 10}
+erforschen {'VVFIN': 2}
+heilen {'VVINF': 2}
+rki {'NE': 2}
+genesen {'VVPP': 3, 'VVINF': 1, 'VVFIN': 1}
+osterfeuer {'NN': 6}
+osterspaziergang {'NN': 4}
+anderem {'PIS': 1}
+osterfeuern {'NN': 3}
+keineanderen {'ADJA': 1}
+ausflüge {'NN': 3}
+familienfeiern {'NN': 3}
+kleidungsgeschäfte {'NN': 1}
+kurzarbeitergeld {'NN': 4}
+ausbreiten {'VVINF': 2}
+behält {'VVFIN': 1}
+lockern {'VVINF': 2}
+streng {'ADJD': 1}
+niemandem {'PIS': 1}
+erkannt {'VVPP': 1}
+betreut {'VVPP': 1}
+patient {'NN': 1}
+schutzkleidung {'NN': 1}
+niemanden {'PIS': 1}
+corona-regeln {'NN': 1, 'NE': 4}
+mit.einem {'NN': 1}
+sollen.nicht {'ADJD': 1}
+verreisen {'VVINF': 2}
+nichtmehr {'ADV': 2}
+autohändler {'NN': 2}
+fahrradhändler {'NN': 2}
+buchgeschäfte {'NN': 2}
+fsk {'NE': 3}
+scorpio {'NE': 3}
+musikfestivals {'NN': 2}
+absagen {'VVINF': 2, 'NN': 1}
+deichbrand-festival {'NN': 1}
+hurricane-festival {'NN': 1}
+scheeßel {'NE': 4}
+elbjazz-festival {'NN': 1}
+elektro-festival {'NN': 3}
+neustadt-glewe {'NN': 2}
+elektronische {'ADJA': 1}
+airbeat {'NE': 2}
+one {'NE': 2}
+störtebeker-festspiele {'NN': 4}
+theater-festival {'NN': 2}
+zählt {'VVFIN': 1}
+freitagmorgen {'NN': 1}
+gestern {'ADV': 2}
+nämlich.nicht {'ADJD': 1}
+zoos {'NN': 1}
+maskenpflicht {'NE': 1, 'NN': 1}
+empfiehlt {'VVFIN': 1}
+29.11.2018. {'NN': 1}
+unteren {'ADJA': 2}
+30.11.2018. {'ADJA': 1}
+rade {'NE': 3}
+eichen {'NN': 1}
+buchen {'NN': 1}
+albrecht {'NE': 5}
+umweltminister {'NN': 2}
+deswegen {'PROAV': 3}
+03.12.2018. {'NN': 1}
+nordex {'NE': 6}
+tänzer {'NN': 9}
+weltmeister {'NN': 7}
+grün-gold-club {'NN': 2}
+tanzsportverein {'NN': 1}
+shenzhen {'NE': 2}
+04.12.2018. {'ADJA': 1}
+finnland {'NE': 6}
+eisengießerei {'NN': 3}
+bauteile {'NN': 4}
+05.12.2018. {'NN': 1}
+biss {'NN': 2}
+bispingen {'NE': 2}
+zigarette {'NN': 2}
+geraucht {'VVPP': 1}
+06.12.2018. {'ADJA': 1}
+klaus {'NE': 4}
+scorpions {'NE': 1, 'NN': 2}
+rockmusik {'NN': 1}
+leibniz-ring {'NN': 3}
+1997. {'NE': 1}
+thuine {'NE': 2}
+07.12.2018. {'NN': 1}
+einsätzen {'NN': 1}
+feuerwerkskörper {'NN': 4}
+feuerwerkskörpern {'NN': 1}
+lebenslange {'ADJA': 1}
+10.12.2018. {'ADJA': 1}
+reedereien {'NN': 2}
+winterpause {'NN': 1}
+jugendlicher {'NN': 5}
+jugendlichen {'NN': 7}
+11.12.2018. {'NN': 1}
+sittensen {'NE': 2}
+12.12.2018. {'ADJA': 1}
+angelika {'NE': 6}
+volquartz {'NE': 6}
+bundesverdienstkreuzbekommen {'NN': 1}
+bückeburg {'NE': 1}
+13.12.2018. {'NN': 1}
+kaimauer {'NN': 8}
+neumühlen {'NE': 2}
+ortsteil {'NN': 2}
+ottensen {'NE': 3}
+14.12.2018. {'ADJA': 1}
+salzdetfurth {'NE': 3}
+autowaschanlage {'NN': 3}
+vertrieben {'VVPP': 1}
+gespritzt {'VVPP': 1}
+wildscheine {'NN': 1}
+bedrohen {'VVINF': 1}
+volleyballerinnen {'NN': 5}
+ssc {'NE': 6}
+volleyballspiel {'NN': 4}
+potsdam {'NE': 1}
+dvv-pokal {'NN': 11}
+scc {'NE': 1}
+3:2 {'NN': 1}
+mtv {'NE': 1}
+17.12.2018. {'NN': 1}
+hittfeld {'NE': 1}
+18.12.2018. {'NN': 1}
+seehund {'NN': 7}
+verirrt {'VVPP': 2}
+holtgast {'NE': 3}
+vorgarten {'NN': 2}
+tessin {'NE': 5}
+gummimatte {'NN': 2}
+unterlage {'NN': 1}
+kältebus {'NN': 4}
+19.12.2018. {'NN': 1}
+poppenbüttel {'NE': 4}
+stadtteile {'NN': 2}
+wellingsbüttel {'NE': 1}
+20.12.2018. {'ADJA': 1}
+e-mail {'NN': 5}
+geschoben {'VVPP': 4}
+21.12.2018. {'NN': 1}
+restaurant {'NN': 2}
+eingeladen {'VVPP': 1}
+hintern {'NN': 1}
+02.01.2019. {'ADJA': 1}
+hansa {'NE': 14}
+pavel {'NE': 8}
+dotchev {'NE': 8}
+thiele {'NE': 2}
+verlängern {'VVFIN': 1}
+autoteile {'NN': 4}
+geschwankt {'VVPP': 1}
+schuss {'NN': 2}
+schönberg {'NE': 5}
+kopfverletzung {'NN': 1}
+silvester-böller {'NN': 1}
+weinberg {'NE': 5, 'NN': 8}
+verschwinden {'VVINF': 1}
+gäste {'NN': 2}
+geschenk {'NN': 1}
+verschenken {'VVINF': 1}
+schade {'ADJD': 2}
+04.01.2019. {'NN': 1}
+fahrradbügel {'NN': 9}
+abstellen {'VVINF': 1}
+anschließen {'VVINF': 1}
+aufstellen {'VVINF': 1}
+meinersen {'NE': 2}
+überschlagen {'VVPP': 4}
+geschleudert {'VVPP': 4}
+angeschnallt {'VVPP': 1}
+07.01.2019. {'ADJA': 1}
+versunken {'VVPP': 1}
+ausgesetzt {'VVPP': 3}
+einschlafen {'VVINF': 1}
+geklingelt {'VVPP': 1}
+abgeholt {'VVPP': 1}
+aussetzen {'VVINF': 1}
+08.01.2019. {'ADJA': 1}
+aufprall {'NN': 2}
+a24. {'NE': 1}
+09.01.2019. {'NN': 1}
+ostseeküste {'NN': 4}
+parkplätze {'NN': 1}
+härtel {'NE': 3}
+10.01.2019. {'NN': 1}
+jarmen {'NE': 3}
+gekracht {'VVPP': 2}
+mühlenrade {'NE': 3}
+kühen {'NN': 1}
+11.01.2019. {'NN': 1}
+elefantenbaby {'NN': 8}
+santosh {'NE': 1, 'NN': 3}
+bulle {'NN': 1}
+männlich {'ADJD': 1}
+vorgeschlagen {'VVPP': 1}
+auswählen {'VVINF': 1}
+göttinger {'ADJA': 2}
+notfallfahrplan {'NN': 1}
+buslinien {'NN': 3}
+14.01.2019. {'NN': 1}
+handballspiele {'NN': 3}
+basketballspiele {'NN': 1}
+elbdome {'NN': 1}
+15.01.2019. {'ADJA': 1}
+david {'NE': 12}
+kinsombi {'NE': 5}
+gebrochen {'VVPP': 2}
+beinbruch {'NN': 1}
+16.01.2019. {'NN': 1}
+traktor {'NN': 10}
+drentwede {'NN': 3}
+b51. {'NE': 2}
+b51 {'PTKVZ': 2, 'ADJD': 2}
+wucht {'NN': 1}
+17.01.2019. {'NE': 1}
+nordseewerke {'NN': 3}
+nordseewerken {'NN': 1}
+18.01.2019. {'NE': 1}
+bosbüll {'NN': 2}
+21.01.2019. {'ADJA': 1}
+tanker {'NN': 19}
+abgeschleppt {'VVPP': 1}
+tante {'NN': 5}
+ju {'NN': 3, 'NE': 2}
+anbieten {'VVINF': 1}
+22.01.2019. {'ADJA': 1}
+23.01.2019. {'ADJA': 1}
+dörverden {'NE': 2}
+dietrichsdorf {'NE': 1}
+24.01.2019. {'NN': 1}
+verhandlungen {'NN': 3}
+verhandelt {'VVPP': 1}
+kalten {'ADJA': 1}
+25.01.2019. {'NE': 1}
+tennisstadion {'NN': 8}
+renoviert {'VVPP': 2}
+renovierung {'NN': 2}
+unternehmer {'NN': 1}
+sportvereine {'NN': 2}
+28.01.2019. {'NN': 1}
+gesunken {'VVPP': 3}
+kutter {'NN': 5}
+fischerboot {'NN': 1}
+padborg {'NE': 3}
+seuche {'NN': 1}
+29.01.2019. {'NN': 1}
+diepholz {'NE': 4}
+30.01.2019. {'NN': 1}
+gestank {'NN': 4}
+31.01.2019. {'NN': 1}
+röbel {'NE': 2}
+müritz {'NE': 2}
+winsen {'NE': 1}
+weggenommen {'VVPP': 1}
+01.02.2019. {'ADJA': 1}
+fernsehpreis {'NN': 4}
+inas {'NE': 1}
+tatortreiniger {'NN': 1}
+kroymann {'NE': 1}
+freibadclique {'NE': 1}
+rot {'ADJD': 2}
+04.02.2019. {'ADJA': 1}
+schwentinental {'NE': 3}
+fahrende {'ADJA': 1}
+06.02.2019. {'ADJA': 1}
+stadtbahn {'NN': 7}
+stadtbahnen {'NN': 1}
+schaltzentrale {'NN': 3}
+07.02.2019. {'ADJA': 1}
+fohlen {'NE': 1, 'NN': 4}
+junges {'ADJA': 1}
+wolfsrudel {'NN': 4}
+dfb-pokal {'NN': 26, 'NE': 1}
+dfb {'NE': 9}
+fußball-bund {'NN': 7}
+auslosung {'NN': 7}
+sportschau {'NN': 4, 'NE': 1}
+18:15 {'ADJA': 1}
+fernsehprogramm {'NN': 1}
+08.02.2019. {'ADJA': 1}
+11.02.2019. {'ADJA': 1}
+gegner {'NN': 1}
+viertelfinale {'NN': 12}
+brinkum {'NE': 1}
+12.02.2019. {'NN': 1}
+tobias {'NE': 7}
+karlsson {'NE': 7}
+karriere {'NN': 1}
+beende {'VVFIN': 1}
+handballkarriere {'NN': 1}
+ziehe {'VVFIN': 1}
+spielgemeinschaft {'NN': 1}
+motorradfahrer {'NN': 11}
+motoradfahrer {'NN': 1}
+13.02.2019. {'NN': 1}
+syke {'NE': 2}
+müsst {'VMFIN': 1}
+gerichte {'NN': 1}
+körperverletzung {'NN': 1}
+14.02.2019. {'ADJA': 1}
+wlan {'NE': 2, 'NN': 2}
+wlan-verbindung {'NN': 1}
+15.02.2019. {'NN': 1}
+basketballer {'NN': 1}
+baskets {'NN': 7}
+überraschend {'ADJD': 2}
+basketballmannschaft {'NN': 5}
+mladen {'NE': 2}
+drijencic {'NE': 2}
+schwanewede {'NE': 4}
+ausrauben {'VVINF': 1}
+18.02.2019. {'NN': 1}
+pkw-fahrer {'NN': 6}
+imke {'NE': 6}
+onnen {'NE': 6}
+hochspringerin {'NN': 1}
+meisterschaft {'NN': 6}
+speerwurf {'NN': 1}
+weitsprung {'NN': 1}
+leistung {'NN': 1}
+europameisterschaft {'NN': 3}
+19.02.2019. {'ADJA': 1}
+lagerfeld {'NE': 9}
+modeschöpfer {'NN': 4}
+entwirft {'VVFIN': 1}
+kleider {'NN': 1}
+französische {'ADJA': 1}
+chanel {'NE': 1}
+fotograf {'NN': 1}
+hundebesitzer {'NN': 5}
+hunden {'NN': 3}
+auslaufflächen {'NN': 3}
+wiesen {'NN': 1}
+20.02.2019. {'NN': 1}
+mutzel {'NE': 3}
+tsg {'NE': 4}
+hoffenheim {'NE': 4}
+straßenreiniger {'NN': 1}
+21.02.2019. {'ADJA': 1}
+grippe {'NN': 6}
+hohes {'ADJA': 3}
+grippe-tote {'NN': 1}
+22.02.2019. {'ADJA': 1}
+nun {'ADV': 2}
+25.02.2019. {'ADJA': 1}
+pokal {'NN': 3}
+dvv {'NE': 2}
+volleyball-verband {'NN': 2}
+volleyballmannschafen {'NN': 1}
+3:0 {'CARD': 1}
+26.02.2019. {'NN': 1}
+27.02.2019. {'NN': 1}
+stadttteil {'NN': 1}
+schlägerei {'NN': 7}
+belogen {'VVPP': 1}
+28.02.2019. {'NN': 1}
+niesanfall {'NN': 3}
+kräftig {'ADJD': 1}
+01.03.2019. {'ADJA': 1}
+garlstorf {'NE': 1}
+liegengeblieben {'VVINF': 1, 'VVIZU': 2}
+straßenrand {'NN': 1}
+gürtel {'NN': 2}
+rinteln {'NE': 2}
+baumarkt {'NN': 2}
+05.03.2019. {'ADJA': 1}
+ausgeraubt {'VVPP': 2}
+weener {'NE': 1, 'ADV': 1}
+abgebrannt {'VVPP': 1}
+06.03.2019. {'ADJA': 1}
+dammfleth {'NE': 4}
+verschwundene {'ADJA': 1}
+durchsuchten {'ADJA': 1}
+a {'NN': 10, 'NE': 1, 'XY': 2}
+07.03.2019. {'ADJA': 1}
+geatmet {'VVPP': 3}
+wiederbelebt {'VVPP': 1}
+brust {'NN': 1}
+rotenburg {'NE': 6}
+wümme {'NE': 3}
+obdachloser {'NN': 1}
+08.03.2019. {'ADJA': 1}
+döllinghareico {'NE': 1}
+zarrentin {'NE': 1}
+11.03.2019. {'NN': 1}
+lasse {'VVFIN': 3}
+12.03.2019. {'NN': 1}
+dienstagnachmittag {'NN': 1}
+verlädt {'VVFIN': 1}
+verladen {'VVFIN': 1}
+abladen {'VVINF': 2}
+13.03.2019. {'NN': 1}
+schmadtke {'NE': 4}
+14.03.2019. {'ADJA': 1}
+vermisstem {'ADJA': 1}
+vergangene {'ADJA': 1}
+vermissten {'ADJA': 1}
+dörthe {'NE': 2}
+hausmann {'NE': 1, 'NN': 1}
+15.03.2019. {'ADJA': 1}
+claudio {'NE': 7}
+pizarro {'NE': 7}
+muskeln {'NN': 1}
+kohfeldt {'NE': 2}
+masern {'NN': 33}
+impfung {'NN': 8}
+spritzt {'VVFIN': 2}
+18.03.2019. {'ADJA': 1}
+hagelschauer {'NN': 1}
+19.03.2019. {'NN': 1}
+flusskreuzfahrtschiffe {'NN': 1}
+flusskreuzfahrtschiff {'NN': 1}
+neptun {'NE': 2}
+rhein {'NE': 1}
+rechts {'ADV': 1}
+20.03.2019. {'ADJA': 1}
+folge {'NN': 2}
+sesamstraße {'NE': 3}
+hörfilmpreise {'NN': 2}
+hörfilm {'NN': 1}
+audiodeskription {'NN': 3}
+blinde {'ADJA': 4}
+blinden {'ADJA': 3}
+beschreibt {'VVFIN': 1}
+21.03.2019. {'NN': 1}
+1:1. {'NN': 2}
+leon {'NE': 2}
+goretzka {'NE': 2}
+heiligengeistfeld {'NN': 6}
+sankt {'NE': 3}
+22.03.2019. {'NN': 1}
+lewis {'NE': 6}
+holtby {'NE': 6}
+wünschen {'VVFIN': 1}
+alles {'PIAT': 1, 'PIS': 1}
+203. {'NN': 2}
+25.03.2019. {'NE': 1}
+briefmarke {'NN': 7}
+sonderbriefmarke {'NN': 2}
+ehrt {'VVFIN': 1}
+geleistet {'VVPP': 1}
+loki {'NE': 5}
+naturschützerin {'NN': 1}
+cent {'NN': 1}
+postkarten {'NN': 2}
+verschicken {'VVINF': 1}
+marcus {'NE': 4}
+26.03.2019. {'ADJA': 1}
+bombendrohungen {'NN': 3}
+rathäusern {'NN': 1}
+rathäuser {'NN': 3}
+heringsfest {'NE': 2, 'NN': 2}
+seniorin {'NN': 4}
+brutal {'ADJD': 2}
+27.03.2019. {'NN': 1}
+wriedel {'NE': 1}
+hanstedt {'NE': 1}
+waddeweitz {'NE': 1}
+papieren {'NN': 2}
+großfamilie {'NN': 4}
+fälscht {'VVFIN': 1}
+hundebesitzern {'NN': 3}
+greifen {'VVFIN': 3}
+gefasst {'VVPP': 2}
+juwelier {'NN': 3}
+uhren {'NN': 2}
+28.03.2019. {'NE': 1}
+commercial {'NE': 7}
+ermisch {'NE': 2}
+29.03.2019. {'ADJA': 1}
+impfpass {'NN': 4}
+geimpft {'VVPP': 2}
+falsches {'ADJA': 1}
+paket {'NN': 6}
+schuhe {'NN': 2}
+brand {'NN': 4}
+01.04.2019. {'ADJA': 1}
+landesbischöfin {'NN': 2}
+nordkirche {'NE': 5}
+kühnbaum-schmidt {'NE': 3}
+nachfolgerin {'NN': 2}
+gerhard {'NE': 3}
+ruhestand {'NN': 1}
+uslar {'NE': 2}
+02.04.2019. {'ADJA': 1}
+spargelernte {'NE': 1}
+03.04.2019. {'ADJA': 1}
+melle {'NE': 2}
+müllsammeln {'NN': 1}
+nichtsverbotenes {'NE': 1}
+müllsäcke {'NN': 1}
+umspannwerk {'NN': 4}
+kraftwerk {'NN': 3}
+erzeugt {'VVFIN': 1}
+04.04.2019. {'ADJA': 1}
+verbrechern {'NN': 1}
+ard {'NE': 1}
+05.04.2019. {'ADJA': 1}
+erkältung {'NN': 1}
+bus-firma {'NN': 1}
+gesunde {'ADJA': 1}
+überstunden {'NN': 1}
+08.04.2019. {'ADJA': 1}
+ausgelost {'VVPP': 2}
+rb {'NE': 1}
+preetz {'NE': 2}
+thw {'NE': 19}
+28:24 {'NN': 2}
+09.04.2019. {'ADJA': 1}
+10.04.2019. {'NN': 1}
+herrenhäuser {'NN': 1}
+wasserpumpen {'NN': 1}
+ankum {'NE': 3}
+11.04.2019. {'NE': 1}
+bordelum {'NE': 2}
+binden {'VVFIN': 1}
+steilen {'ADJA': 1}
+hang {'NN': 2}
+steile {'ADJA': 1}
+12.04.2019. {'ADJA': 1}
+nordpferd {'NE': 1}
+15.04.2019. {'NN': 1}
+uruguay {'NE': 2}
+16.04.2019. {'NN': 1}
+elektromotoren {'NN': 2}
+arkona {'NE': 1}
+km {'NN': 2}
+17.04.2019. {'NN': 1}
+18.04.2019. {'ADJD': 1}
+23.04.2019. {'NN': 1}
+glasner {'NE': 5}
+nordfriesland {'NE': 1}
+segelflugzeug {'NN': 20}
+leichtes {'ADJA': 3}
+start {'NN': 2}
+24.04.2019. {'NN': 1}
+it-experten {'NN': 2}
+elektroautos {'NN': 17}
+25.04.2019. {'NN': 1}
+marine {'NN': 8}
+korvette {'NN': 2}
+militärschiff {'NN': 1}
+militär {'NN': 8}
+angriffen {'NN': 5}
+26.04.2019. {'NE': 1}
+röhre {'NN': 4}
+röhren {'NN': 4}
+oströhre {'NN': 4}
+weströhre {'NN': 2}
+straßenbahn {'NN': 13}
+autotransporter {'NN': 3}
+29.04.2019. {'NN': 1}
+gewehr {'NN': 1}
+barmbek-nord {'NE': 2}
+sylvia {'NE': 16}
+bretschneider {'NE': 16}
+landtagspräsidentin {'NN': 5}
+leitet {'VVFIN': 3}
+sitzungen {'NN': 2}
+30.04.2019. {'NN': 1}
+bordkorb {'NE': 1}
+aez {'NE': 3}
+alstertal-einkaufszentrum {'NN': 1}
+glastür {'NN': 1}
+02.05.2019. {'NN': 1}
+bundeswehrautos {'NN': 2}
+fußball-frauen {'NN': 2}
+ewa {'NE': 1}
+pajor {'NE': 1}
+03.05.2019. {'ADJA': 1}
+sanitz {'NE': 2}
+benefiz-konzert {'NN': 3}
+benefiz {'NN': 1}
+mutzke {'NE': 2}
+gwildis {'NE': 2}
+krusenkoppel {'NE': 1}
+oldtimer {'NN': 4}
+fußballerinnen {'NN': 2}
+frauenfußball {'NN': 1}
+pampau {'NE': 2}
+riesenhai {'NN': 3}
+hai {'NN': 1}
+fund {'NN': 3}
+familienmitglied {'NN': 1}
+impfen {'VVINF': 1}
+übt {'VVFIN': 1}
+pasewalk {'NE': 2}
+fahrzeugkolonnen {'NN': 2}
+fahrzeugkolonne {'NN': 1}
+drogenhändler {'NN': 4}
+café {'NN': 2}
+09.05.2019. {'NN': 1}
+bornemann {'NE': 5}
+swimmingpool {'NN': 9}
+schwimmbecken {'NN': 2}
+geräusche {'NN': 2}
+10.05.2019. {'ADJA': 1}
+fehlern {'NN': 2}
+kreistag {'NN': 2}
+stimmzetteln {'NN': 4}
+kreuzen {'VVFIN': 1}
+kreise {'NN': 3}
+kreuz {'NN': 1}
+gedruckt {'VVPP': 1}
+verschickt {'VVPP': 1}
+13.05.2019. {'NN': 1}
+gutshaus {'NN': 6}
+gutshäuser {'NN': 1}
+staatsakt {'NN': 8}
+14.05.2019. {'NN': 1}
+batterien {'NN': 6}
+verletzter {'NN': 3}
+15.05.2019. {'NN': 1}
+einsatzkräfte {'NN': 6}
+überladen {'VVPP': 1}
+16.05.2019. {'NN': 1}
+netze {'NN': 6}
+fischern {'NN': 1}
+verfangen {'VVPP': 1}
+rettungsgasse {'NN': 6}
+seiten {'NN': 1}
+17.05.2019. {'ADJA': 1}
+besonderem {'ADJA': 1}
+tour-bus {'NN': 1, 'NE': 2}
+tour-bussen {'NN': 2}
+auftritten {'NN': 1}
+dj {'NE': 2, 'NN': 1}
+bobo {'NE': 3}
+20.05.2019. {'NN': 1}
+drittletzter {'ADJA': 1}
+drittletzten {'ADJA': 1}
+duncan {'NE': 1}
+laurence {'NE': 1}
+soldat {'NN': 1}
+schaufenster {'NN': 5}
+flottbek {'NE': 1}
+schaufenstern {'NN': 1}
+waitzstraße {'NN': 2}
+21.05.2019. {'ADJA': 1}
+taxifahrer {'NN': 4}
+abholen {'VVINF': 1}
+22.05.2019. {'ADJA': 1}
+heere {'NN': 4}
+präsidentin {'NN': 4}
+sozial-demokratische {'ADJA': 1}
+zugfahrt {'NN': 1}
+23.05.2019. {'ADJA': 1}
+müllcontainer {'NN': 4, 'NE': 1}
+rahlstedt {'NE': 4}
+leg {'NE': 1}
+dreh {'VVFIN': 1}
+dein {'PPOSAT': 3}
+gesicht {'NN': 3}
+schulter {'NN': 1}
+geprügelt {'VVPP': 3}
+teltow {'NE': 3}
+24.05.2019. {'NE': 1}
+china-restaurants {'NN': 2}
+kassen {'NN': 3}
+restaurant-besitzer {'NN': 2}
+27.05.2019. {'NN': 1}
+absolute {'ADJA': 3}
+mehrheit {'NN': 3}
+nackt {'ADJD': 1}
+alleingelassen {'VVPP': 1}
+28.05.2019. {'NN': 1}
+29.05.2019. {'ADJA': 1}
+nenndorf {'NE': 2}
+finanzämtern {'NN': 4}
+finanzämter {'NN': 1}
+finanzamt {'NN': 1}
+ordnung {'NN': 1}
+31.05.2019. {'ADJA': 1}
+altonale {'NN': 4}
+runtergefallen {'VVPP': 1, 'VVINF': 1}
+mongols {'NN': 2}
+kleintransporter {'NN': 7}
+estorf {'NE': 1}
+oste {'NN': 3}
+04.06.2019. {'NN': 1}
+freibad {'NN': 9}
+biologen {'NN': 2}
+05.06.2019. {'NN': 1}
+räuber {'NN': 2}
+elektronik-markt {'NN': 3}
+fernseher {'NN': 1}
+b203 {'NE': 2}
+wrohm {'NE': 1, 'NN': 2}
+dörfern {'NN': 1}
+06.06.2019. {'NN': 1}
+östliche {'ADJA': 1}
+trifft {'VVFIN': 4}
+ehrenamt {'NN': 3}
+ehrenamtliche {'NN': 1}
+sportvereinen {'NN': 1}
+freiwilligen {'NN': 1}
+ehrenamtlichen {'NN': 2}
+07.06.2019. {'ADJA': 1}
+sitze {'NN': 1}
+beweglich {'ADJD': 1}
+12.06.2019. {'ADJA': 1}
+bestohlen {'VVPP': 1}
+jahrelang {'ADJD': 1}
+vorbilder {'NN': 1}
+bramsche {'NE': 4}
+13.06.2019. {'NN': 1}
+ehemaliger {'ADJA': 1}
+tagesschau {'NN': 5, 'NE': 1}
+wilhelm {'NE': 8}
+wieben {'NE': 8}
+vorgelesen {'VVPP': 1}
+freundlich {'ADJD': 1}
+vermissen {'VVFIN': 1}
+torpedo {'NN': 7}
+oman {'NE': 2}
+rakete {'NN': 1}
+nichtgesunken {'ADJD': 1}
+14.06.2019. {'NN': 1}
+tigern {'NN': 2}
+wurfhöhle {'NN': 4}
+bringentiere {'NE': 1}
+lok {'NE': 2, 'NN': 4}
+hude {'NE': 2}
+fischen {'NN': 1, 'VVFIN': 1}
+sauerstoff {'NN': 3}
+algen {'NN': 3}
+17.06.2019. {'NN': 1}
+landrätin {'NN': 6}
+anna {'NE': 5}
+kebschull {'NE': 3}
+schubert {'NE': 9}
+walter {'NE': 2}
+chaussee {'NN': 4}
+wasserrohr {'NN': 6}
+18.06.2019. {'NN': 1}
+kanaltunnel {'NN': 9}
+einbeck {'NE': 1}
+roller {'NN': 2}
+pflegern {'NN': 1}
+19.06.2019. {'NN': 1}
+klassenfahrt {'NN': 3}
+schwaförden {'NE': 2}
+bergwerkslore {'NN': 5}
+bergwerksloren {'NN': 1}
+gerannt {'VVPP': 1}
+39. {'PTKVZ': 2}
+20.06.2019. {'NN': 1}
+hurricane {'NE': 3}
+bands {'NN': 1}
+hosen {'NN': 1}
+city {'NN': 2}
+21.06.2019. {'NN': 1}
+müden {'NE': 3}
+schranke {'NN': 5}
+schweriner {'ADJA': 1}
+schlossfestspiele {'NN': 3}
+schlossfestspielen {'NN': 1}
+musicals {'NN': 1}
+musical {'NN': 11}
+theaterstück {'NN': 2}
+gesang {'NN': 1}
+hörgeschädigte {'ADJA': 2}
+24.06.2019. {'NN': 1}
+bankräuber {'NN': 1}
+gegenden {'NN': 3}
+25.06.2019. {'ADJA': 1}
+reifen {'NN': 10}
+fahrradfahrerin {'NN': 4}
+gelöst {'VVPP': 2}
+gerollt {'VVPP': 2}
+umgerissen {'VVPP': 1}
+neustadt {'NE': 5}
+rübenberge {'NE': 3}
+landstraße {'NN': 3}
+links {'ADV': 1}
+weiterer {'ADJA': 1}
+26.06.2019. {'NN': 1}
+anfassen {'VVINF': 1}
+evakuieren {'VVINF': 1}
+27.06.2019. {'ADJA': 1}
+freunden {'NN': 2}
+trinkwasser {'NN': 15}
+füllen {'VVINF': 1}
+28.06.2019. {'NN': 1}
+erschlagen {'VVPP': 1}
+01.07.2019. {'ADJA': 1}
+fallingbostel {'NE': 2}
+halbmarathon {'NN': 6}
+mitgelaufen {'VVPP': 1}
+aufführung {'NN': 11}
+samstag {'NN': 2}
+02.07.2019. {'ADJA': 1}
+durchfahren {'VVINF': 2}
+woran {'PWAV': 1}
+eingeschlossen {'VVPP': 1}
+dichten {'ADJA': 1}
+04.07.2019. {'ADJA': 1}
+niendorf {'NE': 2}
+straftäter {'NN': 8}
+autobahndreieck {'NN': 3}
+verbinden {'VVINF': 1}
+a39. {'NN': 1}
+05.07.2019. {'NN': 2}
+marienthal {'NE': 2}
+rausgekommen {'VVPP': 1}
+großenwörden {'NN': 2}
+gewächshaus {'NN': 3}
+08.07.2019. {'NN': 1}
+09.07.2019. {'NN': 1}
+kratzer {'NN': 1}
+borstel {'NE': 1}
+10.07.2019. {'ADJA': 1}
+s32 {'PDS': 1}
+fredesdorf {'NE': 1, 'NN': 1}
+gedrängt {'VVPP': 1}
+schwarz {'ADJD': 1}
+11.07.2019. {'NE': 1}
+weitergehen {'VVINF': 1}
+roald {'NE': 1}
+amundsen {'NE': 1}
+hybrid-technik {'NE': 2, 'NN': 1}
+12.07.2019. {'ADJA': 1}
+schlagermusik {'NN': 2}
+er {'PPER': 2}
+marianne {'NE': 1}
+rosenberg {'NE': 1}
+trucks {'NN': 3}
+albersdorf {'NE': 1}
+15.07.2019. {'NN': 1}
+moderner {'ADJD': 1}
+bahnsteige {'NN': 1}
+rolltreppen {'NN': 1}
+fahrstühle {'NN': 1}
+alfeld {'NE': 2}
+16.07.2019. {'NN': 1}
+a14 {'ADJA': 2, 'PDS': 1, 'NE': 2, 'NN': 1}
+grabow {'NE': 1}
+schokolade {'NN': 1}
+georg {'NE': 2}
+sternschanze {'NN': 1}
+17.07.2019. {'NN': 1}
+dieb {'NN': 11}
+bricht {'VVFIN': 1}
+burg {'NN': 1}
+einbrüchen {'NN': 1}
+18.07.2019. {'NN': 1}
+überwachen {'VVINF': 1}
+hansaplatz {'NE': 3, 'NN': 4}
+diebstählen {'NN': 1}
+dies {'PDS': 1}
+holzminden {'NE': 2}
+nachbar {'NN': 3}
+19.07.2019. {'NN': 1}
+22.07.2019. {'NN': 1}
+segelflugzeuge {'NN': 2}
+tuch {'NN': 2}
+seile {'NN': 1}
+wohngebiete {'NN': 1}
+23.07.2019. {'NN': 1}
+einbrechen {'VVINF': 1}
+24.07.2019. {'NE': 1}
+gebadet {'VVPP': 1}
+evershagen {'NE': 2}
+25.07.2019. {'NN': 1}
+hühnerstall {'NN': 4}
+neuenkirchen-vörden {'NE': 2}
+freibäder {'NN': 3}
+bäderland {'NE': 1, 'NN': 1}
+26.07.2019. {'ADJA': 1}
+zusammenarbeit {'NN': 2}
+ivan {'NE': 5}
+lendl {'NE': 5}
+29.07.2019. {'ADJA': 1}
+oberleitung {'NN': 2}
+oberleitungen {'NN': 1}
+kabeln {'NN': 1}
+tornesch {'NN': 1, 'NE': 3, 'ADJD': 1}
+hafen100 {'ADJA': 1}
+jochen {'NE': 2}
+storrer {'NE': 2}
+30.07.2019. {'NN': 1}
+31.07.2019. {'NN': 1}
+rastede {'NE': 4}
+01.08.2019. {'ADJA': 1}
+jübek {'NE': 2}
+geschrien {'VVPP': 1}
+füttern {'NN': 1, 'VVINF': 3, 'VVFIN': 1}
+möwen {'NN': 10}
+gefüttert {'VVPP': 1}
+02.08.2019. {'ADJA': 1}
+zugestochen {'VVPP': 1}
+a352. {'NN': 1}
+a352 {'NE': 3}
+352. {'NN': 1}
+öffentlich {'ADJD': 1}
+musikklubs {'NN': 1}
+motordrachen {'NN': 9}
+barßel {'NE': 1}
+drachen {'NN': 1}
+06.08.2019. {'ADJA': 1}
+wasserspender {'NN': 6}
+gefäß {'NN': 1}
+limonade {'NN': 2}
+ungesund {'ADJD': 1}
+wasserspendern {'NN': 1}
+fahrendes {'ADJA': 1}
+07.08.2019. {'ADJA': 1}
+norddeich {'NE': 3}
+ausgewildert {'VVPP': 1}
+überleben {'VVINF': 1}
+geehrt {'VVPP': 3}
+wwf {'NE': 5}
+marlow {'NE': 1}
+wilfried {'NE': 4}
+lenschow {'NE': 4}
+gewässern {'NN': 1}
+ehren {'VVFIN': 1}
+ostseelandwirt {'NN': 1}
+landwirt {'NN': 1}
+08.08.2019. {'ADJA': 1}
+egestorf {'NE': 1}
+runtergefahren {'VVINF': 1}
+maschinenpistole {'NN': 6}
+schlange {'NN': 19}
+tigerpython {'NN': 6}
+09.08.2019. {'NN': 1}
+bennigsen {'NE': 2}
+fintel {'NE': 2}
+12.08.2019. {'NE': 1}
+gegenverkehr {'NN': 3}
+innerstestausee {'NE': 1}
+13.08.2019. {'ADJA': 1}
+weyhe {'NE': 2}
+farven {'NN': 1, 'VVINF': 1}
+scheunen {'NN': 1}
+bauernhöfen {'NN': 1}
+lagern {'VVINF': 1, 'NN': 2}
+14.08.2019. {'ADJA': 1}
+westensee {'NE': 3}
+schlossgarten {'NN': 5, 'NE': 1}
+neustrelitz {'NE': 4}
+15.08.2019. {'NN': 1}
+wiederverwertung {'NN': 1}
+sportschule {'NN': 6}
+stoppelmarkt {'NN': 7}
+16.08.2019. {'NE': 1}
+grüne {'NE': 1, 'NN': 1}
+anjes {'NE': 2}
+tjarks {'NE': 2}
+parks {'NN': 1}
+prerow {'NE': 2}
+19.08.2019. {'NN': 1}
+streitenden {'ADJA': 2}
+strassen {'NN': 2}
+20.08.2019. {'NE': 1}
+kröpelin {'NE': 2}
+robbe {'NE': 1, 'NN': 8}
+tierheim {'NN': 12}
+21.08.2019. {'NN': 1}
+stromkabel {'NN': 2}
+überfällt {'VVFIN': 1}
+rucksack {'NN': 1}
+handtasche {'NN': 7}
+gewehrt {'VVPP': 1}
+22.08.2019. {'ADJA': 1}
+standort {'NN': 6}
+vergrößern {'VVINF': 1, 'VVFIN': 1}
+23.08.2019. {'ADJA': 1}
+untersuchungen {'NN': 1}
+richtige {'ADJA': 1}
+26.08.2019. {'NN': 1}
+äpfel {'NN': 4}
+apfelernte {'NN': 1}
+apfelbäume {'NN': 1}
+geblüht {'VVPP': 1}
+nächte {'NN': 1}
+blüten {'NN': 2}
+apfelbäumen {'NN': 2}
+27.08.2019. {'ADJA': 1}
+schwarzarbeit {'NN': 2}
+bürger {'NN': 1}
+elch {'NN': 7}
+elche {'NN': 4}
+28.08.2019. {'ADJA': 1}
+vize-präsidentin {'NN': 2}
+aminata {'NE': 6}
+touré {'NE': 6}
+vize-landtagspräsidentin {'NN': 1}
+landtagspräsidenten {'NN': 1}
+landtagspräsident {'NN': 1}
+jüngsten {'ADJA': 1}
+gleichberechtigt {'VVPP': 1}
+29.08.2019. {'NN': 1}
+gewittern {'NN': 1}
+kellern {'NN': 1}
+krakow {'NE': 1}
+pflegeheime {'NN': 2}
+geleitet {'VVPP': 1}
+pflegeheimen {'NN': 2}
+30.09.2019. {'NN': 2}
+zufahrten {'NN': 2}
+anschlussstellen {'NN': 3}
+schnelsen-nord {'NN': 4}
+waltershof {'NE': 2}
+timmendorf {'NE': 3}
+meisterschaften {'NN': 1}
+frauen-mannschaften {'NN': 1}
+männer-mannschaften {'NN': 1}
+02.09.2019. {'NN': 1}
+03.09.2019. {'NN': 1}
+dienstagmorgen {'NN': 4}
+marine-übung {'NN': 1}
+northern {'NE': 3}
+coasts {'NE': 2, 'NN': 1}
+nördliche {'ADJA': 1}
+seewege {'NN': 1}
+seeweg {'NN': 1}
+04.09.2019. {'NN': 1}
+e-scooter {'NN': 8}
+tretroller {'NN': 1}
+fahrradwegen {'NN': 1}
+pfosten {'NN': 2}
+stoppt {'VVFIN': 1}
+05.09.2019. {'ADJA': 1}
+wurmberg {'NE': 6}
+aussichtsturm {'NN': 1}
+elbchausee {'NE': 1}
+elbchaussee {'NN': 2}
+06.09.2019. {'ADJA': 1}
+rom {'NE': 2}
+agatha {'NE': 2}
+duda {'NE': 2}
+rader {'NE': 3}
+hochbrücke {'NN': 3}
+10.09.2019. {'NN': 1}
+11.09.2019. {'NN': 1}
+domagoj {'NE': 5}
+duvnjak {'NE': 5}
+kroatien {'NE': 1}
+filip {'NE': 4}
+jicha {'NE': 4}
+12.09.2019. {'ADJA': 1}
+lagen {'VVFIN': 1}
+lkw-teile {'NN': 1}
+13.09.2019. {'NN': 1}
+handballspiel {'NN': 4}
+16.09.2019. {'NN': 1}
+andré {'NE': 4}
+fabian {'NE': 2}
+wohlgemuth {'NE': 2}
+dehtlinger {'ADJA': 2}
+bedeckt {'ADJD': 1}
+versenkt {'VVPP': 1}
+17.09.2019. {'NN': 1}
+seelze {'NE': 2}
+18.09.2019. {'ADJA': 1}
+charly {'NE': 11}
+dörfel {'NE': 8}
+19.09.2019. {'NN': 1}
+güterzügen {'NN': 2}
+güterzüge {'NN': 3}
+geladen {'VVPP': 4}
+20.09.2019. {'NN': 1}
+leibesübungen {'NN': 1}
+europacup {'NE': 3}
+olexandrija {'NN': 2}
+23.09.2019. {'NN': 1}
+protest {'NN': 2}
+yara {'NE': 1}
+künstlichen {'ADJA': 3}
+künstliche {'ADJA': 1}
+demonstranten {'NN': 1}
+motorrad-unfall {'NE': 1}
+motorrad-führerschein {'NN': 1}
+24.09.2019. {'NE': 1}
+kies-laster {'NN': 2}
+kies {'NE': 2}
+brandstiftung {'NN': 1}
+25.09.2019. {'NN': 1}
+kaputtgehen {'VVINF': 1}
+malt {'VVFIN': 1}
+reflektiert {'VVFIN': 1}
+sonnenlicht {'NN': 2}
+26.09.2019. {'ADJA': 1}
+flasche {'NN': 2}
+lüftungsschacht {'NN': 4}
+strömt {'VVFIN': 2}
+herausgekommen {'VVPP': 1}
+berühmte {'ADJA': 3}
+axel {'NE': 2}
+milberg {'NE': 2}
+27.09.2019. {'ADJA': 1}
+sigmar {'NE': 17}
+gabriel {'NE': 17}
+gefühl {'NN': 1}
+kramermarkt {'NN': 6}
+amsinckstraße {'NE': 1, 'NN': 6}
+bären {'NN': 7}
+kappeln {'NE': 5}
+nordosten {'NN': 2}
+tierschutzzentrum {'NN': 3}
+n {'XY': 1}
+01.10.2019. {'ADJA': 1}
+bittet {'VVFIN': 1}
+schaut {'VVFIN': 1}
+hin {'PTKVZ': 1}
+verdächtiges {'NN': 1}
+telefonanruf {'NN': 1}
+gequält {'VVPP': 1}
+hundekäfig {'NN': 1}
+hamweddel {'NE': 1, 'NN': 1}
+bewohnern {'NN': 1}
+04.10.2019. {'ADJA': 1}
+26:20 {'NN': 1}
+kohlekraftwerk {'NN': 6}
+verbrennt {'VVFIN': 1}
+07.10.2019. {'ADJA': 1}
+eider {'NN': 2}
+eidersperrwerk {'NN': 3}
+fahrgeschäft {'NN': 3}
+angefasst {'VVPP': 1}
+stromschlag {'NN': 1}
+druckerei {'NN': 6}
+druckt {'VVFIN': 1}
+schrift {'NN': 1}
+farben {'NN': 1}
+09.10.2019. {'CARD': 1}
+gallimarkt {'NN': 5}
+esel {'NN': 1}
+karussells {'NN': 1}
+10.10.2019. {'ADJA': 1}
+erwin {'NE': 7}
+sellering {'NE': 7}
+abgeordneter {'NN': 3}
+b498 {'NE': 5}
+498. {'NE': 1}
+steinen {'NN': 2}
+11.10.2019. {'NN': 1}
+bombenentschärfung {'NN': 1}
+14.10.2019. {'NE': 1}
+gefesselte {'ADJA': 1}
+betäubt {'VVPP': 1}
+15.10.2019. {'NN': 1}
+dorsch {'NE': 1}
+markierungen {'NN': 1}
+malen {'VVFIN': 1}
+pfeile {'NN': 3}
+nörten-hardenberg {'NE': 4}
+donnerstagmorgen {'NN': 1}
+16.10.2019. {'NN': 1}
+sandkrug {'NE': 2}
+fässer {'NN': 2}
+fässern {'NN': 2}
+a29. {'NN': 2}
+solarpark {'NN': 7}
+genzlin {'NE': 2}
+plau {'NE': 1}
+17.10.2019. {'NN': 1}
+76. {'PTKVZ': 1}
+beteiligt {'VVPP': 1}
+18.10.2019. {'NN': 1}
+a14. {'NN': 3}
+21.10.2019. {'ADJA': 1}
+schlachthof {'NN': 10}
+kellinghusen {'NE': 4}
+geschlachtet {'VVPP': 1}
+angekettet {'VVPP': 1}
+betreten {'NN': 1, 'VVINF': 1}
+herunter {'PTKVZ': 1}
+ortsumgehung {'NN': 1}
+herumfahren {'VVINF': 1}
+22.10.2019. {'NN': 1}
+ganderkesee {'NE': 2}
+simon {'NE': 4}
+hald {'NE': 4}
+knieverletzung {'NN': 1}
+westerholt {'NE': 2}
+23.10.2019. {'NN': 1}
+boat {'NE': 6}
+show {'NE': 6}
+boot-ausstellung {'NN': 1}
+motorboote {'NN': 1}
+verbrannt {'VVPP': 1}
+24.10.2019. {'NN': 1}
+wedemark {'NE': 1}
+freien {'ADJA': 1}
+ddie {'NE': 1}
+technische {'ADJA': 1}
+absperren {'VVINF': 1}
+beschädigte {'ADJA': 1}
+25.10.2019. {'ADJA': 1}
+hamburg-nordwest {'NN': 1}
+zempin {'NE': 3}
+dünen {'NN': 5, 'NE': 1}
+verstärken {'VVINF': 2}
+hochwasser {'NN': 1}
+28.10.2019. {'ADJA': 1}
+sprung {'NN': 3}
+sülldorf {'NE': 2}
+29.10.2019. {'NN': 1}
+liebenburg {'NE': 2}
+armbrust {'NN': 4}
+preisen {'NN': 1}
+spielfilmpreis {'NE': 1}
+30.10.2019. {'ADJA': 1}
+balkone {'NN': 1}
+balkonen {'NN': 1}
+indigo {'NE': 2, 'ADV': 2}
+aufträgen {'NN': 1}
+01.11.2019. {'ADJA': 1}
+hainholz {'NN': 1}
+windsurfen {'VVFIN': 1, 'VVINF': 1, 'NN': 2}
+köster {'NE': 5}
+philip {'NE': 4}
+windsurfer {'NN': 3}
+brett {'NN': 2}
+segel {'NN': 2}
+sprünge {'NN': 1}
+hawaii {'NE': 3}
+04.11.2019. {'ADJA': 1}
+westerland {'NE': 1}
+autozüge {'NN': 2}
+freitags {'ADV': 1}
+montags {'ADV': 1}
+05.11.2019. {'ADJA': 1}
+tafel {'NN': 8}
+armen {'ADJA': 3}
+lübstorf {'NE': 2}
+b106. {'NN': 1}
+b106 {'NE': 1}
+stoppschild {'NN': 4}
+06.11.2019. {'ADJA': 1}
+tauft {'VVFIN': 1}
+sophia {'NE': 4}
+loren {'NE': 4}
+taufen {'VVINF': 1}
+sperrmüll {'NN': 6}
+ersetzen {'VVINF': 1}
+borkenkäfer {'NN': 3}
+insekten {'NN': 1}
+07.11.2019. {'ADJA': 1}
+jever {'NE': 1}
+gehandelt {'VVPP': 2}
+gesteht {'VVFIN': 1}
+morsum-kliff {'NN': 1, 'NE': 1}
+gegenstand {'NN': 2}
+11.11.2019. {'NN': 1}
+beworfen {'VVPP': 1}
+12.11.2019. {'NN': 1}
+löschboote {'NN': 7}
+löschbooten {'NN': 1}
+motoren {'NN': 2}
+dieselmotor {'NN': 1}
+elektromotor {'NN': 1}
+elekromotoren {'NN': 1}
+frühjahr {'NN': 3}
+13.11.2019. {'ADJA': 1}
+altenwerder {'ADV': 1}
+wassergraben {'NN': 1}
+14.11.2019. {'ADJA': 1}
+glückstadt {'NE': 1}
+gestoben {'VVPP': 1}
+hagenow {'NE': 1}
+einbruch {'NN': 1}
+stinkende {'ADJA': 2}
+15.11.2019. {'NN': 1}
+hasbergen {'NE': 2}
+bränden {'NN': 1}
+18.11.2019. {'NN': 1}
+hergestellt {'VVPP': 1}
+bewährungsstrafe {'NN': 2}
+fußball-liga {'NN': 1}
+marco {'NE': 1}
+antwerpen {'NE': 1}
+flüthmann {'NE': 3}
+lehrerpreis {'NN': 3}
+rostrup {'NE': 2}
+zwischenahn {'NE': 2}
+hamburg-st {'NE': 1}
+19.11.2019. {'ADJA': 1}
+eifersüchtig {'ADJD': 1}
+jäger {'NN': 3}
+a215 {'NE': 6}
+vertreiben {'VVINF': 1}
+zurückgekommen {'VVPP': 1}
+a215. {'NE': 1}
+20.11.2019. {'NN': 1}
+continental {'NE': 14}
+marokko {'NE': 2}
+21.11.2019. {'NN': 1}
+rissen {'NN': 1}
+einfamilienhaus {'NN': 1}
+komplett {'ADJD': 1}
+kindlmann {'NE': 5}
+tennisspielerinnen {'NN': 1}
+nächstes {'ADJA': 1}
+brisbane {'NE': 2}
+22.11.2019. {'NN': 1}
+großenkneten {'NE': 2}
+aufgefahren {'VVPP': 1}
+kennenlernen {'VVFIN': 1}
+autoverkehr {'NN': 1}
+25.11.2019. {'NN': 1}
+angeschrien {'VVPP': 1}
+26.11.2019. {'ADJA': 1}
+fußballstadion {'NN': 2}
+norderstedt {'NE': 3}
+hans {'NE': 1}
+27.11.2019. {'NN': 1}
+ellerhoop {'NN': 2}
+wasserleitungen {'NN': 1}
+28.11.2019. {'ADJA': 1}
+vegesack {'NE': 1}
+29.11.2019. {'NN': 1}
+eisbrecher {'NN': 4}
+pella {'NE': 1}
+sietas {'NE': 1}
+neuenfelde {'NE': 1}
+beringmeer {'NE': 3}
+dünn {'ADJD': 1}
+gekümmert {'VVPP': 1}
+öjendorf {'NE': 1}
+sperrrung {'NN': 1}
+03.12.2019. {'ADJA': 1}
+brake {'NE': 3}
+christuskirche {'NN': 1}
+holzbalken {'NN': 4}
+ladung {'NN': 1}
+klärschlamm {'NN': 3}
+kläranlagen {'NN': 2}
+dreckiges {'ADJA': 1}
+abfall {'NN': 2}
+übrig {'PTKVZ': 1}
+fahrbahnen {'NN': 2}
+saubermachen {'VVINF': 1}
+04.12.2019. {'ADJA': 1}
+05.12.2019. {'NN': 1}
+eggenschwiler {'NE': 3}
+günstigen {'ADJA': 1}
+verlangen {'VVINF': 1}
+werbeplakate {'NN': 1}
+rhein-neckar {'NE': 2}
+video {'NN': 3}
+ddieses {'NE': 1}
+06.12.2019. {'ADJA': 1}
+grönefeld {'NE': 9}
+anna-lena {'NE': 8}
+nordhorn {'NE': 2}
+gründen {'VVINF': 1}
+mixed {'NN': 2}
+09.12.2019. {'ADJA': 1}
+oldenfelde {'NE': 2}
+farmsen {'NE': 2}
+berne {'NE': 1}
+tbv {'NE': 1}
+lemgo {'NE': 1}
+lippe {'NE': 1}
+mt {'NE': 1}
+melsungen {'NN': 1}
+10.12.2019. {'NN': 1}
+wahlstedt {'NE': 2}
+friedrichstadt {'NE': 2}
+carpin {'NE': 3}
+weißrussland {'NE': 1}
+11.12.2019. {'ADJA': 1}
+vergrößert {'VVPP': 2}
+gründer {'NN': 2}
+verdienstorden {'NN': 1}
+landes {'NN': 1}
+jensen {'NE': 2}
+hübner {'NE': 5}
+12.12.2019. {'ADJA': 1}
+wicked {'NE': 3}
+böse {'ADJD': 1}
+beliebt {'ADJD': 1}
+flora {'NN': 3}
+13.12.2019. {'ADJA': 1}
+halbe {'ADJA': 3}
+malchin {'NE': 1}
+16.12.2019. {'NN': 1}
+weidetiere {'NN': 6}
+rinder {'NN': 1}
+weiden {'NN': 1}
+heiraten {'VVINF': 1}
+terrorist {'NN': 1}
+17.12.2019. {'NN': 1}
+festspiele {'NN': 10}
+klassische {'ADJA': 1}
+haselböck {'NE': 5}
+wien {'NE': 2}
+festspielen {'NN': 4}
+fein {'NE': 2}
+18.12.2019. {'NE': 1}
+unglück {'NN': 3}
+betrieb {'NN': 3}
+futteranlage {'NN': 4}
+automatisch {'ADJD': 1}
+19.12.2019. {'NN': 1}
+verliehen {'VVPP': 1}
+kirsten {'NE': 9}
+boie {'NE': 9}
+autorin {'NN': 1}
+autoren {'NN': 1}
+bücher {'NN': 3}
+ehrenbürgerin {'NN': 1}
+ehrenbürger {'NN': 1}
+gelobt {'VVPP': 1}
+schreibt {'VVFIN': 1}
+mut {'NN': 1}
+selbstvertrauen {'NN': 1}
+setzt {'VVFIN': 1}
+20.12.2019. {'NE': 1}
+ohlsdorfer {'ADJA': 4}
+viertgrößte {'ADJA': 1}
+grab {'NN': 1}
+02.01.2020. {'ADJA': 1}
+busfahrten {'NN': 4}
+gespräche {'NN': 1}
+gesprächen {'NN': 1}
+zeiten {'NN': 2}
+03.01.2020. {'ADJA': 1}
+nonnendorf {'NE': 2}
+wirft {'VVFIN': 1}
+duingen {'NE': 2}
+weggeworfen {'VVPP': 2}
+geschaut {'VVPP': 1}
+verschlossen {'VVPP': 1}
+06.01.2020. {'ADJA': 1}
+farmsen-berne {'NE': 1}
+silvesternacht {'NN': 1}
+feuerwerken {'NN': 1}
+baumwall {'NN': 2}
+auge {'NN': 3}
+07.01.2020. {'NN': 1}
+seawolves {'NE': 3, 'NN': 1}
+basketballverein {'NN': 1}
+bauermann {'NE': 7}
+basketball-trainer {'NN': 2}
+erfolgreicher {'ADJA': 1}
+neunmal {'ADV': 1}
+hakanowitz {'NE': 2}
+fischereihafen {'NE': 1}
+08.01.2020. {'ADJA': 1}
+premiere {'NN': 4}
+mach {'VVFIN': 1}
+ding {'NN': 1}
+sichern {'VVFIN': 1}
+radweg {'NN': 2}
+09.01.2020. {'ADJA': 1}
+schulbus {'NN': 7}
+bassum {'NE': 1}
+51. {'XY': 1}
+kehrmaschine {'NN': 4}
+dierkow {'NE': 1}
+verdacht {'NN': 1}
+10.01.2020. {'ADJA': 1}
+beleidigt {'VVPP': 1}
+13.01.2020. {'ADJA': 1}
+dientagabend {'ADJD': 1}
+zusammenfassung {'NN': 1}
+ratiopharm {'NN': 2}
+ulm {'NE': 3}
+84:76 {'NN': 1}
+bbl-pokal {'NN': 1}
+bbl {'NE': 1}
+basketball-bundesliga {'NN': 1}
+alba {'NE': 2}
+14.01.2020. {'ADJA': 1}
+15.01.2020. {'NE': 1}
+schulbussen {'NN': 1}
+bahnsteigen {'NN': 1}
+herausgehen {'VVINF': 1}
+gedränge {'NN': 1}
+16.01.2020. {'NN': 1}
+straßenbahnfahrern {'NN': 3}
+fuhren {'VVFIN': 1}
+schulbusse {'NN': 1}
+varel {'NE': 6}
+thyssenkrupp {'NE': 2}
+aerospace {'NE': 2}
+17.01.2020. {'ADJA': 1}
+nordstadt {'NN': 1}
+20.01.2020. {'ADJA': 1}
+leiferde {'NE': 2}
+21.01.2020. {'ADJA': 1}
+löningen {'NE': 2}
+22.01.2020. {'NN': 1}
+getreidesilo {'NN': 9}
+rosdorf {'NE': 2}
+arbeitskollegen {'NN': 4}
+s-bahn-tunnel {'NN': 1}
+abgestellt {'VVPP': 1}
+abdeckung {'NN': 2}
+süderstraße {'NE': 1}
+hamm {'NE': 1}
+tierärzten {'NN': 1}
+tierärzte {'NN': 2}
+23.01.2020. {'ADJA': 1}
+sporthallen {'NN': 4}
+komisch {'ADJD': 1}
+24.01.2020. {'ADJA': 1}
+sport‑verein {'NN': 1}
+joel {'NE': 6}
+pohjanpalo {'NE': 6}
+drispenstedt {'NE': 1}
+27.01.2020. {'ADJA': 1}
+ratten {'NN': 12}
+durchgebissen {'VVPP': 1}
+auslegen {'VVINF': 1}
+vogelfutter {'NN': 2}
+tennistunier {'NN': 2}
+anastasia {'NE': 2}
+pawljutschenkowa {'NE': 2}
+andrej {'NE': 2}
+rubljow {'NE': 2}
+28.01.2020. {'ADJA': 1}
+wilster {'NE': 2}
+aschenbecher {'NN': 2}
+29.01.2020. {'NN': 1}
+südöstlich {'ADJD': 1}
+umgeknickt {'VVPP': 2}
+30.01.2020. {'ADJA': 1}
+hamburg-wandsbek {'NE': 1}
+u {'XY': 1}
+u-bahn-gleis {'NN': 1}
+u-bahn-fahrer {'NN': 1}
+u-bahn-strecke {'NN': 2}
+koll {'NE': 3}
+ralswiek {'NE': 3}
+störtebeker {'NE': 1}
+seeräuber {'NN': 3}
+segel-schiffen {'NN': 1}
+segel-schiffe {'NN': 1}
+hauptrolle {'NN': 2}
+31.01.2020. {'ADJA': 2}
+dominic {'NE': 2}
+thiem {'NE': 2}
+volleyballverein {'NN': 1}
+louisa {'NE': 5}
+lippmann {'NE': 5}
+herford {'NE': 2}
+schanghai {'NE': 2}
+zweimal {'ADV': 1}
+wellingholzhausen {'NE': 2}
+einstellen {'VVINF': 1}
+flensburger {'ADJA': 6}
+schiffbau-gesellschaft {'NN': 3, 'NE': 3}
+aufträge {'NN': 1}
+04.02.2020. {'ADJA': 1}
+wilsum {'NE': 4}
+05.02.2020. {'ADJA': 1}
+neuländer {'ADJA': 1}
+freizeit {'NN': 2}
+messehallen {'NN': 1}
+oohh {'NE': 2}
+out {'FM': 3}
+of {'FM': 3}
+home {'NE': 3}
+außer {'APPR': 1}
+vortrag {'NN': 1}
+06.02.2020. {'ADJA': 1}
+brüder {'NN': 5}
+brüdern {'NN': 1}
+messern {'NN': 1}
+07.02.2020. {'ADJA': 1}
+waldeck {'NE': 2}
+gefangener {'NN': 1}
+michaelis {'NE': 1}
+besucherzentrum {'NN': 4}
+führungen {'NN': 1}
+turmhalle {'NN': 2}
+10.02.2020. {'ADJA': 1}
+bürohaus {'NN': 2}
+kopierer {'NN': 4}
+kopien {'NN': 1}
+briefen {'NN': 1}
+11.02.2020. {'ADJA': 1}
+einbetoniert {'VVPP': 1}
+gegossen {'VVPP': 1}
+.wangerooge {'NE': 1}
+.und {'$(': 1}
+12.02.2020. {'ADJA': 1}
+übungen {'NN': 2}
+atlantik {'NE': 3}
+ozean {'NN': 2}
+tanklager {'NN': 7}
+tanks {'NN': 2}
+luchse {'NN': 6}
+harzburg {'NE': 1}
+katzen {'NN': 1}
+nationalpark {'NN': 4}
+luchsen {'NN': 1}
+ausbrechen {'VVINF': 1}
+luchs {'NN': 2}
+13.02.2020. {'NN': 1}
+14.02.2020. {'ADJA': 1}
+17.02.2020. {'ADJA': 1}
+fuhlsbüttel {'NE': 1}
+vordere {'ADJA': 1}
+scherben {'NN': 1}
+fernseh-duell {'NN': 7}
+prtei {'NN': 1}
+duell {'NN': 1}
+zweikampf {'NN': 1}
+überzeugen {'VVINF': 2}
+cansu {'NE': 2}
+özdemir {'NE': 2}
+treuenfels {'NE': 2}
+nockemann {'NE': 2}
+18.02.2020. {'ADJA': 1}
+stromkasten {'NN': 5}
+verfolgung {'NN': 1}
+19.02.2020. {'ADJA': 1}
+gibst {'VVFIN': 1}
+schneiden {'VVFIN': 1}
+deine {'PPOSAT': 1}
+ohren {'NN': 1}
+hann {'NE': 2}
+münden {'NE': 2}
+gefahrstoff {'NN': 1}
+gefahrstoffe {'NN': 1}
+geldprobleme {'NN': 2}
+wichert {'NE': 5}
+autohändlern {'NN': 1}
+insolvenzverwalter {'NN': 1}
+insolvenz·verwalter {'NN': 1}
+geldproblemen {'NN': 1}
+weiterarbeiten {'VVINF': 1}
+20.02.2020. {'ADJA': 1}
+tierskelette {'NN': 1}
+skelette {'NN': 7}
+skelett {'NN': 1}
+knochengerüst {'NN': 1}
+dinosauriern {'NN': 3}
+dinosaurier {'NN': 2}
+dinosaurier-skelette {'NN': 1}
+mecklenburger {'ADJA': 1}
+21.02.2020. {'NN': 1}
+hanau {'NE': 3}
+getöteten {'ADJA': 1}
+endergebnis {'NN': 1}
+bürgermeistervon {'NE': 1}
+regiert {'VVFIN': 1}
+24.02.2020. {'ADJA': 1}
+sögel {'NE': 2}
+gastank {'NN': 3}
+klären {'VVINF': 1}
+cannabis {'NN': 2}
+pflanze {'NN': 1}
+25.02.2020. {'ADJA': 1}
+großefehn {'NE': 2}
+26.02.2020. {'ADJA': 1}
+luruper {'ADJA': 1}
+hauptstraße {'NE': 1}
+lurup {'NE': 1}
+27.02.2020. {'NN': 1}
+schleuserbande {'NN': 1}
+reisepass {'NN': 1}
+28.02.2020. {'ADJA': 1}
+02.03.2020. {'ADJA': 1}
+strandkörbe {'NN': 2}
+technischen {'ADJA': 2}
+defekt {'NN': 3}
+technischer {'ADJA': 1}
+störung {'NN': 1}
+funken {'NN': 1}
+elektrischen {'ADJA': 1}
+ulrike {'NE': 5}
+ultraleichtflugzeug {'NN': 3}
+mitfliegen {'VVINF': 1}
+hoym {'NE': 3}
+03.03.2020. {'ADJA': 1}
+freigesprochen {'VVPP': 2}
+gewendet {'VVPP': 1}
+vietnam {'NE': 2}
+zetel {'NE': 3}
+04.03.2020. {'ADJA': 1}
+05.03.2020. {'ADJA': 1}
+hundestrand {'NN': 10}
+toben {'VVFIN': 1}
+verlust {'NN': 4}
+elmar {'NE': 3}
+degenhart {'NE': 3}
+06.03.2020. {'NN': 1}
+glasscherben {'NN': 2}
+wachmann {'NN': 1}
+09.03.2020. {'ADJA': 1}
+10.03.2020. {'ADV': 1}
+stockwerken {'NN': 1}
+polzisten {'NN': 1}
+hatten.keinen {'ADJA': 1}
+11.03.2020. {'ADJA': 1}
+schmalfeld {'NE': 2}
+12.03.2020. {'ADJA': 1}
+frühlingsdom {'NN': 2}
+machen.keinen {'$(': 1}
+hallenbad {'NN': 8}
+budapester {'ADJA': 3}
+13.03.2020. {'NN': 1}
+apensen {'NE': 2}
+16.03.2020. {'ADJA': 1}
+hamburg-eidelstedt {'NE': 1}
+spornitz {'NE': 2}
+vorfahrt {'NN': 1}
+nähert {'VVFIN': 1}
+keinmensch {'ADJD': 1}
+süssau {'NE': 2, 'NN': 1}
+ostholstein {'NE': 1}
+17.03.2020. {'NN': 1}
+finkenbrück {'NN': 2}
+b109. {'NE': 1}
+b109 {'NE': 3}
+straßenseite {'NN': 2}
+18.03.2020. {'ADJA': 1}
+polle {'NE': 2}
+19.03.2020. {'ADJA': 1}
+schulbehörde {'NN': 1}
+notbetreuung {'NN': 1}
+hinbringen {'VVINF': 1}
+a11. {'NN': 1}
+a11 {'NN': 1}
+20.03.2020. {'ADJA': 1}
+sammeltaxis {'NN': 7}
+moia {'NE': 5}
+braun {'ADJD': 1}
+gehalt {'NN': 1}
+vermeiden {'VVINF': 1}
+rellingen {'NE': 1}
+corona-party {'NE': 1}
+corona-partys {'NN': 1}
+23.03.2020. {'ADJA': 1}
+desinfektionsmittel {'NN': 3}
+trotz {'APPR': 2}
+corona {'NE': 2}
+30.03.2020. {'ADJA': 1}
+holt {'VVFIN': 1}
+31.03.2020. {'NN': 1}
+besuche {'NN': 2}
+heimen {'NN': 3}
+heime {'NN': 1}
+behinderungen {'NN': 1}
+heim {'NN': 1}
+keien {'ADJA': 1}
+04.04.2020. {'ADJA': 1}
+06.04.2020. {'ADJA': 1}
+regierungschef {'NN': 1}
+johnson {'NE': 7}
+07.04.2020. {'ADJA': 1}
+neuseeland {'NE': 6}
+clark {'NE': 7}
+spazieren {'VVINF': 1}
+jacinda {'NE': 2}
+ardern {'NE': 1, 'NN': 1}
+dumm {'ADJD': 1}
+08.04.2020. {'ADJA': 1}
+tui {'NE': 7}
+leihen {'VVFIN': 1}
+gutscheine {'NN': 2}
+gutscheinen {'NN': 1}
+15.04.2020. {'ADJA': 1}
+schwerkranken {'ADJA': 1}
+station {'NN': 3}
+ine {'XY': 1}
+
+Wörter, die nur einmal vorkommen:
+volksdorf
+wiesmoor
+lathen
+weggepumpt
+kino
+hollywood
+fremdsprachigen
+bedanke
+reicht
+urteile
+nordsee-hotel
+wasserschläuche
+wasserschläuchen
+prostituierten
+beraubt
+geraubt
+schweres
+zugverkehr
+einfrieren
+absteigen
+einatmen
+2-euro-münze
+schweizer
+puan
+klent
+hausmeister
+koch
+tanz
+getanzt
+1980.
+veröffentlicht
+christlich-soziale
+mitgliedern
+medaillen
+sommerspiele
+winterspiele
+bekannteste
+sportlern
+skiern
+gewehren
+25.
+parlamenten
+parlamente
+oiaf
+ausgeruht
+verstellen
+wollt
+doch
+singe
+vorletzten
+fahrverbote
+geliehen
+leute
+messerstecher
+zusammengeschoben
+gebildet
+gefriert
+fischbeck
+handballer
+jünger
+überlebt
+politische
+ostfriesische
+norderney
+baltrum
+hamburg-rotherbaum
+badezimmer
+teppiche
+the
+alstersee
+benannt
+handelt
+baufirma
+form
+extra
+wasserschaden
+hotelbesitzer
+überwacht
+fliehen
+a33.
+flixtrain
+fahrkarten
+gelsenkirchen
+duisburg
+verschmutzt
+aufgeklärt
+zubeißen
+kampfhunden
+telefon
+greift
+fasst
+aufstand
+melden
+kastorfer
+freundinnen
+geschüttelt
+schütteln
+weitermachen
+u5.
+u5
+valluhn
+perlen
+eingeschleust
+heimlich
+bordelle
+bordell
+arm
+nutzt
+längere
+vermiete
+vermietet
+weggelegt
+zugegangen
+vermisster
+helft
+löcher
+viertel
+ausruhen
+beleuchtet
+cappeln
+hagelage
+west
+erholen
+taufe
+passagierschiff
+erzählen
+spannend
+hexe
+hahnenklee
+friedliche
+gedenktag
+gerechte
+krawallen
+fensterscheiben
+friedlich
+vergangen
+ähnliches
+einzelbewerber
+gemeindevertretung
+kreisvertretung
+großstädte
+829.
+hagelkörner
+unterspült
+weggesackt
+hamburg-lohbrügge
+vierter
+brachschweig
+schlimmste
+geistiger
+naturschutzgebieten
+relegationsspielen
+bier
+kannte
+mutig
+anzeigetafeln
+sicherheitsschleusen
+sicherheitsschleuse
+ausfallen
+normal
+entschuldigen
+stromausfälle
+nachbarort
+startet
+töchtern
+frese
+anders
+schwertransportern
+flügeln
+geplanten
+uhrzeit
+ausnahmen
+bendzko
+sasha
+fußball-weltmeisterschaft
+christliche
+gott
+reformieren
+märkte
+zusammenschluss
+hansetage
+wänden
+umleiten
+fahrerflucht
+saßen
+entkommen
+neugierige
+rettungsdiensten
+unfallstellen
+versperren
+rückwärts
+vorwärts
+zerquetscht
+explodierten
+787.
+urlaubern
+reste
+ausgegraben
+nachgebaut
+aufgeschüttete
+danewerk
+dier
+ex-schwager
+höhere
+clowns
+artisten
+zauberer
+unterhalten
+kunststücke
+sturz
+krone
+schreibweise
+herum
+stolpern
+schlechteste
+genervt
+bunt
+geschmückt
+unechte
+sonnenbrillen
+zurücklegen
+rad
+nationalsozialistischer
+erpressen
+gib
+erpresst
+schlafenden
+zielt
+tätern
+traum
+erfüllt
+punkten
+glückwünsche
+erwarten
+weinrebe
+weinbauer
+winzer
+sonnenschein
+anbaugebiete
+anbaugebiet
+sonntagen
+sonntage
+segelveranstaltungen
+löschflugzeugen
+löschflugzeuge
+zerstören
+dufte
+haren
+brechen
+kühlt
+heinzmann
+namika
+marquess
+basteln
+seeburger
+thülsfelder
+talsperre
+schlucken
+erbrechen
+badestellen
+schwertransport
+warnlichter
+auffällige
+schilder
+begriff
+radfahren
+turnen
+polizeiakademie
+akademie
+9.
+brennender
+abgeschaltet
+männermannschaften
+frauenmannschaften
+sonntagabend
+weite
+bundes∙kanzlerin
+jachten
+finder
+plattdeutsch
+ackerläufer
+hinterlassen
+bedanken
+lüftung
+verkehrsschilder
+beschimpft
+eisenkette
+31.08.2018.
+weiteren
+abbauen
+ferienwohnung
+günstiger
+03.09.2018.
+millionenraub
+388.000
+schauspielern
+04.09.2018.
+käfig
+peking
+06.09.2018.
+treten
+brauche
+07.09.2018.
+darfst
+kümmere
+sottrum
+auszubildenden
+10.09.2018.
+kräuter
+11.09.2018.
+bezirksleiterin
+bezirksamtsleiterin
+12.09.2018.
+sumpfig
+heran
+haushalte
+friesland
+lebensmitteln
+pommes
+frites
+kartoffelchips
+13.09.2018.
+bleckede
+ausstellern
+14.09.2018.
+lürrsen-werft
+17.09.2018.
+handyverbot
+reagieren
+18.09.2018.
+19.09.2018.
+pop
+rock
+hip-hop
+getrieben
+jemand
+83.500
+reicher
+20.09.2018.
+riecht
+gezerrt
+21.09.2018.
+südpol
+polarium
+24.09.2018.
+anhören
+25.09.2018.
+windräder
+26.09.2018.
+kehrwieder
+hafen-dampfschifffahrtsgesellschaft
+beten
+hamburg-horn
+evangelischen
+27.09.2018.
+friedhöfen
+kutschen
+kutschfahrten
+kutschfahrt
+28.09.2018.
+sportgerät
+schweben
+fallschirmsprung
+runterholen
+leinwände
+01.10.2018.
+0:0.
+friedliches
+1880.
+02.10.2018.
+fußballspielerin
+abwehr
+aufwachsen
+filmemacher
+04.10.2018.
+boostedt
+leichte
+05.10.2018.
+pünktlicher
+geredet
+hörnbad
+schwimmbädern
+gelockt
+einsam
+misshandlungen
+10.10.2018.
+11.10.2018.
+12.10.2018.
+möhre
+müsli
+rhede
+15.10.2018.
+imbiss
+gefährliches
+welchen
+16.10.2018.
+hubschraubern
+vorbeigefahren
+langsames
+schleudern
+17.10.2018.
+zellen
+matratze
+pech
+meinungen
+behandeln
+18.10.2018.
+28:31
+lkw-unfall
+kaputter
+seitenstreifen
+dritter
+19.10.2018.
+geklaute
+weggetragen
+zurückbringen
+laatzen
+langenfelder
+22.10.2018.
+sexuellem
+stattfinden
+normale
+23.10.2018.
+einbrecher-bande
+niederlanden
+reihenhäusern
+24.10.2018.
+grevesmühlen
+randalen
+darauf
+paaren
+weibliches
+weiblichen
+tierbabys
+weiblicher
+wildunfall
+wildtier
+wildtieren
+25.10.2018.
+gebuddelt
+granate
+ausgebuddelt
+wohne
+fahre
+26.10.2018.
+kreuzfahrten
+schädlingen
+schädlinge
+nein
+wachen
+mobilen
+29.10.2018.
+führung
+passagierflugzeug
+persischen
+persische
+täglich
+30.10.2018.
+60.
+estland
+lettland
+island
+eng
+lebenslangen
+gefängnisstrafe
+hoffe
+obachlose
+erster
+zweiter
+26:25
+wiegt
+05.11.2018.
+dobbertin
+musikinstrument
+altengamme
+07.11.2018.
+eisenbahnwagen
+breitere
+08.11.2018.
+insgesamt
+09.11.2018.
+handeln
+rockerbande
+12.11.2018.
+dicken
+entladen
+13.11.2018.
+kamelen
+wüste
+vereinbart
+14.11.2018.
+wegziehen
+modernisiert
+ausziehen
+15.11.2018.
+seil
+geflügelhöfen
+betrieben
+hühnern
+vergiftet
+generalsekretärin
+bestimmen
+16.11.2018.
+kulturzentrum
+rausgezogen
+19.11.2018.
+schlaf
+gekannt
+tennisspielern
+20.11.2018.
+feldmuehle
+transportern
+menschengruppe
+21.11.2018.
+straßenausbaubeitrag
+abschaffen
+faire
+guppe
+hausbesitzern
+erhöhen
+22.11.2018.
+bestellen
+stecke
+23.11.2018.
+schere
+26.11.2018.
+weihnachtslieder
+vergraben
+27.11.2018.
+wade
+höhlen
+höhle
+scheue
+gegriffen
+umgedreht
+tierhaare
+ergebnisse
+feuerwehrauto
+zusammengelebt
+neugierig
+eisenbahn-
+verkehrsgewerkschaft
+radiosendungen
+spendenabend
+auszeichnungen
+eishockey-nationalmannschaft
+kabeljau
+wahr
+wahrheit
+k+s.
+abbau
+arbeitslos
+bergwerken
+umgefallene
+beschädigter
+abgesägt
+beschädigen
+plastikflaschen
+wünsche
+lampen
+kaffeemaschinen
+radios
+straßenlaternen
+bonn
+rauf
+runter
+lokomotiven
+dampflokomotiven
+dampflokomotive
+wasserdampf
+gesteckt
+freigemacht
+radarfalle
+b6.
+zusammenstoß
+jacke
+gelb
+orange
+ärmel
+vorsichtiger
+glatte
+schneien
+ärgere
+dastennisturnier
+verhindert
+elektrobus
+forschung
+abpumpen
+gepumpt
+muslimen
+religion
+radikal
+akzeptieren
+oberkörper
+56789.
+angemeldet
+zurückzahlen
+saugt
+voneinander
+schwimmende
+englisches
+enten
+bauch
+braunen
+wiederverwendung
+emiraten
+bestellt
+rächen
+aufgeteilt
+anträge
+baugenehmigung
+verhandeln
+versorgungsschiffe
+besatzung
+lebens-rettungs-gesellschaft
+karnevalsumzügen
+verbotener
+demselben
+bespiel
+umweltfreundlich
+verbrauchermesse
+kunden
+möbelhäusern
+autohäusern
+handwerkern
+geschwänzt
+papierstückchen
+mitfeiern
+weggeweht
+maxima
+liter
+ausgelaufen
+weggemacht
+maximilan
+nationalspieler
+nationalspielern
+gejagt
+zählen
+vermehrt
+geachtet
+gewechselt
+jederzeit
+raus
+hirschen
+aufgefressen
+angriffe
+überholt
+schreck
+trösten
+schnelles
+worten
+gedroht
+töte
+informiert
+eingängen
+drohung
+kontinent
+mexiko
+fußball-club
+kauczinki
+hertha
+bsc
+vonschwerin
+mitgefahren
+alltag
+benachteiligt
+unterkühlt
+temperatur
+affenart
+orang-utan-frau
+denn
+klettern
+zähne
+griesbrei
+obstbrei
+aussterben
+moorbrände
+wohnhäusern
+herangekommen
+klinikärzte
+hamburg-eppendorf
+fehmarn
+schmilzt
+eisberge
+überspülen
+flach
+teuren
+davor
+beamte
+dagegen
+unternommen
+bargteheide
+yvonne
+r.
+schiffsunfall
+umdrehen
+schmale
+weitergerollt
+aufgeregt
+gaspedal
+90,3.
+steigt.nicht
+bremischen
+bremische
+máxima
+wasserrohre
+eingeschlagen
+einschlag
+reetdachhaus
+völlig
+verreist
+verträgen
+2013.
+unterstützen
+informatiker
+programmierer
+digitalisiert
+übernehmen
+morde
+vorgeworfen
+spielerinnen
+stürmerin
+mitspielerinnen
+ehre
+sieger
+ice-zügen
+rausgepumpt
+getragen
+verstecken
+andy
+seehofer
+fördern
+einbauen
+rostocker
+lebe
+gefordert
+befreit
+sozialer
+tierparks
+1956.
+probieren
+marineschiffen
+sonnig
+belastung
+schwitzen
+kopfschmerzen
+vertragen
+fruchtsäfte
+.keinen
+anstrengenden
+.nicht
+schatten
+greife
+herausgeschleudert
+schwebt
+speichert
+holstenstraße
+suchsdorf
+begleiter
+absturzstelle
+fluglehrer
+beibringen
+sätze
+liefert
+großbritannien
+dokumente
+angler
+versammlungen
+eichholz
+drittschnellste
+peenemünde
+lea
+boy
+köhler
+sören
+meißner
+schnellsten
+zerstörten
+schweinen
+ställe
+baggern
+bundesverkehrsminister
+heißes
+hut
+bekanntes
+trockendocks
+schwimmdock
+aufgemacht
+starkes
+spd-chefin
+offen
+tagesstätte
+gute-kita-gesetz
+bundesfamilienministerin
+familiensenatorin
+präsident
+flügen
+viehmarkt
+vieh
+ziegen
+schönsten
+auktion
+größtes
+fahrrädern
+cyclassics
+volkspark
+person
+denkmalschutz
+verluste
+herstellung
+gedankt
+erfolgreichen
+verliere
+bremsung
+nordenham
+altenheime
+margarethe
+mehrfach
+bewacht
+sicherungsverwahrung
+seele
+geschlossene
+geschlossenen
+hieß
+maria
+messerstichen
+mordlust
+lust
+heimtücke
+wehren
+unechten
+geiern
+bärenjägers
+ölprinz
+kreuzfahrt-tage
+technologie-firma
+sport-vverein
+dächern
+einfahrten
+ausgeglichen
+gefüllt
+angehoben
+niedriger
+abgelassen
+runtergelassen
+schleusentor
+weiten
+bramstedt
+herunterfallen
+bewegungen
+abgeschreckt
+vogelmarkern
+festmachen
+herunterfliegen
+rest
+interviews
+interview
+sendet
+erzählung
+senzel
+morgensendungen
+morgensendung
+lustig
+kuhlage
+hardeland
+ndr.de
+grone
+flüchtet
+ansprechen
+mitnehmen
+a31.
+hochhäuser
+aufgesetzt
+angeguckt
+schmal
+abgeschlossen
+aufbekommen
+parkende
+flug
+ebenen
+reisende
+leitplanken
+etzt
+keinauto
+luftraum
+buchstaben
+geheim
+private
+eingeben
+passwörtern
+ämter
+reist
+verbessert
+depublik
+frieden
+eingesetzt
+gewählte
+brennstoff
+chancen
+erfolgreichsten
+ausgegeben
+verschwendeten
+schwarzbuch
+steuerverschwendung
+messungen
+possehlbrücke
+zusätzliche
+gebratenem
+hackfleisch
+norma
+geantwortet
+gehe
+gaststätte
+lokal
+universitätsuklinikum
+krankenbett
+modern
+fußballfelder
+stockwerke
+angetreten
+günstige
+schostock
+begriffen
+technikmesse
+statt
+457.000
+anstrengen
+bundesprädident
+hochschule
+anwalt
+diskussion
+rektor
+herstellern
+ersetzt
+wackeln
+gespürt
+gestein
+begleitet
+global
+dream
+glühwein
+lebkuchen
+karussels
+weihnachtsmusik
+weihnachtsmärkten
+größter
+riesenrad
+engel
+hineingehen
+rumpelstilzchen
+aschenputtel
+weist
+erkennt
+toitenwinkel
+forderungen
+brüste
+gebohrt
+erwartet
+vergiftete
+ausgetauscht
+zahlt
+buntes
+silvesterböllern
+sicherer
+plätze
+plätzen
+normaler
+linienbus
+zusammengetan
+spende
+deckel
+abstürzen
+südlichen
+außerhalb
+verhakt
+verhaken
+vinnhorst
+langenhagen-wiesenau
+notwendig
+zweitgrößte
+skiurlaub
+schultag
+matthies
+kurt
+brakelmann
+geliebt
+volker
+lechtenbrink
+gitte
+haenning
+mikrofon
+künstlern
+kamen
+katastrophe
+seebären
+tolle
+selbstfahrende
+wissenschaftsminister
+leiten
+wechseln
+zukunft
+weiterentwickelt
+lügt
+stundenkilometer
+radfahrern
+vorsicht
+fernseh-koch
+sarg
+ausgeschaltet
+warngeräte
+signal
+warngerät
+stadtreinigung
+wind∙kraftanlagen
+nord∙deutschland
+stahl
+sondermüll
+windrädern
+verspätet
+abflug
+einsetzen
+angeben
+wahlgebiet
+zugführern
+vorpommern-rügen
+betrunkener
+rollerfahrer
+batterie
+angetrieben
+ausleihen
+liefern
+lungenkrankheit
+bereiten
+erholt
+grandslam-turnier
+dritten
+landeshauptstadt
+erreicht
+schiffskran
+berührt
+gewicht
+schief
+wiegen
+abmachen
+einzelne
+einzelnen
+forschen
+umleitung
+maschinengewehre
+2015.
+durchsuchen
+dunkles
+sabine
+warnungen
+gewackelt
+umkippen
+kämpft
+umweltfreundliche
+fahrradständer
+gehagelt
+gefroren
+tropfen
+wertvolle
+aufzug
+barrierefreie
+u-bahn-haltestellen
+rollstuhlfahrer
+zurechtfinden
+bahnsteigerhöhungen
+bahnsteigerhöhung
+erhöht
+verkleinern
+kurven
+verwandt
+tausend
+ankreuzen
+wahlentscheidung
+.langenhorn
+ergebnissen
+gepasst
+möglichkeiten
+kapitän
+versorgt
+isolieren
+dort
+intelligent
+überfordert
+schwangerschaft
+verdrängt
+organisiert
+schafft
+freitagmittag
+erkältet
+nordafrika
+basketballspielen
+eishockeyliga
+eishockeyspiele
+eishockeymeister
+ludwigslust-parchim
+losgehen
+anmerkung
+frühling
+krankenhausbetten
+steckt
+maßnahmen
+einrichtungen
+drogerien
+tankstellen
+frühestens
+spätestens
+tischen
+zurückholen
+nichtin
+beerdigung
+löhne
+geirrt
+terminen
+sollen.keinen
+frage
+telefoniert
+prüfung
+gymnasium
+abitur
+abiturprüfungen
+englischen
+elisabeth
+haupstadt
+danken
+donnerstagmittag
+schränken
+datum
+wohin
+berufen
+selbstgemachte
+anleitungen
+hörern
+teures
+salat
+erdbeeren
+intensivstation
+intensivbett
+mittwochmitag
+spanische
+nichtans
+baumärkte
+ausbreitung
+bundesligen
+dürfen.keine
+zugucken
+fußballtrainer
+anderem
+keineanderen
+kleidungsgeschäfte
+behält
+streng
+niemandem
+erkannt
+betreut
+patient
+schutzkleidung
+niemanden
+mit.einem
+sollen.nicht
+deichbrand-festival
+hurricane-festival
+elbjazz-festival
+elektronische
+zählt
+freitagmorgen
+nämlich.nicht
+zoos
+empfiehlt
+29.11.2018.
+30.11.2018.
+eichen
+buchen
+03.12.2018.
+tanzsportverein
+04.12.2018.
+05.12.2018.
+geraucht
+06.12.2018.
+rockmusik
+1997.
+07.12.2018.
+einsätzen
+feuerwerkskörpern
+lebenslange
+10.12.2018.
+winterpause
+11.12.2018.
+12.12.2018.
+bundesverdienstkreuzbekommen
+bückeburg
+13.12.2018.
+14.12.2018.
+vertrieben
+gespritzt
+wildscheine
+bedrohen
+potsdam
+scc
+3:2
+mtv
+17.12.2018.
+hittfeld
+18.12.2018.
+unterlage
+19.12.2018.
+wellingsbüttel
+20.12.2018.
+21.12.2018.
+eingeladen
+hintern
+02.01.2019.
+verlängern
+geschwankt
+kopfverletzung
+silvester-böller
+verschwinden
+geschenk
+verschenken
+04.01.2019.
+abstellen
+anschließen
+aufstellen
+angeschnallt
+07.01.2019.
+versunken
+einschlafen
+geklingelt
+abgeholt
+aussetzen
+08.01.2019.
+a24.
+09.01.2019.
+parkplätze
+10.01.2019.
+kühen
+11.01.2019.
+bulle
+männlich
+vorgeschlagen
+auswählen
+notfallfahrplan
+14.01.2019.
+basketballspiele
+elbdome
+15.01.2019.
+beinbruch
+16.01.2019.
+wucht
+17.01.2019.
+nordseewerken
+18.01.2019.
+21.01.2019.
+abgeschleppt
+anbieten
+22.01.2019.
+23.01.2019.
+dietrichsdorf
+24.01.2019.
+verhandelt
+kalten
+25.01.2019.
+unternehmer
+28.01.2019.
+fischerboot
+seuche
+29.01.2019.
+30.01.2019.
+31.01.2019.
+winsen
+weggenommen
+01.02.2019.
+inas
+tatortreiniger
+kroymann
+freibadclique
+04.02.2019.
+fahrende
+06.02.2019.
+stadtbahnen
+07.02.2019.
+junges
+18:15
+fernsehprogramm
+08.02.2019.
+11.02.2019.
+gegner
+brinkum
+12.02.2019.
+karriere
+beende
+handballkarriere
+ziehe
+spielgemeinschaft
+motoradfahrer
+13.02.2019.
+müsst
+gerichte
+körperverletzung
+14.02.2019.
+wlan-verbindung
+15.02.2019.
+basketballer
+ausrauben
+18.02.2019.
+hochspringerin
+speerwurf
+weitsprung
+leistung
+19.02.2019.
+entwirft
+kleider
+französische
+chanel
+fotograf
+wiesen
+20.02.2019.
+straßenreiniger
+21.02.2019.
+grippe-tote
+22.02.2019.
+25.02.2019.
+volleyballmannschafen
+3:0
+26.02.2019.
+27.02.2019.
+stadttteil
+belogen
+28.02.2019.
+kräftig
+01.03.2019.
+garlstorf
+straßenrand
+05.03.2019.
+abgebrannt
+06.03.2019.
+verschwundene
+durchsuchten
+07.03.2019.
+wiederbelebt
+brust
+obdachloser
+08.03.2019.
+döllinghareico
+zarrentin
+11.03.2019.
+12.03.2019.
+dienstagnachmittag
+verlädt
+verladen
+13.03.2019.
+14.03.2019.
+vermisstem
+vergangene
+vermissten
+15.03.2019.
+muskeln
+18.03.2019.
+hagelschauer
+19.03.2019.
+flusskreuzfahrtschiffe
+flusskreuzfahrtschiff
+rhein
+rechts
+20.03.2019.
+hörfilm
+beschreibt
+21.03.2019.
+22.03.2019.
+wünschen
+25.03.2019.
+ehrt
+geleistet
+naturschützerin
+cent
+verschicken
+26.03.2019.
+rathäusern
+27.03.2019.
+wriedel
+hanstedt
+waddeweitz
+fälscht
+28.03.2019.
+29.03.2019.
+falsches
+01.04.2019.
+ruhestand
+02.04.2019.
+spargelernte
+03.04.2019.
+müllsammeln
+nichtsverbotenes
+müllsäcke
+erzeugt
+04.04.2019.
+verbrechern
+ard
+05.04.2019.
+erkältung
+bus-firma
+gesunde
+überstunden
+08.04.2019.
+rb
+09.04.2019.
+10.04.2019.
+herrenhäuser
+wasserpumpen
+11.04.2019.
+binden
+steilen
+steile
+12.04.2019.
+nordpferd
+15.04.2019.
+16.04.2019.
+arkona
+17.04.2019.
+18.04.2019.
+23.04.2019.
+nordfriesland
+24.04.2019.
+25.04.2019.
+militärschiff
+26.04.2019.
+29.04.2019.
+gewehr
+30.04.2019.
+bordkorb
+alstertal-einkaufszentrum
+glastür
+02.05.2019.
+ewa
+pajor
+03.05.2019.
+benefiz
+krusenkoppel
+frauenfußball
+hai
+familienmitglied
+impfen
+übt
+fahrzeugkolonne
+09.05.2019.
+10.05.2019.
+kreuzen
+kreuz
+gedruckt
+verschickt
+13.05.2019.
+gutshäuser
+14.05.2019.
+15.05.2019.
+überladen
+16.05.2019.
+fischern
+verfangen
+seiten
+17.05.2019.
+besonderem
+auftritten
+20.05.2019.
+drittletzter
+drittletzten
+duncan
+laurence
+soldat
+flottbek
+schaufenstern
+21.05.2019.
+abholen
+22.05.2019.
+sozial-demokratische
+zugfahrt
+23.05.2019.
+leg
+dreh
+schulter
+24.05.2019.
+27.05.2019.
+nackt
+alleingelassen
+28.05.2019.
+29.05.2019.
+finanzämter
+finanzamt
+ordnung
+31.05.2019.
+estorf
+04.06.2019.
+05.06.2019.
+fernseher
+dörfern
+06.06.2019.
+östliche
+ehrenamtliche
+sportvereinen
+freiwilligen
+07.06.2019.
+sitze
+beweglich
+12.06.2019.
+bestohlen
+jahrelang
+vorbilder
+13.06.2019.
+ehemaliger
+vorgelesen
+freundlich
+vermissen
+rakete
+nichtgesunken
+14.06.2019.
+bringentiere
+17.06.2019.
+18.06.2019.
+einbeck
+pflegern
+19.06.2019.
+bergwerksloren
+gerannt
+20.06.2019.
+bands
+hosen
+21.06.2019.
+schweriner
+schlossfestspielen
+musicals
+gesang
+24.06.2019.
+bankräuber
+25.06.2019.
+umgerissen
+links
+weiterer
+26.06.2019.
+anfassen
+evakuieren
+27.06.2019.
+füllen
+28.06.2019.
+erschlagen
+01.07.2019.
+mitgelaufen
+02.07.2019.
+woran
+eingeschlossen
+dichten
+04.07.2019.
+verbinden
+a39.
+rausgekommen
+08.07.2019.
+09.07.2019.
+kratzer
+borstel
+10.07.2019.
+s32
+gedrängt
+schwarz
+11.07.2019.
+weitergehen
+roald
+amundsen
+12.07.2019.
+marianne
+rosenberg
+albersdorf
+15.07.2019.
+moderner
+bahnsteige
+rolltreppen
+fahrstühle
+16.07.2019.
+grabow
+schokolade
+sternschanze
+17.07.2019.
+bricht
+burg
+einbrüchen
+18.07.2019.
+überwachen
+diebstählen
+dies
+19.07.2019.
+22.07.2019.
+seile
+wohngebiete
+23.07.2019.
+einbrechen
+24.07.2019.
+gebadet
+25.07.2019.
+26.07.2019.
+29.07.2019.
+oberleitungen
+kabeln
+hafen100
+30.07.2019.
+31.07.2019.
+01.08.2019.
+geschrien
+gefüttert
+02.08.2019.
+zugestochen
+a352.
+352.
+öffentlich
+musikklubs
+barßel
+drachen
+06.08.2019.
+gefäß
+ungesund
+wasserspendern
+fahrendes
+07.08.2019.
+ausgewildert
+überleben
+marlow
+gewässern
+ehren
+ostseelandwirt
+landwirt
+08.08.2019.
+egestorf
+runtergefahren
+09.08.2019.
+12.08.2019.
+innerstestausee
+13.08.2019.
+scheunen
+bauernhöfen
+14.08.2019.
+15.08.2019.
+wiederverwertung
+16.08.2019.
+parks
+19.08.2019.
+20.08.2019.
+21.08.2019.
+überfällt
+rucksack
+gewehrt
+22.08.2019.
+23.08.2019.
+untersuchungen
+richtige
+26.08.2019.
+apfelernte
+apfelbäume
+geblüht
+nächte
+27.08.2019.
+bürger
+28.08.2019.
+vize-landtagspräsidentin
+landtagspräsidenten
+landtagspräsident
+jüngsten
+gleichberechtigt
+29.08.2019.
+gewittern
+kellern
+krakow
+geleitet
+meisterschaften
+frauen-mannschaften
+männer-mannschaften
+02.09.2019.
+03.09.2019.
+marine-übung
+nördliche
+seewege
+seeweg
+04.09.2019.
+tretroller
+fahrradwegen
+stoppt
+05.09.2019.
+aussichtsturm
+elbchausee
+06.09.2019.
+10.09.2019.
+11.09.2019.
+kroatien
+12.09.2019.
+lagen
+lkw-teile
+13.09.2019.
+16.09.2019.
+bedeckt
+versenkt
+17.09.2019.
+18.09.2019.
+19.09.2019.
+20.09.2019.
+leibesübungen
+23.09.2019.
+yara
+künstliche
+demonstranten
+motorrad-unfall
+motorrad-führerschein
+24.09.2019.
+brandstiftung
+25.09.2019.
+kaputtgehen
+malt
+reflektiert
+26.09.2019.
+herausgekommen
+27.09.2019.
+gefühl
+n
+01.10.2019.
+bittet
+schaut
+hin
+verdächtiges
+telefonanruf
+gequält
+hundekäfig
+bewohnern
+04.10.2019.
+26:20
+verbrennt
+07.10.2019.
+angefasst
+stromschlag
+druckt
+schrift
+farben
+09.10.2019.
+esel
+karussells
+10.10.2019.
+498.
+11.10.2019.
+bombenentschärfung
+14.10.2019.
+gefesselte
+betäubt
+15.10.2019.
+dorsch
+markierungen
+malen
+donnerstagmorgen
+16.10.2019.
+plau
+17.10.2019.
+76.
+beteiligt
+18.10.2019.
+21.10.2019.
+geschlachtet
+angekettet
+herunter
+ortsumgehung
+herumfahren
+22.10.2019.
+knieverletzung
+23.10.2019.
+boot-ausstellung
+motorboote
+verbrannt
+24.10.2019.
+wedemark
+freien
+ddie
+technische
+absperren
+beschädigte
+25.10.2019.
+hamburg-nordwest
+hochwasser
+28.10.2019.
+29.10.2019.
+preisen
+spielfilmpreis
+30.10.2019.
+balkone
+balkonen
+aufträgen
+01.11.2019.
+hainholz
+sprünge
+04.11.2019.
+westerland
+freitags
+montags
+05.11.2019.
+b106.
+b106
+06.11.2019.
+tauft
+taufen
+ersetzen
+insekten
+07.11.2019.
+jever
+gesteht
+11.11.2019.
+beworfen
+12.11.2019.
+löschbooten
+dieselmotor
+elektromotor
+elekromotoren
+13.11.2019.
+altenwerder
+wassergraben
+14.11.2019.
+glückstadt
+gestoben
+hagenow
+einbruch
+15.11.2019.
+bränden
+18.11.2019.
+hergestellt
+fußball-liga
+marco
+antwerpen
+hamburg-st
+19.11.2019.
+eifersüchtig
+vertreiben
+zurückgekommen
+a215.
+20.11.2019.
+21.11.2019.
+rissen
+einfamilienhaus
+komplett
+tennisspielerinnen
+nächstes
+22.11.2019.
+aufgefahren
+kennenlernen
+autoverkehr
+25.11.2019.
+angeschrien
+26.11.2019.
+hans
+27.11.2019.
+wasserleitungen
+28.11.2019.
+vegesack
+29.11.2019.
+pella
+sietas
+neuenfelde
+dünn
+gekümmert
+öjendorf
+sperrrung
+03.12.2019.
+christuskirche
+ladung
+dreckiges
+übrig
+saubermachen
+04.12.2019.
+05.12.2019.
+günstigen
+verlangen
+werbeplakate
+ddieses
+06.12.2019.
+gründen
+09.12.2019.
+berne
+tbv
+lemgo
+lippe
+mt
+melsungen
+10.12.2019.
+weißrussland
+11.12.2019.
+verdienstorden
+landes
+12.12.2019.
+böse
+beliebt
+13.12.2019.
+malchin
+16.12.2019.
+rinder
+weiden
+heiraten
+terrorist
+17.12.2019.
+klassische
+18.12.2019.
+automatisch
+19.12.2019.
+verliehen
+autorin
+autoren
+ehrenbürgerin
+ehrenbürger
+gelobt
+schreibt
+mut
+selbstvertrauen
+setzt
+20.12.2019.
+viertgrößte
+grab
+02.01.2020.
+gespräche
+gesprächen
+03.01.2020.
+wirft
+geschaut
+verschlossen
+06.01.2020.
+farmsen-berne
+silvesternacht
+feuerwerken
+07.01.2020.
+basketballverein
+erfolgreicher
+neunmal
+fischereihafen
+08.01.2020.
+mach
+ding
+sichern
+09.01.2020.
+bassum
+51.
+dierkow
+verdacht
+10.01.2020.
+beleidigt
+13.01.2020.
+dientagabend
+zusammenfassung
+84:76
+bbl-pokal
+bbl
+basketball-bundesliga
+14.01.2020.
+15.01.2020.
+schulbussen
+bahnsteigen
+herausgehen
+gedränge
+16.01.2020.
+fuhren
+schulbusse
+17.01.2020.
+nordstadt
+20.01.2020.
+21.01.2020.
+22.01.2020.
+s-bahn-tunnel
+abgestellt
+süderstraße
+hamm
+tierärzten
+23.01.2020.
+komisch
+24.01.2020.
+sport‑verein
+drispenstedt
+27.01.2020.
+durchgebissen
+auslegen
+28.01.2020.
+29.01.2020.
+südöstlich
+30.01.2020.
+hamburg-wandsbek
+u
+u-bahn-gleis
+u-bahn-fahrer
+störtebeker
+segel-schiffen
+segel-schiffe
+volleyballverein
+zweimal
+einstellen
+aufträge
+04.02.2020.
+05.02.2020.
+neuländer
+messehallen
+außer
+vortrag
+06.02.2020.
+brüdern
+messern
+07.02.2020.
+gefangener
+michaelis
+führungen
+10.02.2020.
+kopien
+briefen
+11.02.2020.
+einbetoniert
+gegossen
+.wangerooge
+.und
+12.02.2020.
+harzburg
+katzen
+luchsen
+ausbrechen
+13.02.2020.
+14.02.2020.
+17.02.2020.
+fuhlsbüttel
+vordere
+scherben
+prtei
+duell
+zweikampf
+18.02.2020.
+verfolgung
+19.02.2020.
+gibst
+schneiden
+deine
+ohren
+gefahrstoff
+gefahrstoffe
+autohändlern
+insolvenzverwalter
+insolvenz·verwalter
+geldproblemen
+weiterarbeiten
+20.02.2020.
+tierskelette
+skelett
+knochengerüst
+dinosaurier-skelette
+mecklenburger
+21.02.2020.
+getöteten
+endergebnis
+bürgermeistervon
+regiert
+24.02.2020.
+klären
+pflanze
+25.02.2020.
+26.02.2020.
+luruper
+hauptstraße
+lurup
+27.02.2020.
+schleuserbande
+reisepass
+28.02.2020.
+02.03.2020.
+technischer
+störung
+funken
+elektrischen
+mitfliegen
+03.03.2020.
+gewendet
+04.03.2020.
+05.03.2020.
+toben
+06.03.2020.
+wachmann
+09.03.2020.
+10.03.2020.
+stockwerken
+polzisten
+hatten.keinen
+11.03.2020.
+12.03.2020.
+machen.keinen
+13.03.2020.
+16.03.2020.
+hamburg-eidelstedt
+vorfahrt
+nähert
+keinmensch
+ostholstein
+17.03.2020.
+b109.
+18.03.2020.
+19.03.2020.
+schulbehörde
+notbetreuung
+hinbringen
+a11.
+a11
+20.03.2020.
+braun
+gehalt
+vermeiden
+rellingen
+corona-party
+corona-partys
+23.03.2020.
+30.03.2020.
+holt
+31.03.2020.
+heime
+behinderungen
+heim
+keien
+04.04.2020.
+06.04.2020.
+regierungschef
+07.04.2020.
+spazieren
+dumm
+08.04.2020.
+leihen
+gutscheinen
+15.04.2020.
+schwerkranken
+ine
