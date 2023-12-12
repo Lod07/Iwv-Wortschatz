@@ -1,10 +1,14 @@
 import os
 import xml.etree.ElementTree as ET
 import spacy
+import seaborn as sns
+import numpy as np
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 from collections import Counter
 from dataLoader import LSNewsData, DatasetOptions
+
+import utils
 
 # Pfade in besser
 from pathlib import Path
@@ -15,6 +19,7 @@ from tqdm import tqdm
 def count_words_and_pos_tags(all_text, nlp):
     # spaCy für POS-Tagging verwenden
     doc = nlp(all_text)
+
 
     # Dictionary zur Verfolgung der Anzahl der Wörter pro Wortart
     pos_count = {}
@@ -55,6 +60,22 @@ def find_unique_words(word_list):
     unique_words = [word for word, count in word_counter.items() if count == 1]
     return unique_words
 
+
+def find_noun_endings(noun_list):
+    # Liste der gesuchten Wort-Endungen
+    endings = ['heit', 'ie', 'ik', 'ion', 'ismus', 'ität', 'keit', 'nz', 'tur', 'ung']
+
+    # Listen für Substantive mit den gesuchten Endungen
+    ending_lists = {ending: [] for ending in endings}
+
+    for noun in noun_list:
+        for ending in endings:
+            if noun.endswith(ending):
+                ending_lists[ending].append(noun)
+
+    return ending_lists
+
+
 # Gesamtanzahl aller Wörter
 total_word_count = 0
 
@@ -93,7 +114,14 @@ print(len(total_word_list))
 # Identifiziere Wörter, die nur einmal vorkommen
 unique_words = find_unique_words(total_word_list)
 
-# Ausgabe in gewünschter Form
+# Liste für alle Substantive
+all_nouns = [word for word, pos, _ in total_word_list if pos == 'NOUN']
+
+# Identifiziere Substantive mit den gesuchten Endungen
+ending_lists = find_noun_endings(all_nouns)
+
+
+# Ausgabe 
 output_path = os.path.join(str(datasetPath), "Liste_Aufgabe_1.txt")
 with open(output_path, 'w', encoding='utf-8') as output_file:
     output_file.write(f"Gesamtzahl aller Wörter: {total_word_count}\n\n")
@@ -117,11 +145,25 @@ with open(output_path, 'w', encoding='utf-8') as output_file:
     for word_info in final:
         output_file.write(str(word_info) + " " + str(final[word_info]) + "\n")
 
-    output_file.write("\nWörter, die nur einmal vorkommen:\n")
-    for unique_word in unique_words:
-        output_file.write(f"{unique_word}\n")
+    
+
+    output_file.write("\nSubstantive mit den gesuchten Endungen:\n")
+    for ending, nouns in ending_lists.items():
+        output_file.write(f"{ending}: {len(nouns)} - {nouns}\n")
 
 print(f"Ausgabe wurde in der Datei {output_path} gespeichert.")
+
+
+output_path = os.path.join(str(datasetPath), "Liste_Aufgabe_1_unique_words.txt")
+with open(output_path, 'w', encoding='utf-8') as output_file2:
+    for unique_word in unique_words:
+        output_file2.write(f"{unique_word}\n")
+
+print(f"Ausgabe wurde in der Datei {output_path} gespeichert.")
+
+
+
+#Visualisierung 
 
 # Wordcloud erstellen
 wordcloud_text = ' '.join([word for word, _, _ in total_word_list])
@@ -132,5 +174,16 @@ plt.figure(figsize=(10, 5))
 plt.imshow(wordcloud, interpolation="bilinear")
 plt.axis('off')
 plt.show()
+
+
+# Visualisierung Endungen Substantive
+ending_counts = {ending: len(nouns) for ending, nouns in ending_lists.items()}
+sns.barplot(x=list(ending_counts.keys()), y=list(ending_counts.values()))
+plt.title("Anzahl der Substantive mit den gesuchten Endungen")
+plt.xlabel("Endungen")
+plt.ylabel("Anzahl")
+plt.show()
+
+
 
 #Hi bin a commentar
