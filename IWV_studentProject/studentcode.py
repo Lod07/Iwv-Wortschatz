@@ -5,6 +5,7 @@ from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 from collections import Counter
 from dataLoader import LSNewsData, DatasetOptions
+from collections import OrderedDict
 
 # Pfade in besser
 from pathlib import Path
@@ -93,7 +94,21 @@ print(len(total_word_list))
 # Identifiziere Wörter, die nur einmal vorkommen
 unique_words = find_unique_words(total_word_list)
 
+<<<<<<< Updated upstream
 # Ausgabe in gewünschter Form
+=======
+# Liste für alle Substantive
+all_nouns = [word for word, pos, _ in total_word_list if pos == 'NOUN']
+
+# Identifiziere Substantive mit den gesuchten Endungen
+ending_lists = find_noun_endings(all_nouns)
+
+# Bereinigung der Liste von Duplikaten
+ending_lists_relative = {ending: list(OrderedDict.fromkeys(words)) for ending, words in ending_lists.items()}
+
+
+# Ausgabe 
+>>>>>>> Stashed changes
 output_path = os.path.join(str(datasetPath), "Liste_Aufgabe_1.txt")
 with open(output_path, 'w', encoding='utf-8') as output_file:
     output_file.write(f"Gesamtzahl aller Wörter: {total_word_count}\n\n")
@@ -133,4 +148,28 @@ plt.imshow(wordcloud, interpolation="bilinear")
 plt.axis('off')
 plt.show()
 
+<<<<<<< Updated upstream
+=======
+
+# Visualisierung Endungen Substantive
+ending_counts = {ending: len(nouns) for ending, nouns in ending_lists.items()}
+sns.barplot(x=list(ending_counts.keys()), y=list(ending_counts.values()))
+plt.title("Anzahl der Substantive mit gesuchten Endungen")
+plt.xlabel("Endungen")
+plt.ylabel("Anzahl")
+plt.show()
+
+# Visualisierung Endungen Substantive relativ
+ending_counts_relative = {ending: len(words) for ending, words in ending_lists_relative.items()}
+sns.barplot(x=list(ending_counts_relative.keys()), y=list(ending_counts_relative.values()))
+plt.title("Anzahl der Substantive mit den gesuchten Endungen (ohne Duplikate)")
+plt.xlabel("Endungen")
+plt.ylabel("Anzahl")
+plt.show()
+
+
+
+
+
+>>>>>>> Stashed changes
 #Hi bin a commentar
