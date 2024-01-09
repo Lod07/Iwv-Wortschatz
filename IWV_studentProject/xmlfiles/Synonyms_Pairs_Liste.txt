@@ -1,0 +1,17 @@
+Volksdorf: 
+Wiesmoor: 
+Lathen: 
+weggepumpt: 
+Kino: Filmtheater, Kinovorführraum, Lichtspielhaus, Lichtspieltheater
+Nichts: Leere, Nirvana
+Hollywood: 
+globe: 
+golden: gülden
+fremdsprachigen: 
+bedanke: 
+reicht: 
+Urteile: 
+Nordsee-hotel: 
+Wasserschläuche: 
+Legen: 
+Arzt: Doktor, Mediziner, Medikus, Physikus, Quacksalber
