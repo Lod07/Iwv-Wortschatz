@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2019-08-02_14-00_275.xml">
+   <title>Simone Lange will SPD-Chefin werden</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-08-02_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-08-02_14-00_275-full.png" type="screenshot" url="2019-08-02_14-00_275-full.png"/>
+      <resource id="2" name="2019-08-02_14-00_275_plaintext.txt" type="plaintext" url="2019-08-02_14-00_275_plaintext.txt"/>
+      <resource id="3" name="2019-08-02_14-00_275_quellcode.txt" type="sourcecode" url="2019-08-02_14-00_275_quellcode.txt"/>
+      <resource id="4" name="2019-08-02_14-00_275.docx" type="formatedText" url="2019-08-02_14-00_275.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Simone Lange will SPD-Chefin werden</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Simone Lange will ein neues Amt haben.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Simone Lange ist aus Flensburg.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Flensburg ist eine Stadt im Norden von Schleswig-Holstein.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Und Simone Lange ist die Bürgermeisterin von Flensburg.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Eine Bürgermeisterin ist die wichtigste Politikerin von einer Stadt.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Simone Lange will die Chefin von der SPD in Deutschland werden.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">SPD ist die Abkürzung für 
+                        <style_element type="hb">S</style_element>ozial·demokratische 
+                        <style_element type="hb">P</style_element>artei 
+                        <style_element type="hb">D</style_element>eutschlands.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>SPD sucht neue Chefs</subheadline>
+            <statement>Früher war Andrea Nahles die Chefin von der SPD.</statement>
+            <explanation_marker>
+               <statement>Aber Andrea Nahles ist zurückgetreten.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Andrea Nahles wollte 
+                        <style_element type="hb">nicht</style_element>
+                        mehr die Chefin von der SPD sein.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Dann hat die SPD gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement><style_element type="hi">Für kurze Zeit haben wir 3 Chefs:</style_element></statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword><style_element type="hi">• Manuela Schwesig.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword><style_element type="hi">• Malu Dreyer.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="3">
+                              <statement><style_element type="hi">• Und Thorsten Schäfer-Gümbel.</style_element></statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Aber bald wählen wir neue Chefs.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement><style_element type="hb">Zu den 3 Chefs gibt es auch einen Text in Leichter Sprache.</style_element></statement>
+            <question><style_element type="hb">Sie wollen diesen Text lesen?</style_element></question>
+            <headword><style_element type="hb">Oder hören?</style_element></headword>
+            <statement><ref><style_element type="hb"><style_element type="hu">Dann klicken Sie hier.</style_element></style_element></ref></statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Dann hat die SPD gefragt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wer will der Chef von der SPD werden?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt hat Simone Lange gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Ich will die Chefin von der SPD werden.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Aber ich will nicht alleine die Chefin von der SPD werden.</statement>
+                  </speech>
+                  <speech id="3">
+                     <explanation_marker>
+                        <statement>Auch Alexander Ahrens soll der Chef von der SPD werden.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Alexander Ahrens ist Bürgermeister von Bautzen.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">Bautzen ist eine Stadt in Sachsen.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Im Oktober entscheiden die Mitglieder von der SPD:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wer soll Chef von der SPD werden?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

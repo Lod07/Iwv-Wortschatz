@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-25" url="2019-06-14_13-30_298.xml">
+   <title>Mehr Nachrichten vom 14.06.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-06-14_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-06-14_13-30_298-full.png" type="screenshot" url="2019-06-14_13-30_298-full.png"/>
+      <resource id="2" name="2019-06-14_13-30_298_plaintext.txt" type="plaintext" url="2019-06-14_13-30_298_plaintext.txt"/>
+      <resource id="3" name="2019-06-14_13-30_298_quellcode.txt" type="sourcecode" url="2019-06-14_13-30_298_quellcode.txt"/>
+      <resource id="4" name="2019-06-14_13-30_298.docx" type="formatedText" url="2019-06-14_13-30_298.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 14.06.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Kleine Tiger dürfen nach draußen</subheadline>
+            <statement>Im Zoo Hannover sind 3 kleine Tiger.</statement>
+            <statement>Diese kleinen Tiger dürfen jetzt zum ersten Mal nach draußen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der Pfleger von den Tigern hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement> Wir freuen uns sehr.</statement>
+                  </speech>
+                  <speech id="2">
+                     <explanation_marker>
+                        <statement>Die kleinen Tiger waren bis jetzt in einer Wurf·höhle.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Eine Wurf·höhle ist ein besonderer Raum in einem Zoo.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>In diesem Raum bringenTiere ihre Babys zur Welt.</statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement>In eine Wurf·höhle darf <style_element type="hb">kein</style_element> Mensch.</statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>         
+                  </speech>
+                  <speech id="3">
+                     <statement>Und in der Wurfhöhle war nur eine Kamera.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Diese Kamera hat nur Bilder von den kleinen Tigern gezeigt.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Aber jetzt sind die kleinen Tiger 2 Monate alt.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Deshalb dürfen die kleinen Tiger jetzt nach draußen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Lok überfährt Mann</subheadline>
+            <explanation_marker>
+               <statement>In Hude war ein schwerer Unfall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Hude ist ein Ort in der Nähe von Oldenburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Unfall war an einem Bahn·übergang.</statement>
+            <explanation_marker>
+               <statement>Und der Unfall war mit einer Lok.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Lok ist die Abkürzung für Lokomotive.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Eine Lok zieht die Wagen von einem Zug.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Lok hat einen Mann an dem Bahn·übergang überfahren.</statement>
+            <statement>Die Schranken an dem Bahn·übergang waren geschlossen.</statement>
+            <statement>Trotzdem hat der Mann sein Fahrrad über den Bahn·übergang geschoben.</statement>
+            <statement>Dann hat die Lok den Mann überfahren.</statement>
+            <statement>Der Mann wurde schwer verletzt.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Hamburg: Fische können schlecht atmen</subheadline>
+            <explanation_marker>
+               <statement>Vielen Fischen in der Elbe geht es schlecht.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die Elbe ist ein Fluss.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Fische in der Elbe haben nämlich wenig Sauerstoff zum Atmen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Elbe wird im Sommer sehr warm.</statement>
+                  </speech>
+                  <speech id="2">
+                     <explanation_marker>
+                        <statement>Dann sind in der Elbe viele Algen.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Algen sind Pflanzen.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Und Algen verbrauchen viel Sauerstoff.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb ist in der Elbe nur wenig Sauerstoff.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Das ist schlecht für die Fische.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Einige Fische sind schon tot.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Und es können noch viel mehr Fische sterben.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

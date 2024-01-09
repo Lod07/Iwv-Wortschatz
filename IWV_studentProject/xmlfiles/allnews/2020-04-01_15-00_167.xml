@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2020-04-01_15-00_167.xml">
+   <title>Viele Bauern haben Probleme</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-04-01_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-04-01_15-00_167-full.png" type="screenshot" url="2020-04-01_15-00_167-full.png"/>
+      <resource id="2" name="2020-04-01_15-00_167_plaintext.txt" type="plaintext" url="2020-04-01_15-00_167_plaintext.txt"/>
+      <resource id="3" name="2020-04-01_15-00_167_quellcode.txt" type="sourcecode" url="2020-04-01_15-00_167_quellcode.txt"/>
+      <resource id="4" name="2020-04-01_15-00_167.docx" type="formatedText" url="2020-04-01_15-00_167.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Viele Bauern haben Probleme</headline>
+      <sections>
+         <section id="1">
+            <statement>Wegen dem Corona-Virus haben viele Bauern Probleme.</statement>
+            <statement>Diese Bauern müssen nämlich Obst und Gemüse ernten.</statement>
+            <statement>Aber die Bauern haben <style_element type="hb">nicht</style_element> genug Helfer.</statement>
+            <statement>Deshalb können die Bauern vielleicht nicht genug ernten.</statement>
+         </section>
+         <section id="2">
+            <statement>Viele Helfer kommen aus Ost·europa.</statement>
+            <statement>Zum Beispiel aus Polen.</statement>
+            <statement>Oder aus Rumänien.</statement>
+            <statement>Aber diese Helfer können jetzt <style_element type="hb">nicht</style_element> nach Deutschland kommen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Regierung hat nämlich gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Corona-Virus ist sehr ansteckend.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb sollen alle Menschen wenig Kontakt zu anderen Menschen haben.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und deshalb dürfen <style_element type="hb">keine</style_element> Helfer nach Deutschland kommen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>  
+         </section>
+         <section id="3">
+            <subheadline>Teures Obst und Gemüse</subheadline>
+            <statement>Viele Bauern sind in einem Verband.</statement>
+            <statement>Dieser Verband heißt Bauern·verband.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der Bauern·verband hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Helfer helfen den Bauern bei der Ernte von Obst und Gemüse.</statement>
+                  </speech>
+                  <speech id="2">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement>Zum Beispiel von:</statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword>• Salat.</headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword>• Spargel.</headword>
+                           </enumeration>
+                           <enumeration id="3">
+                              <headword>• Oder Erdbeeren.</headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </speech>
+                  <speech id="3">
+                     <question>Kommen <style_element type="hb">keine</style_element> Helfer nach Deutschland?</question>
+                  </speech>
+                  <speech id="4">
+                     <statement>Dann können die Bauern <style_element type="hb">nicht</style_element> genug ernten.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Dann gibt es nur wenig von diesem Obst und Gemüse.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement> Und dann ist dieses Obst und Gemüse teuer.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der Bauern·verband hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Vielleicht gibt es weniger Obst und Gemüse.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Aber die Menschen müssen <style_element type="hb">keine</style_element> Angst haben.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Es gibt genug Lebensmittel für alle.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>  
+      </sections>  
+   </content>
+</annotation>

@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-19" url="2019-03-20_13-30_538.xml">
+   <title>Mehr Nachrichten vom 20.03.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-03-20_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-03-20_13-30_538-full.png" type="screenshot" url="2019-03-20_13-30_538-full.png"/>
+      <resource id="2" name="2019-03-20_13-30_538_plaintext.txt" type="plaintext" url="2019-03-20_13-30_538_plaintext.txt"/>
+      <resource id="3" name="2019-03-20_13-30_538_quellcode.txt" type="sourcecode" url="2019-03-20_13-30_538_quellcode.txt"/>
+      <resource id="4" name="2019-03-20_13-30_538.docx" type="formatedText" url="2019-03-20_13-30_538.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 20.03.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: NDR gewinnt besondere Preise</subheadline>
+               <explanation_marker>
+                  <statement>In Berlin war eine Feier.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Berlin ist die Haupt·stadt von Deutschland.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Mitarbeiter vom NDR haben bei dieser Feier 2 besondere Preise bekommen.</statement>
+               <explanation_marker>
+                  <statement>Diese 2 besonderen Preise sind für eine Folge von der Sesamstraße.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Die Sesamstraße ist eine Sendung für Kinder.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Und diese 2 besonderen Preise sind Hör·film·preise.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Ein Hör·film ist ein Film mit einer Audio·deskription.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Eine Audio·deskription ist für blinde Menschen.</style_element></statement>
+                              </explanation>
+                              <explanation id="2"> 
+                                 <statement><style_element type="hi">Die blinden Menschen können zum Beispiel <style_element type="hb">nicht</style_element> sehen:</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <question><style_element type="hi">Was passiert gerade in einem Film?</style_element></question>
+                              </explanation>
+                              <explanation id="4">
+                                 <statement><style_element type="hi">Deshalb beschreibt eine Stimme zum Beispiel:</style_element></statement>
+                              </explanation>
+                              <explanation id="5">
+                                 <statement><style_element type="hi">Das passiert gerade in dem Film.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Audio·deskription von der Folge von der Sesamstraße ist nämlich besonders gut.</statement>
+               <statement>Der Chef vom NDR ist Lutz Marmor.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Lutz Marmor hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Arbeit von den Mitarbeitern vom NDR ist sehr wichtig.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Wir freuen uns sehr über die Hör·film·preise.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Feuerwehr bringt Schüler in Sicherheit</subheadline>
+               <statement>In Lübeck hat die Feuerwehr einige Menschen in Sicherheit gebracht.</statement>
+               <statement>Die Menschen waren in einer Grund·schule.</statement>
+               <statement>Und viele von den Menschen sind Schüler.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In der Grund·schule ist wahrscheinlich ein giftiger Stoff.</statement>
+                     </speech>
+                     <speech id="2"> 
+                        <statement>Deshalb konnten viele Menschen in der Grund·schule <style_element type="hb">nicht</style_element> richtig atmen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und deshalb wurden 9 Menschen verletzt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Jetzt untersucht die Feuer·wehr:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Was ist das für ein giftiger Stoff?</question>
+                     </speech>
+                     <speech id="2">
+                        <question>Und warum ist dieser giftige Stoff in der Grund·schule?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

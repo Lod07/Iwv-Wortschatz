@@ -1,0 +1,204 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-21" url="2019-04-08_13-30_484.xml">
+   <title>Mehr Nachrichten vom 08.04.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-04-08_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-04-08_13-30_484-full.png" type="screenshot" url="2019-04-08_13-30_484-full.png"/>
+      <resource id="2" name="2019-04-08_13-30_484_plaintext.txt" type="plaintext" url="2019-04-08_13-30_484_plaintext.txt"/>
+      <resource id="3" name="2019-04-08_13-30_484_quellcode.txt" type="sourcecode" url="2019-04-08_13-30_484_quellcode.txt"/>
+      <resource id="4" name="2019-04-08_13-30_484.docx" type="formatedText" url="2019-04-08_13-30_484.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 08.04.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Nord·deutschland: Halb·finale ausgelost</subheadline>
+               <explanation_marker>
+                  <statement>2 Fußball·vereine aus Nord·deutschland sind im DFB-Pokal sehr erfolgreich.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Der DFB-Pokal ist ein wichtiger Wettbewerb im Fußball.</style_element></statement>
+                     </explanation>
+                     <explanation id="2"> 
+                        <statement><style_element type="hi"><style_element type="hb">DFB</style_element> ist die Abkürzung für <style_element type="hb">D</style_element>eutscher <style_element type="hb">F</style_element>ußball-<style_element type="hb">B</style_element>und.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Im DFB-Pokal spielen nur deutsche Fußball·vereine.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Diese 2 Fußball·vereine sind:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Werder Bremen.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <explanation_marker>
+                           <statement>• Und der HSV.</statement> 
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi"><style_element type="hb">HSV</style_element> ist die Abkürzung für <style_element type="hb">H</style_element>amburger <style_element type="hb">S</style_element>port-<style_element type="hb">V</style_element>erein.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <explanation_marker>
+                  <statement>Diese 2 Fußball·vereine sind nämlich im Halb·finale.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Jetzt spielen nur noch 4 Mannschaften im DFB-Pokal.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Am Sonntag war die Auslosung vom Halb·finale.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Jetzt ist klar:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Werder Bremen spielt im Halb·finale gegen Bayern München.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und der HSV spielt im Halb·finale gegen RB Leipzig.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Die Spiele von Werder Bremen und dem HSV sind am 23. April und am 24. April.</statement>
+            </section>
+            <style_element type="line" />
+            <section id="2">
+               <subheadline>Schleswig-Holstein: Frau getötet</subheadline>
+                  <explanation_marker>
+                     <statement>In Preetz hat ein Mann eine Frau mit einem Messer getötet.</statement>
+                     <explanations>
+                        <explanation id="1">
+                           <statement><style_element type="hi">Preetz ist eine Stadt in der Nähe von Kiel.</style_element></statement>
+                        </explanation>
+                     </explanations>
+                  </explanation_marker>
+                  <statement>Die Polizei hat gesagt:</statement>
+                  <statement>Der Mann ist zu uns gekommen.</statement>
+                  <speech_marker>
+                     <speech_intro>
+                        <statement>Und der Mann hat ein Geständnis gemacht.</statement>
+                     </speech_intro>
+                     <speeches>
+                        <speech id="1">
+                           <explanation_marker>
+                              <statement><style_element type="hi">Bei einem Geständnis sagt ein Mensch:</style_element></statement>
+                              <explanations>
+                                 <explanation id="1">
+                                    <statement><style_element type="hi">Ich gebe zu:</style_element></statement>
+                                 </explanation>
+                                 <explanation id="2">
+                                    <statement><style_element type="hi">Ich habe die Tat gemacht.</style_element></statement>
+                                 </explanation>
+                              </explanations>
+                           </explanation_marker>
+                        </speech>
+                        <speech id="2">
+                           <statement>Dann sind wir zu der Wohnung von der Frau gefahren.</statement>
+                        </speech>
+                        <speech id="3">
+                           <statement>Und wir haben die tote Frau in ihrer Wohnung gefunden.</statement>
+                        </speech>
+                     </speeches>
+                  </speech_marker>
+                  <explanation_marker>
+                     <statement>Jetzt ist der Mann in Untersuchungs·haft.</statement>
+                     <explanations>
+                        <explanation id="1">
+                           <statement><style_element type="hi">Bei einer Untersuchungs·haft ist ein Mensch im Gefängnis.</style_element></statement>
+                        </explanation>
+                        <explanation id="2">
+                           <speech_marker>
+                              <speech_intro>
+                                 <statement><style_element type="hi">Und die Polizei muss beweisen:</style_element></statement>
+                              </speech_intro>
+                              <speeches>
+                                 <speech id="1">
+                                    <statement><style_element type="hi">Der Mensch hat ein Verbrechen gemacht.</style_element></statement>
+                                 </speech>
+                              </speeches>
+                           </speech_marker>
+                        </explanation>
+                        <explanation id="3">
+                           <statement><style_element type="hi">Dann bekommt der Mensch vielleicht eine Strafe.</style_element></statement>
+                        </explanation>
+                     </explanations>
+                  </explanation_marker>
+            </section>
+            <style_element type="line" />
+            <section id="3">
+               <subheadline>Schleswig-Holstein: THW Kiel gewinnt wichtigen Wettbewerb</subheadline>
+                  <explanation_marker>
+                     <statement>Der THW Kiel hat am Sonntag einen wichtigen Wettbewerb gewonnen.</statement>
+                     <explanations>
+                        <explanation id="1">
+                           <statement><style_element type="hi">Der THW Kiel ist ein Handball·verein aus Kiel.</style_element></statement>
+                        </explanation>
+                     </explanations>
+                  </explanation_marker>
+                  <explanation_marker>
+                     <statement>Der Wettbewerb heißt DHB-Pokal.</statement> 
+                     <explanations>
+                        <explanation id="1">
+                           <statement><style_element type="hi"><style_element type="hb">DHB</style_element> ist die Abkürzung für <style_element type="hb">D</style_element>eutscher <style_element type="hb">H</style_element>andball·<style_element type="hb">b</style_element>und.</style_element></statement>
+                        </explanation>
+                     </explanations>
+                  </explanation_marker>
+                  <statement>Im DHB-Pokal gibt es viele Spiele.</statement>
+                  <statement>Aber nur die Gewinner von den Spielen dürfen im DHB-Pokal weiterspielen.</statement>
+                  <explanation_marker>
+                     <statement>Am Ende von dem DHB-Pokal gibt es ein Finale.</statement>
+                     <explanations>
+                        <explanation id="1">
+                           <statement><style_element type="hi">Ein Finale ist das letzte Spiel von einem Wettbewerb.</style_element></statement>
+                        </explanation>
+                        <explanation id="2">
+                           <statement><style_element type="hi">Der Gewinner von dem Finale hat den Wettbewerb gewonnen.</style_element></statement>
+                        </explanation>
+                     </explanations>
+                  </explanation_marker>
+                  <statement>Im Finale spielen die 2 besten Handball·vereine im DHB-Pokal.</statement>
+                  <statement>In diesem Jahr war der THW Kiel im Finale.</statement>
+                  <explanation_marker>
+                     <statement>Und der SC Magdeburg war im Finale.</statement>
+                     <explanations>
+                        <explanation id="1">
+                           <explanation_marker>
+                              <statement><style_element type="hi">Der SC Magdeburg ist ein Handball·verein aus Magdeburg.</style_element></statement>
+                              <explanations>
+                                 <explanation id="1">
+                                    <statement><style_element type="hi">Magdeburg ist eine Stadt in Sachsen-Anhalt.</style_element></statement>
+                                 </explanation>
+                              </explanations>
+                           </explanation_marker>
+                        </explanation>
+                     </explanations>
+                  </explanation_marker>
+                  <statement>Der THW Kiel hat das Finale gegen den SC Magdeburg mit 28:24 gewonnen.</statement>
+                  <statement>Deshalb hat der THW Kiel den DHB-Pokal gewonnen.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

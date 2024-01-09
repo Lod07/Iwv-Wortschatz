@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-27" url="2019-12-18_13-30_108.xml">
+   <title>Mehr Nachrichten vom 18.12.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-12-18_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-12-18_13-30_108-full.png" type="screenshot" url="2019-12-18_13-30_108-full.png"/>
+      <resource id="2" name="2019-12-18_13-30_108_plaintext.txt" type="plaintext" url="2019-12-18_13-30_108_plaintext.txt"/>
+      <resource id="3" name="2019-12-18_13-30_108_quellcode.txt" type="sourcecode" url="2019-12-18_13-30_108_quellcode.txt"/>
+      <resource id="4" name="2019-12-18_13-30_108.docx" type="formatedText" url="2019-12-18_13-30_108.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 18.12.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: 1000 Schweine gestorben</subheadline>
+            <explanation_marker>
+               <statement>In Neustadt war ein Unglück.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Neustadt ist in der Nähe von Hannover.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei diesem Unglück sind ungefähr 1000 Schweine gestorben.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Bei diesem Unglück sind ungefähr 1000 Schweine gestorben.</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Schweine waren in einem Betrieb.</statement>
+                  </speech>
+                  <speech id="2">
+                     <explanation_marker>
+                        <statement>In diesem Betrieb war die Futter·anlage kaputt.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Eine Futter·anlage ist eine Maschine.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Diese Maschine kann Tiere automatisch füttern.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb haben die Schweine nichts zu <style_element type="hb">essen</style_element> bekommen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und <style_element type="hb">nichts</style_element> zu trinken.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Und deshalb sind die Schweine gestorben.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt will die Polizei wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum war die Futter·anlage kaputt?</question>
+                  </speech>
+                  <speech id="2">
+                     <question>Und warum hat der Besitzer von dem Betrieb die kaputte Futter·anlage <style_element type="hb">nicht</style_element> bemerkt?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Neue Koalition in Bergedorf</subheadline>
+            <explanation_marker>
+               <statement>Im Bezirk Bergedorf haben 3 Parteien eine Vereinbarung getroffen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Bezirk ist ein Teil von Hamburg.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Hamburg hat 7 Bezirke.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese 3 Parteien sind:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                    <explanation_marker>
+                       <headword>• Die SPD.</headword>
+                       <explanations>
+                          <explanation id="1">
+                             <statement><style_element type="hi">SPD ist die Abkürzung für <style_element type="hb">S</style_element>ozial·<style_element type="hb">d</style_element>emokratische <style_element type="hb">P</style_element>artei Deutschlands.</style_element></statement>
+                          </explanation>
+                       </explanations>
+                    </explanation_marker>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Die Grünen.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <explanation_marker>
+                        <statement>• Und die FDP.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">FDP ist die Abkürzung für <style_element type="hb">F</style_element>reie <style_element type="hb">D</style_element>emokratische <style_element type="hb">P</style_element>artei.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>  
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Diese 3 Parteien haben nach langen Verhandlungen gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Wir wollen eine Koalition machen.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Bei einer Koalition arbeiten Parteien zusammen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Jetzt können diese 3 Parteien wichtige Entscheidungen für Bergedorf treffen.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

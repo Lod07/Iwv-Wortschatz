@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2020-02-20_14-30_115.xml">
+   <title>Mehr Nachrichten vom 20.02.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-02-20_14-30</vdate>
+   <resources>
+      <resource id="1" name="2020-02-20_14-30_115-full.png" type="screenshot" url="2020-02-20_14-30_115-full.png"/>
+      <resource id="2" name="2020-02-20_14-30_115_plaintext.txt" type="plaintext" url="2020-02-20_14-30_115_plaintext.txt"/>
+      <resource id="3" name="2020-02-20_14-30_115_quellcode.txt" type="sourcecode" url="2020-02-20_14-30_115_quellcode.txt"/>
+      <resource id="4" name="2020-02-20_14-30_115.docx" type="formatedText" url="2020-02-20_14-30_115.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 20.02.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Tier·skelette für Tier·park</subheadline>
+            <explanation_marker>
+               <statement>Hamburg bekommt besondere Skelette.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Ein Skelett ist das Knochen·gerüst von einem Menschen.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Oder von einem Tier.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Diese Skelette sind von Dino·sauriern.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Dino·saurier sind sehr große Tiere.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Dino·saurier haben vor sehr langer Zeit gelebt.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Heute leben diese Tiere <style_element type="hb">nicht</style_element> mehr.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und diese Skelette hat der Tier·park Hagenbeck gekauft.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Der Tier·park Hagenbeck ist ein großer Zoo.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der Tier·park Hagenbeck hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Skelette sind von vier Dino·sauriern.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die Skelette sind 150 Millionen Jahre alt.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Forscher haben die Skelette in den USA gefunden.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Die Skelette sind von vier Dino·sauriern.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Der Tier·park Hagenbeck will die Dinosaurier-skelette bald zeigen.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Unfälle auf A19</subheadline>
+            <explanation_marker>
+               <statement>Auf der A19 waren viele Unfälle.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">A19 ist die Abkürzung für <style_element type="hb">A</style_element>uto·bahn <style_element type="hb">19</style_element>.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Diese Unfälle waren zwischen Linstow und Malchow.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Linstow und Malchow sind Orte in der Nähe von den Mecklenburger Seen.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei den Unfällen sind mehrere Autos zusammen·gestoßen.</statement>
+            <statement>Und bei den Unfällen sind Autos von der Auto·bahn gerutscht.</statement>
+            <statement>Bei den Unfällen wurde kein Mensch verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Kurz vor den Unfällen war Hagel.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Der Hagel hat die Fahr·bahn rutschig gemacht.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb sind die Unfälle passiert.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Die Polizei hat einen Teil von der A19 für kurze Zeit gesperrt.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

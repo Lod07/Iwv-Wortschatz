@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-09-20_15-00_704.xml">
+   <title>Moor brennt seit mehr als 2 Wochen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-09-20_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-09-20_15-00_704-full.png" type="screenshot" url="2018-09-20_15-00_704-full.png"/>
+      <resource id="2" name="2018-09-20_15-00_704_plaintext.txt" type="plaintext" url="2018-09-20_15-00_704_plaintext.txt"/>
+      <resource id="3" name="2018-09-20_15-00_704_quellcode.txt" type="sourcecode" url="2018-09-20_15-00_704_quellcode.txt"/>
+      <resource id="4" name="2018-09-20_15-00_704.docx" type="formatedText" url="2018-09-20_15-00_704.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Moor brennt seit mehr als 2 Wochen</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Im Emsland ist seit mehr als 2 Wochen ein großes Feuer.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Das Emsland ist eine Gegend in Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Bei dem Feuer brennt ein Moor.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Moor ist eine große Fläche.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und ein Moor hat einen besonderen Boden.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Dieser Boden ist meistens nass.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>In dem Moor wohnen <style_element type="hb">keine</style_element> Menschen.</statement>
+            <statement>Deshalb wurden bei dem Feuer <style_element type="hb">keine</style_element> Menschen verletzt.</statement>
+         </section>
+         <section id="2">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Feuerwehr hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Im Emsland hat es sehr wenig geregnet.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb ist das Moor sehr trocken.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und deshalb brennt das Moor sehr gut.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Wir wollen das Feuer löschen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Aber das ist sehr schwierig.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Das Feuer ist nämlich tief im Boden.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Wie ist das Feuer entstanden?</subheadline>
+               <statement>Das Moor ist auf einem Gelände von der Bundeswehr.</statement>
+               <statement>Auf diesem Gelände testet die Bundeswehr Waffen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Bundeswehr hat in dem Moor Raketen getestet.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Wahrscheinlich hat eine von den Raketen das Feuer gemacht.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Die Bundeswehr hat eine eigene Feuerwehr.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und diese Feuerwehr wollte das Feuer löschen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Aber die Lösch·fahrzeuge von der Feuerwehr waren kaputt.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Deshalb konnte die Feuerwehr das Feuer <style_element type="hb">nicht</style_element> löschen.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Und deshalb wurde das Feuer immer größer.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Die Polizei ermittelt</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Viele Politiker haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Das Moor ist sehr trocken.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und die Lösch·fahrzeuge von der Bundeswehr sind kaputt.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb war der Test von den Raketen schlecht.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei will wissen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Warum hat die Bundeswehr im Moor trotzdem Raketen getestet?</question>
+                     </speech>
+                     <speech id="2">
+                        <question>Und wer ist schuld an dem Feuer?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Deshalb ermittelt jetzt die Polizei.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

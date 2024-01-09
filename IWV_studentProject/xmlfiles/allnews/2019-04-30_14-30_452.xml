@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-26" url="2019-04-30_14-30_452.xml">
+   <title>Stefan Schostok will nicht mehr Ober·bürger·meister sein</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-04-30_14-30</vdate>
+   <resources>
+      <resource id="1" name="2019-04-30_14-30_452-full.png" type="screenshot" url="2019-04-30_14-30_452-full.png"/>
+      <resource id="2" name="2019-04-30_14-30_452_plaintext.txt" type="plaintext" url="2019-04-30_14-30_452_plaintext.txt"/>
+      <resource id="3" name="2019-04-30_14-30_452_quellcode.txt" type="sourcecode" url="2019-04-30_14-30_452_quellcode.txt"/>
+      <resource id="4" name="2019-04-30_14-30_452.docx" type="formatedText" url="2019-04-30_14-30_452.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Stefan Schostok will nicht mehr Ober·bürger·meister sein</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Hannover hat ein wichtiger Politiker eine Entscheidung getroffen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Hannover ist die Haupt·stadt von Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Politiker ist Stefan Schostok.</statement>
+            <explanation_marker>
+               <statement>Stefan Schostok ist der Ober·bürger·meister von Hannover.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Ober·bürger·meister ist der Chef von einer Stadt.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt hat Stefan Schostok aber gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Ich will <style_element type="hb">nicht</style_element> mehr Ober·bürger·meister von Hannover sein.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker> 
+            <explanation_marker>
+               <statement>Stefan Schostok ist von der SPD.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi"><style_element type="hb">SPD</style_element> ist die Abkürzung für <style_element type="hb">S</style_element>ozial·demokratische <style_element type="hb">P</style_element>artei <style_element type="hb">D</style_element>eutschlands.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und Stefan Schostok ist 54 Jahre alt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Noch weiß <style_element type="hb">kein</style_element> Mensch:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wer wird der neue Ober·bürger·meister von Hannover?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Warum will Stefan Schostok aufhören?</subheadline>
+               <statement>Stefan Schostok hat Probleme.</statement>
+               <explanation_marker>
+                  <statement>Gegen Stefan Schostok ermittelt nämlich die Staats·anwaltschaft.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Die Staats·anwaltschaft ist eine Behörde.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement><style_element type="hi">Die Staats·anwaltschaft prüft:</style_element></statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question><style_element type="hi">• Hat ein Mensch etwas Verbotenes getan?</style_element></question>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Dann gibt es vielleicht einen Prozess.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement><style_element type="hi">Und dann fordert die Staats·anwaltschaft vor Gericht:</style_element></statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement><style_element type="hi">Dieser Mensch soll eine Strafe bekommen.</style_element></statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Staats·anwaltschaft glaubt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Stefan Schostok hat etwas Verbotenes bei der Arbeit getan.</statement>
+                     </speech>
+                     <speech id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Stefan Schostok hat nämlich gewusst:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>2 wichtige Beamte bekommen zu viel Geld für ihre Arbeit.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Aber Stefan Schostok hat <style_element type="hb">nichts</style_element> dagegen unternommen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Deshalb muss Stefan Schostok vielleicht vor Gericht.</statement>
+         </section>
+         <section id="3">
+            <speech_marker> 
+               <speech_intro>
+                  <statement>Stefan Schostok hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Ich habe <style_element type="hb">nichts</style_element> Verbotenes bei meiner Arbeit getan.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Aber viele Menschen glauben mir <style_element type="hb">nicht</style_element>.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und viele Menschen vertrauen mir <style_element type="hb">nicht</style_element> mehr.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb möchte ich <style_element type="hb">nicht</style_element> mehr Ober·bürger·meister von Hannover sein.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Wer wird der neue Ober·bürger·meister?</subheadline>
+               <statement>Stefan Schostok war seit 2013 der Ober·bürger·meister von Hannover.</statement>
+               <statement>Jetzt braucht Hannover einen neuen Ober·bürger·meister.</statement>
+               <statement>Diesen neuen Ober·bürger·meister wählen die Menschen in Hannover.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Aber noch weiß <style_element type="hb">kein</style_element> Mensch:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1"> 
+                        <question>Wann ist die Wahl vom neuen Ober·bürger·meister?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

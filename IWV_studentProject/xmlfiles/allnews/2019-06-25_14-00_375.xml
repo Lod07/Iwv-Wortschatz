@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-06-25_14-00_375.xml">
+   <title>Flugzeug·absturz: Bundeswehr ermittelt</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-06-25_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-06-25_14-00_375-full.png" type="screenshot" url="2019-06-25_14-00_375-full.png"/>
+      <resource id="2" name="2019-06-25_14-00_375_plaintext.txt" type="plaintext" url="2019-06-25_14-00_375_plaintext.txt"/>
+      <resource id="3" name="2019-06-25_14-00_375_quellcode.txt" type="sourcecode" url="2019-06-25_14-00_375_quellcode.txt"/>
+      <resource id="4" name="2019-06-25_14-00_375.docx" type="formatedText" url="2019-06-25_14-00_375.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Flugzeug·absturz: Bundeswehr ermittelt</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In der Nähe von Malchow sind am Montag 2 Flugzeuge abgestürzt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Malchow ist ein kleiner Ort in Mecklenburg-Vorpommern.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Diese 2 Flugzeuge waren von der Bundeswehr.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die Bundeswehr ist die Armee von Deutschland.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und diese 2 Flugzeuge waren Kampf·flugzeuge.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Kampf·flugzeuge können zum Beispiel Raketen abschießen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Kampf·flugzeuge können andere Flugzeuge angreifen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Jetzt ermitteln Fach·leute von der Bundeswehr.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Fach·leute wollen nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum sind die 2 Flugzeuge abgestürzt?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Bei dem Absturz ist der Pilot von dem einen Flugzeug gestorben.</statement>
+            <statement>Und der Pilot von dem anderen Flugzeug  wurde verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Am Montag haben 3 Kampf·flugzeuge eine Übung gemacht.</statement>
+               <statement>Bei dieser Übung hatten die 3 Kampf·flugzeuge zum Beispiel <style_element type="hb">keine</style_element> Raketen.</statement> 
+               <speech_marker>
+               <speech_intro>
+                  <statement>Aber die 3 Kampf·flugzeuge haben zum Beispiel geübt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wie greife ich ein anderes Flugzeug an?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Bei dieser Übung sind 2 von den 3 Kampf·flugzeugen zusammen·gestoßen.</statement>
+            <statement>Deshalb sind diese 2 Kampf·flugzeuge abgestürzt.</statement>
+            <explanation_marker>
+               <statement>Und deshalb haben die Piloten von den 2 Kampf·flugzeugen den Schleuder·sitz benutzt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Mit einem Schleuder·sitz können sich Piloten aus kaputten Flugzeugen retten.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <question><style_element type="hi">Ein Pilot benutzt einen Schleuder·sitz?</style_element></question>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Dann wird der Pilot mit seinem Sitz aus dem Flugzeug herausgeschleudert.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Am Schleuder·sitz ist ein Fall·schirm.</style_element></statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement><style_element type="hi">An diesem Fall·schirm schwebt der Pilot mit dem Schleuder·sitz auf die Erde.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Ein Pilot ist mit seinem Fallschirm in einem Baum gelandet.</statement>
+            <statement>Dieser Pilot wurde verletzt.</statement>
+            <statement>Aber der andere Pilot ist gestorben.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Suche nach Flug·schreibern</subheadline>
+               <explanation_marker>
+                  <statement>Jetzt suchen Fach·leute die Flug·schreiber von den 2 Kampf·flugzeugen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Flug·schreiber ist ein besonderes Gerät.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Dieses Gerät ist in einem Flugzeug.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Und dieses Gerät speichert alle Daten von dem Flugzeug.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword>Zum Beispiel:</headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <question>In welche Richtung fliegt das Flugzeug?</question>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Mit den Daten von den Flug·schreibern wollen die Fach·leute herausfinden:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Warum sind die 2 Kampf·flugzeuge abgestürzt?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

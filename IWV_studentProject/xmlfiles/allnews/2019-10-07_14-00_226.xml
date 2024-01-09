@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-30" url="2019-10-07_14-00_226.xml">
+   <title>A7 bis Dienstag gesperrt</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-07_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-10-07_14-00_226-full.png" type="screenshot" url="2019-10-07_14-00_226-full.png"/>
+      <resource id="2" name="2019-10-07_14-00_226_plaintext.txt" type="plaintext" url="2019-10-07_14-00_226_plaintext.txt"/>
+      <resource id="3" name="2019-10-07_14-00_226_quellcode.txt" type="sourcecode" url="2019-10-07_14-00_226_quellcode.txt"/>
+      <resource id="4" name="2019-10-07_14-00_226.docx" type="formatedText" url="2019-10-07_14-00_226.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>A7 bis Dienstag gesperrt</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Auf einem Teil von der A7 dürfen <style_element type="hb">keine</style_element> Autos fahren.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">A7 ist die Abkürzung für <style_element type="hb">A</style_element>uto·bahn <style_element type="hb">7</style_element>.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Auf diesem Teil ist die A7 nämlich abgesackt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Fahr·bahn hat sich nach unten bewegt.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieser Teil von der A7 ist in der Nähe von Salzgitter.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Salzgitter ist eine Stadt in Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Jetzt reparieren Bau·arbeiter die A7.</statement>
+            <statement>Die Polizei hat diesen Teil von der A7 gesperrt.</statement>
+            <statement>Deshalb müssen viele Auto·fahrer einen Umweg fahren.</statement>
+            <statement>Und deshalb sind in Niedersachsen viele Staus.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+            <statement>Am Freitag haben sich viele Auto·fahrer bei der Polizei gemeldet.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Diese Auto·fahrer haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Auf der A7 ist die Fahr·bahn kaputt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Fach·leute haben sich die Fahr·bahn von der A7 angeguckt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Dann haben die Fach·leute gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Auf einem Teil von der A7 ist die Fahr·bahn abgesackt.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dieser Teil ist ungefähr 10 Meter lang.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und dieser Teil ist ungefähr 20 Zentimeter tief.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die kaputte A7 ist für Auto·fahrer sehr gefährlich.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb haben wir diesen Teil von der A7 gesperrt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>         
+         </section>
+         <section id="3">
+            <subheadline>Reparatur dauert bis Dienstag</subheadline>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Zuerst haben die Fach·leute gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Eine Firma soll die A7 am Wochen·ende reparieren.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Aber diese Firma hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir können die A7 <style_element type="hb">nicht</style_element> am Wochen·ende reparieren.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Wir haben am Wochen·ende nämlich <style_element type="hb">nicht</style_element> genug Bau·arbeiter.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Wir können die A7 erst am Montag reparieren.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Deshalb war die A7 am Wochen·ende gesperrt.</statement>
+            <statement>Und deshalb waren am Wochen·ende viele Staus.</statement>
+            <statement>Am Montag hat die Reparatur von der A7 begonnen.</statement>
+            <statement>Die Reparatur dauert wahrscheinlich bis Dienstag·abend.</statement>
+         </section>
+      </sections> 
+   </content>
+</annotation>

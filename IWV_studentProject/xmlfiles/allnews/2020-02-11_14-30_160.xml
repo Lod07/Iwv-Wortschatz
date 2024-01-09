@@ -1,0 +1,204 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2020-02-11_14-30_160.xml">
+   <title>Mehr Nachrichten vom 11.02.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-02-11_14-30</vdate>
+   <resources>
+      <resource id="1" name="2020-02-11_14-30_160-full.png" type="screenshot" url="2020-02-11_14-30_160-full.png"/>
+      <resource id="2" name="2020-02-11_14-30_160_plaintext.txt" type="plaintext" url="2020-02-11_14-30_160_plaintext.txt"/>
+      <resource id="3" name="2020-02-11_14-30_160_quellcode.txt" type="sourcecode" url="2020-02-11_14-30_160_quellcode.txt"/>
+      <resource id="4" name="2020-02-11_14-30_160.docx" type="formatedText" url="2020-02-11_14-30_160.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 11.02.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Frau und Mann müssen lebenslang in Gefängnis</subheadline>
+            <explanation_marker>
+               <statement>In Itzehoe war ein Prozess.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Prozess hat das Gericht eine Frau und einen Mann verurteilt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Gericht hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Frau und der Mann haben einen anderen Mann ermordet.</statement>
+                  </speech>
+                  <speech id="2">
+                     <explanation_marker>
+                        <statement>Dieser andere Mann ist der Ex-Freund von der Frau.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword>
+                                 <style_element type="hi">Das heißt:</style_element>
+                              </headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">Die Frau und der andere Mann waren früher ein Paar.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="3">
+                     <explanation_marker>
+                        <statement>Nach dem Mord haben die Frau und der Mann die Leiche einbetoniert.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword>
+                                 <style_element type="hi">Das heißt:</style_element>
+                              </headword>
+                           </explanation>
+                           <explanation id="2">
+                              <explanation_marker>
+                                 <statement>
+                                    <style_element type="hi">Die Frau und der Mann haben Beton über den toten Mann gegossen.</style_element>
+                                 </statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement>
+                                          <style_element type="hi">Beton ist ein Bau·stoff.</style_element>
+                                       </statement>
+                                    </explanation>
+                                    <explanation id="2">
+                                       <statement>
+                                          <style_element type="hi">Beton ist zuerst flüssig.</style_element>
+                                       </statement>
+                                    </explanation>
+                                    <explanation id="3">
+                                       <statement>
+                                          <style_element type="hi">Dann wird Beton schnell hart wie Stein.</style_element>
+                                       </statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="4">
+                     <statement>Dann haben die Frau und der Mann die Leiche versteckt.</statement>
+                  </speech>
+                  <speech id="5">
+                     <explanation_marker>
+                        <statement>Deshalb müssen die Frau und der Mann lebenslang ins Gefängnis.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword>
+                                 <style_element type="hi">Das heißt:</style_element>
+                              </headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">Die Frau und der Mann müssen für mindestens 15 Jahre ins Gefängnis.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement>
+                                 <style_element type="hi">Und vielleicht kommen die Frau und der Mann nie wieder frei.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Nord·deutschland: Sturm·fluten nach Sturm</subheadline>
+            <explanation_marker>
+               <statement>In Nord·deutschland sind Sturm·fluten.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Eine Sturm·flut entsteht bei starkem Wind.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi"> Zum Beispiel an der Ostsee.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Oder an der Nordsee.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement>
+                        <style_element type="hi">Bei einer Sturm·flut fließt oft Wasser über die Ufer.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese Sturm·fluten sind zum Beispiel:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <statement>• An der Nordsee</statement>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• An der Ostsee</statement>
+                  </enumeration>
+                  <enumeration id="3">
+                     <statement>• Und in Hamburg.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Die Sturm·fluten haben schon Schäden gemacht.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Zum Beispiel auf Wangerooge.</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <statement>
+                        <style_element type="hi">Wangerooge ist eine Insel in der Nordsee.</style_element>
+                     </statement>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>
+                        <style_element type="hi">Und Wangerooge ist in Niedersachsen.</style_element>
+                     </statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Auf Wangerooge hat die Sturm·flut nämlich sehr viel Wasser an den Strand gespült.</statement>
+            <statement>Deshalb sind jetzt große Teile von dem Strand zerstört.</statement>
+            <explanation_marker>
+               <statement>In Hamburg hat die Sturm·flut viel Wasser von der Elbe über die Ufer gespült.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Die Elbe ist ein Fluss.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dann hat das Wasser Straßen im Hafen von Hamburg überschwemmt.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

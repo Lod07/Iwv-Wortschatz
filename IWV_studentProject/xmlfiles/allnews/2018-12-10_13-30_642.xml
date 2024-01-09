@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-28" url="2018-12-10_13-30_642.xml">
+   <title>Mehr Nachrichten vom 10.12.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-12-10_13-30</vdate>
+   <resources>
+      <resource id="1" name="2018-12-10_13-30_642-full.png" type="screenshot" url="2018-12-10_13-30_642-full.png"/>
+      <resource id="2" name="2018-12-10_13-30_642_plaintext.txt" type="plaintext" url="2018-12-10_13-30_642_plaintext.txt"/>
+      <resource id="3" name="2018-12-10_13-30_642_quellcode.txt" type="sourcecode" url="2018-12-10_13-30_642_quellcode.txt"/>
+      <resource id="4" name="2018-12-10_13-30_642.docx" type="formatedText" url="2018-12-10_13-30_642.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 10.12.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Fähre fährt nicht</subheadline>
+               <statement>Am Montag war ein Sturm in Schleswig-Holstein.</statement>
+               <explanation_marker> 
+                  <statement>Deshalb konnte eine Fähre <style_element type="hb">nicht</style_element> fahren.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Fähre ist ein Schiff.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Eine Fähre transportiert zum Beispiel Menschen.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <headword><style_element type="hi">Oder Autos.</style_element></headword>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Die Fähre fährt von Cuxhaven nach Helgoland.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Cuxhaven ist eine Stadt in Niedersachsen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Auch andere Fähren fahren nach Helgoland.</statement>
+               <explanation_marker>
+                  <statement>Aber diese Fähren sind von anderen Reedereien.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Reederei ist eine Firma.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Eine Reederei hat Schiffe.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker> 
+               <statement>Und die anderen Reedereien machen eine Winter·pause.</statement>
+               <statement>Deshalb ist am Montag <style_element type="hb">keine</style_element> Fähre nach Helgoland gefahren.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Jugendlicher stellt sich der Polizei</subheadline>
+               <explanation_marker>
+                  <statement>In Hamburg hat sich ein Jugendlicher der Polizei gestellt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Der Jugendliche ist zur Polizei gegangen.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und der Jugendliche hat gesagt:</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Ich habe etwas Schlimmes gemacht.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Der Jugendliche ist 15 Jahre alt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Und der Jugendliche hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ich habe 2 andere Jugendliche mit einem Messer verletzt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Jugendliche hat sich wahrscheinlich mit den 2 anderen Jugendlichen gestritten.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und dann hat der Jugendliche die 2 anderen Jugendlichen mit einem Messer verletzt.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Die 2 anderen Jugendlichen mussten in ein Krankenhaus.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

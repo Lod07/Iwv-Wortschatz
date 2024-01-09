@@ -3,6 +3,8 @@ import xml.etree.ElementTree as ET
 import spacy
 import seaborn as sns
 import numpy as np
+import statistics
+from collections import OrderedDict
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 from collections import Counter
@@ -48,7 +50,7 @@ def count_words_and_pos_tags(all_text, nlp):
                 continue
 
             # Informationen zu jedem Wort speichern
-            word_list.append((word, pos, tag))
+            word_list.append((capitalize_word(word, pos), pos, tag))
 
     return pos_count, word_list
 
@@ -75,6 +77,12 @@ def find_noun_endings(noun_list):
 
     return ending_lists
 
+# Funktion zur Überprüfung der Großschreibung
+def capitalize_word(word, pos):
+    if pos in ['NOUN', 'PROPN', 'NE', 'NNE']:
+        return word.capitalize()
+    return word
+
 
 # Gesamtanzahl aller Wörter
 total_word_count = 0
@@ -90,7 +98,9 @@ total_word_list = []
 
 options = DatasetOptions()
 options.removeMedioPoint = True
-datasetPath = Path(__file__).parent / 'xmlfiles'
+datasetPath = Path(__file__).parent / 'xmlfiles' 
+
+
 
 dataset = LSNewsData(datasetPath, options)
 
@@ -115,7 +125,7 @@ print(len(total_word_list))
 unique_words = find_unique_words(total_word_list)
 
 # Liste für alle Substantive
-all_nouns = [word for word, pos, _ in total_word_list if pos == 'NOUN']
+all_nouns = [word for word, pos, _ in total_word_list if pos in ['NOUN', 'PROPN', 'NE', 'NNE']]
 
 # Identifiziere Substantive mit den gesuchten Endungen
 ending_lists = find_noun_endings(all_nouns)
@@ -133,8 +143,9 @@ with open(output_path, 'w', encoding='utf-8') as output_file:
     # daten umformatieren hier
     final = {}
     for word, pos, tag in total_word_list:
+        word = capitalize_word(word, pos)  # Großschreibung hinzufügen
         if not word in final:
-            final[word] = { tag: 1 }
+            final[word] = {tag: 1}
         else:
             if not tag in final[word]:
                 final[word][tag] = 1
@@ -176,6 +187,9 @@ plt.axis('off')
 plt.show()
 
 
+#OHNE STATISTISCHE WERTE
+
+
 # Visualisierung Endungen Substantive
 ending_counts = {ending: len(nouns) for ending, nouns in ending_lists.items()}
 sns.barplot(x=list(ending_counts.keys()), y=list(ending_counts.values()))
@@ -184,6 +198,59 @@ plt.xlabel("Endungen")
 plt.ylabel("Anzahl")
 plt.show()
 
+# Bereinigung der Liste von Duplikaten
+ending_lists_relative = {ending: list(OrderedDict.fromkeys(words)) for ending, words in ending_lists.items()}
+
+# Visualisierung als Balkendiagramm
+ending_counts_relative = {ending: len(words) for ending, words in ending_lists_relative.items()}
+
+# Plot
+sns.barplot(x=list(ending_counts_relative.keys()), y=list(ending_counts_relative.values()))
+plt.title("Anzahl der Substantive mit den gesuchten Endungen (ohne Duplikate)")
+plt.xlabel("Endungen")
+plt.ylabel("Anzahl")
+plt.show()
+
+# Berechnung von statistischen Kennzahlen
+ending_lengths = [len(words) for words in ending_lists.values()]
+
+# Standardabweichung
+std_deviation = statistics.stdev(ending_lengths)
+print(f"Standardabweichung: {std_deviation}")
+
+# Varianz
+variance = statistics.variance(ending_lengths)
+print(f"Varianz: {variance}")
+
+# Spannweite
+range_value = max(ending_lengths) - min(ending_lengths)
+print(f"Spannweite: {range_value}")
 
 
-#Hi bin a commentar
+#MIT STATISTISCHEN WERTEN
+
+# Visualisierung Endungen Substantive
+ending_counts = {ending: len(nouns) for ending, nouns in ending_lists.items()}
+ending_lengths = [len(nouns) for nouns in ending_lists.values()]
+std_deviation = statistics.stdev(ending_lengths)
+
+sns.barplot(x=list(ending_counts.keys()), y=list(ending_counts.values()), yerr=std_deviation)
+plt.title("Anzahl der Substantive mit den gesuchten Endungen")
+plt.xlabel("Endungen")
+plt.ylabel("Anzahl")
+plt.show()
+
+# Bereinigung der Liste von Duplikaten
+ending_lists_relative = {ending: list(OrderedDict.fromkeys(words)) for ending, words in ending_lists.items()}
+
+# Visualisierung als Balkendiagramm
+ending_counts_relative = {ending: len(words) for ending, words in ending_lists_relative.items()}
+ending_lengths_relative = [len(words) for words in ending_lists_relative.values()]
+std_deviation_relative = statistics.stdev(ending_lengths_relative)
+
+# Plot
+sns.barplot(x=list(ending_counts_relative.keys()), y=list(ending_counts_relative.values()), yerr=std_deviation_relative)
+plt.title("Anzahl der Substantive mit den gesuchten Endungen (ohne Duplikate)")
+plt.xlabel("Endungen")
+plt.ylabel("Anzahl")
+plt.show()

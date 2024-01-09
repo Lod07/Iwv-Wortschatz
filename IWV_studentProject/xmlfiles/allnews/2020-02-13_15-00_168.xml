@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2020-02-13_15-00_168.xml">
+   <title>Polizei·einsatz gegen Einbrecher</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-02-13_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-02-13_15-00_168-full.png" type="screenshot" url="2020-02-13_15-00_168-full.png"/>
+      <resource id="2" name="2020-02-13_15-00_168_plaintext.txt" type="plaintext" url="2020-02-13_15-00_168_plaintext.txt"/>
+      <resource id="3" name="2020-02-13_15-00_168_quellcode.txt" type="sourcecode" url="2020-02-13_15-00_168_quellcode.txt"/>
+      <resource id="4" name="2020-02-13_15-00_168.docx" type="formatedText" url="2020-02-13_15-00_168.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Polizei·einsatz gegen Einbrecher</headline>
+      <sections>
+         <section id="1">
+            <statement>In Nord·deutschland war ein großer Polizei·einsatz.</statement>
+            <explanation_marker>
+               <statement>Bei diesem Einsatz hat die Polizei viele Verkehrs·kontrollen gemacht.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Bei einer Verkehrs·kontrolle hält die Polizei Autos an.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Dann überprüft die Polizei die Auto·fahrer.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement>
+                              <style_element type="hi">Und die Polizei sucht in den Autos zum Beispiel nach:</style_element>
+                           </statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword>
+                              <style_element type="hi">• Gestohlenen Dingen.</style_element>
+                              </headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword>
+                              <style_element type="hi">• Drogen.</style_element>
+                              </headword>
+                           </enumeration>
+                           <enumeration id="3">
+                              <headword>
+                              <style_element type="hi">• Oder Waffen.</style_element>
+                              </headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Die Verkehrs·kontrollen waren in mehreren Bundes·ländern:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• In Hamburg.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• In Schleswig-Holstein.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <headword>• Und in Niedersachsen.</headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <explanation_marker>
+               <statement>Bei den Verkehrs·kontrollen hat die Polizei nach Einbrechern gesucht.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Einbrecher gehen in fremde Häuser.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Dann stehlen die Einbrecher wertvolle Dinge aus dem Haus.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword>
+                              <style_element type="hi">Zum Beispiel:</style_element>
+                           </headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword>
+                                 <style_element type="hi">• Geld.</style_element>
+                              </headword>
+                           </enumeration>
+                           <enumeration id="1">
+                              <headword>
+                                 <style_element type="hi">• Oder Schmuck.</style_element>
+                              </headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Viele Polizisten im Einsatz</subheadline>
+            <statement>Bei den Verkehrs·kontrollen waren sehr viele Polizisten im Einsatz.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese Polizisten haben sehr viele Autos überprüft.</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <statement>• In Hamburg hat die Polizei etwa 380 Autos überprüft.</statement>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• In Niedersachsen hat die Polizei etwa 1100 Autos überprüft.</statement>
+                  </enumeration>
+                  <enumeration id="3">
+                     <statement>• Und in Schleswig-Holstein hat die Polizei etwa 300 Autos überprüft.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei in Hamburg hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Im Jahr 2019 waren in Hamburg weniger Einbrüche als 2018.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb waren wir sehr zufrieden.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Aber zu Beginn von diesem Jahr waren wieder sehr viele Einbrüche.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb haben wir die Kontrollen gemacht.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Die Einbrecher sollen nämlich wissen:</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Wir suchen nach Einbrechern.</statement>
+                  </speech>
+                  <speech id="7">
+                     <statement>Wir wollen nämlich weitere Einbrüche verhindern.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

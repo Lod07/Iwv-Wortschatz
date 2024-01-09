@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-24" url="2020-03-20_14-30_179.xml">
+   <title>Mehr Nachrichten vom 20.03.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-03-20_14-30</vdate>
+   <resources>
+      <resource id="1" name="2020-03-20_14-30_179-full.png" type="screenshot" url="2020-03-20_14-30_179-full.png"/>
+      <resource id="2" name="2020-03-20_14-30_179_plaintext.txt" type="plaintext" url="2020-03-20_14-30_179_plaintext.txt"/>
+      <resource id="3" name="2020-03-20_14-30_179_quellcode.txt" type="sourcecode" url="2020-03-20_14-30_179_quellcode.txt"/>
+      <resource id="4" name="2020-03-20_14-30_179.docx" type="formatedText" url="2020-03-20_14-30_179.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 20.03.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Sammel·taxis fahren bald nicht mehr</subheadline>
+            <explanation_marker>
+               <statement>Die Sammel·taxis von der Firma Moia fahren bald <style_element type="hb">nicht</style_element> mehr.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Sammel·taxis sind kleine Busse.</style_element></statement>
+                  </explanation>
+                  <explanation id="2"> 
+                    <statement><style_element type="hi">Die Sammel·taxis von der Firma Moia sind braun.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und die Sammel·taxis fahren mit Strom.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Firma Moia hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wegen der Corona-Krise fahren die Menschen kaum noch mit den Sammel·taxis.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und wir wollen die Fahrer vor dem Corona-Virus schützen.</statement>
+                  </speech>
+                  <speech id="3">
+                  <statement>Deshalb fahren ab dem 1. April <style_element type="hb">keine</style_element> Sammel·taxis mehr.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Die Firma Moia hat 900 Mitarbeiter.</statement>
+            <statement>Viele von den 900 Mitarbeitern können ab dem 1. April <style_element type="hb">nicht</style_element> mehr arbeiten.</statement>
+            <statement>Deshalb bekommen diese Mitarbeiter auch <style_element type="hb">kein</style_element> Gehalt mehr von der Firma Moia.</statement>
+            <explanation_marker>
+               <statement>Und deshalb sollen die Mitarbeiter Kurz·arbeiter·geld bekommen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Kurz·arbeiter·geld ist Geld vom Staat.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Kurz·arbeiter·geld hilft Firmen und Menschen in einer Krise.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Treffen vermeiden</subheadline>
+            <statement>In Rellingen war ein besonderes Treffen.</statement>
+            <statement>Dieses Treffen war von jungen Menschen.</statement>
+            <statement>Und dieses Treffen war draußen.</statement>
+            <statement>Manche Menschen nennen diese Treffen Corona-Party.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Ein Politiker hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir haben die Corona-Krise.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die Menschen sollen sich <style_element type="hb">nicht</style_element> mit dem Corona-Virus anstecken.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb sollen die Menschen <style_element type="hb">nicht</style_element> in Gruppen zusammen sein.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Auch junge Menschen sollen <style_element type="hb">nicht</style_element> in Gruppen zusammen sein.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Deshalb darf es keine Corona-Partys geben.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Die Polizei passt jetzt mehr auf diese Treffen auf.  </statement>
+            <statement>Und dann spricht die Polizei mit den Menschen.</statement>
+            <statement>Und dann sollen diese Menschen nach Hause gehen.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

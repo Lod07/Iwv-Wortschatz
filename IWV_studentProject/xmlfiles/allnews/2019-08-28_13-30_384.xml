@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-03" url="2019-08-28_13-30_384.xml">
+   <title>Mehr Nachrichten vom 28.08.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-08-28_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-08-28_13-30_384-full.png" type="screenshot" url="2019-08-28_13-30_384-full.png"/>
+      <resource id="2" name="2019-08-28_13-30_384_plaintext.txt" type="plaintext" url="2019-08-28_13-30_384_plaintext.txt"/>
+      <resource id="3" name="2019-08-28_13-30_384_quellcode.txt" type="sourcecode" url="2019-08-28_13-30_384_quellcode.txt"/>
+      <resource id="4" name="2019-08-28_13-30_384.docx" type="formatedText" url="2019-08-28_13-30_384.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 28.08.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Neue Vize-Präsidentin</subheadline>
+            <explanation_marker>
+               <statement>Aminata Touré ist die neue Vize-Präsidentin vom Landtag.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Eine Vize-Landtags·präsidentin vertritt den Landtags·präsidenten.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Ein Landtags·präsident ist der Chef von einem Landtag.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                      <statement><style_element type="hi">Im Landtag arbeiten viele Politiker.</style_element></statement> 
+                                    </explanation>
+                                    <explanation id="2">
+                                       <statement><style_element type="hi">Diese Politiker sagen zum Beispiel:</style_element></statement>
+                                    </explanation>
+                                    <explanation id="3">
+                                       <question><style_element type="hi">Wofür gibt Schleswig-Holstein Geld aus?</style_element></question>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Aminata Touré ist von den Grünen.</statement>
+            <statement>Und Aminata Touré ist aus Neumünster.</statement>
+            <statement>Aminata Touré ist 26 Jahre alt.</statement>
+            <statement>Und Aminata Touré ist eine von den jüngsten Politikern im Landtag.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Aminata Touré hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Jetzt darf ich den Landtag vertreten.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement> Darüber freue ich mich sehr.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Frauen verdienen weniger Geld als Männer</subheadline>
+            <explanation_marker>
+               <statement>Fach·leute in Hamburg haben eine Studie gemacht.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Studie ist eine Untersuchung.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Bei einer Studie wollen Forscher etwas herausfinden.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Deshalb stellen die Forscher zum Beispiel viele Fragen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Diese Studie zeigt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In Hamburg verdienen Frauen weniger Geld als Männer.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Frauen und Männer müssen gleich·berechtigt sein.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Frauen und Männer müssen die gleichen Rechte haben.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb dürfen Frauen zum Beispiel <style_element type="hb">nicht</style_element> weniger Geld verdienen als Männer.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und deshalb müssen wir etwas ändern.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

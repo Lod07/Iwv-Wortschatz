@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-30" url="2019-01-10_14-00_636.xml">
+   <title>Viele Flüge ausgefallen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-01-10_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-01-10_14-00_636-full.png" type="screenshot" url="2019-01-10_14-00_636-full.png"/>
+      <resource id="2" name="2019-01-10_14-00_636_plaintext.txt" type="plaintext" url="2019-01-10_14-00_636_plaintext.txt"/>
+      <resource id="3" name="2019-01-10_14-00_636_quellcode.txt" type="sourcecode" url="2019-01-10_14-00_636_quellcode.txt"/>
+      <resource id="4" name="2019-01-10_14-00_636.docx" type="formatedText" url="2019-01-10_14-00_636.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Viele Flüge ausgefallen</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Deutschland sind am Donnerstag viele Flüge ausgefallen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Viele Flug·zeuge sind <style_element type="hb">nicht</style_element> geflogen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Viele Arbeiter von den Flug·häfen haben nämlich gestreikt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Arbeiter von den Flug·häfen haben <style_element type="hb">nicht</style_element> gearbeitet.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Diese Arbeiter sind nämlich mit ihrer Arbeit <style_element type="hb">nicht</style_element> zufrieden.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Die Arbeiter wollen nämlich mehr Geld.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker> 
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Der Streik war an 3 großen Flug·häfen.</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• In Düsseldorf.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• In Köln/Bonn.</statement>
+                  </enumeration>
+                  <enumeration id="3">
+                     <statement>• Und in Stuttgart.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Deshalb konnten viele Flug·zeuge <style_element type="hb">nicht</style_element> starten.</statement>
+            <statement>Und <style_element type="hb">nicht</style_element> landen.</statement>
+            <statement>Und deshalb waren auch andere Flug·häfen von dem Streik betroffen.</statement>
+            <statement>Zum Beispiel Hamburg.</statement>
+            <statement>In Hamburg sind 48 Flüge ausgefallen.</statement>
+            <statement>Auch in Hannover und Bremen sind Flüge ausgefallen.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Besondere Arbeiter</subheadline>
+               <statement>Der Streik an den Flug·häfen war von besonderen Arbeitern.</statement>
+               <statement>Diese Arbeiter kümmern sich um die Sicherheit an den Flug·häfen.</statement>
+               <statement>Diese Arbeiter kontrollieren zum Beispiel die Koffer von den Passagieren.</statement>
+               <statement>Und die Kleidung.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Ein Sprecher von den Flug·häfen hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1"> 
+                        <statement>Die Sicherheit an den Flug·häfen ist sehr wichtig.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb müssen alle Passagiere kontrolliert werden.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Jetzt streiken viele Arbeiter an den Flug·häfen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb können <style_element type="hb">nicht</style_element> alle Passagiere kontrolliert werden.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Und deshalb dürfen viele Flug·zeuge <style_element type="hb">nicht</style_element> fliegen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Gewerkschaft hilft Arbeitern</subheadline>
+               <explanation_marker>
+                  <statement>Eine Gewerkschaft hilft den Arbeitern bei dem Streik.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Gewerkschaft ist eine Vereinigung von Arbeitern.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Eine Gewerkschaft hilft Arbeitern zum Beispiel bei einem Streit mit der Firma.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Diese Gewerkschaft ist ver.di.</statement>
+                  <explanations>
+                     <explanation id="1"> 
+                        <statement><style_element type="hi">Ver.di ist die Abkürzung für <style_element type="hb">Ver</style_element>einte <style_element type="hb">Di</style_element>enst·leistungs·gewerkschaft.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Ein Sprecher von ver.di hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Mitarbeiter von den Flug·häfen machen eine sehr wichtige Arbeit.</statement>
+                     </speech>
+                     <speech id="2">
+                        <headword>Wir glauben:</headword>
+                     </speech>
+                     <speech id="3">
+                        <statement>Die Mitarbeiter von den Flug·häfen werden schlecht bezahlt.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb haben wir mit den Arbeit·gebern gesprochen.</statement>
+                     </speech>
+                     <speech id="5"> 
+                        <statement>Aber die Arbeit·geber wollen den Mitarbeitern <style_element type="hb">nicht</style_element> mehr Geld bezahlen.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Deshalb haben die Mitarbeiter gestreikt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Am 23. Januar wollen sich die Gewerkschaft und die Arbeit·geber wieder treffen.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

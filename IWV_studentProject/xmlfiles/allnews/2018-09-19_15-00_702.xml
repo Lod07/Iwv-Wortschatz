@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-09-19_15-00_702.xml">
+   <title>Mann findet Gold im Schrank</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-09-19_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-09-19_15-00_702-full.png" type="screenshot" url="2018-09-19_15-00_702-full.png"/>
+      <resource id="2" name="2018-09-19_15-00_702_plaintext.txt" type="plaintext" url="2018-09-19_15-00_702_plaintext.txt"/>
+      <resource id="3" name="2018-09-19_15-00_702_quellcode.txt" type="sourcecode" url="2018-09-19_15-00_702_quellcode.txt"/>
+      <resource id="4" name="2018-09-19_15-00_702.docx" type="formatedText" url="2018-09-19_15-00_702.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mann findet Gold im Schrank</headline>
+      <sections>
+         <section id="1">
+            <statement>In Bremen hat ein Mann Gold gefunden.</statement>
+            <statement>Das Gold war in einem Schrank.</statement>
+            <statement>Diesen Schrank hat der Mann gekauft.</statement>
+            <statement>Der Mann war sehr ehrlich.</statement>
+            <explanation_marker>
+               <statement>Der Mann hat das Gold nämlich zu einem Fund·büro gebracht.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Fund·büro sammelt verlorene Sachen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <question><style_element type="hi">Sie haben eine Sache gefunden?</style_element></question>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Dann können Sie diese Sache zu einem Fund·büro bringen.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Ein anderer Mensch hat diese Sache nämlich vielleicht verloren.</style_element></statement>
+                  </explanation>
+                  <explanation id="5">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Und dieser Mensch kann im Fund·büro fragen:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question><style_element type="hi">Hat jemand meine verlorene Sache gefunden?</style_element></question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <explanation_marker>
+               <statement>Der Mann hat einen Finder·lohn bekommen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <question><style_element type="hi">Sie haben eine verlorene Sache gefunden?</style_element></question>
+                  </explanation>
+                  <explanation id="2">
+                     <question><style_element type="hi">Und Sie geben die verlorene Sache zurück?</style_element></question>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Dann bekommen Sie eine Belohnung.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Diese Belohnung heißt Finder·lohn.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Finder·lohn für den Mann ist 2.500 Euro.</statement>
+            <statement>Das Gold ist aber viel mehr Geld wert.</statement>
+            <statement>Das Gold ist nämlich 83.500 Euro wert.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Woher kommt das Gold?</subheadline>
+               <statement>Ein reicher Mann hat das Gold in dem Schrank versteckt.</statement>
+               <statement>Das Gold war viele Jahre in dem Schrank.</statement>
+               <statement>Dann ist der reiche Mann gestorben.</statement>
+               <statement>Die Familie von dem reichen Mann hat den Schrank verkauft.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Familie von dem reichen Mann wusste nämlich <style_element type="hb">nicht</style_element>:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In dem Schrank ist Gold versteckt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="4">
+            <statement>Der Mann in Bremen hat den Schrank gekauft.</statement>
+            <statement>Dann hat der Mann das Gold gefunden.</statement>
+            <statement>Und dann hat der Mann das Gold zu einem Fund·büro gebracht.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

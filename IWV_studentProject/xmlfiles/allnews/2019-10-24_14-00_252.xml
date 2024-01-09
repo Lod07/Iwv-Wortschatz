@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2019-10-24_14-00_252.xml">
+   <title>Großes Feuer</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-24_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-10-24_14-00_252-full.png" type="screenshot" url="2019-10-24_14-00_252-full.png"/>
+      <resource id="2" name="2019-10-24_14-00_252_plaintext.txt" type="plaintext" url="2019-10-24_14-00_252_plaintext.txt"/>
+      <resource id="3" name="2019-10-24_14-00_252_quellcode.txt" type="sourcecode" url="2019-10-24_14-00_252_quellcode.txt"/>
+      <resource id="4" name="2019-10-24_14-00_252.docx" type="formatedText" url="2019-10-24_14-00_252.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Großes Feuer</headline>
+      <sections>
+         <section id="1">
+            <statement>In Niedersachsen war ein großes Feuer.</statement>
+            <explanation_marker>
+               <statement>Das Feuer war in Stadthagen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Stadthagen ist eine Stadt in der Nähe von Hannover.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Feuer haben 4 große Hallen gebrannt.</statement>
+            <statement>In den 4 großen Hallen war Müll.</statement>
+            <statement>Bei dem Feuer wurden <style_element type="hb">keine</style_element> Menschen verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Viele Feuerwehr·leute</subheadline>
+            <statement>Das Feuer in den 4 Hallen war sehr groß.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Feuerwehr hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>300 Feuerwehr·leute waren bei dem Feuer.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die Feuerwehr·leute haben die ganze Nacht gelöscht.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Bei dem Feuer war viel Rauch.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Der Rauch ist giftig.</statement>
+                  </speech>
+                  <speech id="5">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Deshalb haben wir den Menschen in der Nähe gesagt:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Schließen Sie bitte alle Fenster und Türen von Ihren Wohnungen.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>                    
+                  </speech>
+               </speeches>
+            </speech_marker>            
+         </section>
+         <section id="3">
+            <subheadline>Besondere Hallen</subheadline>
+            <statement>Das Feuer war in besonderen Hallen.</statement>
+            <statement>Die Hallen waren nämlich sehr alt.</statement>
+            <explanation_marker>
+               <statement>Und die Hallen haben zu einer alten Zeche gehört.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">Eine Zeche ist ein Berg·werk.</style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">In einem Berg·werk arbeiten Menschen.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="2">
+                              <explanation_marker>
+                                 <statement>
+                                    <style_element type="hi">In einem Berg·werk holen Menschen zum Beispiel Kohle aus der Erde.</style_element>
+                                 </statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement>
+                                          <style_element type="hi">Kohle ist ein Brenn·stoff.</style_element>
+                                       </statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>                              
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>                    
+                  </explanation>
+               </explanations>
+            </explanation_marker>           
+         </section>
+         <section id="4">
+            <statement>Das Feuer hat die 4 Hallen zerstört.</statement>
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum haben die 4 Hallen gebrannt?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>            
+         </section>
+      </sections>
+   </content>
+</annotation>

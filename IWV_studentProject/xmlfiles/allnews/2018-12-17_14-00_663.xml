@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-28" url="2018-12-17_14-00_663.xml">
+   <title>Kerber ist Sportlerin des Jahres</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-12-17_14-00</vdate>
+   <resources>
+      <resource id="1" name="2018-12-17_14-00_663-full.png" type="screenshot" url="2018-12-17_14-00_663-full.png"/>
+      <resource id="2" name="2018-12-17_14-00_663_plaintext.txt" type="plaintext" url="2018-12-17_14-00_663_plaintext.txt"/>
+      <resource id="3" name="2018-12-17_14-00_663_quellcode.txt" type="sourcecode" url="2018-12-17_14-00_663_quellcode.txt"/>
+      <resource id="4" name="2018-12-17_14-00_663.docx" type="formatedText" url="2018-12-17_14-00_663.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Kerber ist Sportlerin des Jahres</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Am Sonntag war in Baden-Baden eine Feier.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Baden-Baden ist eine Stadt in Baden-Württemberg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Bei dieser Feier hat Angelique Kerber eine besondere Auszeichnung bekommen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Angelique Kerber ist eine Tennis·spielerin.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Und Angelique Kerber ist aus Kiel.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Kiel ist die Haupt·stadt von Schleswig-Holstein.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Auszeichnung heißt: Sportlerin des Jahres.</statement>
+            <statement>Und diese Auszeichnung ist für besondere Erfolge.</statement>
+            <statement>Angelique Kerber hat diese Auszeichnung zum 2. Mal bekommen.</statement>
+            <statement>Angelique Kerber hat nämlich schon 2016 diese Auszeichnung bekommen.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Sieg in Wimbledon</subheadline>
+               <statement>Angelique Kerber hat im Juli das wichtigste Tennis·turnier gewonnen.</statement>
+               <explanation_marker>
+                  <statement>Dieses Tennis·turnier heißt Wimbledon.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Wimbledon ist ein Stadt·teil von London.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">London ist die Haupt·stadt von England.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Das Turnier in Wimbledon ist jedes Jahr.</statement>
+               <statement>Bei dem Turnier in Wimbledon spielen die besten Tennis·spieler von der Welt.</statement>
+               <statement>Bei dem Turnier gibt es viele Tennis·spiele.</statement>
+               <statement>Nur die Gewinner von den Tennis·spielen dürfen weiter·spielen.</statement>
+               <statement>Am Ende von dem Turnier gibt es ein End·spiel.</statement>
+               <statement>Angelique Kerber hat das End·spiel in diesem Jahr gewonnen.</statement>
+               <statement>Deshalb hat Angelique Kerber die Auszeichnung als Sportlerin des Jahres bekommen.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Auszeichnungen für andere Sportler</subheadline>
+               <statement>Bei der Feier in Baden-Baden haben auch andere Sportler eine Auszeichnung bekommen.</statement>
+               <explanation_marker>
+                  <statement>Patrick Lange hat zum Beispiel die Auszeichnung als Sportler des Jahres bekommen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Patrick Lange macht Triathlon.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <enumeration_marker>
+                                    <enumeration_intro>
+                                       <statement><style_element type="hi">Bei einem Triathlon müssen die Sportler:</style_element></statement>
+                                    </enumeration_intro>
+                                    <enumerations>
+                                       <enumeration id="1">
+                                          <headword><style_element type="hi">• Schwimmen.</style_element></headword>
+                                       </enumeration>
+                                       <enumeration id="2">
+                                          <headword><style_element type="hi">• Fahrrad fahren.</style_element></headword>
+                                       </enumeration>
+                                       <enumeration id="3">
+                                          <headword><style_element type="hi">• Und laufen.</style_element></headword>
+                                       </enumeration>
+                                    </enumerations>
+                                 </enumeration_marker>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Und die Eishockey-National·mannschaft hat die Auszeichnung als Mannschaft des Jahres bekommen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">In einer National·mannschaft spielen die besten Spieler von einem Land.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker> 
+         </section>
+      </sections>
+   </content>
+</annotation>

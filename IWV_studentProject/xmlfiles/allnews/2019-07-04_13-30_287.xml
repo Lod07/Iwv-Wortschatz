@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-07-04_13-30_287.xml">
+   <title>Mehr Nachrichten vom 04.07.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-07-04_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-07-04_13-30_287-full.png" type="screenshot" url="2019-07-04_13-30_287-full.png"/>
+      <resource id="2" name="2019-07-04_13-30_287_plaintext.txt" type="plaintext" url="2019-07-04_13-30_287_plaintext.txt"/>
+      <resource id="3" name="2019-07-04_13-30_287_quellcode.txt" type="sourcecode" url="2019-07-04_13-30_287_quellcode.txt"/>
+      <resource id="4" name="2019-07-04_13-30_287.docx" type="formatedText" url="2019-07-04_13-30_287.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 04.07.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Großer Polizei·einsatz</subheadline>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>In 2 Stadt·teilen von Hamburg war ein großer Polizei·einsatz:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• In Niendorf.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <statement>• Und in Neugraben-Fischbek.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Bei dem Polizei·einsatz haben viele Polizisten Wohnungen durchsucht.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat nämlich geglaubt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Die Menschen in den Wohnungen gehören wahrscheinlich zu einer Einbrecher·bande.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Ein Einbrecher ist ein Straf·täter.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Ein Einbrecher geht in fremde Häuser.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Dafür macht der Einbrecher zum Beispiel ein Fenster kaputt.</style_element></statement>
+                              </explanation>
+                              <explanation id="4">
+                                 <statement><style_element type="hi">Der Einbrecher klettert durch das Fenster in das Haus.</style_element></statement>
+                              </explanation>
+                              <explanation id="5">
+                                 <statement><style_element type="hi">Und dann stiehlt der Einbrecher Dinge aus dem Haus.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>  
+                     </speech>
+                     <speech id="2">
+                        <statement>Die Polizisten haben mehrere Menschen festgenommen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Bau·arbeiten begonnen</subheadline>
+               <statement>In der Nähe von Salzgitter haben Bau·arbeiten begonnen.</statement>
+               <explanation_marker>
+                  <statement>Die Bau·arbeiten sind auf der A7.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">A7 ist die Abkürzung für <style_element type="hb">A</style_element>utobahn <style_element type="hb">7</style_element>.</style_element></statement> 
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Und die Bau·arbeiten sind am Autobahn·dreieck Salzgitter.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Bei einem Autobahn·dreieck treffen Autobahnen zusammen.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Bei einem Autobahn·dreieck können Autos von einer Autobahn auf eine andere Autobahn fahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Bau·arbeiten sollen 2 Autobahnen verbinden.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Die Autobahnen sind:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Die A7.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <statement>• Und die A39.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Bernd Althusmann ist der Verkehrs·minister von Niedersachsen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Bernd Althusmann hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Bau·arbeiten sind wichtig für die Menschen in der Region.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Nach den Bau·arbeiten können die Menschen nämlich von Hildesheim nach Salzgitter auf der Autobahn fahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,198 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2020-02-12_15-00_9.xml">
+   <title>Weiter Sturm·fluten und Unfälle</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-02-12_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-02-12_15-00_9-full.png" type="screenshot" url="2020-02-12_15-00_9-full.png"/>
+      <resource id="2" name="2020-02-12_15-00_9_plaintext.txt" type="plaintext" url="2020-02-12_15-00_9_plaintext.txt"/>
+      <resource id="3" name="2020-02-12_15-00_9_quellcode.txt" type="sourcecode" url="2020-02-12_15-00_9_quellcode.txt"/>
+      <resource id="4" name="2020-02-12_15-00_9.docx" type="formatedText" url="2020-02-12_15-00_9.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Weiter Sturm·fluten und Unfälle</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Nord·deutschland war ein Sturm.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Bei einem Sturm weht sehr starker Wind.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Deshalb sind manche Stürme gefährlich.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Sturm war sehr stark.</statement>
+            <statement>Jetzt ist der Sturm vorbei.</statement>
+            <statement>Aber es gibt immer noch Probleme.</statement>
+            <statement>In Nord·deutschland ist es zum Beispiel immer noch sehr windig.</statement>
+            <explanation_marker>
+               <statement>Deshalb waren zum Beispiel wieder einige Sturm·fluten.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Eine Sturm·flut entsteht bei starkem Wind.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Zum Beispiel an der Ostsee.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Oder an der Nordsee.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement>
+                        <style_element type="hi">Bei einer Sturm·flut fließt oft Wasser über die Ufer.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und viele Unfälle.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Sturm·fluten machen Schäden</subheadline>
+            <statement>Die Sturm·fluten waren zum Beispiel an den Küsten von Niedersachsen.</statement>
+            <explanation_marker>
+               <statement>Und auf Wangerooge.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Wangerooge ist eine Insel in der Nordsee.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Und Wangerooge ist in Niedersachsen.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Auf Wangerooge haben Sturm·fluten sehr viel Wasser an den Strand gespült.</statement>
+            <statement>Deshalb sind jetzt große Teile von dem Strand zerstört.</statement>
+            <statement>Die Sturm·fluten haben zum Beispiel Teile von dem Strand in die Nordsee gespült.</statement>
+         </section>
+         <section id="3">
+            <statement>Auch in Hamburg waren Sturm·fluten.</statement>
+            <explanation_marker>
+               <statement>Diese Sturm·fluten haben Wasser von der Elbe über die Ufer gespült.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Die Elbe ist ein Fluss.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Das Wasser hat zum Beispiel Straßen im Hafen von Hamburg überschwemmt.</statement>
+            <explanation_marker>
+               <statement>Und das Wasser hat den S-Bahnhof Elbbrücken überschwemmt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">Der S-Bahnhof Elbbrücken ist in der Hafencity.</style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Die Hafencity ist ein Stadt·teil von Hamburg.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Deshalb ist der S-Bahnhof Elbbrücken gesperrt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>
+                        <style_element type="hi">Das heißt:</style_element>
+                     </headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">In dem S-Bahnhof dürfen <style_element type="hb">keine</style_element> S-Bahnen fahren.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Und in dem S-Bahnhof dürfen <style_element type="hb">keine</style_element> Menschen sein.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="4">
+         <subheadline>Viele Unfälle in Schleswig-Holstein</subheadline>
+         <statement>Nach dem Sturm waren in Nord·deutschland auch viele Unfälle.</statement>
+         <statement>In Nord·deutschland ist es nämlich immer noch sehr windig.</statement>
+         <statement>Und in Teilen von Nord·deutschland ist es sehr kalt.</statement>
+         <statement>Zum Beispiel in Schleswig-Holstein.</statement>
+         <statement>Deshalb hat es in Schleswig-Holstein zum Beispiel geschneit.</statement>
+         <explanation_marker>
+            <headword>Und gehagelt.</headword>
+            <explanations>
+               <explanation id="1">
+                  <statement>
+                     <style_element type="hi">Hagel ist so ähnlich wie Regen.</style_element>
+                  </statement>
+               </explanation>
+               <explanation id="2">
+                  <statement>
+                     <style_element type="hi">Aber der Regen ist gefroren.</style_element>
+                  </statement>
+               </explanation>
+               <explanation id="3">
+                  <statement>
+                     <style_element type="hi">Bei Hagel regnet es Tropfen aus Eis.</style_element>
+                  </statement>
+               </explanation>
+            </explanations>
+         </explanation_marker>
+         <statement>Und deshalb waren viele Straßen sehr glatt.</statement>
+         <statement>Auf den glatten Straßen hat es viele Unfälle gegeben.</statement>
+         <explanation_marker>
+            <statement>In der Nacht waren zum Beispiel 20 Unfälle in der Nähe von Neumünster.</statement>
+            <explanations>
+               <explanation id="1">
+                  <statement>
+                     <style_element type="hi">Neumünster ist eine Stadt in Schleswig-Holstein.</style_element>
+                  </statement>
+               </explanation>
+            </explanations>
+         </explanation_marker>
+         <explanation_marker>
+            <statement>Diese Unfälle waren auf der A7.</statement>
+            <explanations>
+               <explanation id="1">
+                  <statement>
+                     <style_element type="hi">A7 ist die Abkürzung für <style_element type="hb">A</style_element>utobahn <style_element type="hb">7</style_element>.</style_element>
+                  </statement>
+               </explanation>
+            </explanations>
+         </explanation_marker>
+         <statement>Bei diesen Unfällen wurden 2 Menschen leicht verletzt.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

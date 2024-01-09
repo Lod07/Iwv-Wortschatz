@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2020-01-10_13-30_78.xml">
+   <title>Mehr Nachrichten vom 10.01.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-01-10_13-30</vdate>
+   <resources>
+      <resource id="1" name="2020-01-10_13-30_78-full.png" type="screenshot" url="2020-01-10_13-30_78-full.png"/>
+      <resource id="2" name="2020-01-10_13-30_78_plaintext.txt" type="plaintext" url="2020-01-10_13-30_78_plaintext.txt"/>
+      <resource id="3" name="2020-01-10_13-30_78_quellcode.txt" type="sourcecode" url="2020-01-10_13-30_78_quellcode.txt"/>
+      <resource id="4" name="2020-01-10_13-30_78.docx" type="formatedText" url="2020-01-10_13-30_78.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>   
+      <headline>Mehr Nachrichten vom 10.01.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Mecklenburg-Vorpommern: Mann bei Unfall schwer verletzt.</subheadline>
+            <statement>In Neubrandenburg war ein Unfall.</statement>
+            <statement>Bei diesem Unfall wurde ein Mann schwer verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt.</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Mann ist zu Fuß über eine Straße gegangen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Aber die Ampel war rot.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dann ist ein Auto gekommen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Der Fahrer von dem Auto konnte nicht rechtzeitig bremsen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Deshalb hat der Fahrer den Mann angefahren.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Der Mann wurde schwer verletzt.</statement>
+                  </speech>
+                  <speech id="7">
+                     <statement>Vielleicht stirbt der Mann sogar.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Polizei hält Zug an</subheadline>
+               <statement>Die Polizei hat einen Zug angehalten.</statement>
+               <statement>Die Polizei wollte nämlich einen Mann in dem Zug festnehmen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Der Zug war ein ICE.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">ICE ist die Abkürzung für <style_element type="hb">I</style_element>nter·<style_element type="hb">c</style_element>ity-<style_element type="hb">E</style_element>xpress.</style_element></statement> 
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Der ICE ist der schnellste Zug in Deutschland.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und der Zug war auf dem Weg von Berlin nach Hamburg.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>In diesem Zug hat ein Mann Randale gemacht.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Der Mann hat zum Beispiel andere Menschen in dem Zug beleidigt.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Und der Mann hat eine Mitarbeiterin von der Bahn angegriffen.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Deshalb hat uns die Bahn angerufen.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Und deshalb haben wir den Zug in Ludwigslust angehalten.</statement>
+                     </speech>
+                     <speech id="8">
+                        <statement>In Ludwigslust haben wir den Mann festgenommen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Der Zug hat eine halbe Stunde in Ludwigslust gewartet.</statement>
+               <statement>Dann ist der Zug weiter nach Hamburg gefahren</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

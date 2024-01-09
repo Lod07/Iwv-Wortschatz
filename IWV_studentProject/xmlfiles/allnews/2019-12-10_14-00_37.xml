@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-27" url="2019-12-10_14-00_37.xml">
+   <title>Hamburg: Schutz vor Drohnen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-12-10_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-12-10_14-00_37-full.png" type="screenshot" url="2019-12-10_14-00_37-full.png"/>
+      <resource id="2" name="2019-12-10_14-00_37_plaintext.txt" type="plaintext" url="2019-12-10_14-00_37_plaintext.txt"/>
+      <resource id="3" name="2019-12-10_14-00_37_quellcode.txt" type="sourcecode" url="2019-12-10_14-00_37_quellcode.txt"/>
+      <resource id="4" name="2019-12-10_14-00_37.docx" type="formatedText" url="2019-12-10_14-00_37.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Hamburg: Schutz vor Drohnen</headline>
+      <sections>
+         <section id="1">
+            <statement>Am Hamburger Flughafen testen Fach·leute eine neue Technik.</statement>
+            <explanation_marker>
+               <statement>Diese Technik soll den Flughafen vor Drohnen schützen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Drohne ist ein Flug·gerät.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In diesem Flug·gerät ist <style_element type="hb">kein</style_element> Mensch.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Dieses Flug·gerät können Menschen mit einer Fern·bedienung steuern.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Und an diesem Flug·gerät können Menschen zum Beispiel eine Kamera befestigen.</style_element></statement>
+                  </explanation>
+                  <explanation id="5">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Dann können Menschen zum Beispiel sehen:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question><style_element type="hi">Was passiert in einem bestimmten Gebiet?</style_element></question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Fach·leute haben nämlich gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Drohnen können für Flugzeuge gefährlich sein.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Drohnen können nämlich mit Flugzeugen zusammen·stoßen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und dann können Flugzeuge abstürzen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb sind Drohnen in der Nähe von Flughäfen verboten.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Trotzdem waren im vergangenen Jahr Drohnen am Hamburger Flughafen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Die neue Technik</subheadline>
+            <statement>Die neue Technik</statement>
+            <statement>Die neue Technik soll Drohnen in der Luft erkennen können.</statement>
+            <statement>Und die neue Technik soll Drohnen zum Beispiel abschießen können.</statement>
+            <statement>Fach·leute testen die neue Technik.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Die Fach·leute sind zum Beispiel:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Vom Flughafen.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Von der Polizei.</statement>
+                  </enumeration>
+                  <enumeration id="3">
+                     <explanation_marker>
+                        <statement>• Und von der Bundes·wehr.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Die Bundes·wehr ist die Armee von Deutschland.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <question>Der Test von der neuen Technik ist gut?</question>
+            <statement>Dann soll die neue Technik bald alle Flughäfen in Deutschland vor Drohnen schützen.</statement>
+         </section>   
+      </sections>   
+   </content>
+</annotation>

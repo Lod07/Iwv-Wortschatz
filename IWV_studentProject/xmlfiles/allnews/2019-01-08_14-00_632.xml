@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-30" url="2019-01-08_14-00_632.xml">
+   <title>Fach·leute warnen vor Sturm·fluten</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-01-08_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-01-08_14-00_632-full.png" type="screenshot" url="2019-01-08_14-00_632-full.png"/>
+      <resource id="2" name="2019-01-08_14-00_632_plaintext.txt" type="plaintext" url="2019-01-08_14-00_632_plaintext.txt"/>
+      <resource id="3" name="2019-01-08_14-00_632_quellcode.txt" type="sourcecode" url="2019-01-08_14-00_632_quellcode.txt"/>
+      <resource id="4" name="2019-01-08_14-00_632.docx" type="formatedText" url="2019-01-08_14-00_632.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Fach·leute warnen vor Sturm·fluten</headline>
+      <sections>
+         <section id="1">
+            <statement>In Nord·deutschland ist es sehr windig.</statement>
+            <explanation_marker>
+               <statement>Deshalb warnen Fach·leute vor Sturm·fluten.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Sturm·flut entsteht bei starkem Wind.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Bei einer Sturm·flut fließt viel Wasser aus den Meeren über die Ufer.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und das Wasser fließt vielleicht in Städte.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">In den Städten kann das Wasser viele Schäden machen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Fach·leute sind vom Deutschen Wetter·dienst.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Beim Deutschen Wetter·dienst arbeiten Fach·leute für Wetter.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Fach·leute beobachten jeden Tag das Wetter.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Deshalb können die Fach·leute sagen:</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">So ist das Wetter in den nächsten Tagen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Fach·leute vom Deutschen Wetter·dienst haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <headword>Achtung!</headword>
+                  </speech>
+                  <speech id="2">
+                     <statement>Am Dienstag gibt es vielleicht eine Sturm·flut an der Nordsee.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und am Mittwoch gibt es vielleicht eine Sturm·flut an der Ostsee.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Sturm·fluten sind gefährlich.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Deshalb sollen die Menschen sehr vorsichtig sein.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Fähren fahren nicht</subheadline>
+               <statement>An der Nordsee ist es am Dienstag besonders windig.</statement>
+               <explanation_marker>
+                  <statement>Der Wind ist gefährlich für Fähren.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Fähre ist ein Schiff.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Eine Fähre transportiert zum Beispiel Menschen.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <headword><style_element type="hi">Oder Autos.</style_element></headword>
+                     </explanation>
+                  </explanations>
+               </explanation_marker> 
+               <statement>Deshalb fahren einige Fähren <style_element type="hb">nicht</style_element>.</statement>
+               <explanation_marker>
+                  <statement>Zum Beispiel die Fähren nach Wangerooge.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Wangerooge ist eine Insel in der Nordsee.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und Wangerooge gehört zu Niedersachsen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

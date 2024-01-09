@@ -1,0 +1,305 @@
+<?xml version="1.0" ?>
+<annotation adate="" url="2020-08-19_14-00_50.xml">
+   <title>Demonstrationen für den Klima·schutz</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-11-29_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-11-29_14-00_50-full.png" type="screenshot" url="2019-11-29_14-00_50-full.png"/>
+      <resource id="2" name="2019-11-29_14-00_50_plaintext.txt" type="plaintext" url="2019-11-29_14-00_50_plaintext.txt"/>
+      <resource id="3" name="2019-11-29_14-00_50_quellcode.txt" type="sourcecode" url="2019-11-29_14-00_50_quellcode.txt"/>
+      <resource id="4" name="2019-11-29_14-00_50.docx" type="formatedText" url="2019-11-29_14-00_50.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>
+         Demonstrationen für den Klima·schutz
+      </headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>
+                  Am Freitag waren sehr viele Demonstrationen in Deutschland.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Bei einer Demonstration treffen sich viele Menschen.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">
+                           Diese Menschen sagen laut ihre Meinung.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>
+               Viele von diesen Demonstrationen waren in Nord·deutschland.
+            </statement>
+            <explanation_marker>
+               <statement>
+                  Diese Demonstrationen waren für den Klima·schutz.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">
+                              Der Klima·schutz soll das Klima schützen.
+                           </style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                              Das Klima ist das Wetter über eine lange Zeit.
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">
+                           Ein Ziel von dem Klima·schutz ist zum Beispiel:
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">
+                           Auf der Erde soll es <style_element type="hi">nicht</style_element> immer wärmer werden.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="4">
+                     <question>
+                        <style_element type="hi">
+                           Auf der Erde wird es immer wärmer?
+                        </style_element>
+                     </question>
+                  </explanation>
+                  <explanation id="5">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">
+                              Dann kann zum Beispiel das Eis am Nord·pol schmelzen.
+                           </style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">
+                                    Der Nord·pol ist der nördlichste Punkt auf der Erde.
+                                 </style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                  <explanation id="6">
+                     <statement>
+                        <style_element type="hi">
+                           Dann kommt zum Beispiel mehr Wasser in die Meere.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="7">
+                     <statement>
+                        <style_element type="hi">
+                           Und dann sind mehr Überschwemmungen.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>
+               Bei den Demonstrationen waren sehr viele Schüler.
+            </statement>
+            <statement>
+               Und bei den Demonstrationen waren auch viele Erwachsene.
+            </statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Die Menschen bei den Demonstrationen haben zum Beispiel gesagt:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        Die Politiker müssen das Klima besser schützen.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>
+               Größte Demonstration in Hamburg
+            </subheadline>
+            <statement>
+               Viele Demonstrationen waren in großen Städten.
+            </statement>
+            <statement>
+               Die größte Demonstration in Nord·deutschland war in Hamburg.
+            </statement>
+            <statement>
+               Auch in anderen großen Städten in Nord·deutschland waren Demonstrationen.
+            </statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>
+                     Zum Beispiel:
+                  </headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <explanation_marker>
+                        <headword>
+                           In Kiel.
+                        </headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">
+                                    Kiel ist die Haupt·stadt von Schleswig-Holstein.
+                                 </style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <headword>
+                           In Hannover.
+                        </headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">
+                                    Hannover ist die Haupt·stadt von Niedersachsen.
+                                 </style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="3">
+                     <explanation_marker>
+                        <headword>
+                           Und in Schwerin.
+                        </headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">
+                                    Schwerin ist die Haupt·stadt von Mecklenburg-Vorpommern.
+                                 </style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="3">
+            <subheadline>
+               Forderungen an Politiker
+            </subheadline>
+            <statement>
+               Bei den Demonstrationen waren viele Reden.
+            </statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     In diesen Reden haben die Menschen zum Beispiel gesagt:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                     Die Politiker reden viel über den Klima·schutz.
+                     </statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>
+                     Aber die Politiker machen zu wenig für den Klima·schutz.
+                     </statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>
+                     Nächste Woche ist ein wichtiges Treffen für den Klima·schutz.
+                     </statement>
+                  </speech>
+                  <speech id="4">
+                     <explanation_marker>
+                        <statement>
+                           Dieses Treffen ist in Madrid.
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement>
+                                    <style_element type="hi">
+                                       Madrid ist die Haupt·stadt von Spanien.
+                                    </style_element>
+                                 </statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement>
+                                          <style_element type="hi">
+                                             Spanien ist ein Land in Süd·europa.
+                                          </style_element>
+                                       </statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="5">
+                     <statement>
+                        Bei dem Treffen sind viele wichtige Politiker.
+                     </statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>
+                        Diese Politiker kommen aus der ganzen Welt.
+                     </statement>
+                  </speech>
+                  <speech id="7">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>
+                              Bei dem Treffen sollen die Politiker endlich sagen:
+                           </statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>
+                                 So wollen wir das Klima besser schützen.
+                              </statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-29" url="2018-02-27_15-00_915.xml">
+   <title>Wichtige Entscheidung für Autos mit Diesel·motoren</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-02-27_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-02-27_15-00_915-full.png" type="screenshot" url="2018-02-27_15-00_915-full.png"/>
+      <resource id="2" name="2018-02-27_15-00_915_plaintext.txt" type="plaintext" url="2018-02-27_15-00_915_plaintext.txt"/>
+      <resource id="3" name="2018-02-27_15-00_915_quellcode.txt" type="sourcecode" url="2018-02-27_15-00_915_quellcode.txt"/>
+      <resource id="4" name="2018-02-27_15-00_915.docx" type="formatedText" url="2018-02-27_15-00_915.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Wichtige Entscheidung für Autos mit Diesel·motoren</headline>
+      <sections>
+         <section id="1">
+            <statement>Ein Gericht in Deutschland hat eine wichtige Entscheidung getroffen.</statement>
+            <explanation_marker>
+               <statement>Dieses Gericht heißt: Bundes·verwaltungs·gericht.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Das Bundes·verwaltungs·gericht ist ein sehr wichtiges Gericht.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Bei der Entscheidung geht es um Autos mit Diesel·motoren.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Diesel·motoren verbrauchen Diesel.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Diesel ist ein Kraft·stoff.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Diesel·motoren machen sehr viele Schad·stoffe.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Schad·stoffe machen die Luft schmutzig.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Gericht hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Städte dürfen Autos mit Diesel·motoren das Fahren verbieten.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Autos mit Diesel·motoren dürfen in diesen Städten <style_element type="hb">nicht</style_element> mehr fahren.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt überlegen auch Städte in Nord·deutschland:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Soll es in unserer Stadt ein Fahr·verbot für Autos mit Diesel·motoren geben?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Fahr·verbote in Hamburg</subheadline>
+               <statement>In einigen Teilen von Hamburg sind große Straßen.</statement>
+               <statement>Auf diesen Straßen fahren sehr viele Autos.</statement>
+               <explanation_marker>
+                  <statement>Deshalb ist die Luft an diesen Straßen sehr schmutzig.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <statement><style_element type="hi">• An der Max-Brauer-Allee.</style_element></statement>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <statement><style_element type="hi">• Und an der Stresemannstraße.</style_element></statement>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Und deshalb haben wichtige Politiker in Hamburg gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Luft an diesen Straßen soll wieder sauberer sein.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb gibt es bald auf diesen Straßen ein Fahr·verbot für Autos mit Diesel·motoren.</statement>
+                     </speech>
+                     <speech id="3">
+                        <explanation_marker>
+                           <statement>Das Fahr·verbot ist nur für ältere Autos mit Diesel·motoren.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Ältere Autos mit Diesel·motoren machen besonders viele Schad·stoffe.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und das Fahr·verbot ist für Lkw mit Diesel·motoren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Auch in anderen Städten in Nord·deutschland ist die Luft sehr schmutzig.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Aber diese anderen Städte wissen noch <style_element type="hb">nicht</style_element>:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Soll es in unserer Stadt ein Fahr·verbot für Autos mit Diesel·motoren geben?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

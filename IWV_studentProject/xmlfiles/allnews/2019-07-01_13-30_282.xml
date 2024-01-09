@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-07-01_13-30_282.xml">
+   <title>Mehr Nachrichten vom 01.07.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-07-01_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-07-01_13-30_282-full.png" type="screenshot" url="2019-07-01_13-30_282-full.png"/>
+      <resource id="2" name="2019-07-01_13-30_282_plaintext.txt" type="plaintext" url="2019-07-01_13-30_282_plaintext.txt"/>
+      <resource id="3" name="2019-07-01_13-30_282_quellcode.txt" type="sourcecode" url="2019-07-01_13-30_282_quellcode.txt"/>
+      <resource id="4" name="2019-07-01_13-30_282.docx" type="formatedText" url="2019-07-01_13-30_282.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 01.07.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Nord·deutschland: Hitze macht Schäden an Straßen</subheadline>
+               <statement>An einigen Straßen in Nord·deutschland sind Schäden.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <headword>Zum Beispiel:</headword>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <explanation_marker>
+                           <statement>• An der Autobahn 1 bei Lübeck.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Lübeck ist eine Stadt in Schleswig-Holstein.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                     <enumeration id="2">
+                        <explanation_marker>
+                           <statement>• Und an der Autobahn 7 bei Bad Fallingbostel.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Bad Fallingbostel ist eine Stadt in Niedersachsen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <explanation_marker>
+                  <statement>An diesen Straßen ist der Beton kaputt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Beton ist ein Bau·stoff.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Beton ist zuerst flüssig.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Dann wird Beton schnell hart wie Stein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Der Beton ist nämlich aufgeplatzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In Nord·deutschland ist es sehr heiß.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb ist der Beton auf den Straßen sehr heiß geworden.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Das ist nicht gut für den Beton.</statement>
+                     </speech>
+                     <speech id="4">
+                        <explanation_marker>
+                           <statement>Bei großer Hitze dehnt sich der Beton nämlich aus.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Der Beton wird größer.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="5">
+                        <statement>Dann platzt der Beton auf.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <explanation_marker>
+                  <statement>Deshalb musste die Polizei einige Straßen sperren.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Auf einigen Straßen durfte <style_element type="hb">kein</style_element> Auto fahren.</style_element></statement> 
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Probleme bei Wett·lauf</subheadline>
+               <statement>Am Sonntag war in Hamburg ein Wett·lauf.</statement>
+               <explanation_marker>
+                  <statement>Dieser Wettlauf war ein Halb·marathon.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Halb·marathon ist fast 22 km lang.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei dem Halb·marathon sind viele Menschen mitgelaufen.</statement>
+               <statement>Einige von diesen Menschen hatten Probleme.</statement>
+               <statement>Am Sonntag war es nämlich sehr heiß.</statement>
+               <statement>Deshalb sind einige Menschen bei dem Halb·marathon zusammengebrochen.</statement>
+               <statement>Den Menschen war zum Beispiel übel.</statement>
+               <headword>Oder schwindelig.</headword>
+               <statement>Fast 60 Menschen mussten in ein Kranken·haus.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Ein Sprecher von dem Halb·marathon hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir hatten <style_element type="hb">nicht</style_element> genug Wasser.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb konnten viele Menschen bei dem Halb·marathon <style_element type="hb">nicht</style_element> genug Wasser trinken.</statement> 
+                     </speech>
+                     <speech id="3">
+                        <statement>Und deshalb hatten viele Menschen Probleme.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Das tut uns sehr leid.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Schleswig-Holstein: Besondere Aufführung</subheadline>
+               <statement>Am Samstag war in Bad Segeberg eine besondere Aufführung.</statement>
+               <explanation_marker>
+                  <statement>Diese Aufführung war von den Karl-May-Spielen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Die Karl-May-Spiele sind jedes Jahr im Sommer.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Bei den Karl-May-Spielen sind Geschichten über den Wilden Westen.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Der Wilde Westen war früher ein Gebiet in Amerika.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Im Wilden Westen haben Indianer gelebt.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <headword><style_element type="hi">Und Cowboys.</style_element></headword>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Aufführung am Samstag war die erste Aufführung von den Karl-May-Spielen in diesem Jahr.</statement>
+               <explanation_marker>
+                  <statement>Und die Aufführung war die erste Aufführung bei den Karl-May-Spielen für Alexander Klaws.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Alexander Klaws ist Schauspieler.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <headword><style_element type="hi">Und Sänger.</style_element></headword>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Alexander Klaws spielt bei den Karl-May-Spielen Winnetou.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Winnetou ist ein Indianer.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker> 
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

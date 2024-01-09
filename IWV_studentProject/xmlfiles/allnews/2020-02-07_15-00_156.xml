@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2020-02-07_15-00_156.xml">
+   <title>Mehr Nachrichten vom 07.02.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-02-07_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-02-07_15-00_156-full.png" type="screenshot" url="2020-02-07_15-00_156-full.png"/>
+      <resource id="2" name="2020-02-07_15-00_156_plaintext.txt" type="plaintext" url="2020-02-07_15-00_156_plaintext.txt"/>
+      <resource id="3" name="2020-02-07_15-00_156_quellcode.txt" type="sourcecode" url="2020-02-07_15-00_156_quellcode.txt"/>
+      <resource id="4" name="2020-02-07_15-00_156.docx" type="formatedText" url="2020-02-07_15-00_156.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 07.02.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Mecklenburg-Vorpommern: Mann stirbt bei Feuer</subheadline>
+            <explanation_marker>
+               <statement>In Waldeck war ein Feuer.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Waldeck ist ein Ort in der Nähe von Rostock.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieses Feuer war in einem Gefängnis.</statement>
+            <statement>Bei dem Feuer ist ein Mann gestorben.</statement>
+            <statement>Der Mann war 48 Jahre alt.</statement>
+            <statement>Und der Mann war ein Gefangener.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Feuer war in der Zelle von dem Mann.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Mitarbeiter von dem Gefängnis haben die Feuerwehr gerufen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dann wollten die Mitarbeiter den Mann aus der Zelle holen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Aber der Mann war schon tot.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Dann hat die Feuerwehr das Feuer gelöscht.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt will die Polizei wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum war das Feuer in der Zelle?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Neues Gebäude für große Kirche</subheadline>
+            <explanation_marker>
+               <statement>Die Chefs vom Hamburger Michel haben eine wichtige Entscheidung getroffen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Der Hamburger Michel ist die größte Kirche in Hamburg.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Diese Kirche heißt auch St. Michaelis.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Kirche hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Hamburger Michel bekommt ein neues Besucher·zentrum.</statement>
+                  </speech>
+                  <speech id="2">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement>In dem neuen Besucher·zentrum können Menschen zum Beispiel:</statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <statement>• Eintritts·karten für Konzerte im Michel kaufen.</statement>
+                           </enumeration>
+                           <enumeration id="2">
+                              <statement>• Eintritts·karten für Führungen im Michel kaufen.</statement>
+                           </enumeration>
+                           <enumeration id="3">
+                              <statement>• Oder Post·karten vom Michel kaufen.</statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </speech>
+                  <speech id="3">
+                     <statement>Bisher mussten Menschen diese Dinge in der Turm·halle kaufen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Aber die Turm·halle ist sehr klein.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Deshalb bauen wir ein neues Gebäude auf dem Platz vor dem Michel.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Die Bau·arbeiten für das neue Besucher·zentrum sollen im Mai 2020 beginnen.</statement>
+            <statement>Ende 2021 soll das neue Besucher·zentrum fertig sein.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

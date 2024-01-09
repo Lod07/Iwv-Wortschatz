@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-17" url="2019-03-14_13-30_533.xml">
+   <title>Mehr Nachrichten vom 14.03.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-03-14_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-03-14_13-30_533-full.png" type="screenshot" url="2019-03-14_13-30_533-full.png"/>
+      <resource id="2" name="2019-03-14_13-30_533_plaintext.txt" type="plaintext" url="2019-03-14_13-30_533_plaintext.txt"/>
+      <resource id="3" name="2019-03-14_13-30_533_quellcode.txt" type="sourcecode" url="2019-03-14_13-30_533_quellcode.txt"/>
+      <resource id="4" name="2019-03-14_13-30_533.docx" type="formatedText" url="2019-03-14_13-30_533.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 14.03.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Leiche von vermisstem Mann gefunden</subheadline>
+               <explanation_marker>
+                  <statement>Auf einem Bauern·hof haben Polizisten die Leiche von einem Mann gefunden.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Leiche ist ein toter Mensch.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Dieser Bauern·hof ist in Dammfleth.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Dammfleth ist ein Ort in der Nähe von Itzehoe.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Seit 2017 war der Mann verschwunden.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb haben wir den Mann gesucht.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Vergangene Woche haben wir eine Leiche auf dem Bauern·hof gefunden.</statement>
+                     </speech>
+                     <speech id="4">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Jetzt wissen wir:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Die Leiche ist von dem vermissten Mann.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Mann hat mit seiner Freundin auf dem Bauern·hof gelebt.</statement>
+                     </speech>
+                     <speech id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <headword>Wir glauben:</headword>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Die Freundin hat den Mann getötet.</statement>
+                              </speech>
+                              <speech id="2">
+                                 <statement>Und der neue Freund von der Freundin hat geholfen.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb haben wir die Freundin und den neuen Freund verhaftet.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Flüge nach München</subheadline>
+               <statement>Die Mitarbeiter vom Flughafen in Rostock freuen sich.</statement>
+               <explanation_marker>
+                  <statement>Vom Flughafen in Rostock fliegen nämlich bald wieder Flugzeuge nach München.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">München ist die Haupt·stadt von Bayern.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Chefin vom Flughafen in Rostock ist Dörthe Hausmann.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Dörthe Hausmann hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Flughafen in Rostock hatte große Probleme.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Am Flughafen in Rostock sind nämlich nur noch wenige Flugzeuge geflogen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <explanation_marker>
+                           <statement>Viele Flugzeuge in Rostock waren nämlich von 2 Flug·gesellschaften.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Eine Flug·gesellschaft hat viele Flug·zeuge.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="4">
+                        <explanation_marker>
+                           <statement>Und diese 2 Flug·gesellschaften haben ihre Flüge eingestellt.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Die Flugzeuge von diesen 2 Flug·gesellschaften fliegen <style_element type="hb">nicht</style_element> mehr.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker> 
+                     </speech>
+                     <speech id="5">
+                        <statement>Jetzt fliegen einige Flugzeuge von anderen Flug·gesellschaften am Flughafen in Rostock.</statement>
+                     </speech>
+                     <speech id="6">
+                        <explanation_marker>
+                           <statement>Zum Beispiel nach Mallorca.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Mallorca ist eine Insel.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Mallorca gehört zu Spanien.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="7">
+                        <statement>Und jetzt fliegen auch wieder Flugzeuge von Rostock nach München.</statement>
+                     </speech>
+                     <speech id="8">
+                        <statement>Deshalb sind wir sehr froh.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

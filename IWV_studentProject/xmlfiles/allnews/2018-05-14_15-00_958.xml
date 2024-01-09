@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-30" url="2018-05-14_15-00_958.xml">
+   <title>ESC: Vierter Platz für Deutschland</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-05-14_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-05-14_15-00_958-full.png" type="screenshot" url="2018-05-14_15-00_958-full.png"/>
+      <resource id="2" name="2018-05-14_15-00_958_plaintext.txt" type="plaintext" url="2018-05-14_15-00_958_plaintext.txt"/>
+      <resource id="3" name="2018-05-14_15-00_958_quellcode.txt" type="sourcecode" url="2018-05-14_15-00_958_quellcode.txt"/>
+      <resource id="4" name="2018-05-14_15-00_958.docx" type="formatedText" url="2018-05-14_15-00_958.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>ESC: Vierter Platz für Deutschland</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Deutschland hat beim ESC den 4. Platz gemacht.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">ESC ist die Abkürzung für Eurovision Song Contest.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Der ESC ist ein sehr bekannter Musik·wettbewerb.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Viele Länder machen beim ESC mit.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Und jedes Land schickt Musiker zum ESC.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>In diesem Jahr war der ESC in Lissabon.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Lissabon ist die Haupt·stadt von Portugal.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <statement>26 Musiker haben beim ESC gesungen.</statement>
+            <statement>Diese 26 Musiker waren aus 26 Ländern.</statement>
+            <statement>Jeder von den 26 Musikern hat ein Lied gesungen.</statement>
+         </section>
+         <section id="3">
+            <statement>Für Deutschland hat Michael Schulte beim ESC gesungen.</statement>
+            <explanation_marker>
+               <statement>Michael Schulte ist ein Sänger aus Buxtehude.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Buxtehude ist eine Stadt in Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und Michael Schulte ist 27 Jahre alt.</statement>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Michael Schulte hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Ich habe in Lissabon Platz 4 gemacht.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Das ist ein sehr gutes Ergebnis.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb freue ich mich sehr.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="5">
+            <explanation_marker>
+               <statement>Das Lied von Michael Schulte heißt: You Let Me Walk Alone.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">You Let Me Walk Alone ist englisch.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und You Let Me Walk Alone heißt: Du lässt mich allein gehen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="6">
+            <subheadline>Lied aus Israel hat gewonnen</subheadline>
+               <statement>Der ESC war auch im Fernsehen.</statement>
+               <statement>Und die Menschen in vielen Ländern haben den ESC im Fernsehen gesehen.</statement>
+               <statement>Die Menschen konnten beim ESC anrufen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Und die Menschen konnten sagen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Dieses Lied gefällt uns am besten.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Auch Fach·leute konnten sagen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Dieses Lied gefällt uns am besten.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="7">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die meisten Menschen haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Lied aus Israel gefällt uns am besten.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Und auch sehr viele Fachleute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Lied aus Israel gefällt uns am besten.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Deshalb hat das Lied aus Israel den ESC gewonnen.</statement>
+            <statement>Das Lied aus Israel ist von Netta.</statement>
+            <explanation_marker>
+               <statement>Und das Lied von Netta heißt Toy.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Toy ist englisch.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Toy heißt: Spielzeug.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

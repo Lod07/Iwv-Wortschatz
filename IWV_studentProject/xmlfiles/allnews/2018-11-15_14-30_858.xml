@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-08" url="2018-11-15_14-30_858.xml">
+   <title>Mehr Nachrichten vom 15.11.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-11-15_14-30</vdate>
+   <resources>
+      <resource id="1" name="2018-11-15_14-30_858-full.png" type="screenshot" url="2018-11-15_14-30_858-full.png"/>
+      <resource id="2" name="2018-11-15_14-30_858_plaintext.txt" type="plaintext" url="2018-11-15_14-30_858_plaintext.txt"/>
+      <resource id="3" name="2018-11-15_14-30_858_quellcode.txt" type="sourcecode" url="2018-11-15_14-30_858_quellcode.txt"/>
+      <resource id="4" name="2018-11-15_14-30_858.docx" type="formatedText" url="2018-11-15_14-30_858.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 15.11.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Mecklenburg-Vorpommern: Arbeiter stirbt bei Unfall</subheadline>
+               <statement>In Rostock war ein schwerer Unfall.</statement>
+               <statement>Bei dem Unfall ist ein Arbeiter von einem Turm gefallen.</statement>
+               <statement>Der Arbeiter ist bei dem Unfall gestorben.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Arbeiter und ein Kollege wollten den Turm reinigen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb waren der Arbeiter und sein Kollege in einem Korb.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Dieser Korb war mit Seilen an dem Turm befestigt.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Dann ist wahrscheinlich ein Seil gerissen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Und der Arbeiter ist 80 Meter tief gefallen.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Der Kollege von dem Arbeiter hat sich an dem Korb festgehalten.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Dann hat die Feuerwehr den Kollegen von dem Arbeiter gerettet.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Niedersachsen: Geflügel·höfe gesperrt</subheadline>
+               <explanation_marker>
+                  <statement>Niedersachsen hat mehrere Geflügel·höfe gesperrt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Auf Geflügel·höfen sind zum Beispiel Hühner.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Mitarbeiter verkaufen diese Hühner an andere Betriebe.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">In diesen anderen Betrieben legen die Hühner Eier.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Dann verkaufen die Betriebe diese Eier.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Niedersachsen hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir haben in Hühner·futter Gift gefunden.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dieses Hühner·futter haben mehrere Geflügel·höfe bekommen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb haben wir diese Geflügel·höfe gesperrt.</statement>
+                     </speech>
+                     <speech id="4">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Jetzt müssen wir prüfen:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question>Sind die Eier von den Hühnern vielleicht vergiftet?</question>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

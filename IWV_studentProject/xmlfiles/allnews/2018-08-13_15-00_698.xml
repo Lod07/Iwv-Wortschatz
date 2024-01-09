@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-24" url="2018-08-13_15-00_698.xml">
+   <title>Schwere Unfälle auf der A2</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-08-13_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-08-13_15-00_698-full.png" type="screenshot" url="2018-08-13_15-00_698-full.png"/>
+      <resource id="2" name="2018-08-13_15-00_698_plaintext.txt" type="plaintext" url="2018-08-13_15-00_698_plaintext.txt"/>
+      <resource id="3" name="2018-08-13_15-00_698_quellcode.txt" type="sourcecode" url="2018-08-13_15-00_698_quellcode.txt"/>
+      <resource id="4" name="2018-08-13_15-00_698.docx" type="formatedText" url="2018-08-13_15-00_698.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Schwere Unfälle auf der A2</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Auf der A2 waren 2 schwere Unfälle.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">A2 ist die Abkürzung für Auto·bahn 2.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Diese Unfälle waren bei Peine.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Peine ist eine Stadt in Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei diesen Unfällen sind 3 Menschen gestorben.</statement>
+            <statement>Und bei diesen Unfällen wurden 2 Menschen schwer verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Der 1. Unfall</subheadline>
+               <statement>Auf der A2 bei Peine war ein Stau.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Fahrer von einem Lkw hat den Stau wahrscheinlich zu spät gesehen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb hat der Fahrer von dem Lkw sehr spät gebremst.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Dann ist ein anderer Lkw gegen den Lkw gefahren.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und dann ist ein Transporter gegen den anderen Lkw gefahren.</statement>
+                     </speech>
+                     <speech id="5">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <statement>Bei dem Unfall sind 2 Menschen gestorben:</statement>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <statement>• Der Fahrer von dem Transporter.</statement>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <statement>• Und ein anderer Mensch in dem Transporter.</statement>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Der 2. Unfall</subheadline>
+               <statement>Nach dem Unfall war ein langer Stau auf der A2.</statement>
+               <statement>Am Ende von dem Stau war noch ein Unfall.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Am Ende von dem Stau sind 4 Lkw ineinander gefahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Bei dem Unfall ist einer von den Fahrern gestorben.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und bei dem Unfall wurden 2 Menschen schwer verletzt.</statement>
+                     </speech>
+                     <speech id="4">
+                        <explanation_marker>
+                           <statement>Nach den Unfällen hat die Polizei die A2 bei Peine gesperrt.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Auf der A2 durften <style_element type="hb">keine</style_element> Autos fahren.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

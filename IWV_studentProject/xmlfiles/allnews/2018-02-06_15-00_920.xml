@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-28" url="2018-02-06_15-00_920.xml">
+   <title>37 Jahre nach Verbrechen: Mann festgenommen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-02-06_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-02-06_15-00_920-full.png" type="screenshot" url="2018-02-06_15-00_920-full.png"/>
+      <resource id="2" name="2018-02-06_15-00_920_plaintext.txt" type="plaintext" url="2018-02-06_15-00_920_plaintext.txt"/>
+      <resource id="3" name="2018-02-06_15-00_920_quellcode.txt" type="sourcecode" url="2018-02-06_15-00_920_quellcode.txt"/>
+      <resource id="4" name="2018-02-06_15-00_920.docx" type="formatedText" url="2018-02-06_15-00_920.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>37 Jahre nach Verbrechen: Mann festgenommen</headline>
+      <sections>
+         <section id="1">
+            <statement>In Hamburg hat die Polizei einen Mann festgenommen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei glaubt nämlich:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Mann hat schlimme Verbrechen gemacht.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Diese Verbrechen waren vor mehr als 37 Jahren.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Die Verbrechen waren im Jahr 1980.</statement>
+               <statement>Damals hat ein Mann 2 Mädchen angegriffen.</statement>
+               <explanation_marker>
+                  <statement>Erst wollte der Mann ein Mädchen vergewaltigen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Der Mann wollte das Mädchen zum Sex zwingen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Aber das Mädchen konnte weglaufen.</statement>
+               <statement>Deshalb hat der Mann das Mädchen <style_element type="hb">nicht</style_element> vergewaltigt.</statement>
+         </section>
+         <section id="3">
+            <statement>Einige Monate später hat der Mann ein anderes Mädchen angegriffen.</statement>
+            <statement>Der Mann hat dieses Mädchen mit einem Messer sehr schwer verletzt.</statement>
+            <statement>Dann wollte der Mann dieses Mädchen vergewaltigen.</statement>
+            <statement>Aber dann sind andere Menschen gekommen.</statement>
+            <statement>Deshalb ist der Mann weggelaufen.</statement>
+            <statement>Und der Mann hat das Mädchen <style_element type="hb">nicht</style_element> vergewaltigt.</statement>
+         </section>
+         <section id="4">
+            <statement>Damals hat die Polizei sehr lange nach dem Mann gesucht.</statement>
+            <statement>Aber die Polizei hat den Mann <style_element type="hb">nicht</style_element> gefunden.</statement>
+         </section>
+         <section id="5">
+            <statement>Jetzt hat die Polizei neue Hinweise gefunden.</statement>
+            <statement>Und die Polizei hat ein Foto von einem Messer veröffentlicht.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Dieses Messer hat der Mann bei der Tat benutzt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Und die Polizei hat gefragt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wem gehört dieses Messer?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Dann hat sich ein Mensch gemeldet.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Dieser Mensch hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Messer gehört einem Mann.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und ich kenne diesen Mann.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Diesen Mann hat die Polizei jetzt festgenommen.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

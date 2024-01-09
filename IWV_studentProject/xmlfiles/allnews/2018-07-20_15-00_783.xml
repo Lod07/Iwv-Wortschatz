@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-21" url="2018-07-20_15-00_783.xml">
+   <title>Großes Fest in Schleswig-Holstein</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-07-20_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-07-20_15-00_783-full.png" type="screenshot" url="2018-07-20_15-00_783-full.png"/>
+      <resource id="2" name="2018-07-20_15-00_783_plaintext.txt" type="plaintext" url="2018-07-20_15-00_783_plaintext.txt"/>
+      <resource id="3" name="2018-07-20_15-00_783_quellcode.txt" type="sourcecode" url="2018-07-20_15-00_783_quellcode.txt"/>
+      <resource id="4" name="2018-07-20_15-00_783.docx" type="formatedText" url="2018-07-20_15-00_783.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Großes Fest in Schleswig-Holstein</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Travemünde hat am Freitag ein großes Fest begonnen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Travemünde ist ein Stadt·teil von Lübeck.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Lübeck ist eine Stadt in Schleswig-Holstein.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieses Fest ist an der Ostsee.</statement>
+            <statement>Dieses Fest heißt: Travemünder Woche.</statement>
+            <statement>Die Travemünder Woche ist jedes Jahr.</statement>
+            <statement>In diesem Jahr endet die Travemünder Woche am 29. Juli.</statement>
+            <statement>Viele Menschen besuchen jedes Jahr die Travemünder Woche.</statement>
+            <statement>Im vergangenen Jahr haben 700.000 Menschen die Travemünder Woche besucht.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Viele Veranstaltungen</subheadline>
+               <statement>Bei der Travemünder Woche gibt es viele Veranstaltungen.</statement>
+               <statement>Und bei der Travemünder Woche gibt es besonders viele Segel·veranstaltungen.</statement>
+               <explanation_marker>
+                  <statement>Zum Beispiel Segel·regatten.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Segel·regatten sind Wett·fahrten für Segel·boote.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei diesen Segel·regatten sind jedes Jahr viele Sportler.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der Chef von der Travemünder Woche hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In diesem Jahr kommen 1300 Sportler.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Diese Sportler sind aus 24 Ländern.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <statement>In diesem Jahr gibt es auch einen eigenen Wettbewerb für sehr junge Segler.</statement>
+            <statement>Und in diesem Jahr gibt es ein besonderes Angebot für Menschen mit Behinderung.</statement>
+         </section>
+         <section id="4">
+            <statement>Bei der Travemünder Woche können die Besucher auch viele andere Dinge machen.</statement>
+            <statement>Bei der Travemünder Woche gibt es zum Beispiel viele Musik·konzerte.</statement>
+            <statement>Und bei der Travemünder Woche gibt es viele Stände.</statement>
+            <statement>An diesen Ständen können die Besucher verschiedene Sachen kaufen.</statement>
+            <statement>Zum Beispiel Essen aus verschiedenen Ländern.</statement>
+            <statement>Am Ende von der Travemünder Woche gibt es ein Feuerwerk.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

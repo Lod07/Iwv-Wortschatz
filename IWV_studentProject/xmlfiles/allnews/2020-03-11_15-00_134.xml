@@ -1,0 +1,179 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-25" url="2020-03-11_15-00_134.xml">
+   <title>Corona-Virus: Viele Veranstaltungen verboten</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-03-11_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-03-11_15-00_134-full.png" type="screenshot" url="2020-03-11_15-00_134-full.png"/>
+      <resource id="2" name="2020-03-11_15-00_134_plaintext.txt" type="plaintext" url="2020-03-11_15-00_134_plaintext.txt"/>
+      <resource id="3" name="2020-03-11_15-00_134_quellcode.txt" type="sourcecode" url="2020-03-11_15-00_134_quellcode.txt"/>
+      <resource id="4" name="2020-03-11_15-00_134.docx" type="formatedText" url="2020-03-11_15-00_134.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Corona-Virus: Viele Veranstaltungen verboten</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Immer mehr Menschen haben das Corona-Virus.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Das Corona-Virus ist ein besonderes Virus.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und das Corona-Virus kann Menschen krank machen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Das Corona-Virus ist nämlich sehr ansteckend.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Deshalb haben die meisten Bundes·länder in Nord·deutschland gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Menschen sollen sich <style_element type="hb">nicht</style_element> mit dem Corona-Virus anstecken.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Aber auf großen Veranstaltungen sind viele Menschen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und auf großen Veranstaltungen können sich Menschen leicht mit dem Corona-Virus anstecken.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb verbieten wir große Veranstaltungen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese Bundes·länder haben Veranstaltungen mit mehr als 1000 Menschen verboten:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Niedersachsen.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Hamburg.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <headword>• Schleswig-Holstein.</headword>
+                  </enumeration>
+                  <enumeration id="4">
+                     <headword>• Und Bremen.</headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Mecklenburg-Vorpommern hat noch <style_element type="hb">nicht</style_element> alle großen Veranstaltungen verboten.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Fußball·spiele ohne Zuschauer</subheadline>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Große Veranstaltungen sind zum Beispiel:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Konzerte.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Messen.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <headword>• Und Sport·veranstaltungen.</headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Zu vielen Sport·veranstaltungen dürfen jetzt <style_element type="hb">keine</style_element> Zuschauer gehen.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Zu Fußball·spielen.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Zu Handball·spielen.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <statement>• Und zu Basketball·spielen.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Eishockey·liga hat sogar gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir machen jetzt <style_element type="hb">keine</style_element> Eishockey·spiele mehr.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb gibt es in diesem Jahr <style_element type="hb">keinen</style_element> Deutschen Eishockey·meister.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben am Mittwoch·mittag gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In Nord·deutschland haben mehr als 160 Menschen das Corona-Virus.</statement>
+                  </speech>
+                  <speech id="2">
+                     <explanation_marker>
+                        <statement>Und zum ersten Mal haben jetzt auch 2 Menschen in Kiel das Corona-Virus.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Kiel ist die Haupt·stadt von Schleswig-Holstein.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="5">
+            <subheadline>Wie können Sie sich schützen?</subheadline>
+            <statement>Menschen können sich gegen das Corona-Virus schützen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>• Waschen Sie oft Ihre Hände.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>• Husten oder niesen Sie in ein Taschen·tuch.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>• Husten oder niesen Sie <style_element type="hb">nicht</style_element> Menschen an.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>• Halten Sie Abstand zu kranken Menschen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="6">
+            <question><style_element type="hb">Sie wollen mehr Informationen über das Corona-Virus lesen?</style_element></question>
+            <question><style_element type="hb">Oder hören?</style_element></question>
+            <statement><ref><style_element type="hu"></style_element><style_element type="hb">Dann klicken Sie hier.</style_element></ref></statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

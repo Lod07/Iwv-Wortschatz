@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-07-03_13-30_293.xml">
+   <title>Mehr Nachrichten vom 03.07.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-07-03_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-07-03_13-30_293-full.png" type="screenshot" url="2019-07-03_13-30_293-full.png"/>
+      <resource id="2" name="2019-07-03_13-30_293_plaintext.txt" type="plaintext" url="2019-07-03_13-30_293_plaintext.txt"/>
+      <resource id="3" name="2019-07-03_13-30_293_quellcode.txt" type="sourcecode" url="2019-07-03_13-30_293_quellcode.txt"/>
+      <resource id="4" name="2019-07-03_13-30_293.docx" type="formatedText" url="2019-07-03_13-30_293.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 03.07.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: A1 nicht mehr gesperrt</subheadline>
+               <explanation_marker>
+                  <statement>An der A1 bei Lübeck waren Schäden.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">A1 ist die Abkürzung von <style_element type="hb">A</style_element>utobahn <style_element type="hb">1</style_element>.</style_element></statement> 
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Deshalb hat die Polizei die A1 gesperrt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Auf der A1 durfte <style_element type="hb">kein</style_element> Auto fahren.</style_element></statement> 
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Jetzt haben Arbeiter die Schäden repariert.</statement>
+               <statement>Deshalb ist die A1 jetzt <style_element type="hb">nicht</style_element> mehr gesperrt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>An der A1 bei Lübeck war der Beton kaputt.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Beton ist ein Bau·stoff.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Beton ist zuerst flüssig.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Dann wird Beton schnell hart wie Stein.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Es war nämlich sehr heiß.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb ist der Beton auf der A1 sehr heiß geworden.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Das ist <style_element type="hb">nicht</style_element> gut für den Beton.</statement> 
+                     </speech>
+                     <speech id="5">
+                        <explanation_marker>
+                           <statement>Bei großer Hitze dehnt der Beton sich nämlich aus.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement>Der Beton wird größer.</statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="6">
+                        <statement>Dann platzt der Beton auf.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Feuerwehr rettet Frau und Kind</subheadline>
+            <statement>In Heide war ein Feuer.</statement>
+            <statement>Das Feuer war in einem Wohn·haus.</statement>
+            <statement>Bei dem Feuer wurde <style_element type="hb">kein</style_element> Mensch verletzt.</statement> 
+            <statement>Aber bei dem Feuer musste die Feuerwehr eine Frau und ein Kind retten.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Feuerwehr hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die meisten Menschen konnten das Wohn·haus verlassen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Aber die Frau und das Kind konnten das Wohn·haus <style_element type="hb">nicht</style_element> verlassen.</statement> 
+                  </speech>
+                  <speech id="3">
+                     <statement>Bei dem Feuer war nämlich viel dichter Rauch.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und die Frau und das Kind konnten <style_element type="hb">nicht</style_element> durch den dichten Rauch gehen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Deshalb haben wir die Frau und das Kind aus dem Wohn·haus geholt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Feuerwehr hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Feuer war im Keller.</statement>
+                  </speech>
+                  <speech id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Aber wir wissen <style_element type="hb">nicht</style_element>:</statement> 
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Wie ist das Feuer entstanden?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker> 
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

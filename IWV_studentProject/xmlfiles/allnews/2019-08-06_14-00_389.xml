@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2019-08-06_14-00_389.xml">
+   <title>Schiffe auf der Elbe müssen warten</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-08-06_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-08-06_14-00_389-full.png" type="screenshot" url="2019-08-06_14-00_389-full.png"/>
+      <resource id="2" name="2019-08-06_14-00_389_plaintext.txt" type="plaintext" url="2019-08-06_14-00_389_plaintext.txt"/>
+      <resource id="3" name="2019-08-06_14-00_389_quellcode.txt" type="sourcecode" url="2019-08-06_14-00_389_quellcode.txt"/>
+      <resource id="4" name="2019-08-06_14-00_389.docx" type="formatedText" url="2019-08-06_14-00_389.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Schiffe auf der Elbe müssen warten</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Auf der Elbe müssen viele Schiffe warten.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die Elbe ist ein großer Fluss.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>In Geesthacht ist nämlich ein besonderes Bauwerk kaputt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Geesthacht ist eine Stadt in Schleswig-Holstein.</style_element></statement>
+                  </explanation>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Und Geesthacht ist in der Nähe von Hamburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieses besondere Bauwerk ist ein Stau·wehr.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Stau·wehr ist in Flüssen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und ein Stau·wehr ist wie ein großes Tor.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <question><style_element type="hi"> Ist das Stau·wehr geschlossen?</style_element></question>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Dann ist mehr Wasser im Fluss vor dem Stau·wehr.</style_element></statement>
+                  </explanation>
+                  <explanation id="5">
+                     <question><style_element type="hi">Ist das Stau·wehr offen?</style_element></question>
+                  </explanation>
+                  <explanation id="6">
+                     <statement><style_element type="hi">Dann ist weniger Wasser im Fluss vor dem Stau·wehr.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <statement>Fach·leute reparieren das kaputte Stau·wehr.</statement>
+            <statement>Für die Reparatur mussten die Fach·leute das Stau·wehr öffnen.</statement>
+            <statement>Deshalb ist jetzt wenig Wasser in der Elbe.</statement>
+            <statement>
+               Und deshalb können viele Schiffe 
+               <style_element type="hb">nicht</style_element> 
+               weiter·fahren.
+            </statement>
+         </section>
+         <section id="3">
+            <subheadline>70 Schiffe warten</subheadline>
+            <statement>70 Schiffe warten auf der Elbe.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der Besitzer von einem Schiff hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Warten ist sehr teuer für uns.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Wir haben nämlich Waren auf den Schiffen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und diese Waren müssen wir transportieren.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>
+                        Aber jetzt können wir diese Waren 
+                        <style_element type="hb">nicht</style_element> 
+                        transportieren.
+                     </statement>
+                  </speech>
+                  <speech id="5">
+                     <speech_marker>
+                        <speech_intro>
+                           <headword>Wir hoffen:</headword>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Das Stau·wehr ist schnell repariert.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Reparatur von dem Stau·wehr ist sehr schwierig.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement> Und die Reparatur dauert wahrscheinlich bis Mittwoch.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dann können wir das Stau·wehr wieder schließen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und dann können die Schiffe weiter·fahren.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

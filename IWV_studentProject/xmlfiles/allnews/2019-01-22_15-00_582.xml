@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-10" url="2019-01-22_15-00_582.xml">
+   <title>Mehr Nachrichten vom 22.01.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-01-22_15-00</vdate>
+   <resources>
+      <resource id="1" name="2019-01-22_15-00_582-full.png" type="screenshot" url="2019-01-22_15-00_582-full.png"/>
+      <resource id="2" name="2019-01-22_15-00_582_plaintext.txt" type="plaintext" url="2019-01-22_15-00_582_plaintext.txt"/>
+      <resource id="3" name="2019-01-22_15-00_582_quellcode.txt" type="sourcecode" url="2019-01-22_15-00_582_quellcode.txt"/>
+      <resource id="4" name="2019-01-22_15-00_582.docx" type="formatedText" url="2019-01-22_15-00_582.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 22.01.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Mann festgenommen</subheadline>
+               <statement>Die Polizei hat in Kiel einen Mann festgenommen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei glaubt nämlich:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Der Mann hat 2 Mädchen sexuell missbraucht.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Der Mann hat die Mädchen zu sexuellen Dingen gezwungen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der sexuelle Missbrauch war vor einigen Jahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Ein Mädchen war 6 Jahre alt.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und das andere Mädchen war 7 Jahre alt.</statement>
+                     </speech>
+                     <speech id="4">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Die 2 Mädchen haben jetzt gesagt:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Der Mann hat uns vor einigen Jahren missbraucht.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir haben jetzt die Wohnung von dem Mann durchsucht.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>In dieser Wohnung haben wir Beweise gefunden.</statement>
+                     </speech>
+                     <speech id="3">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Diese Beweise zeigen:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Der Mann hat die 2 Mädchen wahrscheinlich missbraucht.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und deshalb haben wir den Mann jetzt festgenommen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei will jetzt wissen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Hat der Mann vielleicht noch andere Mädchen missbraucht?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Frau stirbt bei Unfall</subheadline>
+               <statement>In Oldenburg war ein schlimmer Unfall.</statement>
+               <statement>Bei diesem Unfall ist eine junge Frau gestorben.</statement>
+               <statement>Die junge Frau war 17 Jahre alt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die junge Frau ist mit einem Fahrrad gefahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Neben der Frau ist ein Mann mit einem Lkw gefahren.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Der Mann wollte mit dem Lkw abbiegen.</statement>
+                     </speech>
+                     <speech id="4"> 
+                        <statement>Der Mann hat die junge Frau mit dem Fahrrad <style_element type="hb">nicht</style_element> gesehen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Deshalb hat der Mann die junge Frau mit dem Lkw überfahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

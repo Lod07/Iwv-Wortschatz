@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-10-18_15-00_809.xml">
+   <title>Lkw-Unfall auf A1</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-10-18_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-10-18_15-00_809-full.png" type="screenshot" url="2018-10-18_15-00_809-full.png"/>
+      <resource id="2" name="2018-10-18_15-00_809_plaintext.txt" type="plaintext" url="2018-10-18_15-00_809_plaintext.txt"/>
+      <resource id="3" name="2018-10-18_15-00_809_quellcode.txt" type="sourcecode" url="2018-10-18_15-00_809_quellcode.txt"/>
+      <resource id="4" name="2018-10-18_15-00_809.docx" type="formatedText" url="2018-10-18_15-00_809.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Lkw-Unfall auf A1</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Auf der A1 war ein schwerer Unfall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">A1 ist die Abkürzung für Auto·bahn 1.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieser Unfall war bei Oyten.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Oyten ist ein Ort in Niedersachsen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Oyten ist in der Nähe von Bremen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Unfall sind 3 Lkw gegeneinander gefahren.</statement>
+            <statement>Ein Lkw-Fahrer wurde schwer verletzt.</statement>
+            <statement>2 andere Lkw-Fahrer wurden leicht verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Kaputter Lkw auf A1</subheadline>
+               <explanation_marker>
+                  <statement>Auf der A1 hatte ein Lkw eine Panne.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Der Lkw war kaputt.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Deshalb konnte der Lkw <style_element type="hb">nicht</style_element> weiterfahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Deshalb hat dieser Lkw auf dem Seiten·streifen gestanden.</statement>
+               <statement>Dann ist ein anderer Lkw gegen den kaputten Lkw gefahren.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Fahrer von dem anderen Lkw hat den kaputten Lkw wahrscheinlich zu spät gesehen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb ist der Fahrer von dem anderen Lkw gegen den kaputten Lkw gefahren.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Dann hat der andere Lkw die A1 blockiert.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Ein dritter Lkw konnte dem anderen Lkw <style_element type="hb">nicht</style_element> ausweichen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Deshalb ist der dritte Lkw gegen den anderen Lkw gefahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>A1 lange gesperrt</subheadline>
+               <statement>Fach·leute mussten die kaputten Lkw wegräumen.</statement>
+               <explanation_marker>
+                  <statement>Deshalb hat die Polizei die A1 lange gesperrt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Auf der A1 durften <style_element type="hb">keine</style_element> Autos fahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Und deshalb waren auf der A1 lange Staus.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

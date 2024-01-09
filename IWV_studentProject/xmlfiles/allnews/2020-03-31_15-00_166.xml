@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2020-03-31_15-00_166.xml">
+   <title>Jena: Menschen müssen Schutz·masken tragen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-03-31_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-03-31_15-00_166-full.png" type="screenshot" url="2020-03-31_15-00_166-full.png"/>
+      <resource id="2" name="2020-03-31_15-00_166_plaintext.txt" type="plaintext" url="2020-03-31_15-00_166_plaintext.txt"/>
+      <resource id="3" name="2020-03-31_15-00_166_quellcode.txt" type="sourcecode" url="2020-03-31_15-00_166_quellcode.txt"/>
+      <resource id="4" name="2020-03-31_15-00_166.docx" type="formatedText" url="2020-03-31_15-00_166.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Jena: Menschen müssen Schutz·masken tragen</headline>
+      <sections>
+         <section id="1">
+            <statement>Wegen dem Corona-Virus gibt es viele Regeln.</statement>
+            <statement>Die Menschen sollen sich nämlich <style_element type="hb">nicht</style_element> mit dem Corona-Virus anstecken.</statement>
+            <explanation_marker>
+               <statement>Jetzt macht Jena eine neue Regel.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>Jena ist eine Stadt in Thüringen.</statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Regel ist:</statement>
+            <explanation_marker>
+               <statement>An bestimmten Orten müssen Menschen eine Schutz·maske tragen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>Eine Schutz·maske ist aus Stoff.</statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>Dieser Stoff ist vor der Nase und vor dem Mund.</statement>
+                  </explanation>
+                  <explanation id="3">
+                     <question>Trägt ein Mensch eine Schutz·maske?</question>
+                  </explanation>
+                  <explanation id="4">
+                     <statement>Dann kann dieser Mensch andere Menschen <style_element type="hb">nicht</style_element> so leicht anstecken.</statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement>Zum Beispiel mit dem Corona-Virus.</statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Stadt Jena hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>An einigen Orten sind viele Menschen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Zum Beispiel in Super·märkten.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und in Bussen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>An diesen Orten müssen Menschen bald eine Schutz·maske tragen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Diese neue Regel ist ab der nächsten Woche.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Menschen können Schutz·masken selber machen</subheadline>
+            <statement>Das Corona-Virus ist überall auf der Welt.</statement>
+            <statement>Deshalb brauchen die Menschen überall auf der Welt Schutz·masken.</statement>
+            <statement>Aber im Moment gibt es zu wenig Schutz·masken.</statement>
+            <statement>Und diese Schutz·masken brauchen vor allem Menschen mit bestimmten Berufen.</statement>
+            <statement>Zum Beispiel Ärzte.</statement>
+            <statement>Und Kranken·schwestern.</statement>
+            <statement>Diese Menschen brauchen besonders gute Schutz·masken.</statement>
+            <statement>Und besonders viele.</statement>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute sagen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Menschen können Schutz·masken auch selber machen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <question>Trägt ein Mensch eine selbst·gemachte Schutz·maske?</question>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dann kann sich dieser Mensch immer noch mit dem Corona-Virus anstecken.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Aber dieser Mensch kann andere Menschen <style_element type="hb">nicht</style_element> so leicht anstecken.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Deshalb sind Schutz·masken wichtig.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>         
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Viele Anleitungen im Internet zeigen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>So mache ich eine Schutz·maske.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <explanation_marker>
+               <statement>Eine Anleitung ist zum Beispiel von der Feuer·wehr in Essen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Essen ist eine Stadt in Nordrhein-Westfalen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Anleitung ist in schwerer Sprache.</statement>
+            <statement>
+               <ref><style_element type="hu">Diese Anleitung finden Sie hier.</style_element></ref>
+            </statement>
+         </section>
+         <section id="5">
+            <explanation_marker>
+               <statement>NDR 2 hat eine besondere Aktion gemacht.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">NDR 2 ist ein Radio·sender.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>NDR 2 hat seinen Hörern gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Schickt uns Fotos von eurem selbst·gemachten Mund·schutz.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>
+               <ref><style_element type="hu">Diese Fotos finden Sie hier.</style_element></ref>
+            </statement>
+         </section>
+         <section id="6">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Auch die Fernseh·sendung Visite hat den Menschen gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>  Schickt uns Fotos von eurem selbst·gemachten Mund·schutz.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Einige von diesen Fotos zeigt Visite heute um 20.15 Uhr im NDR Fernsehen.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

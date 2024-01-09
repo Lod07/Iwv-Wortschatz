@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-27" url="2019-12-12_14-00_41.xml">
+   <title>Probleme mit Zaun</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-12-12_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-12-12_14-00_41-full.png" type="screenshot" url="2019-12-12_14-00_41-full.png"/>
+      <resource id="2" name="2019-12-12_14-00_41_plaintext.txt" type="plaintext" url="2019-12-12_14-00_41_plaintext.txt"/>
+      <resource id="3" name="2019-12-12_14-00_41_quellcode.txt" type="sourcecode" url="2019-12-12_14-00_41_quellcode.txt"/>
+      <resource id="4" name="2019-12-12_14-00_41.docx" type="formatedText" url="2019-12-12_14-00_41.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Probleme mit Zaun</headline>
+      <sections>
+         <section id="1">
+            <statement>Im Norden von Schleswig-Holstein gibt es Probleme mit einem Zaun.</statement>
+            <explanation_marker>
+               <statement>Dieser Zaun ist in Dänemark.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Dänemark ist ein Land im Norden von Europa.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und dieser Zaun ist an der Grenze zu Schleswig-Holstein.</statement>
+            <statement>Der Zaun soll Tiere schützen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Aber jetzt haben Fach·leute gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Der Zaun ist gefährlich für Wild·tiere.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Wild·tiere sind zum Beispiel Hirsche.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Oder Rehe.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb sollen Arbeiter den Zaun neu machen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Zaun soll Tiere schützen</subheadline>
+            <explanation_marker>
+               <statement>Außerhalb von Dänemark ist eine schlimme Tier·seuche.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bei einer Tier·seuche sind viele Tiere krank.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Und eine Tier·seuche ist sehr ansteckend.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Tiere können von anderen Tieren schnell diese Tier·seuche bekommen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Tier·seuche ist die Afrikanische Schweine·pest.</statement>
+            <statement>Wild·schweine übertragen die Afrikanische Schweine·pest.</statement>
+            <statement>Bauern in Dänemark wollten ihre Tiere vor dieser Tier·seuche schützen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Bauern haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement> Vielleicht haben auch Wild·schweine in Schleswig-Holstein bald diese Tier·seuche.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Diese Wild·schweine können über die Grenze nach Dänemark laufen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Aber mit dem Zaun können die Wild·schweine <style_element type="hb">nicht</style_element> nach Dänemark laufen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Deshalb haben Arbeiter in Dänemark vor einigen Monaten den Zaun gebaut.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Aber jetzt haben Fach·leute gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>An dem Zaun sind einige Wild·tiere gestorben.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die Wild·tiere wollten zum Beispiel über den Zaun springen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Aber die Wild·tiere sind an dem Zaun hängen geblieben.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Die Wild·tiere haben sich nämlich in dem Zaun verhakt.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Deshalb sollen Arbeiter den Zaun neu machen.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Dann verhaken sich vielleicht keine Wild·tiere mehr in dem Zaun.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

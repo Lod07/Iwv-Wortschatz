@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-24" url="2018-08-14_15-00_789.xml">
+   <title>Großes Feuer in Lensahn</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-08-14_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-08-14_15-00_789-full.png" type="screenshot" url="2018-08-14_15-00_789-full.png"/>
+      <resource id="2" name="2018-08-14_15-00_789_plaintext.txt" type="plaintext" url="2018-08-14_15-00_789_plaintext.txt"/>
+      <resource id="3" name="2018-08-14_15-00_789_quellcode.txt" type="sourcecode" url="2018-08-14_15-00_789_quellcode.txt"/>
+      <resource id="4" name="2018-08-14_15-00_789.docx" type="formatedText" url="2018-08-14_15-00_789.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Großes Feuer in Lensahn</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Lensahn war ein großes Feuer.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Lensahn ist ein Ort in Schleswig-Holstein.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieses Feuer war auf einem Recycling·hof.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Auf einem Recycling·hof lagert besonderer Müll.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword><style_element type="hi">• Altes Papier.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <statement><style_element type="hi">• Oder altes Glas.</style_element></statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Aus diesem besonderen Müll können Fach·leute neue Sachen machen.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Aus altem Papier können Fach·leute zum Beispiel neues Papier machen.</style_element></statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement><style_element type="hi">Und aus altem Glas können Fach·leute zum Beispiel neues Glas machen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und dieses Feuer war in der Nähe von der A1.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">A1 ist die Abkürzung für Auto·bahn 1.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Feuer wurden <style_element type="hb">keine</style_element> Menschen verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Auf dem Recycling·hof hat altes Metall gebrannt.</statement>
+               <statement>Dann ist das Feuer größer geworden.</statement>
+               <statement>Dann haben zum Beispiel auch Bäume gebrannt.</statement>
+               <statement>Diese Bäume sind an der A1.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>An der A1 war sehr viel Rauch.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und von dem Recycling·hof ist brennender Müll auf die A1 geflogen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Das ist sehr gefährlich.</statement>
+                     </speech>
+                     <speech id="4">
+                        <explanation_marker>
+                           <statement>Deshalb haben wir die A1 gesperrt.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Auf der A1 durften <style_element type="hb">keine</style_element> Autos fahren.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Schwieriger Einsatz für die Feuerwehr</subheadline>
+               <statement>Bei dem Feuer waren viele Feuerwehr·leute im Einsatz.</statement>
+               <statement>Diese Feuerwehr·leute konnten das Feuer erst nach vielen Stunden löschen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Das Löschen von dem Feuer war sehr schwierig.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und das Löschen von dem Feuer war gefährlich.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Auf dem Recycling·hof waren nämlich auch Gas·flaschen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Gas·flaschen können bei einem Feuer explodieren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="4">
+            <explanation_marker>
+               <statement>Bei dem Recycling·hof ist eine Strom·leitung.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Durch eine Strom·leitung fließt Strom.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Feuer ist gefährlich für Strom·leitungen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb haben wir die Strom·leitung abgeschaltet.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und deshalb hatten viele Menschen lange <style_element type="hb">keinen</style_element> Strom.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

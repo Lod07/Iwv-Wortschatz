@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-07-25_14-00_339.xml">
+   <title>Gefährliche Hitze</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-07-25_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-07-25_14-00_339-full.png" type="screenshot" url="2019-07-25_14-00_339-full.png"/>
+      <resource id="2" name="2019-07-25_14-00_339_plaintext.txt" type="plaintext" url="2019-07-25_14-00_339_plaintext.txt"/>
+      <resource id="3" name="2019-07-25_14-00_339_quellcode.txt" type="sourcecode" url="2019-07-25_14-00_339_quellcode.txt"/>
+      <resource id="4" name="2019-07-25_14-00_339.docx" type="formatedText" url="2019-07-25_14-00_339.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Gefährliche Hitze</headline>
+      <sections>
+         <section id="1">
+            <statement>In Nord·deutschland ist es sehr heiß.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Am Mittwoch war sogar ein Hitze·rekord.</statement>
+                  </speech>
+                  <speech id="2">
+                     <explanation_marker>
+                        <statement>In Lingen war es 39,1 Grad heiß.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Lingen ist eine Stadt in Niedersachsen.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="3">
+                     <statement>So heiß war es noch nie in Nord·deutschland.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und vielleicht gibt es schon bald einen neuen Hitze·rekord.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Es soll nämlich noch heißer werden.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <statement>Die Hitze macht viele Probleme.</statement>
+            <statement>Die Hitze ist zum Beispiel gefährlich für manche Menschen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Sind die Menschen viel draußen?</question>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dann sollen die Menschen einen Hut tragen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Die Menschen sollen <style_element type="hb">nicht</style_element> lange in der Sonne sein.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und die Menschen sollen viel Wasser trinken.</statement>
+                  </speech>
+                  <speech id="5">
+                     <question>Fühlen sich Menschen wegen der Hitze sehr krank?</question>
+                  </speech>
+                  <speech id="6">
+                     <statement>Dann sollen diese Menschen zu einem Arzt gehen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Gefahr von Wald·bränden</subheadline>
+            <statement>In Nord·deutschland ist es sehr heiß.</statement>
+            <statement>Und in Nord·deutschland hat es lange <style_element type="hb">nicht</style_element> geregnet.</statement>
+            <statement>Deshalb sind die Böden in Nord·deutschland sehr trocken.</statement>
+            <statement>Sehr trockene Böden sind für die Wälder gefährlich.</statement>
+            <statement>Bei sehr trockenen Böden können nämlich Wälder leicht brennen.</statement>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In vielen Gebieten ist die Gefahr von Wald·bränden sehr hoch.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb müssen die Menschen jetzt sehr vorsichtig sein.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Die Menschen dürfen <style_element type="hb">kein</style_element> Feuer in einem Wald machen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und die Menschen dürfen <style_element type="hb">kein</style_element> Feuer in der Nähe von einem Wald machen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Die Menschen dürfen auch <style_element type="hb">nicht</style_element> in einem Wald rauchen.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Und die Menschen dürfen <style_element type="hb">nicht</style_element> in der Nähe von einem Wald rauchen.  </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

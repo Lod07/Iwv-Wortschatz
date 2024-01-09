@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-06-25_13-30_374.xml">
+   <title>Mehr Nachrichten vom 25.06.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-06-25_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-06-25_13-30_374-full.png" type="screenshot" url="2019-06-25_13-30_374-full.png"/>
+      <resource id="2" name="2019-06-25_13-30_374_plaintext.txt" type="plaintext" url="2019-06-25_13-30_374_plaintext.txt"/>
+      <resource id="3" name="2019-06-25_13-30_374_quellcode.txt" type="sourcecode" url="2019-06-25_13-30_374_quellcode.txt"/>
+      <resource id="4" name="2019-06-25_13-30_374.docx" type="formatedText" url="2019-06-25_13-30_374.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 25.06.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Reifen von Bus verletzt Fahrrad·fahrerin</subheadline>
+               <statement>In Hamburg war ein Unfall.</statement>
+               <statement>Dieser Unfall war im Stadt·teil St. Pauli.</statement>
+               <statement>Bei dem Unfall hat sich ein Reifen von einem Bus gelöst.</statement>
+               <statement>Dann ist der Reifen über die Straße gerollt.</statement>
+               <statement>Und dann ist der Reifen gegen eine Fahrrad·fahrerin gerollt.</statement>
+               <statement>Die Fahrrad·fahrerin wurde von dem Reifen umgerissen.</statement>
+               <statement>Bei dem Unfall wurde die Fahrrad·fahrerin verletzt.</statement>
+               <statement>Aber bei dem Unfall wurde <style_element type="hb">kein</style_element> anderer Mensch verletzt.</statement> 
+               <statement>Jetzt ermittelt die Polizei.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei will nämlich wissen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Warum hat sich der Reifen von dem Bus gelöst?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Motorrad·fahrer stirbt bei Unfall</subheadline>
+               <explanation_marker>
+                  <statement>In der Nähe von Neustadt am Rübenberge war ein schwerer Unfall.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Neustadt am Rübenberge ist eine Stadt.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und Neustadt am Rübenberge ist in der Nähe von Hannover.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei dem Unfall ist ein Motorrad·fahrer gegen einen Bus gefahren.</statement>
+               <statement>Der Motorrad·fahrer ist bei dem Unfall gestorben.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Motorrad·fahrer ist auf einer Land·straße gefahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann ist dem Motorrad·fahrer ein Bus entgegen·gekommen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Wahrscheinlich hat der Bus·fahrer den Motorrad·fahrer <style_element type="hb">nicht</style_element> gesehen.</statement> 
+                     </speech>
+                     <speech id="4">
+                        <statement>Dann ist der Fahrer von dem Bus nach links abgebogen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Der Motorrad·fahrer konnte dem Bus <style_element type="hb">nicht</style_element> mehr ausweichen.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Deshalb ist der Motorrad·fahrer gegen den Bus gefahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Der Busfahrer wurde bei dem Unfall <style_element type="hb">nicht</style_element> verletzt.</statement>
+               <statement>Und ein weiterer Mann in dem Bus wurde auch <style_element type="hb">nicht</style_element> verletzt.</statement> 
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

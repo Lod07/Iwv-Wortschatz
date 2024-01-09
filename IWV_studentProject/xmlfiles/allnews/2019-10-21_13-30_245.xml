@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2019-10-21_13-30_245.xml">
+   <title>Mehr Nachrichten vom 21.10.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-21_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-10-21_13-30_245-full.png" type="screenshot" url="2019-10-21_13-30_245-full.png"/>
+      <resource id="2" name="2019-10-21_13-30_245_plaintext.txt" type="plaintext" url="2019-10-21_13-30_245_plaintext.txt"/>
+      <resource id="3" name="2019-10-21_13-30_245_quellcode.txt" type="sourcecode" url="2019-10-21_13-30_245_quellcode.txt"/>
+      <resource id="4" name="2019-10-21_13-30_245.docx" type="formatedText" url="2019-10-21_13-30_245.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 21.10.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Polizei·einsatz in Schlacht·hof</subheadline>
+            <explanation_marker>
+               <statement>In Kellinghusen war ein besonderer Polizei·einsatz.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Kellinghusen ist ein kleiner Ort in Schleswig-Holstein.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Und Kellinghusen ist in der Nähe von Itzehoe.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>In Kellinghusen haben nämlich 26 Menschen eine Firma besetzt.</statement>
+            <statement>Diese Firma ist ein Schlacht·hof.</statement>
+            <statement>In diesem Schlacht·hof werden jeden Tag Tausende Schweine geschlachtet.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Menschen haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir sind gegen das Töten von Tieren.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb haben wir den Schlacht·hof besetzt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Einige von den Menschen sind zum Beispiel auf das Dach von dem Schlacht·hof geklettert.</statement>
+            <statement>Und einige von den Menschen haben sich auf dem Schlacht·hof angekettet.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Betreten von dem Schlacht·hof ist verboten.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb müssen die Menschen den Schlacht·hof verlassen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Aber die Menschen wollten den Schlacht·hof <style_element type="hb">nicht</style_element> verlassen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb bringen wir die Menschen jetzt von dem Schlacht·hof herunter.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>          
+         </section>
+         <style_element type="line"/>
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Neue Straße ist fertig </subheadline>
+            <explanation_marker>
+               <statement>In Neubrandenburg war ein Fest.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Neubrandenburg ist eine Stadt.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Fest hat die Stadt eine neue Straße eröffnet.</statement>
+            <statement>Und bei dem Fest sind viele Sportler auf der neuen Straße gelaufen.</statement>
+            <explanation_marker>
+               <statement>Diese Straße ist eine Orts·umgehung.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>
+                        <style_element type="hi">Das heißt:</style_element>
+                     </headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Auto·fahrer müssen jetzt <style_element type="hb">nicht</style_element> mehr durch Neubrandenburg fahren.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Auto·fahrer können jetzt nämlich um Neubrandenburg herum·fahren.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement>
+                        <style_element type="hi">Deshalb fahren durch Neubrandenburg jetzt weniger Autos.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement>
+                        <style_element type="hi">Und deshalb freuen sich die Menschen in Neubrandenburg über die neue Straße.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Bau·arbeiten haben 6 Jahre gedauert.</statement>
+            <statement>Und die Bau·arbeiten haben 72 Millionen Euro gekostet.</statement>
+            <statement>Jetzt ist die 3 Kilometer lange Straße fertig.</statement>
+         </section>
+         <style_element type="line"/>
+      </sections>
+   </content>
+</annotation>

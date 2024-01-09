@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-25" url="2019-07-15_13-30_423.xml">
+   <title>Mehr Nachrichten vom 15.07.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-07-15_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-07-15_13-30_423-full.png" type="screenshot" url="2019-07-15_13-30_423-full.png"/>
+      <resource id="2" name="2019-07-15_13-30_423_plaintext.txt" type="plaintext" url="2019-07-15_13-30_423_plaintext.txt"/>
+      <resource id="3" name="2019-07-15_13-30_423_quellcode.txt" type="sourcecode" url="2019-07-15_13-30_423_quellcode.txt"/>
+      <resource id="4" name="2019-07-15_13-30_423.docx" type="formatedText" url="2019-07-15_13-30_423.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 15.07.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hannover: Große Bau·arbeiten im Haupt·bahnhof</subheadline>
+            <statement>Im Haupt·bahnhof von Hannover haben große Bau·arbeiten begonnen.</statement>
+            <statement>Diese Bau·arbeiten dauern 14 Jahre.</statement>
+            <statement>In diesen 14 Jahren sollen Arbeiter den Haupt·bahnhof moderner machen.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Die Arbeiter bauen zum Beispiel:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Neue Gleise.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <headword>• Neue Bahnsteige.</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Am Bahnsteig können Menschen in Züge einsteigen.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">Und die Menschen können aus Zügen aussteigen.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="3">
+                     <headword>• Neue Rolltreppen.</headword>
+                  </enumeration>
+                  <enumeration id="4">
+                     <headword>• Und neue Fahr·stühle.</headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Ein Sprecher vom Haupt·bahnhof hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In der Zeit von den Bau·arbeiten können einige Züge <style_element type="hb">nicht</style_element> im Haupt·bahnhof halten.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb fallen einige Züge aus.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>In den nächsten 2 Wochen fallen zum Beispiel viele S-Bahnen aus.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachen: Vermisste Frau ist tot</subheadline>
+            <explanation_marker>
+               <statement>Ein Mann hat in Alfeld eine tote Frau gefunden.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Alfeld ist in der Nähe von Hildesheim.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Frau war in der Leine.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Die Leine ist ein Fluss.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir haben die Frau schon gesucht.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die Familie von der Frau hat die Frau nämlich vermisst.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Aber wir haben die Frau <style_element type="hb">nicht</style_element> gefunden.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Jetzt hat ein Mann die Frau gefunden.</statement>
+            <statement>Und jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wie ist die Frau gestorben?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

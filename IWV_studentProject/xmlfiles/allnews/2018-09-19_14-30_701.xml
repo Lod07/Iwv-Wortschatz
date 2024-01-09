@@ -1,0 +1,194 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-09-19_14-30_701.xml">
+   <title>Mehr Nachrichten vom 19.09.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-09-19_14-30</vdate>
+   <resources>
+      <resource id="1" name="2018-09-19_14-30_701-full.png" type="screenshot" url="2018-09-19_14-30_701-full.png"/>
+      <resource id="2" name="2018-09-19_14-30_701_plaintext.txt" type="plaintext" url="2018-09-19_14-30_701_plaintext.txt"/>
+      <resource id="3" name="2018-09-19_14-30_701_quellcode.txt" type="sourcecode" url="2018-09-19_14-30_701_quellcode.txt"/>
+      <resource id="4" name="2018-09-19_14-30_701.docx" type="formatedText" url="2018-09-19_14-30_701.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 19.09.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Reeperbahn Festival hat begonnen</subheadline>
+            <explanation_marker>
+               <statement>In Hamburg ist ein großes Musik·festival.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bei einem Musik·festival gibt es viele Konzerte.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieses Musik·festival heißt Reeperbahn Festival.</statement>
+            <statement>Das Reeperbahn Festival ist 4 Tage lang.</statement>
+            <statement>Und beim Reeperbahn Festival spielen 500 Musik·gruppen.</statement>
+            <statement>Diese Musik·gruppen spielen an 90 verschiedenen Orten in Hamburg.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der Chef von dem Reeperbahn Festival hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Beim Reeperbahn Festival spielen viele Musik·gruppen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und diese Musik·gruppen machen sehr unterschiedliche Musik.</statement>
+                  </speech>
+                  <speech id="3">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword>Zum Beispiel:</headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword>• Pop.</headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword>• Rock.</headword>
+                           </enumeration>
+                           <enumeration id="3">
+                              <headword>• Und Hip-Hop.</headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </speech>
+                  <speech id="4">
+                     <statement>Viele Menschen wollen die Musik·gruppen sehen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <speech_marker>
+                        <speech_intro>
+                           <headword>Wir glauben:</headword>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Zum Reeperbahn Festival kommen in diesem Jahr 40.000 Menschen.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: 150 Schafe gestohlen</subheadline>
+               <explanation_marker>
+                  <statement>Menschen haben in der Nähe von Altentreptow 150 Schafe gestohlen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Altentreptow ist ein Ort in der Nähe von Neubrandenburg.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Diese Schafe waren auf einer Weide.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Weide ist eine große Wiese.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und auf einer Weide fressen Tiere Gras.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Menschen sind mit einem großen Fahrzeug gekommen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und die Menschen haben die Schafe in das Fahrzeug getrieben.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Dann sind die Menschen weggefahren.</statement>
+                     </speech>
+                     <speech id="4">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Wir wissen <style_element type="hb">nicht</style_element>:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question>Wer sind diese Menschen?</question>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Die Schafe gehören einem Schäfer.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Dieser Schäfer hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Diebe sollen gefunden werden.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Helfen Sie dabei!</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Dann bekommen Sie eine Belohnung von mir.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Fußball: HSV ist Tabellen·führer</subheadline>
+               <statement>Der HSV hat ein Fußball·spiel gewonnen.</statement>
+               <statement>Das Fußball·spiel war in der 2. Bundesliga.</statement>
+               <explanation_marker>
+                  <statement>Das Fußball·spiel war in Dresden.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Dresden ist eine Stadt in Sachsen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Und das Fußball·spiel war gegen Dynamo Dresden.</statement>
+               <statement>Der HSV hat das Fußball·spiel 1:0 gewonnen.</statement>
+               <explanation_marker>
+                  <statement>Das Tor für den HSV hat Hee-Chan Hwang geschossen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Hee-Chan Hwang ist ein Fußball·spieler aus Südkorea.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Südkorea ist ein Land in Asien.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Der HSV ist jetzt Tabellen·führer in der 2. Bundesliga.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Der HSV ist in der Tabelle auf Platz 1.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

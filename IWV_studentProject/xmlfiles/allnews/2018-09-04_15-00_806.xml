@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-25" url="2018-09-04_15-00_806.xml">
+   <title>Bau·stelle bei Neumünster bleibt noch lange</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-09-04_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-09-04_15-00_806-full.png" type="screenshot" url="2018-09-04_15-00_806-full.png"/>
+      <resource id="2" name="2018-09-04_15-00_806_plaintext.txt" type="plaintext" url="2018-09-04_15-00_806_plaintext.txt"/>
+      <resource id="3" name="2018-09-04_15-00_806_quellcode.txt" type="sourcecode" url="2018-09-04_15-00_806_quellcode.txt"/>
+      <resource id="4" name="2018-09-04_15-00_806.docx" type="formatedText" url="2018-09-04_15-00_806.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Bau·stelle bei Neumünster bleibt noch lange</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Die A7 wird breiter gemacht.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">A7 ist die Abkürzung für Auto·bahn 7.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Deshalb sind auf der A7 viele Bau·stellen.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese Bau·stellen sind:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• In Hamburg.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Und in Schleswig-Holstein.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>An den Bau·stellen sind Teile von der Auto·bahn gesperrt.</statement>
+            <statement>Deshalb müssen die Auto·fahrer langsamer fahren.</statement>
+            <explanation_marker>
+               <statement>Und deshalb sind auf der A7 viele Staus.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Viele Auto·fahrer müssen lange warten.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Auch bei Neumünster ist eine große Bau·stelle auf der A7.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Neumünster ist eine Stadt in Schleswig-Holstein.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt haben Fachleute gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                    <statement>Die Bau·arbeiten bei Neumünster dauern noch lange.</statement> 
+                  </speech>
+                  <speech id="2">
+                    <statement>Deshalb bleibt auch die Bau·stelle bei Neumünster noch lange.</statement> 
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Mehr Fahrspuren</subheadline>
+               <statement>Auf der A7 fahren viele Auto·fahrer.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die A7 ist schon sehr alt.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Früher sind <style_element type="hb">nicht</style_element> so viele Autos auf der A7 gefahren.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Aber jetzt fahren immer mehr Autos auf der A7.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb ist die A7 jetzt zu klein für alle Autos.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Und deshalb machen wir die A7 breiter.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Wir bauen nämlich mehr Fahrspuren.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Dann können wieder alle Autos auf der A7 fahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Bau·arbeiten bei Neumünster</subheadline>
+               <statement>Die Bau·arbeiten auf der A7 bei Neumünster dauern noch lange.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Am Anfang haben wir gedacht:</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Die Bau·arbeiten dauern bis Dezember 2018.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Aber jetzt denken wir:</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Die Bau·arbeiten dauern bis März 2019.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="4">
+            <question>Warum dauern die Bau·arbeiten bei Neumünster so lange?</question>
+            <statement>An der Bau·stelle bei Neumünster sind 2 Tunnel.</statement>
+            <statement>Durch diese 2 Tunnel fahren am Tag Züge.</statement>
+            <statement>Aber in der Nacht fahren <style_element type="hb">keine</style_element> Züge durch die 2 Tunnel.</statement>
+            <statement>Deshalb können die Arbeiter nur in der Nacht an der Bau·stelle arbeiten.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

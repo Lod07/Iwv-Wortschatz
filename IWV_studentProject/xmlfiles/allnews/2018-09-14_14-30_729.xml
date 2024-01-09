@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-25" url="2018-09-14_14-30_729.xml">
+   <title>Mehr Nachrichten vom 14.09.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-09-14_14-30</vdate>
+   <resources>
+      <resource id="1" name="2018-09-14_14-30_729-full.png" type="screenshot" url="2018-09-14_14-30_729-full.png"/>
+      <resource id="2" name="2018-09-14_14-30_729_plaintext.txt" type="plaintext" url="2018-09-14_14-30_729_plaintext.txt"/>
+      <resource id="3" name="2018-09-14_14-30_729_quellcode.txt" type="sourcecode" url="2018-09-14_14-30_729_quellcode.txt"/>
+      <resource id="4" name="2018-09-14_14-30_729.docx" type="formatedText" url="2018-09-14_14-30_729.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 14.09.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Drogen in Reise·bus</subheadline>
+               <explanation_marker>
+                  <statement>In der Nähe von Lübeck hat der Zoll Drogen gefunden.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Der Zoll arbeitet für ein Land.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Zum Beispiel für Deutschland.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <statement><style_element type="hi">Der Zoll macht Kontrollen:</style_element></statement>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <statement><style_element type="hi">• Zum Beispiel an der Grenze zu einem anderen Land.</style_element></statement>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <statement><style_element type="hi">• Oder auf der Auto·bahn.</style_element></statement>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </explanation>
+                     <explanation id="4">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement><style_element type="hi">Der Zoll will nämlich wissen:</style_element></statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question><style_element type="hi">• Bringen Menschen verbotene Sachen ins Land?</style_element></question>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Drogen waren in einem Reise·bus.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der Zoll hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir haben 12 Kilo Kokain gefunden.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Das ist sehr viel.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Die 12 Kilo Kokain waren in einem Koffer.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Der Koffer gehört einem Mann.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Diesen Mann haben wir festgenommen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Hamburg: Vater erstochen</subheadline>
+               <statement>Die Polizei in Hamburg hat einen Mann festgenommen.</statement>
+               <statement>Der Mann hat nämlich wahrscheinlich seinen Vater erstochen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Der Vater lag tot in seiner Wohnung in Wandsbek.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Wandsbek ist ein Stadt·teil von Hamburg.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <headword>Wir glauben:</headword>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Der Mann und sein Vater hatten Streit.</statement>
+                              </speech>
+                              <speech id="2">
+                                 <statement>Beim Streit hat der Mann seinen Vater erstochen.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Mecklenburg-Vorpommern: Großes Fest in Warnemünde</subheadline>
+               <explanation_marker>
+                  <statement>In Warnemünde ist ein großes Fest.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Warnemünde ist an der Ostsee.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Das Fest heißt Cruise-Festival.</statement>
+               <explanation_marker>
+                  <statement>Beim Cruise-Festival sind viele Kreuz·fahrt·schiffe.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Auf einem Kreuz·fahrt·schiff machen Menschen Urlaub.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Beim Cruise-Festival sind viele Veranstaltungen.</statement>
+               <statement>Und beim Cruise-Festival ist ein großes Feuerwerk.</statement>
+               <statement>Das Cruise-Festival ist bis zum 16. September.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

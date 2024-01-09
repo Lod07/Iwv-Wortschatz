@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2019-08-09_14-00_341.xml">
+   <title>Feuer in Alten·heim</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-08-09_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-08-09_14-00_341-full.png" type="screenshot" url="2019-08-09_14-00_341-full.png"/>
+      <resource id="2" name="2019-08-09_14-00_341_plaintext.txt" type="plaintext" url="2019-08-09_14-00_341_plaintext.txt"/>
+      <resource id="3" name="2019-08-09_14-00_341_quellcode.txt" type="sourcecode" url="2019-08-09_14-00_341_quellcode.txt"/>
+      <resource id="4" name="2019-08-09_14-00_341.docx" type="formatedText" url="2019-08-09_14-00_341.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Feuer in Alten·heim</headline>
+      <sections>
+         <section id="1">
+            <statement>In Hamburg war ein großes Feuer.</statement>
+            <statement>Das Feuer war im Stadt·teil Eidelstedt.</statement>
+            <explanation_marker>
+               <statement>Und das Feuer war in einem Alten·heim.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Alten·heim ist ein Haus.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In diesem Haus wohnen alte Menschen.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Helfer kümmern sich um diese alten Menschen.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Die Helfer bringen den alten Menschen zum Beispiel Essen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Das Feuer hat große Schäden gemacht.</statement>
+            <statement>
+               Aber bei dem Feuer wurde 
+               <style_element type="hb">kein</style_element> 
+               Mensch verletzt.
+            </statement>
+         </section>
+         <section id="2">
+            <subheadline>Feuerwehr rettet 40 Menschen</subheadline>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Feuerwehr hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In dem Alten·heim haben 40 Menschen gewohnt.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Wir haben diese 40 Menschen gerettet.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und wir haben das Feuer gelöscht.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Das Löschen war sehr schwierig.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Wir haben 13 Stunden lang gelöscht.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Bei dem Feuer war viel giftiger Rauch.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Deshalb hat die Feuerwehr zu den Menschen in der Nähe von dem Alten·heim gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Schließen Sie die Türen von Ihren Häusern!</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und schließen Sie die Fenster von Ihren Häusern!</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>
+                        Dann kommt 
+                        <style_element type="hb">kein</style_element> 
+                        giftiger Rauch in Ihre Wohnungen.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Große Schäden</subheadline>
+            <statement>Das Feuer hat große Schäden gemacht.</statement>
+            <statement>
+               Deshalb kann in dem Alten·heim 
+               <style_element type="hb">kein</style_element> 
+               Mensch mehr wohnen.
+            </statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Und noch weiß 
+                     <style_element type="hb">kein</style_element> 
+                     Mensch:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Können Fach·leute das Alten·heim wieder reparieren?</question>
+                  </speech>
+                  <speech id="2">
+                     <question>Und können die alten Menschen wieder in dem Alten·heim wohnen?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="5">
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum war das Feuer in dem Alten·heim?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,202 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-29" url="2018-02-23_15-00_901.xml">
+   <title>Michael Schulte singt für Deutschland</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-02-23_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-02-23_15-00_901-full.png" type="screenshot" url="2018-02-23_15-00_901-full.png"/>
+      <resource id="2" name="2018-02-23_15-00_901_plaintext.txt" type="plaintext" url="2018-02-23_15-00_901_plaintext.txt"/>
+      <resource id="3" name="2018-02-23_15-00_901_quellcode.txt" type="sourcecode" url="2018-02-23_15-00_901_quellcode.txt"/>
+      <resource id="4" name="2018-02-23_15-00_901.docx" type="formatedText" url="2018-02-23_15-00_901.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Michael Schulte singt für Deutschland</headline>
+      <sections>
+         <section id="1">
+            <statement>Im Fernsehen war eine besondere Sendung.</statement>
+            <statement>Der Name von dieser Sendung war: Unser Lied für Lissabon.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Bei dieser Sendung konnten die Zuschauer entscheiden:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <question>Welcher Musiker darf für Deutschland beim ESC singen?</question>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">ESC ist die Abkürzung für: Eurovision Song Contest.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Der ESC ist ein sehr bekannter Musik·wettbewerb.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Viele Länder machen beim ESC mit.</style_element></statement>
+                           </explanation>
+                           <explanation id="4">
+                              <statement><style_element type="hi">Und jedes Land schickt Musiker zum ESC.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Zuschauer haben entschieden:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Michael Schulte darf für Deutschland beim ESC singen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <explanation_marker>
+               <statement>Michael Schulte ist ein Sänger aus Buxtehude.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Buxtehude ist eine Stadt in Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und Michael Schulte ist 27 Jahre alt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Die Sendung</subheadline>
+               <statement>In der Sendung haben 6 Musiker gesungen.</statement>
+               <statement>Dann konnten die Zuschauer von der Sendung bei dem Fernseh·sender anrufen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Und die Zuschauer konnten sagen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Dieses Lied gefällt uns am besten.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Auch Fach·leute konnten sagen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Dieses Lied gefällt uns am besten.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die meisten Zuschauer haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Das Lied von Michael Schulte gefällt uns am besten.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Und auch die meisten Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Das Lied von Michael Schulte gefällt uns am besten.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Deshalb soll Michael Schulte für Deutschland beim ESC singen.</statement>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Lied von Michael Schulte heißt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>You let me walk alone.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Auf Deutsch heißt das Lied:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Du lässt mich allein laufen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Michael Schulte hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In diesem Lied singe ich über meinen Vater.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Mein Vater ist vor 13 Jahren gestorben.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Der ESC</subheadline>
+               <statement>Der ESC ist jedes Jahr.</statement>
+               <statement>Dieses Jahr ist der ESC am 12. Mai.</statement>
+               <explanation_marker>
+                  <statement>Und der ESC ist in Lissabon.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Lissabon ist die Haupt·stadt von Portugal.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Portugal ist ein Land im Südwesten von Europa.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Im vergangenen Jahr war der ESC in Kiew.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Kiew ist die Haupt·stadt von der Ukraine.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Die Ukraine ist ein Land in Ost·europa.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Beim ESC in Kiew hat Levina für Deutschland gesungen.</statement>
+               <statement>Und Levina hat beim ESC in Kiew den vorletzten Platz gemacht.</statement>
+         </section>
+         <section id="5">
+            <statement>Zum ESC in Kiew gibt es auch einen Text in Leichter Sprache.</statement>
+            <question>Sie wollen diesen Text lesen?</question>
+            <headword>Oder hören?</headword>
+            <statement>
+               <ref>
+                  Dann klicken Sie <style_element type="hu">hier</style_element>.
+               </ref>
+            </statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

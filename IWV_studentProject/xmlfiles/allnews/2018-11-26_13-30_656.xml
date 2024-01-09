@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-23" url="2018-11-26_13-30_656.xml">
+   <title>Mehr Nachrichten vom 26.11.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-11-26_13-30</vdate>
+   <resources>
+      <resource id="1" name="2018-11-26_13-30_656-full.png" type="screenshot" url="2018-11-26_13-30_656-full.png"/>
+      <resource id="2" name="2018-11-26_13-30_656_plaintext.txt" type="plaintext" url="2018-11-26_13-30_656_plaintext.txt"/>
+      <resource id="3" name="2018-11-26_13-30_656_quellcode.txt" type="sourcecode" url="2018-11-26_13-30_656_quellcode.txt"/>
+      <resource id="4" name="2018-11-26_13-30_656.docx" type="formatedText" url="2018-11-26_13-30_656.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 26.11.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Nord·deutschland: Weihnachts·märkte eröffnen</subheadline>
+               <explanation_marker>
+                  <statement>Am Montag haben in Nord·deutschland viele Weihnachts·märkte eröffnet.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Auf einem Weihnachts·markt stehen viele kleine Hütten.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">An den Hütten können die Menschen verschiedene Dinge kaufen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Große Weihnachts·märkte sind zum Beispiel:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• In Hamburg.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <explanation_marker>
+                           <statement>• Und in Rostock.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Rostock ist eine Stadt in Mecklenburg-Vorpommern.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>In Rostock ist der größte Weihnachts·markt in Nord·deutschland.</statement>
+               <statement>Viele Menschen gehen gerne auf den Weihnachts·markt.</statement>
+               <statement>Auf dem Weihnachts·markt ist nämlich eine besondere Stimmung.</statement>
+               <statement>Musiker spielen zum Beispiel Weihnachts·lieder.</statement>
+               <statement>Und überall leuchten bunte Lichter.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Niedersachsen: Unfall bei Flucht vor der Polizei</subheadline>
+               <statement>In Wolfenbüttel war ein Unfall.</statement>
+               <statement>Bei dem Unfall wurde ein Mann leicht verletzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches> 
+                     <speech id="1">
+                        <statement>Wir wollten den Mann kontrollieren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber der Mann wollte <style_element type="hb">nicht</style_element> kontrolliert werden.</statement>
+                     </speech>
+                     <speech id="3">
+                        <explanation_marker>
+                           <statement>Der Mann ist nämlich ohne Führer·schein Auto gefahren.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Ein Führer·schein ist eine Erlaubnis.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Mit dieser Erlaubnis darf ein Mensch ein Auto fahren.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi"><style_element type="hb">Kein</style_element> Mensch darf <style_element type="hb">ohne</style_element> Führer·schein ein Auto fahren.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und der Mann hat vielleicht Alkohol getrunken.</statement>
+                     </speech>
+                     <speech id="5">
+                        <explanation_marker>
+                           <statement>Oder Drogen genommen.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Drogen sind gefährlich für den Körper.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Drogen machen Menschen zum Beispiel krank im Kopf.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Deshalb sind Drogen verboten.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="6">
+                        <statement>Deshalb ist der Mann mit dem Auto geflüchtet.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Bei der Flucht ist der Mann sehr schnell gefahren.</statement>
+                     </speech>
+                     <speech id="8">
+                        <statement>Dann ist der Mann gegen eine Ampel gefahren.</statement>
+                     </speech>
+                     <speech id="9">
+                        <statement>Und der Mann wurde leicht verletzt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-24" url="2018-08-15_15-00_790.xml">
+   <title>Fach·leute untersuchen Brücken</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-08-15_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-08-15_15-00_790-full.png" type="screenshot" url="2018-08-15_15-00_790-full.png"/>
+      <resource id="2" name="2018-08-15_15-00_790_plaintext.txt" type="plaintext" url="2018-08-15_15-00_790_plaintext.txt"/>
+      <resource id="3" name="2018-08-15_15-00_790_quellcode.txt" type="sourcecode" url="2018-08-15_15-00_790_quellcode.txt"/>
+      <resource id="4" name="2018-08-15_15-00_790.docx" type="formatedText" url="2018-08-15_15-00_790.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Fach·leute untersuchen Brücken</headline>
+      <sections>
+         <section id="1">
+            <statement>Fach·leute haben in Nord·deutschland viele Brücken untersucht.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Fach·leute wollten nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Sind die Brücken sicher?</question>
+                  </speech>
+                  <speech id="2">
+                     <question>Oder sind Schäden an den Brücken?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Und die Menschen in Nord·deutschland wollten wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Können die Brücken in Nord·deutschland einstürzen?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Einige Menschen in Nord·deutschland haben nämlich Angst.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Warum haben die Menschen Angst?</subheadline>
+               <explanation_marker>
+                  <statement>In Genua war ein schwerer Unfall.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Genua ist eine Stadt in Italien.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Italien ist ein Land in Süd·europa.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei diesem Unfall ist eine große Brücke eingestürzt.</statement>
+               <statement>Auf dieser Brücke waren viele Autos.</statement>
+               <statement>Diese Autos sind sehr tief herunter·gestürzt.</statement>
+               <statement>Bei dem Unfall sind viele Menschen gestorben.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wahrscheinlich waren Teile von der Brücke schon vor dem Unfall kaputt.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>An der Brücke waren nämlich schon lange <style_element type="hb">keine</style_element> Reparaturen mehr.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Fach·leute reparieren Schäden</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Einige Brücken in Nord·deutschland haben Schäden.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber die Brücken in Nord·deutschland stürzen <style_element type="hb">nicht</style_element> ein.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Die Brücken in Nord·deutschland werden nämlich oft untersucht.</statement>
+                     </speech>
+                     <speech id="4">
+                        <question>Sind große Schäden an einer Brücke?</question>
+                     </speech>
+                     <speech id="5">
+                        <explanation_marker>
+                           <statement>Dann sperrt die Polizei diese Brücke.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Dann dürfen <style_element type="hb">keine</style_element> Autos auf der Brücke fahren.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="6">
+                        <statement>Und dann reparieren wir die Schäden an der Brücke.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-24" url="2020-02-25_14-30_122.xml">
+   <title>Mehr Nachrichten vom 25.02.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-02-25_14-30</vdate>
+   <resources>
+      <resource id="1" name="2020-02-25_14-30_122-full.png" type="screenshot" url="2020-02-25_14-30_122-full.png"/>
+      <resource id="2" name="2020-02-25_14-30_122_plaintext.txt" type="plaintext" url="2020-02-25_14-30_122_plaintext.txt"/>
+      <resource id="3" name="2020-02-25_14-30_122_quellcode.txt" type="sourcecode" url="2020-02-25_14-30_122_quellcode.txt"/>
+      <resource id="4" name="2020-02-25_14-30_122.docx" type="formatedText" url="2020-02-25_14-30_122.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 25.02.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Mecklenburg-Vorpommern: Großer Streik</subheadline>
+            <explanation_marker>
+               <statement>In Mecklenburg-Vorpommern ist ein großer Streik.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Bei einem Streik arbeiten Menschen nicht.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Diese Menschen sind zum Beispiel mit ihrer Arbeit <style_element type="hb">nicht</style_element> zufrieden.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Die Menschen wollen zum Beispiel mehr Geld.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Streik ist 2 Tage.</statement>
+            <statement>Und dieser Streik ist in sehr vielen Städten.</statement>
+            <statement>Zum Beispiel in Rostock.</statement>
+            <statement>Und in Greifswald.</statement>
+            <statement>Der Streik ist von Bus·fahrern.</statement>
+            <statement>Und von Straßen·bahn·fahrern.</statement>
+            <statement>Deshalb fahren viele Busse und Straßen·bahnen <style_element type="hb">nicht</style_element>.</statement>
+            <statement>Und deshalb haben viele Menschen Probleme.</statement>
+            <statement>Einige Menschen kommen zum Beispiel <style_element type="hb">nicht</style_element> zur Arbeit.</statement>
+            <statement>Und einige Schüler kommen <style_element type="hb">nicht</style_element> zur Schule.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Bus·fahrer und die Straßen·bahn·fahrer haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir wollen mehr Geld für unsere Arbeit bekommen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb haben wir am Dienstag gestreikt.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und deshalb streiken wir auch am Mittwoch.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Mann stirbt bei Unfall</subheadline>
+            <explanation_marker>
+               <statement>In Großefehn war ein Unfall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Großefehn ist ein Ort in der Nähe von Aurich.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei diesem Unfall ist ein Mann gestorben.</statement>
+            <statement>Und ein anderer Mann wurde leicht verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Mann ist mit seinem Auto auf einer Bundes·straße gefahren.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dann wollte der Mann ein Fahr·zeug überholen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Gleichzeitig wollte auch der andere Mann ein Fahr·zeug überholen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Dann sind die 2 Männer mit ihren Autos zusammengestoßen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Das Auto von dem Mann ist gegen einen Baum geprallt.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Der Mann ist bei dem Unfall gestorben.</statement>
+                  </speech>
+                  <speech id="7">
+                     <statement>Und der andere Mann wurde bei dem Unfall leicht verletzt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

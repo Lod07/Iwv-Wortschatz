@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-25" url="2020-03-09_15-00_150.xml">
+   <title>Mann stirbt an Corona-Virus</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-03-09_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-03-09_15-00_150-full.png" type="screenshot" url="2020-03-09_15-00_150-full.png"/>
+      <resource id="2" name="2020-03-09_15-00_150_plaintext.txt" type="plaintext" url="2020-03-09_15-00_150_plaintext.txt"/>
+      <resource id="3" name="2020-03-09_15-00_150_quellcode.txt" type="sourcecode" url="2020-03-09_15-00_150_quellcode.txt"/>
+      <resource id="4" name="2020-03-09_15-00_150.docx" type="formatedText" url="2020-03-09_15-00_150.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mann stirbt an Corona-Virus</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Zum ersten Mal ist ein Mann aus Deutschland am Corona-Virus gestorben.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Das Corona-Virus ist ein besonderes Virus.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Ein Virus kann Menschen krank machen.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Das Corona-Virus ist sehr ansteckend.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Mann hat in Schleswig-Holstein gewohnt.</statement>
+            <statement>Und dieser Mann war Feuerwehr·mann in Hamburg.</statement>
+         </section>
+         <section id="2">
+            <question>
+               <style_element type="hb">Sie wollen mehr Informationen über das Corona-Virus lesen?</style_element>
+            </question>
+            <question>
+               <style_element type="hb">Oder hören?</style_element>
+            </question>
+            <statement>
+               <ref>
+                  <style_element type="hb">Dann klicken Sie hier.</style_element>
+               </ref>
+            </statement>
+         </section>
+         <section id="3">
+            <subheadline>Was ist passiert?</subheadline>
+            <statement>Der Mann war 60 Jahre alt.</statement>
+            <statement>Und der Mann war im Urlaub.</statement>
+            <explanation_marker>
+               <statement>Dieser Urlaub war in Ägypten.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Ägypten ist ein Land in Nord·afrika.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>In Ägypten ist der Mann krank geworden.</statement>
+            <statement>Dann ist der Mann in ein Kranken·haus gekommen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>In dem Kranken·haus haben die Ärzte heraus·gefunden:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Mann hat das Corona-Virus.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Aber die Ärzte konnten dem Mann <style_element type="hb">nicht</style_element> mehr helfen.</statement>
+            <statement>Der Mann ist in dem Kranken·haus gestorben.</statement>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben am Montag gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In Deutschland haben mehr als 1100 Menschen das Corona-Virus.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Ungefähr 70 von diesen Menschen sind in Nord·deutschland.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Noch ist <style_element type="hb">kein</style_element> Mensch in Deutschland am Corona-Virus gestorben.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Aber jetzt ist ein Mann aus Schleswig-Holstein am Corona-Virus gestorben.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Dieser Mann war aber nicht in Deutschland.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Dieser Mann war in Ägypten.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="5">
+            <subheadline>Wie können Sie sich schützen?</subheadline>
+            <statement>Menschen können sich gegen das Corona-Virus schützen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>• Waschen Sie oft Ihre Hände.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>• Husten oder niesen Sie in ein Taschen·tuch.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>• Husten oder niesen Sie nicht Menschen an.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>• Halten Sie Abstand zu kranken Menschen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

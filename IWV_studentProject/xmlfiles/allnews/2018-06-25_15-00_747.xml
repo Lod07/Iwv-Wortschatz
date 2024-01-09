@@ -1,0 +1,188 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-18" url="2018-06-25_15-00_747.xml">
+   <title>Nach Fahrer·flucht: Mann geht zur Polizei</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-06-25_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-06-25_15-00_747-full.png" type="screenshot" url="2018-06-25_15-00_747-full.png"/>
+      <resource id="2" name="2018-06-25_15-00_747_plaintext.txt" type="plaintext" url="2018-06-25_15-00_747_plaintext.txt"/>
+      <resource id="3" name="2018-06-25_15-00_747_quellcode.txt" type="sourcecode" url="2018-06-25_15-00_747_quellcode.txt"/>
+      <resource id="4" name="2018-06-25_15-00_747.docx" type="formatedText" url="2018-06-25_15-00_747.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Nach Fahrer·flucht: Mann geht zur Polizei</headline>
+      <sections>
+         <section id="1">
+            <statement>In Niedersachsen war ein Unfall.</statement>
+            <explanation_marker>
+               <statement>Der Unfall war in Hannover.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Hannover ist die Hauptstadt von Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Unfall wurde ein alter Mann von einem Auto überfahren.</statement>
+            <statement>Der alte Mann ist bei dem Unfall gestorben.</statement>
+            <statement>Der Auto·fahrer war auf der Flucht vor der Polizei.</statement>
+            <statement>Und der Auto·fahrer ist nach dem Unfall weitergefahren.</statement>
+            <statement>Aber jetzt hat sich der Auto·fahrer bei der Polizei gestellt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <explanation_marker>
+                  <statement>Die Polizei wollte in Hannover ein Auto kontrollieren.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Bei einer Kontrolle will die Polizei zum Beispiel wissen:</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <question><style_element type="hi">Hat der Fahrer von dem Auto einen Führerschein?</style_element></question>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In dem Auto saßen ein Mann und eine Frau.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Der Auto·fahrer hat bei der Polizei·kontrolle <style_element type="hb">nicht</style_element> angehalten.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Der Auto·fahrer ist sehr schnell weggefahren.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Die Polizisten haben den Auto·fahrer mit einem Polizei·auto verfolgt.</statement>
+                     </speech>
+                     <speech id="5">
+                        <explanation_marker>
+                           <statement>Dann ist der Auto·fahrer in eine Fußgänger·zone gefahren.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">In einer Fußgänger·zone dürfen eigentlich <style_element type="hb">keine</style_element> Autos fahren.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="6">
+                        <statement>In der Fußgänger·zone hat der Auto·fahrer einen alten Mann überfahren.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Dann ist der Auto·fahrer weitergefahren.</statement>
+                     </speech>
+                     <speech id="8">
+                        <statement>Die Polizisten haben bei dem alten Mann angehalten.</statement>
+                     </speech>
+                     <speech id="9">
+                        <statement>Der alte Mann war nämlich schwer verletzt.</statement>
+                     </speech>
+                     <speech id="10">
+                        <statement>Deshalb haben die Polizisten einen Rettungswagen gerufen.</statement>
+                     </speech>
+                     <speech id="11">
+                        <statement>Aber der alte Mann ist gestorben.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Flucht vor der Polizei</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Auto·fahrer ist sehr schnell weitergefahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann hat der Auto·fahrer noch einen Unfall gemacht.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Bei dem Unfall wurde das Auto schwer beschädigt.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb konnte das Auto <style_element type="hb">nicht</style_element> weiterfahren.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Und deshalb sind der Mann und die Frau weggelaufen.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Dann haben Polizisten die Frau festgenommen.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Aber der Mann konnte entkommen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <headword>Wir glauben:</headword>
+                     </speech>
+                     <speech id="2">
+                        <statement>Das Auto war gestohlen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>In dem Auto waren nämlich mehrere Auto·kennzeichen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und diese Auto·kennzeichen waren gestohlen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Mann stellt sich</subheadline>
+               <explanation_marker>
+                  <statement>Am Abend hat sich der Mann bei der Polizei gestellt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Das heißt: Der Mann ist zur Polizei gegangen.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement><style_element type="hi">Und der Mann hat der Polizei gesagt:</style_element></statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement><style_element type="hi">Ich bin der Mann aus dem Auto.</style_element></statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Jetzt muss ein Richter entscheiden:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Gibt es einen Haftbefehl?</question>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann muss der Mann bis zu seinem Prozess ins Gefängnis.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

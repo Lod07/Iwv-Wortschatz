@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-07-18_13-30_429.xml">
+   <title>Mehr Nachrichten vom 18.07.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-07-18_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-07-18_13-30_429-full.png" type="screenshot" url="2019-07-18_13-30_429-full.png"/>
+      <resource id="2" name="2019-07-18_13-30_429_plaintext.txt" type="plaintext" url="2019-07-18_13-30_429_plaintext.txt"/>
+      <resource id="3" name="2019-07-18_13-30_429_quellcode.txt" type="sourcecode" url="2019-07-18_13-30_429_quellcode.txt"/>
+      <resource id="4" name="2019-07-18_13-30_429.docx" type="formatedText" url="2019-07-18_13-30_429.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 18.07.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: 16 Kameras überwachen Hansa·platz</subheadline>
+            <explanation_marker>
+               <statement>Die Polizei in Hamburg hat 16 Kameras am Hansa·platz aufgestellt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Der Hansa·platz ist im Stadt·teil St. Georg.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Am Hansa·platz sind nämlich oft Polizei·einsätze.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese Polizei·einsätze sind zum Beispiel:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <statement>• Beim Verkauf von Drogen.</statement>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Bei Schlägereien.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <statement>• Oder bei Diebstählen.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Die 16 Kameras filmen jetzt alles auf dem Hansa·platz.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Deshalb sieht die Polizei jetzt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Diese Menschen sind auf dem Hansa·platz.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und dies tun die Menschen auf dem Hansa·platz.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Und deshalb können die 16 Kameras der Polizei bei ihrer Arbeit helfen.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Polizei findet Feld mit Cannabis-Pflanzen</subheadline>
+            <statement>In der Nähe von Holzminden war ein Polizei·einsatz.</statement>
+            <explanation_marker>
+               <statement>Bei diesem Einsatz hat die Polizei sehr viele Cannabis-Pflanzen gefunden.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">Aus Cannabis-Pflanzen können Menschen Drogen machen.</style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Drogen sind gefährlich für den Körper.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">Deshalb sind Drogen verboten.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">Der Anbau von Cannabis-Pflanzen ist verboten.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Cannabis-Pflanzen waren am Ufer von der Weser.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Die Weser ist ein Fluss.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und die Cannabis-Pflanzen hat ein Nachbar entdeckt.</statement>
+            <statement>Dieser Nachbar hat die Polizei gerufen.</statement>
+            <statement>Jetzt will die Polizei die Cannabis-Pflanzen verbrennen.</statement>
+            <statement>Und die Polizei ermittelt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wer hat die Cannabis-Pflanzen am Ufer von der Weser angebaut?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

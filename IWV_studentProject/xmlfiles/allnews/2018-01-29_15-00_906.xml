@@ -1,0 +1,190 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-28" url="2018-01-29_15-00_906.xml">
+   <title>Großer Ärger für VW</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-01-29_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-01-29_15-00_906-full.png" type="screenshot" url="2018-01-29_15-00_906-full.png"/>
+      <resource id="2" name="2018-01-29_15-00_906_plaintext.txt" type="plaintext" url="2018-01-29_15-00_906_plaintext.txt"/>
+      <resource id="3" name="2018-01-29_15-00_906_quellcode.txt" type="sourcecode" url="2018-01-29_15-00_906_quellcode.txt"/>
+      <resource id="4" name="2018-01-29_15-00_906.docx" type="formatedText" url="2018-01-29_15-00_906.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Großer Ärger für VW</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>VW hat großen Ärger.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">VW ist die Abkürzung für Volkswagen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">VW ist eine große Firma.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">VW baut Autos.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Und VW ist aus Wolfsburg.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Wolfsburg ist eine Stadt in Niedersachsen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>VW hat nämlich besondere Tests gemacht.</statement>
+            <statement>Diese Tests waren mit Affen.</statement>
+            <statement>Und diese Tests waren wahrscheinlich auch mit Menschen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Viele andere Menschen haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Tests können die Affen krank machen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und die Tests können die Menschen krank machen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb durfte VW die Tests <style_element type="hb">nicht</style_element> machen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <explanation_marker>
+                  <statement>Mehrere Auto·firmen wollten Abgase von ihren Autos testen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Abgase kommen aus Autos.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Abgase sind gefährlich.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">In Abgasen sind nämlich Schad·stoffe.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Deshalb machen Abgase zum Beispiel die Luft schmutzig.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Zum Beispiel VW.</statement>
+               <statement>Bei den Tests mussten Affen mehrere Stunden lang Abgase einatmen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Auto·firmen wollten nämlich zeigen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In den Abgasen aus unseren Autos sind wenig Schad·stoffe.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Aber viele Menschen haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Auto·firmen dürfen <style_element type="hb">keine</style_element> Tests mit Tieren machen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Bei den Tests werden die Tiere nämlich vielleicht krank.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und <style_element type="hb">kein</style_element> Mensch darf Tiere mit Absicht krank machen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Nach den Tests hat VW sich entschuldigt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>VW hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Tests waren falsch.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Es tut uns sehr leid.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Wir wollen <style_element type="hb">keine</style_element> Tiere krank machen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Tests auch mit Menschen?</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Aber jetzt haben Zeitungen berichtet:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Auto·firmen haben die Tests auch mit Menschen gemacht.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Bei diesen Tests haben 25 Menschen mehrere Stunden lang Abgase eingeatmet.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Dann haben Ärzte diese 25 Menschen untersucht.</statement>
+                     </speech>
+                     <speech id="4">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Die Ärzte wollten wissen:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question>Haben die Abgase die 25 Menschen krank gemacht?</question>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="5">
+            <statement>Jetzt sind viele Menschen wütend.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Diese Menschen sagen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Auto·firmen sollen ihre Autos besser machen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die Autos sollen zum Beispiel weniger Schad·stoffe machen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Aber die Auto·firmen sollen <style_element type="hb">keine</style_element> Tests mit Tieren machen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und die Auto·firmen sollen <style_element type="hb">keine</style_element> Tests mit Menschen machen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-01" url="2018-06-11_15-00_737.xml">
+   <title>Cebit: Große Messe in Hannover</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-06-11_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-06-11_15-00_737-full.png" type="screenshot" url="2018-06-11_15-00_737-full.png"/>
+      <resource id="2" name="2018-06-11_15-00_737_plaintext.txt" type="plaintext" url="2018-06-11_15-00_737_plaintext.txt"/>
+      <resource id="3" name="2018-06-11_15-00_737_quellcode.txt" type="sourcecode" url="2018-06-11_15-00_737_quellcode.txt"/>
+      <resource id="4" name="2018-06-11_15-00_737.docx" type="formatedText" url="2018-06-11_15-00_737.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Cebit: Große Messe in Hannover</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Hannover hat am Montag eine große Messe begonnen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Messe ist eine große Ausstellung.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Bei einer Messe zeigen Firmen ihre neuen Produkte.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword><style_element type="hi">• Neue Autos.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <statement><style_element type="hi">• Oder neue Kleidung.</style_element></statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Fach·leute erklären diese neuen Produkte.</style_element></statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement><style_element type="hi">Und viele Menschen interessieren sich für diese neuen Produkte.</style_element></statement>
+                  </explanation>
+                  <explanation id="6">
+                     <statement><style_element type="hi">Deshalb sind bei einer Messe oft viele Besucher.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Messe in Hannover heißt Cebit.</statement>
+            <explanation_marker>
+               <statement>Und die Cebit in Hannover ist eine Technologie·messe.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement><style_element type="hi">Auf einer Technologie·messe zeigen Firmen zum Beispiel:</style_element></statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword><style_element type="hi">• Roboter.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword><style_element type="hi">• Computer.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="3">
+                              <headword><style_element type="hi">• Oder Handys.</style_element></headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Firmen zeigen neue Produkte</subheadline>
+               <statement>Die Cebit ist die größte Technologie·messe auf der Welt.</statement>
+               <statement>Und auf der Cebit gibt es viele Stände.</statement>
+               <statement>An diesen Ständen zeigen zum Beispiel viele Firmen neue Produkte.</statement>
+               <statement>Die Cebit dauert 5 Tage.</statement>
+               <statement>Und die Cebit ist jedes Jahr.</statement>
+               <statement>In diesem Jahr ist die Cebit bis zum 15. Juni.</statement>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Oliver Frese hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Auch viele junge Menschen sollen zur Cebit kommen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb ist die Cebit in diesem Jahr anders als in den vergangenen Jahren.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und deshalb gibt es in diesem Jahr viele neue Veranstaltungen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Zum Beispiel Konzerte.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Öffnungs·zeiten von der Cebit</subheadline>
+               <statement>Die Stände auf der Cebit öffnen am Dienstag.</statement>
+               <statement>Von Dienstag bis Donnerstag haben die Stände von 10 bis 19 Uhr geöffnet.</statement>
+               <statement>Bis 23 Uhr sind von Dienstag bis Donnerstag noch Veranstaltungen.</statement>
+               <statement>Und am Freitag hat die Cebit von 10 bis 17 Uhr geöffnet.</statement>
+         </section>
+         <section id="5">
+            <subheadline>Eintritts·karten für die Cebit</subheadline>
+               <question>Sie wollen zur Cebit?</question>
+               <statement>Dann müssen Sie sich eine Eintritts·karte kaufen.</statement>
+               <statement>Für einen Tag kostet eine Eintritts·karte 100 Euro.</statement>
+               <statement>Für die ganze Cebit kostet eine Eintritts·karte 200 Euro.</statement>
+         </section>
+         <section id="6">
+            <statement>Für einige Menschen sind die Eintritts·karten billiger.</statement>
+            <explanation_marker>
+               <statement>Zum Beispiel für Mitarbeiter im öffentlichen Dienst.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement><style_element type="hi">Mitarbeiter im öffentlichen Dienst sind zum Beispiel:</style_element></statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword><style_element type="hi">• Bus·fahrer.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword><style_element type="hi">• Erzieher.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="3">
+                              <headword><style_element type="hi">• Oder Reinigungs·kräfte.</style_element></headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Für diese Menschen kostet eine Eintritts·karte für die ganze Cebit 50 Euro.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

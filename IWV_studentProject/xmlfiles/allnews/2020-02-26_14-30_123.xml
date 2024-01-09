@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-24" url="2020-02-26_14-30_123.xml">
+   <title>Mehr Nachrichten vom 26.02.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-02-26_14-30</vdate>
+   <resources>
+      <resource id="1" name="2020-02-26_14-30_123-full.png" type="screenshot" url="2020-02-26_14-30_123-full.png"/>
+      <resource id="2" name="2020-02-26_14-30_123_plaintext.txt" type="plaintext" url="2020-02-26_14-30_123_plaintext.txt"/>
+      <resource id="3" name="2020-02-26_14-30_123_quellcode.txt" type="sourcecode" url="2020-02-26_14-30_123_quellcode.txt"/>
+      <resource id="4" name="2020-02-26_14-30_123.docx" type="formatedText" url="2020-02-26_14-30_123.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 26.02.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Polizist bei Fest·nahme schwer verletzt</subheadline>
+            <statement>Ein Polizist ist am Dienstag·abend schwer verletzt worden.</statement>
+            <statement>Der Polizist und ein anderer Polizist haben einen Straf·täter gesucht.</statement>
+            <statement>Dann haben die 2 Polizisten den Straf·täter in seinem Auto gefunden.</statement>
+            <explanation_marker>
+               <statement>Das Auto war an der Luruper Haupt·straße.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Lurup ist ein Stadt·teil von Hamburg.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die 2 Polizisten haben das Auto angehalten.</statement>
+            <statement>Dann ist der Straf·täter aber plötzlich losgefahren.</statement>
+            <statement>Das Auto von dem Straf·täter war sehr schnell.</statement>
+            <statement>Und das Auto von dem Straf·täter ist in das Auto von der Polizei gefahren.</statement>
+            <statement>In dem Auto von der Polizei war noch einer von den 2 Polizisten.</statement>
+            <statement>Dieser Polizist wurde schwer verletzt.</statement>
+            <statement>Und dieser Polizist ist jetzt im Krankenhaus.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Ärzte haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Der Polizist ist <style_element type="hb">nicht</style_element> mehr in Lebens·gefahr.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword>
+                                 <style_element type="hi">Das heißt:</style_element>
+                              </headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">Der Polizist stirbt <style_element type="hb">nicht</style_element>.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Die Polizei hat den Straf·täter fest·genommen.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Feuer in Werkstatt</subheadline>
+            <statement>In Neumünster war ein Feuer.</statement>
+            <statement>Das Feuer war in einer Auto·werkstatt.</statement>
+            <statement>Und das Feuer war sehr gefährlich.</statement>
+            <statement>In der Auto·werkstatt waren nämlich Flüssigkeiten.</statement>
+            <statement>Und in der Auto·werkstatt waren Gas·flaschen.</statement>
+            <statement>Diese Flüssigkeiten können leicht brennen.</statement>
+            <statement>Und diese Gas·flaschen können leicht brennen.</statement>
+            <statement>Mehr als 60 Feuerwehr·männer waren im Einsatz.</statement>
+            <statement>Erst nach 5 Stunden konnten die Feuerwehr·männer das Feuer löschen.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

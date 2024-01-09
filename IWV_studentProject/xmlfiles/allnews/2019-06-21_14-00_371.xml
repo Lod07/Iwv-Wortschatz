@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-25" url="2019-06-21_14-00_371.xml">
+   <title>Großes Fest in Kiel</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-06-21_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-06-21_14-00_371-full.png" type="screenshot" url="2019-06-21_14-00_371-full.png"/>
+      <resource id="2" name="2019-06-21_14-00_371_plaintext.txt" type="plaintext" url="2019-06-21_14-00_371_plaintext.txt"/>
+      <resource id="3" name="2019-06-21_14-00_371_quellcode.txt" type="sourcecode" url="2019-06-21_14-00_371_quellcode.txt"/>
+      <resource id="4" name="2019-06-21_14-00_371.docx" type="formatedText" url="2019-06-21_14-00_371.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Großes Fest in Kiel</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Kiel ist ein großes Fest.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>Kiel ist die Haupt·stadt von Schleswig-Holstein.</statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieses Fest heißt Kieler Woche.</statement>
+            <statement>Die Kieler Woche ist jedes Jahr.</statement>
+            <statement>In diesem Jahr beginnt die Kieler Woche am 22. Juni.</statement>
+            <statement>Und die Kieler Woche endet am 30. Juni.</statement>
+            <statement>Viele Menschen besuchen jedes Jahr die Kieler Woche.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der Chef von der Kieler Woche hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <headword>Ich glaube:</headword>
+                  </speech>
+                  <speech id="2">
+                     <statement>In diesem Jahr besuchen 3 Millionen Menschen die Kieler Woche.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Viele Veranstaltungen</subheadline>
+               <statement>Bei der Kieler Woche gibt es sehr viele Veranstaltungen.</statement>
+               <explanation_marker>
+                  <statement>Zum Beispiel Segel·regatten.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Segel·regatten sind Wett·fahrten für Segel·boote.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei diesen Segel·regatten sind in diesem Jahr 4000 Sportler.</statement>
+               <statement>Diese 4000 Sportler sind aus 60 Ländern.</statement>
+               <statement>Die Besucher können bei den Segel·regatten zuschauen.</statement>
+               <statement>Die Besucher können aber auch noch viele andere Sachen machen.</statement>
+               <statement>Zum Beispiel Essen aus vielen Ländern probieren.</statement>
+               <statement>Und bei der Kieler Woche gibt es viele Musik·konzerte.</statement>
+               <statement>Bei diesen Konzerten spielen viele bekannte Musiker.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <headword>Zum Beispiel:</headword>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Johannes Oerding.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <headword>• Tokio Hotel.</headword>
+                     </enumeration>
+                     <enumeration id="3">
+                        <statement>• Und Michael Schulte.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+         </section>
+         <section id="3">
+            <subheadline>Viele besondere Schiffe</subheadline>
+               <statement>Bei der Kieler Woche sind auch viele besondere Schiffe.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <headword>Zum Beispiel:</headword>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Segel·schiffe.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <explanation_marker>
+                           <headword>• Und Marine·schiffe.</headword>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Auf Marine·schiffen sind Soldaten.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Dieses Jahr sind 35 Marine·schiffe bei der Kieler Woche.</statement>
+               <statement>Diese 35 Marine·schiffe sind aus 12 Ländern.</statement>
+               <explanation_marker>
+                  <statement>Die Besucher von der Kieler Woche können viele Schiffe besichtigen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Die Menschen können auf diese Schiffe gehen.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und die Menschen können sich diese Schiffe genau angucken.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <section id="4">
+            <statement>Der NDR macht viele Sendungen über die Kieler Woche.</statement>
+            <explanation_marker>
+               <statement>Zum Beispiel am Sonnabend im Schleswig-Holstein Magazin.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Das Schleswig-Holstein Magazin ist eine Fernseh·sendung vom NDR.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Fernseh·sendung ist immer um 19.30 Uhr.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

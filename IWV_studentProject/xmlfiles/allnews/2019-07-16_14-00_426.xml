@@ -1,0 +1,190 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-25" url="2019-07-16_14-00_426.xml">
+   <title>Mann aus Bremen gewinnt bei Schwimm-WM</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-07-16_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-07-16_14-00_426-full.png" type="screenshot" url="2019-07-16_14-00_426-full.png"/>
+      <resource id="2" name="2019-07-16_14-00_426_plaintext.txt" type="plaintext" url="2019-07-16_14-00_426_plaintext.txt"/>
+      <resource id="3" name="2019-07-16_14-00_426_quellcode.txt" type="sourcecode" url="2019-07-16_14-00_426_quellcode.txt"/>
+      <resource id="4" name="2019-07-16_14-00_426.docx" type="formatedText" url="2019-07-16_14-00_426.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mann aus Bremen gewinnt bei Schwimm-WM</headline>
+      <sections>
+         <section id="1">
+            <statement>Florian Wellbrock hat einen wichtigen Wettbewerb gewonnen.</statement>
+            <statement>Florian Wellbrock ist ein Schwimmer.</statement>
+            <statement>Und Florian Wellbrock ist aus Bremen.</statement>
+            <explanation_marker>
+               <statement>Der wichtige Wettbewerb war bei der Schwimm-WM.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">WM ist die Abkürzung für Welt·meisterschaft.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Schwimm-WM ist in Süd·korea.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Süd·korea ist ein Land in Asien.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und bei der Schwimm-WM gibt es verschiedene Wettbewerbe.</statement>
+            <statement>Die Wettbewerbe bei der Schwimm-WM heißen Rennen.</statement>
+            <explanation_marker>
+               <statement>Florian Wellbrock hat ein Frei·wasser-Rennen gewonnen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement>
+                              <style_element type="hi">Bei einem Frei·wasser-Rennen schwimmen die Schwimmer zum Beispiel:</style_element>
+                           </statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword>
+                                 <style_element type="hi">• Im Meer.</style_element>
+                              </headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword>
+                                 <style_element type="hi">• Oder in einem See.</style_element>
+                              </headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Und Frei·wasser-Rennen sind immer sehr lang.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieses Frei·wasser-Rennen war über 10 Kilometer.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Rob Muffels auf Platz 3</subheadline>
+            <explanation_marker>
+               <statement>Bei dem Frei·wasser-Rennen war Rob Muffels auf dem 3. Platz.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>
+                        <style_element type="hi">Das heißt:</style_element>
+                     </headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Rob Muffels war bei dem Rennen der dritt·schnellste Schwimmer.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Rob Muffels ist aus Elmshorn.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Elmshorn ist eine Stadt in Schleswig-Holstein.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Rob Muffels und Florian Wellbrock sind im gleichen Sport·verein.</statement>
+            <explanation_marker>
+               <statement>Dieser Sport·verein ist der SC Magdeburg.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Magdeburg ist eine Stadt in Sachsen-Anhalt.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="3">
+            <explanation_marker>
+               <statement>Die besten Schwimmer bei der Schwimm-WM dürfen zu den Olympischen Spielen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Die Olympischen Spiele sind die größte Sport·veranstaltung auf der Welt.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Bei den Olympischen Spielen sind Wettbewerbe in vielen Sport·arten.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Und bei den Olympischen Spielen machen Sportler aus fast allen Ländern mit.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement>
+                        <style_element type="hi">Die Olympischen Spiele sind alle 4 Jahre.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Rob Muffels und Florian Wellbrock gehören zu den besten Schwimmern bei der Schwimm-WM.</statement>
+            <statement>Deshalb dürfen Rob Muffels und Florian Wellbrock zu den Olympischen Spielen.</statement>
+            <statement>Die nächsten Olympischen Spiele sind im nächsten Jahr.</statement>
+            <explanation_marker>
+               <statement>Und die nächsten Olympischen Spiele sind in Tokio.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">Tokio ist die Haupt·stadt von Japan.</style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Japan ist ein Land in Asien.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Florian Wellbrock hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Ich wollte sehr gerne zu den Olympischen Spielen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Jetzt darf ich zu den Olympischen Spielen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb freue ich mich sehr.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-29" url="2018-03-23_15-00_882.xml">
+   <title>Neuer Zug fährt zum ersten Mal</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-03-23_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-03-23_15-00_882-full.png" type="screenshot" url="2018-03-23_15-00_882-full.png"/>
+      <resource id="2" name="2018-03-23_15-00_882_plaintext.txt" type="plaintext" url="2018-03-23_15-00_882_plaintext.txt"/>
+      <resource id="3" name="2018-03-23_15-00_882_quellcode.txt" type="sourcecode" url="2018-03-23_15-00_882_quellcode.txt"/>
+      <resource id="4" name="2018-03-23_15-00_882.docx" type="formatedText" url="2018-03-23_15-00_882.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Neuer Zug fährt zum ersten Mal</headline>
+      <sections>
+         <section id="1">
+            <statement>Am Freitag  ist ein neuer Zug zum ersten Mal gefahren.</statement>
+            <explanation_marker>
+               <statement>Der neue Zug heißt Flix·Train.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Train ist Englisch.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Train heißt Zug.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der neue Zug fährt von Hamburg nach Köln.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist besonders am neuen Zug?</subheadline>
+               <explanation_marker>
+                  <statement>Der neue Zug ist <style_element type="hb">nicht</style_element> von der Deutschen Bahn.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Die Deutsche Bahn ist eine große Firma.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Die Deutsche Bahn hat die meisten Züge in Deutschland.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Der neue Zug ist von einer anderen Firma.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Diese andere Firma hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Beim neuen Zug kosten die Fahr·karten weniger als bei der Deutschen Bahn.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Das ist gut für die Fahr·gäste.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Wo hält der neue Zug?</subheadline>
+               <statement>Der neue Zug hält an 7 Bahnhöfen.</statement>
+               <statement>Einer von den 7 Bahnhöfen ist in Niedersachsen.</statement>
+               <statement>Dieser Bahnhof ist in Osnabrück.</statement>
+               <statement>Die anderen Bahnhöfe sind in Nordrhein-Westfalen.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Diese anderen Bahnhöfe sind:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• In Münster.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <headword>• In Gelsenkirchen.</headword>
+                     </enumeration>
+                     <enumeration id="3">
+                        <headword>• In Essen.</headword>
+                     </enumeration>
+                     <enumeration id="4">
+                        <headword>• In Duisburg.</headword>
+                     </enumeration>
+                     <enumeration id="5">
+                        <headword>• In Düsseldorf.</headword>
+                     </enumeration>
+                     <enumeration id="6">
+                        <statement>• Und in Köln.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Der neue Zug fährt fast jeden Tag.</statement>
+               <statement>Nur am Mittwoch fährt der neue Zug <style_element type="hb">nicht</style_element>.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

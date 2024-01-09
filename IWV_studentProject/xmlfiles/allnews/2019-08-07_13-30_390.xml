@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2019-08-07_13-30_390.xml">
+   <title>Mehr Nachrichten vom 07.08.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-08-07_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-08-07_13-30_390-full.png" type="screenshot" url="2019-08-07_13-30_390-full.png"/>
+      <resource id="2" name="2019-08-07_13-30_390_plaintext.txt" type="plaintext" url="2019-08-07_13-30_390_plaintext.txt"/>
+      <resource id="3" name="2019-08-07_13-30_390_quellcode.txt" type="sourcecode" url="2019-08-07_13-30_390_quellcode.txt"/>
+      <resource id="4" name="2019-08-07_13-30_390.docx" type="formatedText" url="2019-08-07_13-30_390.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 07.08.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Junge Seehunde zurück in der Nordsee</subheadline>
+            <explanation_marker>
+               <statement>In Norddeich ist eine Seehund·station.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">In einer Seehund·station sind zum Beispiel Heuler.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Heuler sind junge Seehunde.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">Seehunde sind Tiere.</style_element></statement>
+                                    </explanation>
+                                    <explanation id="2">
+                                       <statement><style_element type="hi">Und Seehunde leben im Meer.</style_element></statement>
+                                    </explanation>
+                                    <explanation id="3">
+                                       <statement><style_element type="hi">Zum Beispiel in der Nordsee.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und in einer Seehund·station pflegen Menschen zum Beispiel die Heuler.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>In der Seehund·station sind jedes Jahr viele Heuler.</statement>
+            <explanation_marker>
+               <statement>Jetzt haben Mitarbeiter von der Seehund·station einige Heuler ausgewildert.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Mitarbeiter haben die Heuler zurück in die Nordsee gebracht.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Heuler können jetzt nämlich alleine in der Nordsee überleben.</statement>
+            <statement>Die Heuler sind jetzt nämlich groß genug.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Bauer geehrt</subheadline>
+            <explanation_marker>
+               <statement>Am Mittwoch hat der WWF einen Bauern geehrt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Der WWF ist eine Organisation.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Der WWF kümmert sich um den Umwelt·schutz.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Der WWF will zum Beispiel die Natur retten.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Bauer ist aus Marlow.</statement>
+            <statement>Und dieser Bauer heißt Wilfried Lenschow.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der WWF hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wilfried Lenschow macht viel für den Umwelt·schutz.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Zum Beispiel für den Schutz von Gewässern.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Oder für den Schutz von Tieren.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb ehren wir Wilfried Lenschow.</statement>
+                  </speech>
+                  <speech id="5">
+                     <explanation_marker>
+                        <statement>Und deshalb ist Wilfried Lenschow für uns der Ostsee·landwirt 2019.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Landwirt ist ein anderes Wort für Bauer.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Hamburg: Neue Dächer für Flughafen</subheadline>
+            <statement>Am Hamburger Flughafen sind Bau·arbeiten.</statement>
+            <statement>Bei diesen Bau·arbeiten machen Arbeiter die Dächer vom Flughafen neu.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Ein Sprecher vom Flughafen hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Dächer sind schon 25 Jahre alt.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und bei Regen kommt manchmal Wasser durch die Dächer.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb machen Arbeiter die Dächer von dem Flughafen neu.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Die Arbeiten dauern wahrscheinlich bis zum Ende vom Jahr 2020.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

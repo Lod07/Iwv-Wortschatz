@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-25" url="2020-02-03_15-30_92.xml">
+   <title>Unfall mit Kränen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-02-03_15-30</vdate>
+   <resources>
+      <resource id="1" name="2020-02-03_15-30_92-full.png" type="screenshot" url="2020-02-03_15-30_92-full.png"/>
+      <resource id="2" name="2020-02-03_15-30_92_plaintext.txt" type="plaintext" url="2020-02-03_15-30_92_plaintext.txt"/>
+      <resource id="3" name="2020-02-03_15-30_92_quellcode.txt" type="sourcecode" url="2020-02-03_15-30_92_quellcode.txt"/>
+      <resource id="4" name="2020-02-03_15-30_92.docx" type="formatedText" url="2020-02-03_15-30_92.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Unfall mit Kränen</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Rostock war am Freitag·abend ein Unfall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Rostock ist eine Stadt in Mecklenburg-Vorpommern.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Unfall war mit sehr großen Kränen.</statement>
+            <statement>Und dieser Unfall war im Hafen.</statement>
+            <statement>Bei diesem Unfall sind 2 Kräne in ein Hafen·becken gefallen.</statement>
+            <statement>Diese 2 Kräne liegen jetzt 11 Meter tief in dem Hafen·becken.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt überlegen Fach·leute:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wie können wir die 2 Kräne aus dem Hafen·becken holen?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Arbeiter wollten die 2 Kräne auf ein Schiff laden.</statement>
+               <statement>Dabei hat es Probleme gegeben.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Ein Arbeiter hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die 2 Kräne waren schon auf dem Schiff.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann hat ein Schiffs·kran einen von den 2 Kränen berührt.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb ist dieser Kran in das Hafen·becken gefallen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Dann war auf einer Seite von dem Schiff mehr Gewicht.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Auf dieser Seite war nämlich der andere Kran.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Deshalb war das Schiff schief im Wasser.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Und deshalb ist auch der andere Kran in das Hafen·becken gefallen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Bei dem Unfall wurde ein Arbeiter leicht verletzt.</statement>
+               <statement>Und bei dem Unfall haben die 2 Kräne Schäden an dem Schiff gemacht.</statement>
+               <statement>Deshalb ist zum Beispiel Öl von dem Schiff ins Wasser gekommen.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Kräne sind sehr schwer</subheadline>
+               <explanation_marker>
+                  <statement>Das Hafen·becken ist jetzt gesperrt. </statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">K<style_element type="hb">ein</style_element> Schiff darf in das Hafen·becken fahren.</style_element></statement> 
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Und jetzt überlegen die Fach·leute:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Wie können wir die 2 Kräne aus dem Hafen·becken holen?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Fach·leute sagen zum Beispiel:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die 2 Kräne sind sehr schwer.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Die 2 Kräne wiegen nämlich 439 Tonnen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und die 2 Kräne sind 35 Meter hoch.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Vielleicht können wir Teile von den Kränen im Wasser abmachen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Dann müssen wir nur einzelne Teile aus dem Hafen·becken holen.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Diese einzelnen Teile sind dann <style_element type="hb">nicht</style_element> so schwer.</statement> 
+                     </speech>
+                  </speeches>
+               </speech_marker>  
+         </section>
+      </sections>
+   </content>
+</annotation>

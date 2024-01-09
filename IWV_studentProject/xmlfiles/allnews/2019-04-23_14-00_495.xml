@@ -1,0 +1,190 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-25" url="2019-04-23_14-00_495.xml">
+   <title>Moor·brände in Niedersachsen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-04-23_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-04-23_14-00_495-full.png" type="screenshot" url="2019-04-23_14-00_495-full.png"/>
+      <resource id="2" name="2019-04-23_14-00_495_plaintext.txt" type="plaintext" url="2019-04-23_14-00_495_plaintext.txt"/>
+      <resource id="3" name="2019-04-23_14-00_495_quellcode.txt" type="sourcecode" url="2019-04-23_14-00_495_quellcode.txt"/>
+      <resource id="4" name="2019-04-23_14-00_495.docx" type="formatedText" url="2019-04-23_14-00_495.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Moor·brände in Niedersachsen</headline>
+      <sections>
+         <section id="1">
+            <statement>In Niedersachsen waren große Feuer.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Bei Vechta.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Und bei Bad Bentheim.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <explanation_marker>
+               <statement>Diese Feuer waren in Mooren.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Moor ist eine große Fläche.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und ein Moor hat einen besonderen Boden.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Dieser Boden ist meistens nass.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker> 
+            <statement>In den Mooren wohnen <style_element type="hb">keine</style_element> Menschen.</statement>
+            <statement>Deshalb wurden bei den Feuern <style_element type="hb">keine</style_element> Menschen verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Das Feuer bei Vechta</subheadline>
+               <statement>Bei dem Feuer bei Vechta sind viele Feuerwehr·leute im Einsatz.</statement>
+               <statement>Diese Feuerwehr·leute haben das Feuer bei Vechta fast gelöscht.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Das Feuer bei Vechta war groß.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und das Löschen von dem Feuer war schwierig.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Es war nämlich viel Wind.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb ist das Feuer immer wieder größer geworden.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Dann war das Feuer auch in einem Wald.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Dieser Wald ist in der Nähe von dem Moor.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Und dieser Wald ist in der Nähe von Wohn·häusern.</statement>
+                     </speech>
+                     <speech id="8">
+                        <statement>Aber jetzt haben wir das Feuer fast gelöscht.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Das Feuer bei Bad Bentheim</subheadline>
+               <statement>Bei dem Feuer bei Bad Bentheim waren auch viele Feuerwehr·leute im Einsatz.</statement>
+               <statement>Diese Feuerwehr·leute haben das Feuer gelöscht.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Das Feuer war groß.</statement> 
+                     </speech>
+                     <speech id="2">
+                        <statement>Und das Löschen von dem Feuer war schwierig.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Wir sind nämlich mit unseren Fahrzeugen <style_element type="hb">nicht</style_element> gut an das Feuer herangekommen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb konnten wir das Feuer erst nach vielen Stunden löschen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Fach·leute warnen</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement><style_element type="hb">Kein</style_element> Mensch weiß:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Warum haben die Moore gebrannt?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker> 
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Aber Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Moore können jetzt schnell brennen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und Wälder können jetzt schnell brennen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>In Nord·deutschland ist es nämlich warm.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und in Nord·deutschland ist es trocken.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Deshalb müssen die Menschen vorsichtig sein.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Die Menschen sollen zum Beispiel in der Nähe von Mooren <style_element type="hb">nicht</style_element> rauchen.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Und die Menschen sollen zum Beispiel in Wäldern <style_element type="hb">nicht</style_element> rauchen.</statement>
+                     </speech>
+                     <speech id="8">
+                        <question>Rauchen die Menschen in einem Wald?</question>
+                     </speech>
+                     <speech id="9">
+                        <explanation_marker>
+                           <statement>Dann kann ein Wald·brand entstehen.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Bei einem Wald·brand brennen viele Bäume in einem Wald.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Die Feuerwehr kann einen Wald·brand oft nur schwer löschen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Fach·leute haben auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Wald·brand·gefahr in Nord·deutschland ist groß.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Besonders groß ist die Wald·brand·gefahr in Mecklenburg-Vorpommern.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb müssen die Menschen in Mecklenburg-Vorpommern besonders vorsichtig sein.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker> 
+         </section>
+      </sections>
+   </content>
+</annotation>

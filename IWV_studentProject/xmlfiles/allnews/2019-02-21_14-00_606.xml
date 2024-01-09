@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-17" url="2019-02-21_14-00_606.xml">
+   <title>Viele Menschen ertrunken</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-02-21_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-02-21_14-00_606-full.png" type="screenshot" url="2019-02-21_14-00_606-full.png"/>
+      <resource id="2" name="2019-02-21_14-00_606_plaintext.txt" type="plaintext" url="2019-02-21_14-00_606_plaintext.txt"/>
+      <resource id="3" name="2019-02-21_14-00_606_quellcode.txt" type="sourcecode" url="2019-02-21_14-00_606_quellcode.txt"/>
+      <resource id="4" name="2019-02-21_14-00_606.docx" type="formatedText" url="2019-02-21_14-00_606.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Viele Menschen ertrunken</headline>
+      <sections>
+         <section id="1">
+            <statement>In Deutschland sind im vergangenen Jahr 504 Menschen ertrunken.</statement>
+            <statement>Fachleute nennen diese Menschen Bade·tote.</statement>
+            <statement>Diese Menschen sind nämlich beim Baden ertrunken.</statement>
+            <statement>Zum Beispiel im Meer.</statement>
+            <statement>Oder in einem See.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Im vergangenen Jahr war der Sommer besonders schön.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und im vergangenen Jahr war der Sommer besonders heiß.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb waren besonders viele Menschen baden.</statement>
+                  </speech>
+                  <speech id="4"> 
+                     <statement>Viele Menschen können aber <style_element type="hb">nicht</style_element> gut schwimmen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Und deshalb haben viele Menschen im Wasser Probleme.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Und deshalb sind viele Menschen im Wasser ertrunken.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <explanation_marker>
+               <statement>Die Fach·leute sind von der DLRG.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">DLRG ist eine Ab·kürzung.</style_element></statement>
+                  </explanation>
+                  <explanation id="2"> 
+                     <statement><style_element type="hi">DLRG heißt: <style_element type="hb">D</style_element>eutsche <style_element type="hb">L</style_element>ebens-<style_element type="hb">R</style_element>ettungs-<style_element type="hb">G</style_element>esellschaft.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Die DLRG rettet Menschen.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Diese Menschen haben Probleme im Wasser.</style_element></statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement><style_element type="hi">Die DLRG hat besondere Mit·arbeiter.</style_element></statement>
+                  </explanation>
+                  <explanation id="6">
+                     <statement><style_element type="hi">Die Mit·arbeiter haben eine besondere Aus·bildung.</style_element></statement>
+                  </explanation>
+                  <explanation id="7">
+                     <statement><style_element type="hi">Und die Mit·arbeiter können besonders gut schwimmen.</style_element></statement>
+                  </explanation>
+                  <explanation id="8">
+                     <statement><style_element type="hi">Diese Mit·arbeiter sind Rettungs·schwimmer.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="3">
+            <subheadline>Flüsse und Seen besonders gefährlich</subheadline>
+               <statement>Besonders viele Menschen sind beim Baden in Flüssen ertrunken.</statement>
+               <statement>Und beim Baden in Seen.</statement>
+               <speech_marker>
+                  <speech_intro> 
+                     <statement>Die Fachleute von der DLRG haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Am Meer sind besonders viele Rettungs·schwimmer.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb sind am Meer <style_element type="hb">nicht</style_element> so viele Bade·tote.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>An Flüssen sind <style_element type="hb">nicht</style_element> so viele Rettungs·schwimmer.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und an Seen sind auch <style_element type="hb">nicht</style_element> so viele Rettungs·schwimmer.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Deshalb sind Flüsse und Seen besonders gefährlich.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Und deshalb waren an Flüssen und Seen besonders viele Bade·tote.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>So viele Bade·tote waren <style_element type="hb">noch nie</style_element> in Deutschland.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

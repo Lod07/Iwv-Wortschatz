@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-30" url="2019-01-11_14-00_638.xml">
+   <title>Züge auf dem Brocken fahren wieder</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-01-11_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-01-11_14-00_638-full.png" type="screenshot" url="2019-01-11_14-00_638-full.png"/>
+      <resource id="2" name="2019-01-11_14-00_638_plaintext.txt" type="plaintext" url="2019-01-11_14-00_638_plaintext.txt"/>
+      <resource id="3" name="2019-01-11_14-00_638_quellcode.txt" type="sourcecode" url="2019-01-11_14-00_638_quellcode.txt"/>
+      <resource id="4" name="2019-01-11_14-00_638.docx" type="formatedText" url="2019-01-11_14-00_638.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Züge auf dem Brocken fahren wieder</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Auf dem Brocken können wieder Züge fahren.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Der Brocken ist der höchste Berg in Nord·deutschland.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Der Brocken ist im Harz.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Der Harz ist ein Gebirge.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <enumeration_marker>
+                                 <enumeration_intro>
+                                    <statement><style_element type="hi">Der Harz ist in 3 Bundes·ländern:</style_element></statement>
+                                 </enumeration_intro>
+                                 <enumerations>
+                                    <enumeration id="1">
+                                       <headword><style_element type="hi">• In Niedersachsen.</style_element></headword>
+                                    </enumeration>
+                                    <enumeration id="2">
+                                       <headword><style_element type="hi">• In Sachsen-Anhalt.</style_element></headword>
+                                    </enumeration>
+                                    <enumeration id="3">
+                                       <statement><style_element type="hi">• Und in Thüringen.</style_element></statement>
+                                    </enumeration>
+                                 </enumerations>
+                              </enumeration_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker> 
+            <statement>Auf den Gleisen ist nämlich <style_element type="hb">kein</style_element> Schnee mehr.</statement>
+            <statement>3 Tage lang war auf den Gleisen sehr viel Schnee.</statement>
+            <statement>In diesem Schnee ist ein Zug stecken·geblieben.</statement>
+            <statement>Deshalb konnte auch <style_element type="hb">kein</style_element> anderer Zug mehr auf den Gleisen fahren.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Im Harz hat es sehr viel geschneit.</statement>
+               <statement>Deshalb war sehr viel Schnee auf den Gleisen.</statement>
+               <statement>Im Schnee ist ein Zug stecken·geblieben.</statement>
+               <explanation_marker>
+                  <statement>Dieser Zug ist von der Brocken·bahn.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Die Brocken·bahn fährt auf den Brocken rauf.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und wieder runter.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Jede Brocken·bahn hat eine besondere Lokomotive.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Eine Lokomotive zieht die Waggons von einem Zug.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                     <explanation id="4">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Diese Lokomotiven sind nämlich Dampf·lokomotiven.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Eine Dampf·lokomotive fährt mit Wasser·dampf.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Der Zug von der Brocken·bahn hat 3 Tage im Schnee gesteckt.</statement>
+               <statement>Dann haben Arbeiter den Schnee vom Zug weggeräumt.</statement>
+               <explanation_marker>
+                  <statement>Und die Arbeiter haben die Gleise mit einer Schnee·fräse freigemacht.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Schnee·fräse ist eine Maschine.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Eine Schnee·fräse macht Schnee weg.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <headword><style_element type="hi">Und Eis.</style_element></headword>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Dann haben die Arbeiter den Zug in einen Bahnhof gezogen.</statement>
+               <statement>Jetzt sind die Gleise wieder frei.</statement>
+               <statement>Deshalb können wieder Züge auf den Brocken fahren.</statement>
+               <statement>Und deshalb können zum Beispiel auch Urlauber wieder mit der Brocken·bahn fahren.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

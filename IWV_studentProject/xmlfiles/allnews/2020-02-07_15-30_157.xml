@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2020-02-07_15-30_157.xml">
+   <title>Polizisten schießen auf Auto</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-02-07_15-30</vdate>
+   <resources>
+      <resource id="1" name="2020-02-07_15-30_157-full.png" type="screenshot" url="2020-02-07_15-30_157-full.png"/>
+      <resource id="2" name="2020-02-07_15-30_157_plaintext.txt" type="plaintext" url="2020-02-07_15-30_157_plaintext.txt"/>
+      <resource id="3" name="2020-02-07_15-30_157_quellcode.txt" type="sourcecode" url="2020-02-07_15-30_157_quellcode.txt"/>
+      <resource id="4" name="2020-02-07_15-30_157.docx" type="formatedText" url="2020-02-07_15-30_157.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Polizisten schießen auf Auto</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>2 Hamburger Polizisten haben in Neuallermöhe auf ein Auto geschossen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Neuallermöhe ist ein Stadt·teil im Südosten von Hamburg.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieses Auto war sehr schnell auf die Polizisten zugefahren.</statement>
+            <statement>Deshalb hatten die Polizisten Angst.</statement>
+            <statement>Und deshalb wollten die Polizisten das Auto stoppen.</statement>
+            <statement>Aber der Fahrer von dem Auto hat <style_element type="hb">nicht</style_element> angehalten.</statement>
+            <statement>Deshalb haben die Polizisten auf das Auto geschossen.</statement>
+            <statement>Bei den Schüssen wurde <style_element type="hb">kein</style_element> Mensch verletzt.</statement>
+            <statement>Die Polizei hat 2 Menschen festgenommen.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+            <explanation_marker>
+               <statement>Die 2 Polizisten haben eine Verkehrs·kontrolle gemacht.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Bei einer Verkehrs·kontrolle hält die Polizei Autos an.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Dann müssen die Fahrer von den Autos zum Beispiel ihren Führer·schein zeigen.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Und die Polizei durchsucht die Autos.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="4">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement>
+                              <style_element type="hi">Die Polizei sucht zum Beispiel:</style_element>
+                           </statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword>
+                                 <style_element type="hi">• Nach Drogen.</style_element>
+                              </headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword>
+                                 <style_element type="hi">• Nach Waffen.</style_element>
+                              </headword>
+                           </enumeration>
+                           <enumeration id="3">
+                              <headword>
+                                 <style_element type="hi">• Oder nach gestohlenen Dingen.</style_element>
+                              </headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei der Verkehrs·kontrolle haben die Polizisten einen weißen Transporter angehalten.</statement>
+            <statement>In dem weißen Transporter war ein Mann.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Polizisten wollten den Transporter durchsuchen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dann ist ein dunkles Auto von hinten auf die Polizisten zugefahren.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dieses Auto war sehr schnell.</statement>
+                  </speech>
+                  <speech id="4">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Die Polizisten wussten nicht:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Will der Fahrer von dem dunklen Auto uns vielleicht überfahren?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="5">
+                     <statement>Deshalb hatten die Polizisten Angst.</statement>
+                  </speech>
+                   <speech id="6">
+                     <statement>Und deshalb haben die Polizisten auf das dunkle Auto geschossen.</statement>
+                  </speech>
+                   <speech id="7">
+                     <statement>Bei den Schüssen ist eine Scheibe von dem dunklen Auto kaputt·gegangen.</statement>
+                  </speech>
+                   <speech id="8">
+                     <statement>Aber bei den Schüssen wurde <style_element type="hb">kein</style_element> Mensch verletzt.</statement>
+                  </speech>
+                   <speech id="9">
+                     <statement>Dann hat der Fahrer von dem dunklen Auto gebremst.</statement>
+                  </speech>
+                  <speech id="9">
+                     <statement>Und dann ist der Fahrer von dem dunklen Auto weg·gefahren.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Suche mit Hubschrauber</subheadline>
+            <statement>Die Polizei hat das dunkle Auto gesucht.</statement>
+            <statement>Dann hat die Polizei das dunkle Auto in der Nähe gefunden.</statement>
+            <statement>Aber der Fahrer von dem dunklen Auto war <style_element type="hb">nicht</style_element> mehr in dem Auto.</statement>
+            <statement>Die Polizei hat auch mit einem Hubschrauber nach dem Fahrer gesucht.</statement>
+            <statement>Nach 2 Stunden hat die Polizei den Fahrer gefunden.</statement>
+            <statement>Dann hat die Polizei den Fahrer von dem dunklen Auto festgenommen.</statement>
+            <statement>Den Fahrer von dem weißen Transporter hat die Polizei auch festgenommen.</statement>
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will zum Beispiel wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum ist der Fahrer vor der Polizei geflüchtet?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

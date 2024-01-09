@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-26" url="2019-05-13_14-00_513.xml">
+   <title>Fußball·fans von Hannover 96 und vom HSV traurig</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-05-13_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-05-13_14-00_513-full.png" type="screenshot" url="2019-05-13_14-00_513-full.png"/>
+      <resource id="2" name="2019-05-13_14-00_513_plaintext.txt" type="plaintext" url="2019-05-13_14-00_513_plaintext.txt"/>
+      <resource id="3" name="2019-05-13_14-00_513_quellcode.txt" type="sourcecode" url="2019-05-13_14-00_513_quellcode.txt"/>
+      <resource id="4" name="2019-05-13_14-00_513.docx" type="formatedText" url="2019-05-13_14-00_513.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Fußball·fans von Hannover 96 und vom HSV traurig</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Viele Fußball·fans in Nord·deutschland sind traurig.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Fußball·fan unterstützt einen bestimmten Fußball·verein.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <question><style_element type="hi">Gewinnt dieser Fußball·verein?</style_element></question>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Dann freut sich der Fußball·fan.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese Fußball·fans sind zum Beispiel Fans von:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <explanation_marker>
+                        <headword>• Hannover 96</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Hannover ist die Haupt·stadt von Niedersachsen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <statement>• Oder dem HSV.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">HSV ist die Abkürzung für: Hamburger Sport·verein.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Jetzt ist nämlich klar:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <statement>• Hannover 96 steigt in die 2. Bundesliga ab.</statement>
+                  </enumeration>
+                  <enumeration id="2"> 
+                     <statement>• Und der HSV steigt <style_element type="hb">nicht</style_element> in die 1. Bundesliga auf.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="2">
+            <subheadline>Hannover 96 steigt in die 2. Bundesliga ab</subheadline>
+               <statement>Hannover 96 spielt in der 1. Bundesliga.</statement>
+               <statement>Aber Hannover 96 hat in dieser Saison <style_element type="hb">nicht</style_element> gut gespielt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Deshalb steht schon jetzt fest:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1"> 
+                        <statement>Hannover 96 ist einer von den 2 schlechtesten Fußball·vereinen in der 1. Bundesliga.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Und deshalb steigt Hannover 96 ab.</statement>
+               <statement>In der nächsten Saison spielt Hannover 96 in der 2. Bundesliga.</statement>
+         </section>
+         <section id="3">
+            <subheadline>HSV bleibt in der 2. Bundesliga</subheadline>
+               <statement>Der HSV hat lange in der 1. Bundesliga gespielt.</statement>
+               <statement>Aber im vergangenen Jahr ist der HSV abgestiegen.</statement>
+               <statement>Deshalb spielt der HSV jetzt in der 2. Bundesliga.</statement>
+               <statement>In der 2. Bundesliga hat der HSV am Anfang viele Fußball·spiele gewonnen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Deshalb haben viele Menschen gedacht:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der HSV steigt auf.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und der HSV spielt bald wieder in der 1. Bundesliga.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Aber dann hat der HSV <style_element type="hb">nicht</style_element> mehr so gut gespielt.</statement>
+               <statement>Und der HSV hat einige Fußball·spiele verloren.</statement>
+               <statement>Zum Beispiel das Fußball·spiel am vergangenen Wochen·ende.</statement>
+               <explanation_marker>
+                  <statement>Dieses Fußball·spiel war gegen den SC Paderborn.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Paderborn ist eine Stadt in Nordrhein-Westfalen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Und der HSV hat das Fußball·spiel gegen den SC Paderborn mit 1:4 verloren.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Nach diesem Fußball·spiel war klar:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1"> 
+                        <statement>Der HSV kann <style_element type="hb">nicht</style_element> mehr aufsteigen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Der HSV bleibt in der 2. Bundesliga.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

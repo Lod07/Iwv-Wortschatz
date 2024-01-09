@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-11-01_13-00_849.xml">
+   <title>Mehr Nachrichten vom 02.11.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-11-01_13-00</vdate>
+   <resources>
+      <resource id="1" name="2018-11-01_13-00_849-full.png" type="screenshot" url="2018-11-01_13-00_849-full.png"/>
+      <resource id="2" name="2018-11-01_13-00_849_plaintext.txt" type="plaintext" url="2018-11-01_13-00_849_plaintext.txt"/>
+      <resource id="3" name="2018-11-01_13-00_849_quellcode.txt" type="sourcecode" url="2018-11-01_13-00_849_quellcode.txt"/>
+      <resource id="4" name="2018-11-01_13-00_849.docx" type="formatedText" url="2018-11-01_13-00_849.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 02.11.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Mann festgenommen</subheadline>
+               <statement>Die Polizei in Kiel hat einen Mann festgenommen.</statement>
+               <explanation_marker>
+                  <statement>Der Mann hat nämlich 12 Millionen Zigaretten nach Deutschland geschmuggelt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Der Mann hat die Zigaretten von einem anderen Land nach Deutschland gebracht.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Aber der Mann hat für die Zigaretten <style_element type="hb">keine</style_element> Steuern bezahlt.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Steuern sind Geld.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Dieses Geld müssen Menschen an die Regierung von einem Land zahlen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Mann ist Lkw-Fahrer.</statement>
+                     </speech>
+                     <speech id="2">
+                        <explanation_marker>
+                           <statement>Der Mann ist aus Russland.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Russland ist das größte Land auf der Erde.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="3">
+                        <explanation_marker>
+                           <statement>Und der Mann ist oft mit der Fähre nach Kiel gefahren.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Eine Fähre ist ein Schiff.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Eine Fähre transportiert zum Beispiel Menschen.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <headword><style_element type="hi">Oder Autos.</style_element></headword>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="4">
+                        <statement>Bei diesen Fahrten hat der Mann sehr viele Zigaretten geschmuggelt.</statement>
+                     </speech>
+                     <speech id="5">
+                        <explanation_marker>
+                           <statement>Aber jetzt ist der Mann in Untersuchungs·haft.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Bei einer Untersuchungshaft ist ein Mensch im Gefängnis.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <speech_marker>
+                                    <speech_intro>
+                                       <statement><style_element type="hi">Und die Polizei muss beweisen:</style_element></statement>
+                                    </speech_intro>
+                                    <speeches>
+                                       <speech id="1">
+                                          <statement><style_element type="hi">Der Mensch hat ein Verbrechen gemacht.</style_element></statement>
+                                       </speech>
+                                    </speeches>
+                                 </speech_marker>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Dann muss der Mensch vielleicht vor Gericht.</style_element></statement>
+                              </explanation>
+                              <explanation id="4">
+                                 <statement><style_element type="hi">Und dann bekommt der Mensch vielleicht eine Strafe.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Wölfe töten Schafe</subheadline>
+               <statement>In der Nähe von Ludwigslust war ein Angriff von Wölfen.</statement>
+               <statement>Bei diesem Angriff haben die Wölfe 34 Schafe getötet.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der Besitzer von den Schafen hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ein Zaun hat die Schafe geschützt.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und Hunde haben die Schafe geschützt.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Trotzdem haben die Wölfe die Schafe angegriffen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und die Wölfe haben die Schafe getötet.</statement>
+                     </speech>
+                     <speech id="5">
+                        <speech_marker>
+                           <speech_intro>
+                              <headword>Ich hoffe:</headword>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Die Wölfe töten <style_element type="hb">nicht</style_element> noch mehr von meinen Schafen.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-10-19_15-00_811.xml">
+   <title>Hamburg: Neue Brücke auf der A7</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-10-19_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-10-19_15-00_811-full.png" type="screenshot" url="2018-10-19_15-00_811-full.png"/>
+      <resource id="2" name="2018-10-19_15-00_811_plaintext.txt" type="plaintext" url="2018-10-19_15-00_811_plaintext.txt"/>
+      <resource id="3" name="2018-10-19_15-00_811_quellcode.txt" type="sourcecode" url="2018-10-19_15-00_811_quellcode.txt"/>
+      <resource id="4" name="2018-10-19_15-00_811.docx" type="formatedText" url="2018-10-19_15-00_811.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Hamburg: Neue Brücke auf der A7</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Auf der A7 gibt es eine neue Brücke.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">A7 ist die Abkürzung für Autobahn 7.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement>Die Brücke ist in Stellingen.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Stellingen ist ein Stadt·teil von Hamburg.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Brücke heißt Langenfelder Brücke.</statement>
+            <statement>Die Brücke ist für Autos.</statement>
+            <statement>Und die Brücke hat 8 Fahr·spuren.</statement>
+         </section>
+         <section id="2">
+            <subheadline>4 Jahre Bau·arbeiten</subheadline>
+               <statement>Die Bau·arbeiten für die Brücke haben 4 Jahre gedauert.</statement>
+               <statement>In den 4 Jahren war oft Stau.</statement>
+               <statement>Jetzt ist die Brücke fertig.</statement>
+               <explanation_marker>
+                  <statement>Und jetzt haben wichtige Politiker die Brücke eröffnet.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Jetzt dürfen Autos über die Brücke fahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Einer von den wichtigen Politikern ist Peter Tschentscher.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Peter Tschentscher ist der Bürgermeister von Hamburg.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Peter Tschentscher hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Brücke ist eine besondere Brücke.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Die Brücke führt nämlich über 19 Bahn·gleise.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und die Brücke führt über 2 Straßen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb war der Bau von der Brücke schwierig.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Aber jetzt ist die Brücke fertig.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Das ist sehr gut.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Noch mehr Bau·stellen</subheadline>
+               <statement>In der Nähe von der Brücke sind noch mehr Bau·stellen.</statement>
+               <statement>Diese Bau·stellen sind auch auf der A7.</statement>
+               <statement>Deshalb gehen die Staus auf der A7 weiter.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

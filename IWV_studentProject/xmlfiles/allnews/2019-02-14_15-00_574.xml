@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-14" url="2019-02-14_15-00_574.xml">
+   <title>Airbus baut nicht mehr das größte Flugzeug</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-02-14_15-00</vdate>
+   <resources>
+      <resource id="1" name="2019-02-14_15-00_574-full.png" type="screenshot" url="2019-02-14_15-00_574-full.png"/>
+      <resource id="2" name="2019-02-14_15-00_574_plaintext.txt" type="plaintext" url="2019-02-14_15-00_574_plaintext.txt"/>
+      <resource id="3" name="2019-02-14_15-00_574_quellcode.txt" type="sourcecode" url="2019-02-14_15-00_574_quellcode.txt"/>
+      <resource id="4" name="2019-02-14_15-00_574.docx" type="formatedText" url="2019-02-14_15-00_574.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Airbus baut nicht mehr das größte Flugzeug</headline>
+      <sections>
+      <section id="1">
+         <explanation_marker>
+            <statement>Airbus hat eine wichtige Entscheidung getroffen.</statement>
+            <explanations>
+               <explanation id="1">
+                  <statement><style_element type="hi">Airbus ist eine große Firma.</style_element></statement>
+               </explanation>
+               <explanation id="2">
+                  <statement><style_element type="hi">Und Airbus baut Flugzeuge.</style_element></statement>
+               </explanation>
+               <explanation id="3">
+                  <statement><style_element type="hi">Diese Flugzeuge baut Airbus in mehreren Städten.</style_element></statement>
+               </explanation>
+               <explanation id="4">
+                  <enumeration_marker>
+                     <enumeration_intro>
+                        <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                     </enumeration_intro>
+                     <enumerations>
+                        <enumeration id="1">
+                           <headword><style_element type="hi">• In Hamburg.</style_element></headword>
+                        </enumeration>
+                        <enumeration id="2">
+                           <explanation_marker>
+                              <statement><style_element type="hi">• Und in Toulouse.</style_element></statement>
+                              <explanations>
+                                 <explanation id="1">
+                                    <statement><style_element type="hi">Toulouse ist eine Stadt in Frankreich.</style_element></statement>
+                                 </explanation>
+                              </explanations>
+                           </explanation_marker>
+                        </enumeration>
+                     </enumerations>
+                  </enumeration_marker>
+               </explanation>
+            </explanations>
+         </explanation_marker>
+         <speech_marker>
+            <speech_intro>
+               <statement>Airbus hat gesagt:</statement>
+            </speech_intro>
+            <speeches>
+               <speech id="1">
+                  <explanation_marker>
+                     <statement>Wir bauen <style_element type="hb">nicht</style_element> mehr den A380.</statement> 
+                     <explanations>
+                        <explanation id="1">
+                           <statement><style_element type="hi">A380 ist die Abkürzung für <style_element type="hb">A</style_element>irbus <style_element type="hb">380</style_element>.</style_element></statement>
+                        </explanation>
+                        <explanation id="2">
+                           <statement><style_element type="hi">Der A380 ist das größte Flugzeug der Welt.</style_element></statement>
+                        </explanation>
+                        <explanation id="3">
+                           <statement><style_element type="hi">In einem A380 können mehr als 800 Menschen fliegen.</style_element></statement>
+                        </explanation>
+                     </explanations>
+                  </explanation_marker>
+               </speech>
+            </speeches>
+         </speech_marker>
+      </section>
+      <section id="2">
+         <subheadline>Warum baut Airbus nicht mehr den A380?</subheadline> 
+            <explanation_marker>
+               <statement>Viele Flug·gesellschaften wollen den A380 <style_element type="hb">nicht</style_element> mehr kaufen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Flug·gesellschaft bietet Flüge an.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Zum Beispiel Emirates.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Emirates ist eine Flug·gesellschaft aus den Vereinigten Arabischen Emiraten.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Die Vereinigten Arabischen Emirate sind ein Land in Arabien.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Früher hat Emirates viele A380 gekauft.</statement>
+            <statement>Aber jetzt will Emirates <style_element type="hb">keine</style_element> A380 mehr kaufen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Emirates hat nämlich gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir wollen lieber kleinere Flugzeuge kaufen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Einige Flug·gesellschaften haben den A380 noch bestellt.</statement>
+            <statement>Deshalb baut Airbus noch 2 Jahre lang den A380.</statement>
+            <statement>Aber danach baut Airbus <style_element type="hb">keine</style_element> A380 mehr.</statement>
+      </section>
+      <section id="3"> 
+         <statement>An dem A380 bauen ungefähr 3000 Arbeiter.</statement>
+         <statement>1000 von diesen Arbeitern sind in Hamburg.</statement>
+         <statement>In 2 Jahren können diese Arbeiter den A380 <style_element type="hb">nicht</style_element> mehr bauen.</statement>
+         <statement>Der Chef von Airbus heißt Tom Enders.</statement>
+         <speech_marker>
+            <speech_intro>
+               <statement>Tom Enders hat gesagt:</statement>
+            </speech_intro>
+            <speeches>
+               <speech id="1">
+                  <statement>Wir sprechen jetzt mit allen Arbeitern.</statement>
+               </speech>
+               <speech id="2">
+                  <statement>Viele Arbeiter können vielleicht ein anderes Flugzeug für Airbus bauen.</statement>
+               </speech>
+            </speeches>
+         </speech_marker>
+      </section>
+      </sections>
+   </content>
+</annotation>

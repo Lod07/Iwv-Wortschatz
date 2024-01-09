@@ -1,0 +1,213 @@
+<?xml version="1.0" ?>
+<annotation adate="" url="2020-08-20_13-30_59.xml">
+   <title>Mehr Nachrichten vom 06.12.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-12-06_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-12-06_13-30_59-full.png" type="screenshot" url="2019-12-06_13-30_59-full.png"/>
+      <resource id="2" name="2019-12-06_13-30_59_plaintext.txt" type="plaintext" url="2019-12-06_13-30_59_plaintext.txt"/>
+      <resource id="3" name="2019-12-06_13-30_59_quellcode.txt" type="sourcecode" url="2019-12-06_13-30_59_quellcode.txt"/>
+      <resource id="4" name="2019-12-06_13-30_59.docx" type="formatedText" url="2019-12-06_13-30_59.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>
+         Mehr Nachrichten vom 06.12.2019
+      </headline>
+      <sections>
+         <section id="1">
+            <subheadline>
+               Niedersachsen: Frau stirbt bei Unfall
+            </subheadline>
+            <explanation_marker>
+               <statement>
+                  In Bad Bentheim war ein schwerer Unfall.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Bad Bentheim ist eine Stadt.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">
+                           Und Bad Bentheim ist im Südwesten von Niedersachsen.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>
+               Bei dem Unfall sind 2 Autos zusammen·gestoßen.
+            </statement>
+            <statement>
+               Eine Frau ist bei dem Unfall gestorben.
+            </statement>
+            <statement>
+               Diese Frau war 61 Jahre alt.
+            </statement>
+            <statement>
+               Und eine andere Frau wurde bei dem Unfall leicht verletzt.
+            </statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Die Polizei hat gesagt:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        Der Unfall war an einer Kreuzung.
+                     </statement>
+                  </speech>
+                  <speech id="2">
+                     <headword>
+                        Wir glauben:
+                     </headword>
+                  </speech>
+                  <speech id="3">
+                     <statement>
+                        Die Fahrerin von dem einen Auto hat das andere Auto <style_element type="hb">nicht</style_element> gesehen.
+                     </statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>
+                        Deshalb sind die 2 Autos auf der Kreuzung zusammengestoßen.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line"/>
+         <section id="2">
+            <subheadline>
+               Tennis: Grönefeld hört auf
+            </subheadline>
+            <explanation_marker>
+               <statement>
+                  Anna-Lena Grönefeld hat eine wichtige Entscheidung getroffen.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Anna-Lena Grönefeld ist eine bekannte Tennis·spielerin.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">
+                              Und Anna-Lena Grönefeld ist aus Nordhorn.
+                           </style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">
+                                    Nordhorn ist eine Stadt in Niedersachsen.
+                                 </style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Anna-Lena Grönefeld hat gesagt:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        Ich spiele <style_element type="hb">nicht</style_element> mehr Tennis.
+                     </statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>
+                        Ich will nämlich mehr Zeit für andere Dinge haben.
+                     </statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>
+                        Ich will nämlich zum Beispiel eine Familie gründen.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>
+               Anna-Lena Grönefeld ist 34 Jahre alt.
+            </statement>
+            <explanation_marker>
+               <statement>
+                  Die größten Erfolge hatte Anna-Lena Grönefeld im Mixed.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Im Mixed spielen eine Frau und ein Mann zusammen.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>
+                  2009 hat Anna-Lena Grönefeld ein sehr wichtiges Turnier in Wimbledon gewonnen.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">
+                              Wimbledon ist ein Stadt·teil von London.
+                           </style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">
+                                    London ist die Haupt·stadt von England.
+                                 </style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>
+                  Und 2014 hat Anna-Lena Grönefeld ein sehr wichtiges Turnier in Paris gewonnen.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Paris ist die Haupt·stadt von Frankreich.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <style_element type="line"/>
+      </sections>
+   </content>
+</annotation>

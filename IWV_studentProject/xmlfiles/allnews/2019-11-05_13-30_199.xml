@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2019-11-05_13-30_199.xml">
+   <title>Mehr Nachrichten vom 05.11.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-11-05_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-11-05_13-30_199-full.png" type="screenshot" url="2019-11-05_13-30_199-full.png"/>
+      <resource id="2" name="2019-11-05_13-30_199_plaintext.txt" type="plaintext" url="2019-11-05_13-30_199_plaintext.txt"/>
+      <resource id="3" name="2019-11-05_13-30_199_quellcode.txt" type="sourcecode" url="2019-11-05_13-30_199_quellcode.txt"/>
+      <resource id="4" name="2019-11-05_13-30_199.docx" type="formatedText" url="2019-11-05_13-30_199.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 05.11.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Tafel wird 25 Jahre alt</subheadline>
+            <statement>In Hamburg ist am Dienstag eine Feier.</statement>
+            <explanation_marker>
+               <statement>Diese Feier ist für die Hamburger Tafel.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Bei einer Tafel verteilen Helfer Essen an arme Menschen.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Dieses Essen kommt von Spenden.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Und für dieses Essen müssen die armen Menschen <style_element type="hb">nur wenig</style_element> Geld bezahlen.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement>
+                        <style_element type="hi"> Oder <style_element type="hb">gar kein</style_element> Geld.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Hamburger Tafel wird in diesem Jahr nämlich 25 Jahre alt.</statement>
+            <explanation_marker>
+               <statement>Zu der Feier kommt auch Peter Tschentscher.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">Peter Tschentscher ist der Bürgermeister von Hamburg.</style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Ein Bürgermeister ist der wichtigste Politiker von einer Stadt.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>                    
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Peter Tschentscher hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Hamburger Tafel ist sehr wichtig für Hamburg.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die Hamburger Tafel hilft nämlich sehr vielen armen Menschen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Bei der Hamburger Tafel arbeiten mehr als 100 Helfer.</statement>
+            <statement>Und mehr als 20.000 Menschen in Hamburg bekommen Essen von der Hamburger Tafel.</statement>
+         </section>
+         <style_element type="line"/>
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Mann stirbt bei Unfall</subheadline>
+            <explanation_marker>
+               <statement>In Lübstorf war ein Unfall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Lübstorf ist ein Ort in der Nähe von Schwerin.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieser Unfall war auf der B106.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">B106 ist die Abkürzung für <style_element type="hb">B</style_element>undes·straße <style_element type="hb">106</style_element>.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei diesem Unfall ist ein Mann gestorben.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Mann war mit seinem Auto an einer Kreuzung.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dann ist ein anderer Mann mit seinem Lkw auf die Kreuzung gefahren.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und dann sind das Auto und der Lkw zusammengestoßen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Der Auto·fahrer ist bei dem Unfall gestorben.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Der Lkw-Fahrer wurde bei dem Unfall <style_element type="hb">nicht</style_element> verletzt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>An der Kreuzung war ein Stopp·schild.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Ein Stopp·schild ist zum Beispiel für Auto·fahrer.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="2">
+                              <question>
+                                 <style_element type="hi">Ist ein Stopp·schild an einer Straße?</style_element>
+                              </question>
+                           </explanation>
+                           <explanation id="3">
+                              <statement>
+                                 <style_element type="hi">Dann muss der Auto·fahrer anhalten.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>                   
+                  </speech>
+                  <speech id="2">
+                     <statement>Wahrscheinlich hat der Auto·fahrer an dem Stopp·schild <style_element type="hb">nicht</style_element> angehalten.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb ist der Auto·fahrer wahrscheinlich auf die Kreuzung gefahren.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und deshalb sind das Auto und der Lkw zusammengestoßen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>            
+         </section>
+         <style_element type="line"/>
+      </sections>
+   </content>
+</annotation>

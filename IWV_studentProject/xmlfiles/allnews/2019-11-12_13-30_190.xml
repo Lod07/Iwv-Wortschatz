@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-29" url="2019-11-12_13-30_190.xml">
+   <title>Mehr Nachrichten vom 12.11.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-11-12_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-11-12_13-30_190-full.png" type="screenshot" url="2019-11-12_13-30_190-full.png"/>
+      <resource id="2" name="2019-11-12_13-30_190_plaintext.txt" type="plaintext" url="2019-11-12_13-30_190_plaintext.txt"/>
+      <resource id="3" name="2019-11-12_13-30_190_quellcode.txt" type="sourcecode" url="2019-11-12_13-30_190_quellcode.txt"/>
+      <resource id="4" name="2019-11-12_13-30_190.docx" type="formatedText" url="2019-11-12_13-30_190.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 12.11.2019</headline>
+      <sections>  
+         <section id="1">
+            <subheadline>Hamburg: 2 neue Boote für die Feuerwehr</subheadline>
+            <statement>Die Feuerwehr im Hamburger Hafen bekommt 2 neue Boote.</statement>
+            <explanation_marker>
+               <statement>Diese Boote sind Lösch·boote.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Mit Lösch·booten kann die Feuerwehr zum Beispiel Feuer auf Schiffen löschen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und diese Lösch·boote haben eine besondere Ausrüstung.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Die neuen Lösch·boote haben nämlich 2 Motoren:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <explanation_marker>
+                        <headword>• Einen Diesel·motor.</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Diesel·motoren machen viele Schad·stoffe.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">Schad·stoffe machen die Luft schmutzig.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <statement>• Und einen Elektro·motor.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Elekro·motoren haben Batterien.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">Und Elektro·motoren machen <style_element type="hb">keine</style_element> Schad·stoffe.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker> 
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Ein Sprecher vom Hamburger Hafen hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die neuen Lösch·boote sind gut für die Umwelt.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die neuen Lösch·boote machen nämlich weniger Schad·stoffe.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Die 2 neuen Lösch·boote werden in Holland gebaut.</statement>
+            <statement>Im Frühjahr 2021 sollen die neuen Lösch·boote fertig sein.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Bauern protestieren</subheadline>
+            <statement>In Niedersachsen haben viele Bauern protestiert.</statement>
+            <statement>Die Bauern sind nämlich unzufrieden mit neuen Gesetzen.</statement>
+            <statement>Deshalb sind viele Bauern mit ihren Treckern auf große Straßen gefahren.</statement>
+            <statement>Deshalb mussten viele andere Auto·fahrer langsamer fahren.</statement>
+            <statement>Und deshalb gab es viele Staus.</statement>
+            <explanation_marker>
+               <statement>Zum Beispiel im Emsland.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Das Emsland ist eine Region im Westen von Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und in Bad Bentheim.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bad Bentheim ist im Südwesten von Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Am Donnerstag wollen die Bauern auch in Hamburg protestieren.</statement>
+            <statement>Dann sollen 4000 Trecker durch Hamburg fahren.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

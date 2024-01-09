@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-25" url="2020-03-13_14-30_137.xml">
+   <title>Mehr Nachrichten vom 13.03.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-03-13_14-30</vdate>
+   <resources>
+      <resource id="1" name="2020-03-13_14-30_137-full.png" type="screenshot" url="2020-03-13_14-30_137-full.png"/>
+      <resource id="2" name="2020-03-13_14-30_137_plaintext.txt" type="plaintext" url="2020-03-13_14-30_137_plaintext.txt"/>
+      <resource id="3" name="2020-03-13_14-30_137_quellcode.txt" type="sourcecode" url="2020-03-13_14-30_137_quellcode.txt"/>
+      <resource id="4" name="2020-03-13_14-30_137.docx" type="formatedText" url="2020-03-13_14-30_137.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 13.03.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Mann muss lange ins Gefängnis</subheadline>
+            <explanation_marker>
+            <statement>In Osnabrück war ein Prozess.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei diesem Prozess hat das Gericht einen Mann verurteilt.</statement>
+            <statement>Dieser Mann hat nämlich eine Frau getötet.</statement>
+            <explanation_marker>
+               <statement>Jetzt muss der Mann lebenslang ins Gefängnis.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Der Mann muss für mindestens 15 Jahre ins Gefängnis.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und der Mann kommt vielleicht <style_element type="hb">nie</style_element> wieder frei.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Gericht hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Der Man wollte vor 25 Jahren eine Frau vergewaltigen.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Der Mann wollte die Frau zu sexuellen Dingen zwingen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dann hat er die Frau erwürgt.</statement>
+                  </speech>
+                  <speech id="3">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Für lange Zeit haben wir nicht herausgefunden:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Wer hat die Frau erwürgt?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="4">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Aber jetzt haben wir herausgefunden:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Der Mann hat die Frau getötet.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Frau stirbt bei Unfall</subheadline>
+            <explanation_marker>
+               <statement>In Apensen war ein schlimmer Unfall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Apensen ist in der Nähe von Buxtehude.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei diesem Unfall ist eine Frau gestorben.</statement>
+            <statement>Und ein Mann wurde schwer verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Frau ist mit einem Auto gefahren.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dann ist ein Motor·rad gekommen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Die Frau hat dieses Motor·rad wahrscheinlich <style_element type="hb">nicht</style_element> gesehen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und die Frau hat <style_element type="hb">nicht</style_element> gebremst.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Deshalb ist das Motor·rad gegen das Auto gefahren.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Der Mann auf dem Motor·rad ist bei dem Unfall gestorben.</statement>
+                  </speech>
+                  <speech id="7">
+                     <statement>Und die Frau wurde schwer verletzt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

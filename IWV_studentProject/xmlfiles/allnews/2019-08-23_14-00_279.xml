@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-03" url="2019-08-23_14-00_279.xml">
+   <title>Großes Rad·rennen in Hamburg</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-08-23_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-08-23_14-00_279-full.png" type="screenshot" url="2019-08-23_14-00_279-full.png"/>
+      <resource id="2" name="2019-08-23_14-00_279_plaintext.txt" type="plaintext" url="2019-08-23_14-00_279_plaintext.txt"/>
+      <resource id="3" name="2019-08-23_14-00_279_quellcode.txt" type="sourcecode" url="2019-08-23_14-00_279_quellcode.txt"/>
+      <resource id="4" name="2019-08-23_14-00_279.docx" type="formatedText" url="2019-08-23_14-00_279.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Großes Rad·rennen in Hamburg</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Am Sonntag ist ein großes Rad·rennen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Rad·rennen ist ein Sport·wettbewerb.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Bei einem Rad·rennen fahren Menschen auf Fahr·rädern.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Das Rad·rennen ist in Hamburg.</statement>
+            <statement>Und das Rad·rennen heißt Cyclassics.</statement>
+            <statement>Bei dem Rad·rennen machen 18.000 Menschen mit.</statement>
+            <statement>Diese 18.000 Menschen fahren auf den Straßen von Hamburg.</statement>
+            <statement>Deshalb sperrt die Polizei viele Straßen für Autos.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Die Strecken</subheadline>
+            <statement>Bei dem Rad·rennen gibt es mehrere Strecken.</statement>
+            <statement>Die Strecken sind meistens auf den Straßen von Hamburg.</statement>
+            <statement>Aber einige Strecken sind auch auf den Straßen von Schleswig-Holstein.</statement>
+            <statement>Deshalb sperrt die Polizei viele Straßen für Autos.</statement>
+            <statement>Und deshalb können viele Autos <style_element type="hb">nicht</style_element> auf diesen Straßen fahren.</statement>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Für das Rad·rennen sperren wir am Sonntag viele Straßen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <explanation_marker>
+                        <statement>Und wir sperren eine Anschluss·stelle von der Autobahn 7.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Eine Anschluss·stelle ist eine besondere Kreuzung.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">An einer Anschluss·stelle können Autos auf eine Auto·bahn fahren.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Und an einer Anschluss·stelle können Autos eine Auto·bahn verlassen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="3">
+                     <statement>Diese Anschlussstelle heißt Volkspark.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und diese Anschluss·stelle können Autos am Sonntag <style_element type="hb">nicht</style_element> benutzen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Viele Zuschauer</subheadline>
+            <statement>Bei dem Rad·rennen sind viele Zuschauer.</statement>
+            <statement>Diese Zuschauer stehen an der Strecke von dem Rad·rennen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement> Wir glauben:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Es kommen 500.000 Zuschauer.</statement>
+                           </speech>
+                           <speech id="2">
+                              <statement>Diese Zuschauer sollen mit U-Bahnen fahren.</statement>
+                           </speech>
+                           <speech id="3">
+                              <statement>Oder diese Zuschauer sollen mit S-Bahnen fahren.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="5">
+            <statement><style_element type="hb">Über das Rad·rennen gibt es noch mehr Informationen.</style_element></statement>
+            <statement><style_element type="hb">Diese Informationen sind aber nicht in Leichter Sprache.</style_element></statement>
+            <question><style_element type="hb">Sie wollen diese Informationen lesen?</style_element></question>
+            <statement><style_element type="hb">Dann klicken Sie hier.</style_element></statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

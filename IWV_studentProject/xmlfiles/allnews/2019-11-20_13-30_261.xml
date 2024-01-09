@@ -1,0 +1,218 @@
+<?xml version="1.0" ?>
+<annotation adate="" url="2020-08-18_13-30_261.xml">
+   <title>Mehr Nachrichten vom 20.11.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-11-20_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-11-20_13-30_261-full.png" type="screenshot" url="2019-11-20_13-30_261-full.png"/>
+      <resource id="2" name="2019-11-20_13-30_261_plaintext.txt" type="plaintext" url="2019-11-20_13-30_261_plaintext.txt"/>
+      <resource id="3" name="2019-11-20_13-30_261_quellcode.txt" type="sourcecode" url="2019-11-20_13-30_261_quellcode.txt"/>
+      <resource id="4" name="2019-11-20_13-30_261.docx" type="formatedText" url="2019-11-20_13-30_261.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+  <content>
+    <headline>
+      Mehr Nachrichten vom 20.11.2019
+    </headline>
+    <sections>
+      <section id="1">
+        <subheadline>
+          Niedersachsen: Mitarbeiter von Firma demonstrieren
+        </subheadline>
+        <explanation_marker>
+          <statement>
+            In Hannover war eine Demonstration.
+          </statement>
+          <explanations>
+            <explanation id="1">
+              <statement>
+                <style_element type="hi">
+                  Bei einer Demonstration gehen viele Menschen auf die Straße.
+                </style_element>
+              </statement>
+            </explanation>
+            <explanation id="2">
+              <statement>
+                <style_element type="hi">
+                  Diese Menschen sagen laut ihre Meinung.
+                </style_element>
+              </statement>
+            </explanation>
+          </explanations>
+        </explanation_marker>
+        <statement>
+          Diese Demonstration war von Mitarbeitern von einer großen Firma.
+        </statement>
+        <explanation_marker>
+          <statement>
+            Diese große Firma heißt Continental.
+          </statement>
+          <explanations>
+            <explanation id="1">
+              <statement>
+                <style_element type="hi">
+                  Continental baut zum Beispiel Teile für Autos.
+                </style_element>
+              </statement>
+            </explanation>
+            <explanation id="2">
+              <statement>
+                <style_element type="hi">
+                  Continental ist aus Hannover.
+                </style_element>
+              </statement>
+            </explanation>
+            <explanation id="3">
+              <statement>
+                <style_element type="hi">
+                  Und Continental hat Fabriken in verschiedenen Städten.
+                </style_element>
+              </statement>
+            </explanation>
+            <explanation id="4">
+              <statement>
+                <style_element type="hi">
+                  Und in verschiedenen Ländern.
+                </style_element>
+              </statement>
+            </explanation>
+          </explanations>
+        </explanation_marker>
+        <statement>
+          Bei der Demonstration waren Mitarbeiter aus ganz Deutschland.
+        </statement>
+        <speech_marker>
+          <speech_intro>
+            <statement>
+              Die Mitarbeiter haben zum Beispiel gesagt:
+            </statement>
+          </speech_intro>
+          <speeches>
+            <speech id="1">
+              <statement>
+                Continental will Geld sparen.
+              </statement>
+            </speech>
+            <speech id="2">
+              <statement>
+                Deshalb will Continental Fabriken schließen.
+              </statement>
+            </speech>
+            <speech id="3">
+              <statement>
+                Und deshalb will Continental 7000 Mitarbeiter entlassen.
+              </statement>
+            </speech>
+            <speech id="4">
+              <statement>
+                Das wollen wir <style_element type="hb">nicht</style_element>.
+              </statement>
+            </speech>
+            <speech id="5">
+              <statement>
+                Wir wollen unsere Arbeits·plätze nämlich behalten.
+              </statement>
+            </speech>
+          </speeches>
+        </speech_marker>
+      </section>
+      <style_element type="line" />
+      <section id="2">
+        <subheadline>
+          Niedersachsen: Film·fest in Braunschweig
+        </subheadline>
+        <statement>
+          In Braunschweig hat am Mittwoch eine besondere Veranstaltung begonnen.
+        </statement>
+        <statement>
+          Diese besondere Veranstaltung ist ein Film·fest.
+        </statement>
+        <statement>
+          Bei dem Film·fest können Menschen viele besondere Filme sehen.
+        </statement>
+        <statement>
+          Diese Filme sind aus verschiedenen Ländern.
+        </statement>
+        <enumeration_marker>
+          <enumeration_intro>
+            <headword>
+              Zum Beispiel:
+            </headword>
+          </enumeration_intro>
+          <enumerations>
+            <enumeration id="1">
+              <explanation_marker>
+                <headword>
+                  Aus Polen.
+                </headword>
+                <explanations>
+                  <explanation id="1">
+                    <statement>
+                      <style_element type="hi">
+                        Polen ist ein Land in Ost·europa.
+                      </style_element>
+                    </statement>
+                  </explanation>
+                </explanations>
+              </explanation_marker>
+            </enumeration>
+            <enumeration id="2">
+              <explanation_marker>
+                <headword>
+                  Aus Marokko.
+                </headword>
+                <explanations>
+                  <explanation id="1">
+                    <statement>
+                      <style_element type="hi">
+                        Marokko ist ein Land in Afrika.
+                      </style_element>
+                    </statement>
+                  </explanation>
+                </explanations>
+              </explanation_marker>
+            </enumeration>
+            <enumeration id="3">
+              <explanation_marker>
+                <headword>
+                  Und aus Südkorea.
+                </headword>
+                <explanations>
+                  <explanation id="1">
+                    <statement>
+                      <style_element type="hi">
+                        Südkorea ist ein Land in Asien.
+                      </style_element>
+                    </statement>
+                  </explanation>
+                </explanations>
+              </explanation_marker>
+            </enumeration>
+          </enumerations>
+        </enumeration_marker>
+        <statement>
+          Bei dem Film·fest gibt es auch Preise.
+        </statement>
+        <statement>
+          Diese Preise sind zum Beispiel für die besten Filme.
+        </statement>
+        <statement>
+          Das Film·fest ist jedes Jahr.
+        </statement>
+        <statement>
+          In diesem Jahr ist das Film·fest zum 33. Mal.
+        </statement>
+        <statement>
+          Das Film·fest ist bis Sonntag.
+        </statement>
+      </section>
+    </sections>
+  </content>
+</annotation>

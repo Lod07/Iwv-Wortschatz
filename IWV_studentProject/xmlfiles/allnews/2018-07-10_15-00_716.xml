@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-19" url="2018-07-10_15-00_716.xml">
+   <title>2 große Veranstaltungen in Hamburg</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-07-10_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-07-10_15-00_716-full.png" type="screenshot" url="2018-07-10_15-00_716-full.png"/>
+      <resource id="2" name="2018-07-10_15-00_716_plaintext.txt" type="plaintext" url="2018-07-10_15-00_716_plaintext.txt"/>
+      <resource id="3" name="2018-07-10_15-00_716_quellcode.txt" type="sourcecode" url="2018-07-10_15-00_716_quellcode.txt"/>
+      <resource id="4" name="2018-07-10_15-00_716.docx" type="formatedText" url="2018-07-10_15-00_716.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>2 große Veranstaltungen in Hamburg</headline>
+      <sections>
+         <section id="1">
+            <statement>In Hamburg sind am Wochen·ende 2 große Veranstaltungen.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese 2 großen Veranstaltungen sind:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Ein Musik·fest.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Und eine Sport·veranstaltung.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="2">
+            <explanation_marker>
+               <statement>Die 2 großen Veranstaltungen sind in St. Pauli.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">St. Pauli ist ein Stadt·teil von Hamburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und die 2 großen Veranstaltungen sind in der Nähe von St. Pauli.</statement>
+            <statement>Die 2 großen Veranstaltungen sind an einem Wochen·ende.</statement>
+            <statement>Deshalb sind die Bewohner von St. Pauli genervt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Bewohner von St. Pauli sagen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Zu diesen 2 großen Veranstaltungen kommen sehr viele Menschen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Diese Menschen machen viel Lärm.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und diese Menschen machen viel Müll.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb stören diese Menschen uns.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Das Musik·fest</subheadline>
+               <statement>Das Musik·fest heißt Schlagermove.</statement>
+               <statement>Der Schlagermove ist jedes Jahr in Hamburg.</statement>
+               <statement>Beim Schlagermove fahren besondere Last·wagen auf den Straßen.</statement>
+               <statement>Diese Last·wagen fahren sehr langsam.</statement>
+               <statement>Hinter diesen Last·wagen sind Anhänger.</statement>
+               <statement>Diese Anhänger sind bunt geschmückt.</statement>
+               <statement>Auf diesen Anhängern sind Menschen.</statement>
+               <explanation_marker>
+                  <statement>Die Menschen auf den Anhängern spielen Schlager.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Schlager sind deutsche Lieder.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Viele von den Schlagern sind schon alt.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Deshalb kennen viele Menschen in Deutschland viele Schlager.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Und die Menschen tanzen zu den Schlagern.</statement>
+         </section>
+         <section id="4">
+            <statement>Beim Schlagermove sind immer viele Besucher.</statement>
+            <statement>Die meisten Besucher sind verkleidet.</statement>
+            <statement>Die Besucher haben zum Beispiel bunte Kleidung.</statement>
+            <explanation_marker>
+               <statement>Und viele Besucher haben bunte Perücken auf dem Kopf.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Perücken sind <style_element type="hb">un</style_element>echte Haare.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Viele Besucher haben auch große Sonnen·brillen auf.</statement>
+         </section>
+         <section id="5">
+            <subheadline>Die Sport·veranstaltung</subheadline>
+               <explanation_marker>
+                  <statement>Die Sport·veranstaltung ist ein Triathlon.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Bei einem Triathlon müssen Sportler eine bestimmte Strecke zurücklegen.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <statement><style_element type="hi">Die Sportler müssen:</style_element></statement>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <headword><style_element type="hi">• Schwimmen.</style_element></headword>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <statement><style_element type="hi">• Dann Rad fahren.</style_element></statement>
+                              </enumeration>
+                              <enumeration id="3">
+                                 <statement><style_element type="hi">• Und dann laufen.</style_element></statement>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Der Triathlon ist jedes Jahr in Hamburg.</statement>
+               <statement>Und der Triathlon in Hamburg ist der größte Triathlon auf der Welt.</statement>
+               <statement>Im vergangenen Jahr waren mehr als 10.000 Sportler dabei.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

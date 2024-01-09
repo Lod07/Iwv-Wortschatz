@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-21" url="2019-04-09_14-00_487.xml">
+   <title>Feuer in Salzgitter: Menschen ohne Wasser</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-04-09_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-04-09_14-00_487-full.png" type="screenshot" url="2019-04-09_14-00_487-full.png"/>
+      <resource id="2" name="2019-04-09_14-00_487_plaintext.txt" type="plaintext" url="2019-04-09_14-00_487_plaintext.txt"/>
+      <resource id="3" name="2019-04-09_14-00_487_quellcode.txt" type="sourcecode" url="2019-04-09_14-00_487_quellcode.txt"/>
+      <resource id="4" name="2019-04-09_14-00_487.docx" type="formatedText" url="2019-04-09_14-00_487.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Feuer in Salzgitter: Menschen ohne Wasser</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Salzgitter war ein Feuer.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Salzgitter ist eine Stadt in Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Das Feuer war in der Altstadt von Salzgitter.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Altstadt ist der älteste Teil von einer Stadt.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Eine Altstadt ist meistens im Zentrum von einer Stadt.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Feuer wurde ein Haus zerstört.</statement>
+            <statement>Aber bei dem Feuer wurde <style_element type="hb">kein</style_element> Mensch verletzt.</statement>
+            <statement>Beim Löschen von dem Feuer hatte die Feuerwehr große Probleme.</statement>
+         </section> 
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Das Feuer war in einem alten Haus.</statement>
+               <statement>Dann ist das Feuer schnell größer geworden.</statement>
+               <statement>Und dann war das Feuer auch in einem anderen Haus.</statement>
+               <statement>Das Feuer hat das alte Haus zerstört.</statement>
+               <statement>Und das Feuer hat Schaden an dem anderen Haus gemacht.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Das Feuer war sehr groß.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und das Löschen von dem Feuer war schwierig.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Wir haben nämlich zum Beispiel sehr viel Wasser gebraucht.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb hatten einige Menschen in ihren Häusern eine Zeit lang <style_element type="hb">kein</style_element> Wasser.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker> 
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Bei dem Feuer waren viele Menschen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Diese Menschen wollten das Feuer sehen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und diese Menschen haben zum Beispiel Videos von dem Feuer gemacht.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Diese Menschen haben zum Beispiel Wege versperrt.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Deshalb haben die Menschen die Feuerwehr gestört.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <explanation_marker>
+                  <statement>Dann hat die Polizei die Altstadt gesperrt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi"><style_element type="hb">Kein</style_element> Mensch durfte in der Altstadt sein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker> 
+               <statement>Und die Feuerwehr konnte das Feuer löschen.</statement>
+         </section>
+         <section id="3">
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum war das Feuer in dem Haus?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

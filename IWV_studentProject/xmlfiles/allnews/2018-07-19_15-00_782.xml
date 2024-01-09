@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-20" url="2018-07-19_15-00_782.xml">
+   <title>Schlechte Ernte: Bauern haben Angst</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-07-19_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-07-19_15-00_782-full.png" type="screenshot" url="2018-07-19_15-00_782-full.png"/>
+      <resource id="2" name="2018-07-19_15-00_782_plaintext.txt" type="plaintext" url="2018-07-19_15-00_782_plaintext.txt"/>
+      <resource id="3" name="2018-07-19_15-00_782_quellcode.txt" type="sourcecode" url="2018-07-19_15-00_782_quellcode.txt"/>
+      <resource id="4" name="2018-07-19_15-00_782.docx" type="formatedText" url="2018-07-19_15-00_782.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Schlechte Ernte: Bauern haben Angst</headline>
+      <sections>
+         <section id="1">
+            <statement>Viele Bauern in Nord·deutschland haben Angst.</statement>
+            <statement>Die Bauern haben in diesem Jahr nämlich sehr wenig Ernte.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Bauern sagen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir können nur sehr wenig Ernte verkaufen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Das ist sehr schlecht für uns.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dann verdienen wir nämlich sehr wenig Geld.</statement>
+                  </speech>
+                  <speech id="4">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Jetzt wissen wir <style_element type="hb">nicht</style_element>:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Können wir weiter als Bauern arbeiten?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Warum haben die Bauern wenig Ernte?</subheadline>
+               <statement>In Nord·deutschland ist es seit vielen Wochen sehr warm.</statement>
+               <statement>Und in Nord·deutschland ist es seit vielen Wochen sehr trocken.</statement>
+               <statement>In Nord·deutschland hat es nämlich lange <style_element type="hb">nicht</style_element> geregnet.</statement>
+               <explanation_marker>
+                  <statement>Deshalb sind zum Beispiel die Felder sehr trocken.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Auf Feldern haben Bauern Pflanzen.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <headword><style_element type="hi">• Mais.</style_element></headword>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <headword><style_element type="hi">• Raps.</style_element></headword>
+                              </enumeration>
+                              <enumeration id="3">
+                                 <headword><style_element type="hi">• Kartoffeln.</style_element></headword>
+                              </enumeration>
+                              <enumeration id="4">
+                                 <explanation_marker>
+                                    <headword><style_element type="hi">• Und Getreide.</style_element></headword>
+                                    <explanations>
+                                       <explanation id="1">
+                                          <statement><style_element type="hi">Getreide ist zum Beispiel Weizen.</style_element></statement>
+                                       </explanation>
+                                       <explanation id="2">
+                                          <statement><style_element type="hi">Aus Getreide machen Menschen zum Beispiel Brot.</style_element></statement>
+                                       </explanation>
+                                    </explanations>
+                                 </explanation_marker>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Trockene Felder sind <style_element type="hb">nicht</style_element> gut für die Pflanzen auf den Feldern.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Bauern haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Unsere Pflanzen brauchen Wasser.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement><style_element type="hb">Ohne</style_element> Wasser wachsen unsere Pflanzen nämlich <style_element type="hb">nicht</style_element> gut.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Aber es hat lange <style_element type="hb">nicht</style_element> geregnet.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb haben unsere Pflanzen <style_element type="hb">nicht</style_element> genug Wasser bekommen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Und deshalb sind unsere Pflanzen <style_element type="hb">nicht</style_element> gut gewachsen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Deshalb ist die Ernte in diesem Jahr sehr schlecht.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Zu wenig Futter für Tiere</subheadline>
+               <statement>Viele Bauern haben auch Tiere.</statement>
+               <statement>Zum Beispiel Kühe.</statement>
+               <statement>Die Tiere fressen zum Beispiel Mais.</statement>
+               <statement>Und die Tiere fressen Gras.</statement>
+               <statement>Aber auch das Gras wächst <style_element type="hb">nicht</style_element> gut.</statement>
+               <statement>Deshalb haben die Tiere <style_element type="hb">nicht</style_element> genug Futter.</statement>
+               <statement>Und deshalb haben die Bauern Angst.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Bauern sagen nämlich:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir können unseren Tieren <style_element type="hb">nicht</style_element> genug Futter geben.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb können wir vielleicht <style_element type="hb">nicht</style_element> alle Tiere behalten.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

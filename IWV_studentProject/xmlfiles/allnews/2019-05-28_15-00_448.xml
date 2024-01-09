@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-05" url="2019-05-28_15-00_448.xml">
+   <title>Neuer Trainer bei Hannover 96</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-05-28_15-00</vdate>
+   <resources>
+      <resource id="1" name="2019-05-28_15-00_448-full.png" type="screenshot" url="2019-05-28_15-00_448-full.png"/>
+      <resource id="2" name="2019-05-28_15-00_448_plaintext.txt" type="plaintext" url="2019-05-28_15-00_448_plaintext.txt"/>
+      <resource id="3" name="2019-05-28_15-00_448_quellcode.txt" type="sourcecode" url="2019-05-28_15-00_448_quellcode.txt"/>
+      <resource id="4" name="2019-05-28_15-00_448.docx" type="formatedText" url="2019-05-28_15-00_448.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Neuer Trainer bei Hannover 96</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Hannover 96 hat einen neuen Trainer.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Hannover 96 ist ein Fußball·verein aus Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser neue Trainer ist Mirko Slomka.</statement>
+            <statement>Der alte Trainer war Thomas Doll.</statement>
+            <statement>Aber Hannover 96 hat mit Thomas Doll viele Spiele verloren.</statement>
+            <statement>Deshalb ist Hannover 96 aus der 1. Fußball-Bundesliga abgestiegen.</statement>
+            <explanation_marker>
+               <statement>Und deshalb hat Hannover 96 Thomas Doll entlassen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Thomas Doll arbeitet <style_element type="hb">nicht</style_element> mehr für Hannover 96.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Viele Erfolge mit Mirko Slomka</subheadline>
+            <statement>Mirko Slomka ist 51 Jahre alt.</statement>
+            <statement>Und Mirko Slomka hat als Trainer für viele Vereine gearbeitet.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <statement>• Für Schalke 04.</statement>
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <statement>• Und für den HSV.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">HSV ist die Abkürzung für <style_element type="hb">H</style_element>amburger <style_element type="hb">S</style_element>port-<style_element type="hb">V</style_element>erein.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Mirko Slomka hat auch schon für Hannover 96 gearbeitet.</statement>
+            <statement>Von 2010 bis 2013.</statement>
+            <statement>Mit Mirko Slomka hat Hannover 96 viele Spiele gewonnen.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Hannover will wieder aufsteigen</subheadline>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Martin Kind hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Mirko Slomka hat sehr viel Erfahrung.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und Mirko Slomka kennt Hannover 96.</statement>
+                  </speech>
+                  <speech id="3">
+                     <speech_marker>
+                        <speech_intro>
+                           <headword>Wir glauben:</headword>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Mit Mirko Slomka spielen wir wieder besser Fußball.</statement>
+                           </speech>
+                           <speech id="2">
+                              <statement>Und mit Mirko Slomka gewinnen wir wieder mehr Spiele.</statement>
+                           </speech>
+                           <speech id="3">
+                              <statement>Mit Mirko Slomka können wir in die 1. Fußball-Bundesliga aufsteigen.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Neuer Sport·chef</subheadline>
+            <explanation_marker>
+               <statement>Hannover 96 hat auch einen neuen Sport·chef.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Sport·chef hat wichtige Aufgaben bei einem Fußball·verein.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Ein Sport·chef sagt zum Beispiel:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement><style_element type="hi">Diese Spieler soll der Fußball·verein kaufen.</style_element></statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der neue Sport·chef von Hannover 96 ist Jan Schlaudraff.</statement>
+            <statement>Jan Schlaudraff ist 35 Jahre alt.</statement>
+            <statement>Und Jan Schlaudraff hat früher auch Fußball gespielt.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <statement>• Für Bayern München.</statement>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Und für Hannover 96.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-07-31_13-30_366.xml">
+   <title>Mehr Nachrichten vom 31.07.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-07-31_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-07-31_13-30_366-full.png" type="screenshot" url="2019-07-31_13-30_366-full.png"/>
+      <resource id="2" name="2019-07-31_13-30_366_plaintext.txt" type="plaintext" url="2019-07-31_13-30_366_plaintext.txt"/>
+      <resource id="3" name="2019-07-31_13-30_366_quellcode.txt" type="sourcecode" url="2019-07-31_13-30_366_quellcode.txt"/>
+      <resource id="4" name="2019-07-31_13-30_366.docx" type="formatedText" url="2019-07-31_13-30_366.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 31.07.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Großes Fest in Hannover</subheadline>
+            <statement>Am Mittwoch hat in Hannover ein großes Fest begonnen.</statement>
+            <explanation_marker>
+               <statement>Dieses Fest ist am Maschsee.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Der Maschsee ist ein See in Hannover.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und dieses Fest heißt Maschsee·fest.</statement>
+            <statement>Das Maschsee·fest ist jedes Jahr.</statement>
+            <statement>In diesem Jahr ist das Maschsee·fest bis zum 18. August.</statement>
+            <statement>Zum Maschsee·fest kommen immer viele Besucher.</statement>
+            <statement>Im vergangenen Jahr waren 2,4 Millionen Besucher beim Maschsee·fest.</statement>
+            <statement>Für diese Besucher gibt es viele Dinge.</statement>
+            <statement>Zum Beispiel Musik·konzerte.</statement>
+            <statement>Und viele Stände.</statement>
+            <statement>An den Ständen können die Besucher viele verschiedene Sachen kaufen.</statement>
+            <statement>Zum Beispiel Essen aus verschiedenen Ländern.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Lkw umgekippt</subheadline>
+            <explanation_marker>
+               <statement>Auf der A2 war ein Unfall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">A2 ist die Abkürzung für <style_element type="hb">A</style_element>utobahn <style_element type="hb">2</style_element>.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Unfall war in der Nähe von Braunschweig.</statement>
+            <statement>Bei dem Unfall ist ein Lkw umgekippt.</statement>
+            <statement>Der Fahrer von dem Lkw wurde bei dem Unfall leicht verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Auf dem Lkw waren Container.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Diese Container sind bei dem Unfall von dem Lkw gefallen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Jetzt müssen Arbeiter den Lkw und die Container von der Straße räumen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und vielleicht müssen die Arbeiter auch die Straße reparieren.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Der Unfall hat nämlich vielleicht Schäden an der Straße gemacht.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <explanation_marker>
+               <statement>Nach dem Unfall hat die Polizei einen Teil von der A2 gesperrt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>
+                        <style_element type="hi">Das heißt:</style_element>
+                     </headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Auf dem Teil von der A2 darf <style_element type="hb">kein</style_element> Auto fahren.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Niedersachsen: Feuer zerstört Lager·halle</subheadline>
+            <explanation_marker>
+               <statement>In Rastede war ein Feuer.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Rastede ist ein Ort in der Nähe von Oldenburg.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Das Feuer war in einer Lager·halle.</statement>
+            <statement>Und das Feuer war in der Nacht.</statement>
+            <statement>Bei dem Feuer wurde ein Feuerwehr·mann leicht verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Lager·halle war von einer Fabrik.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Ein Mitarbeiter von der Fabrik hat das Feuer gesehen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und der Mitarbeiter von der Fabrik hat die Feuerwehr angerufen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>160 Feuerwehr·leute haben das Feuer gelöscht.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Aber das Feuer hat die Lager·halle zerstört.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Feuer war sehr groß.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und bei dem Feuer war viel Rauch.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dieser Rauch war gefährlich.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb mussten einige Menschen ihre Wohn·häuser verlassen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Diese Wohn·häuser waren in der Nähe von dem Feuer.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum war das Feuer in der Lager·halle?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

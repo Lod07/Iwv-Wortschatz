@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-10-02_14-30_775.xml">
+   <title>Mehr Nachrichten vom 02.10.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-10-02_14-30</vdate>
+   <resources>
+      <resource id="1" name="2018-10-02_14-30_775-full.png" type="screenshot" url="2018-10-02_14-30_775-full.png"/>
+      <resource id="2" name="2018-10-02_14-30_775_plaintext.txt" type="plaintext" url="2018-10-02_14-30_775_plaintext.txt"/>
+      <resource id="3" name="2018-10-02_14-30_775_quellcode.txt" type="sourcecode" url="2018-10-02_14-30_775_quellcode.txt"/>
+      <resource id="4" name="2018-10-02_14-30_775.docx" type="formatedText" url="2018-10-02_14-30_775.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 02.10.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Frau verurteilt</subheadline>
+               <statement>In Lübeck war ein Prozess.</statement>
+               <statement>Bei diesem Prozess hat das Gericht eine Frau verurteilt.</statement>
+               <statement>Das Gericht hat gesagt:</statement>
+               <explanation_marker>
+                  <statement>Die Frau hat als Kassiererin gearbeitet.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Kassiererin arbeitet in einem Geschäft an der Kasse.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Und die Frau hat 450.000 Euro gestohlen.</statement>
+               <explanation_marker>
+                  <statement>Die Frau hat im Prozess ein Geständnis gemacht.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement><style_element type="hi">Die Frau hat gesagt:</style_element></statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <headword><style_element type="hi">Ja.</style_element></headword>
+                              </speech>
+                              <speech id="2">
+                                 <statement><style_element type="hi">Ich habe das Geld gestohlen.</style_element></statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Deshalb verurteilen wir die Frau zu einer Strafe auf Bewährung.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Die Frau muss <style_element type="hb">nicht</style_element> ins Gefängnis.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Aber die Frau darf <style_element type="hb">nichts</style_element> Verbotenes mehr machen.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <question><style_element type="hi">Die Frau macht trotzdem etwas Verbotenes?</style_element></question>
+                     </explanation>
+                     <explanation id="5">
+                        <statement><style_element type="hi">Dann muss die Frau sofort ins Gefängnis.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Niedersachsen: Wichtige Spielerin verlässt Wolfsburg</subheadline>
+               <explanation_marker>
+                  <statement>Eine wichtige Fußball·spielerin verlässt den VfL Wolfsburg.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Der VfL Wolfsburg spielt in der 1. Bundes·liga.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Diese wichtige Spielerin ist Nilla Fischer.</statement>
+               <explanation_marker>
+                  <statement>Nilla Fischer kommt aus Schweden.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Schweden ist ein Land in Nord·europa.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Nilla Fischer spielt in der Abwehr.</statement>
+               <statement>Nilla Fischer spielt seit 2013 für den VfL Wolfsburg.</statement>
+               <explanation_marker>
+                  <statement>Und Nilla Fischer ist die Kapitänin vom VfL Wolfsburg.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Kapitänin ist die wichtigste Spielerin von einer Mannschaft.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Eine Kapitänin hat meistens viel Erfahrung.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und eine Kapitänin ist meistens sehr gut.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Nilla Fischer hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ich habe mich in Wolfsburg sehr wohl gefühlt.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber jetzt will ich zurück nach Schweden.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>In Schweden ist nämlich meine Familie.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und mein Kind soll bei meiner Familie aufwachsen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-24" url="2018-08-17_15-00_792.xml">
+   <title>Bus umgekippt: Mehrere Verletzte</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-08-17_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-08-17_15-00_792-full.png" type="screenshot" url="2018-08-17_15-00_792-full.png"/>
+      <resource id="2" name="2018-08-17_15-00_792_plaintext.txt" type="plaintext" url="2018-08-17_15-00_792_plaintext.txt"/>
+      <resource id="3" name="2018-08-17_15-00_792_quellcode.txt" type="sourcecode" url="2018-08-17_15-00_792_quellcode.txt"/>
+      <resource id="4" name="2018-08-17_15-00_792.docx" type="formatedText" url="2018-08-17_15-00_792.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Bus umgekippt: Mehrere Verletzte</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In der Nähe von Linstow war ein schwerer Unfall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Linstow ist ein Ort in Mecklenburg-Vorpommern.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Der Unfall war auf der A19.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">A19 ist die Abkürzung für Auto·bahn 19.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Unfall ist ein Bus umgekippt.</statement>
+            <statement>16 Menschen wurden verletzt.</statement>
+            <statement>Mehrere von diesen 16 Menschen wurden schwer verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <explanation_marker>
+                  <statement>Der Bus ist ein Fern·bus.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Mit einem Fern·bus können Menschen lange Strecken fahren.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Zum Beispiel in andere Länder.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Der Fern·bus ist aus Stockholm gekommen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Stockholm ist die Haupt·stadt von Schweden.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Schweden ist ein Land in Nord·europa.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Und der Fern·bus wollte nach Berlin fahren.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Berlin ist die Haupt·stadt von Deutschland.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>In dem Fern·bus waren 63 Menschen.</statement>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Der Fern·bus ist von der Straße abgekommen.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Der Fahrer von dem Fern·bus ist <style_element type="hb">ohne</style_element> Absicht von der Straße gefahren.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dann ist der Fern·bus in einen Graben gefahren.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und dann ist der Fern·bus umgekippt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <statement>Arbeiter mussten den umgekippten Fern·bus wegräumen.</statement>
+            <explanation_marker>
+               <statement>Deshalb hat die Polizei die A19 gesperrt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Auf der A19 durften <style_element type="hb">keine</style_element> Autos fahren.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="5">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt will die Polizei wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum ist der Fern·bus von der Straße abgekommen?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

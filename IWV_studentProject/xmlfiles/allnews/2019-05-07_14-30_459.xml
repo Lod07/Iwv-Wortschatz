@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-26" url="2019-05-07_14-30_459.xml">
+   <title>Feuerwehr·einsatz auf der Elbe</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-05-07_14-30</vdate>
+   <resources>
+      <resource id="1" name="2019-05-07_14-30_459-full.png" type="screenshot" url="2019-05-07_14-30_459-full.png"/>
+      <resource id="2" name="2019-05-07_14-30_459_plaintext.txt" type="plaintext" url="2019-05-07_14-30_459_plaintext.txt"/>
+      <resource id="3" name="2019-05-07_14-30_459_quellcode.txt" type="sourcecode" url="2019-05-07_14-30_459_quellcode.txt"/>
+      <resource id="4" name="2019-05-07_14-30_459.docx" type="formatedText" url="2019-05-07_14-30_459.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Feuerwehr·einsatz auf der Elbe</headline>
+      <sections>
+         <section id="1">
+            <statement>In der Nähe von Hamburg war ein besonderer Feuerwehr·einsatz.</statement>
+            <explanation_marker>
+               <statement>Dieser Feuerwehr·einsatz war auf der Elbe.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die Elbe ist ein großer Fluss.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Elbe fließt zum Beispiel durch Hamburg.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und die Elbe fließt in die Nordsee.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei diesem Feuerwehr·einsatz musste die Feuerwehr einen verletzten Mann holen.</statement>
+            <statement>Der verletzte Mann ist 74 Jahre alt.</statement>
+            <explanation_marker>
+               <statement>Und der verletzte Mann war auf einem Kreuz·fahrt·schiff.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Auf einem Kreuz·fahrt·schiff machen Menschen Urlaub.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In diesem Urlaub lernen die Menschen viele Orte kennen.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Ein Kreuz·fahrt·schiff fährt nämlich zu vielen Orten.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Mann ist auf dem Kreuz·fahrt·schiff von einer Treppe gestürzt.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und der Mann hat sich schwer verletzt.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb musste der Mann in ein Kranken·haus.</statement>
+                     </speech>
+                     <speech id="4"> 
+                        <statement>Aber das Kreuz·fahrt·schiff konnte <style_element type="hb">nicht</style_element> umdrehen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Und das Kreuz·fahrt·schiff konnte <style_element type="hb">nicht</style_element> anhalten.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Deshalb mussten wir mit einem Boot zu dem Kreuz·fahrt·schiff fahren.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Und wir mussten den Mann während der Fahrt von dem Kreuz·fahrt·schiff holen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Dieser Einsatz war sehr besonders.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>So ein Einsatz ist nämlich sehr selten.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und so ein Einsatz ist schwierig.</statement>
+                     </speech>
+                     <speech id="4"> 
+                        <statement>Aber wir hatten Glück.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Das Wetter war nämlich gut.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Und auf der Elbe waren nur wenige Wellen.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Deshalb konnten wir mit unserem Boot gut zu dem Kreuz·fahrt·schiff fahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>               
+         </section>
+         <section id="3">
+            <statement>Jetzt ist der verletzte Mann in einem Kranken·haus.</statement>
+            <statement>Und das Kreuz·fahrt·schiff ist weitergefahren.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

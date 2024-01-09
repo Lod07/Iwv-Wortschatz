@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-23" url="2018-08-01_15-00_756.xml">
+   <title>Großes Fest in Hannover</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-08-01_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-08-01_15-00_756-full.png" type="screenshot" url="2018-08-01_15-00_756-full.png"/>
+      <resource id="2" name="2018-08-01_15-00_756_plaintext.txt" type="plaintext" url="2018-08-01_15-00_756_plaintext.txt"/>
+      <resource id="3" name="2018-08-01_15-00_756_quellcode.txt" type="sourcecode" url="2018-08-01_15-00_756_quellcode.txt"/>
+      <resource id="4" name="2018-08-01_15-00_756.docx" type="formatedText" url="2018-08-01_15-00_756.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Großes Fest in Hannover</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Hannover ist ein großes Fest.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Hannover ist die Haupt·stadt von Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieses Fest ist am Maschsee.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Der Maschsee ist ein See in Hannover.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und dieses Fest heißt Maschsee·fest.</statement>
+            <statement>Das Maschsee·fest ist jedes Jahr.</statement>
+            <statement>In diesem Jahr beginnt das Maschsee·fest am 1. August.</statement>
+            <statement>Und das Maschsee·fest endet am 19. August.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Viele Veranstaltungen</subheadline>
+               <statement>Beim Maschsee·fest sind viele Veranstaltungen.</statement>
+               <statement>Beim Maschsee·fest sind zum Beispiel viele Stände.</statement>
+               <statement>An diesen Ständen können die Besucher verschiedene Sachen kaufen.</statement>
+               <statement>Zum Beispiel Essen aus verschiedenen Ländern.</statement>
+               <statement>Beim Maschsee·fest sind auch Musik·konzerte.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <headword>Zum Beispiel:</headword>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <statement>• Von der Sängerin Stefanie Heinzmann.</statement>
+                     </enumeration>
+                     <enumeration id="2">
+                        <statement>• Von der Sängerin Namika.</statement>
+                     </enumeration>
+                     <enumeration id="3">
+                        <explanation_marker>
+                           <statement>• Und von der Band Marquess.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Eine Band ist eine Musik·gruppe.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Beim Maschsee·fest sind auch viele Sachen für Kinder.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Beim Maschsee·fest können Kinder zum Beispiel:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Spielen.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <headword>• Tanzen.</headword>
+                     </enumeration>
+                     <enumeration id="3">
+                        <headword>• Und basteln.</headword>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+         </section>
+         <section id="3">
+            <statement>Viele Menschen besuchen jedes Jahr das Maschsee·fest.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der Chef vom Maschsee·fest hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Im vergangenen Jahr haben 1,6 Millionen Menschen das Maschsee·fest besucht.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Aber im vergangenen Jahr hat es geregnet.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Vielleicht besuchen in diesem Jahr noch mehr Menschen das Maschsee·fest.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

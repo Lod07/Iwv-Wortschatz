@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-03" url="2019-08-23_13-30_278.xml">
+   <title>Mehr Nachrichten vom 23.08.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-08-23_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-08-23_13-30_278-full.png" type="screenshot" url="2019-08-23_13-30_278-full.png"/>
+      <resource id="2" name="2019-08-23_13-30_278_plaintext.txt" type="plaintext" url="2019-08-23_13-30_278_plaintext.txt"/>
+      <resource id="3" name="2019-08-23_13-30_278_quellcode.txt" type="sourcecode" url="2019-08-23_13-30_278_quellcode.txt"/>
+      <resource id="4" name="2019-08-23_13-30_278.docx" type="formatedText" url="2019-08-23_13-30_278.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 23.08.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachen: Fach·leute untersuchen Flugzeug nach Absturz</subheadline>
+            <statement>In der Nähe von Vechta ist ein kleines Flugzeug abgestürzt.</statement>
+            <statement>Dieser Absturz war auf einem Feld.</statement>
+            <statement>In dem kleinen Flugzeug war ein Mann.</statement>
+            <statement>Der Mann war 72 Jahre alt.</statement>
+            <statement>Und der Mann ist bei dem Absturz gestorben.</statement>
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <statement>Und Fach·leute untersuchen das kleine Flugzeug.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum ist das kleine Flugzeug abgestürzt?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Untersuchungen von dem kleinen Flugzeug dauern 8 Wochen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Nach den 8 Wochen wissen wir vielleicht:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>War das kleine Flugzeug kaputt?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker> 
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Mann soll Frau getötet haben</subheadline>
+            <explanation_marker>
+               <statement>Die Polizei hat in Tornesch einen Mann festgenommen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Tornesch ist in der Nähe von Pinneberg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei glaubt nämlich:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Mann hat eine Frau getötet.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Die Frau war 36 Jahre alt.</statement>
+            <explanation_marker>
+               <statement>Und die Frau war die Stief·tochter von dem Mann.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Stief·tochter heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Frau war <style_element type="hb">nicht</style_element> die richtige Tochter von dem Mann.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Aber der Mann war mit der Mutter von der Frau verheiratet.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Jetzt ist der Mann in Untersuchungs·haft.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bei einer Untersuchungs·haft ist ein Mensch im Gefängnis.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und die Polizei muss beweisen:</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Der Mensch hat ein Verbrechen gemacht.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Dann muss der Mensch vielleicht vor Gericht.</style_element></statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement><style_element type="hi">Und dann bekommt der Mensch vielleicht eine Strafe.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

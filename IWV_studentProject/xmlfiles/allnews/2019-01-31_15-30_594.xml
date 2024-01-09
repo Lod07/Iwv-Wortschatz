@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-10" url="2019-01-31_15-30_594.xml">
+   <title>Schlechte Luft in Kiel</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-01-31_15-30</vdate>
+   <resources>
+      <resource id="1" name="2019-01-31_15-30_594-full.png" type="screenshot" url="2019-01-31_15-30_594-full.png"/>
+      <resource id="2" name="2019-01-31_15-30_594_plaintext.txt" type="plaintext" url="2019-01-31_15-30_594_plaintext.txt"/>
+      <resource id="3" name="2019-01-31_15-30_594_quellcode.txt" type="sourcecode" url="2019-01-31_15-30_594_quellcode.txt"/>
+      <resource id="4" name="2019-01-31_15-30_594.docx" type="formatedText" url="2019-01-31_15-30_594.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Schlechte Luft in Kiel</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>An einigen Stellen in Kiel ist schlechte Luft.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Kiel ist die Haupt·stadt von Schleswig-Holstein.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Besonders schlechte Luft ist an einer großen Straße.</statement>
+            <statement>Diese Straße ist der Theodor-Heuss-Ring.</statement>
+            <explanation_marker>
+               <statement>In der schlechten Luft ist ein bestimmter Schad·stoff.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Schad·stoffe sind gefährliche Stoffe.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Manche Schad·stoffe machen zum Beispiel die Luft schmutzig.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Oder das Meer.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Deshalb sind Schad·stoffe schlecht für die Natur.</style_element></statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement><style_element type="hi">Und für die Menschen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Schad·stoff ist Stickstoff·dioxid.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Stickstoff·dioxid</subheadline>
+               <explanation_marker>
+                  <statement>Stickstoff·dioxid kommt aus Autos mit Diesel·motoren.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Diesel ist ein Kraft·stoff.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <question>Ist zu viel Stickstoff·dioxid in der Luft?</question>
+               <statement>Dann können Menschen krank werden.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Deshalb sagen die Behörden:</statement>
+                  </speech_intro>
+                  <speeches> 
+                     <speech id="1">
+                        <statement>Es darf <style_element type="hb">nicht</style_element> zu viel Stickstoff·dioxid in der Luft sein.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Und deshalb untersuchen die Behörden die Luft.</statement>
+         </section>
+         <section id="3">
+            <statement>Jetzt hat eine Behörde die Luft in vielen Städten untersucht.</statement>
+            <statement>Diese Behörde ist das Umwelt·bundes·amt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Umwelt·bundes·amt hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In Kiel ist sehr viel Stickstoff·dioxid in der Luft.</statement>
+                  </speech>
+                  <speech id="2">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement>Nur in 2 Städten in Deutschland ist mehr Stickstoff·dioxid in der Luft:</statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword>• In Stuttgart</headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <statement>• Und in München.</statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <statement>Auch in Hamburg ist viel Stickstoff·dioxid in der Luft.</statement>
+            <statement>Deshalb hat Hamburg 2 Straßen für Autos mit Diesel·motoren gesperrt.</statement>
+         </section>
+         <section id="5">
+            <statement><style_element type="hb">Zu dieser Sperrung gibt es auch einen Text in Leichter Sprache.</style_element></statement>
+            <question><style_element type="hb">Sie möchten diesen Text lesen?</style_element></question>
+            <statement>
+               <ref>
+                  <style_element type="hb">Dann klicken Sie <style_element type="hu">hier</style_element>.</style_element> 
+               </ref>
+            </statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

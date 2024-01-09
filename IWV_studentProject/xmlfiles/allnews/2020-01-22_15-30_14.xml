@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-24" url="2020-01-22_15-30_14.xml">
+   <title>Wahl in Hamburg: NDR stellt Kandidaten vor</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-01-22_15-30</vdate>
+   <resources>
+      <resource id="1" name="2020-01-22_15-30_14-full.png" type="screenshot" url="2020-01-22_15-30_14-full.png"/>
+      <resource id="2" name="2020-01-22_15-30_14_plaintext.txt" type="plaintext" url="2020-01-22_15-30_14_plaintext.txt"/>
+      <resource id="3" name="2020-01-22_15-30_14_quellcode.txt" type="sourcecode" url="2020-01-22_15-30_14_quellcode.txt"/>
+      <resource id="4" name="2020-01-22_15-30_14.docx" type="formatedText" url="2020-01-22_15-30_14.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Wahl in Hamburg: NDR stellt Kandidaten vor</headline>
+      <sections>
+         <section id="1">
+            <statement>Am 23. Februar ist in Hamburg eine Wahl.</statement>
+            <explanation_marker>
+               <statement>Bei dieser Wahl wählen die Menschen eine neue Bürgerschaft.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die Bürgerschaft ist das Parlament von Hamburg.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In der Bürgerschaft von Hamburg arbeiten viele Politiker.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Diese Politiker entscheiden zum Beispiel:</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <question><style_element type="hi">Wofür gibt Hamburg Geld aus?</style_element></question>
+                           </explanation>
+                           <explanation id="2">
+                              <question><style_element type="hi">Und welche Gesetze hat Hamburg?</style_element></question>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei der Wahl sind 733 Kandidaten.</statement>
+            <statement>Diese Kandidaten sind von verschiedenen Parteien.</statement>
+            <statement>Und diese Kandidaten wollen in die neue Bürgerschaft.</statement>
+         </section>
+         <section id="2">
+            <statement>Für die Wahl macht der NDR eine besondere Vorstellung von den Kandidaten.</statement>
+            <statement>Diese besondere Vorstellung heißt Kandidaten-Check.</statement>
+            <statement>Dieser Kandidaten-Check ist im Internet.</statement>
+            <statement>Für diesen Kandidaten-Check haben viele Kandidaten Videos aufgenommen.</statement>
+            <statement>Diese Videos sind 2 Minuten lang.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>In diesen Videos beantworten die Kandidaten 3 Fragen:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <question>• Warum sollen die Hamburger Sie wählen? </question>
+                  </enumeration>
+                  <enumeration id="2">
+                     <question>• Für welche Themen wollen Sie sich einsetzen?</question>
+                  </enumeration>
+                  <enumeration id="3">
+                     <question>• Warum sollen die Menschen in Hamburg zur Wahl gehen?</question>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Die Menschen können sich diese Videos anschauen.</statement>
+            <statement>Und die Menschen können zum Beispiel Kandidaten in dem Kandidaten-Check suchen.</statement>
+            <statement>Dafür können die Menschen bestimmte Dinge angeben.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <explanation_marker>
+                        <headword>• Ihren Wahl·kreis.</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Ein Wahl·kreis ist ein Teil von einem Wahl·gebiet.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Bestimmte Themen.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <statement>• Und die Partei von den Kandidaten.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="3">
+         <question>Sie wollen sich den Kandidaten-Check ansehen?</question>
+            <statement>
+               <ref>
+                  <style_element type="hu">Dann klicken Sie hier.</style_element>
+               </ref>
+            </statement>
+            <statement>Der Kandidaten-Check ist aber <style_element type="hb">nicht</style_element> in Leichter Sprache.</statement> 
+         </section>
+      </sections>
+   </content>
+</annotation>

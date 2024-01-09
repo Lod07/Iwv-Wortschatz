@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-18" url="2020-02-05_15-00_152.xml">
+   <title>Mehr Nachrichten vom 05.02.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-02-05_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-02-05_15-00_152-full.png" type="screenshot" url="2020-02-05_15-00_152-full.png"/>
+      <resource id="2" name="2020-02-05_15-00_152_plaintext.txt" type="plaintext" url="2020-02-05_15-00_152_plaintext.txt"/>
+      <resource id="3" name="2020-02-05_15-00_152_quellcode.txt" type="sourcecode" url="2020-02-05_15-00_152_quellcode.txt"/>
+      <resource id="4" name="2020-02-05_15-00_152.docx" type="formatedText" url="2020-02-05_15-00_152.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 05.02.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Großer Schaden auf Straße</subheadline>
+            <statement>In Hamburg hat die Polizei eine Straße gesperrt.</statement>
+            <statement>Diese Straße ist im Stadt·teil Harburg.</statement>
+            <statement>Und diese Straße heißt Neuländer Straße.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Im Boden unter der Straße ist eine Wasser·leitung kaputtgegangen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dann ist aus der kaputten Wasser·leitung viel Wasser gekommen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dieses Wasser hat die Straße überschwemmt.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und dieses Wasser hat einen großen Schaden auf der Straße gemacht.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Auf der Straße ist jetzt ein Loch.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Dieses Loch ist 2 Meter groß.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Jetzt müssen Arbeiter den Schaden auf der Straße reparieren.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die Reparatur dauert wahrscheinlich einige Tage.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb ist die Straße wahrscheinlich noch einige Tage lang gesperrt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Messe für Freizeit</subheadline>
+            <explanation_marker>
+               <statement>In Hamburg hat am Mittwoch eine Messe begonnen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Messe ist eine Ausstellung.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Bei einer Messe zeigen Firmen ihre neuen Produkte.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Zum Beispiel neue Autos.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Und Fach·leute erklären diese neuen Produkte.</style_element></statement>                     
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Messe ist in den Messe·hallen.</statement>
+            <explanation_marker>
+               <statement>Und diese Messe heißt oohh!.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Oohh! ist die Abkürzung für <style_element type="hb">O</style_element>ut <style_element type="hb">o</style_element>f <style_element type="hb">H</style_element>ome <style_element type="hb">H</style_element>amburg.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Out of Home ist englisch.</style_element></statement>                     
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und Out of Home heißt außer Haus.</style_element></statement>                     
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Messe ist für Reisen.</statement>
+            <statement>Und für Freizeit.</statement>
+            <statement>Auf dieser Messe zeigen Firmen zum Beispiel Fahrräder.</statement>
+            <explanation_marker>
+               <statement>Und Drohnen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Drohne ist ein Flug·gerät.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In diesem Flug·gerät ist <style_element type="hb">kein</style_element> Mensch.</style_element></statement>
+                  </explanation>
+                   <explanation id="3">
+                     <statement><style_element type="hi">Dieses Flug·gerät können Menschen mit einer Fern·bedienung steuern.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Und an diesem Flug·gerät können Menschen zum Beispiel eine Kamera befestigen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und auf dieser Messe gibt es zum Beispiel Vorträge über Reisen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Bei einem Vortrag hält ein Mensch eine Rede.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Diese Rede ist zu einem bestimmten Thema.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Messe ist bis Sonntag.</statement>
+            <statement>Und die Messe ist jedes Jahr.</statement>
+            <statement>Im vergangenen Jahr waren 75.000 Menschen bei der Messe.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

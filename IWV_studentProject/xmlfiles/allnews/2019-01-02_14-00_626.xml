@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-29" url="2019-01-02_14-00_626.xml">
+   <title>Sturm in Nord·deutschland</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-01-02_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-01-02_14-00_626-full.png" type="screenshot" url="2019-01-02_14-00_626-full.png"/>
+      <resource id="2" name="2019-01-02_14-00_626_plaintext.txt" type="plaintext" url="2019-01-02_14-00_626_plaintext.txt"/>
+      <resource id="3" name="2019-01-02_14-00_626_quellcode.txt" type="sourcecode" url="2019-01-02_14-00_626_quellcode.txt"/>
+      <resource id="4" name="2019-01-02_14-00_626.docx" type="formatedText" url="2019-01-02_14-00_626.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Sturm in Nord·deutschland</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Nord·deutschland war ein Sturm.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bei einem Sturm weht sehr starker Wind.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Deshalb sind manche Stürme gefährlich.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Sturm hat viele Schäden gemacht.</statement>
+            <statement>Bei dem Sturm hat es auch Unfälle gegeben.</statement>
+            <statement>Bei diesen Unfällen wurden 3 Menschen verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Unfälle mit Bäumen</subheadline>
+               <statement>Bei dem Sturm sind viele Bäume umgefallen.</statement>
+               <statement>Einige von diesen Bäumen sind auf Straßen gefallen.</statement>
+               <statement>Oder auf Autos.</statement>
+               <statement>Deshalb waren viele Feuerwehr·leute im Einsatz.</statement>
+               <statement>Die Feuerwehr·leute mussten nämlich die Bäume wegräumen.</statement>
+               <statement>Bei dem Sturm hat es auch Unfälle gegeben.</statement>
+               <statement>Bei den Unfällen sind Auto·fahrer zum Beispiel gegen umgefallene Bäume gefahren.</statement>
+               <statement>Diese Unfälle waren in Mecklenburg-Vorpommern.</statement>
+               <statement>Bei diesen Unfällen wurden 3 Menschen verletzt.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Züge fahren nicht</subheadline>
+            <statement>Einige Züge konnten bei dem Sturm <style_element type="hb">nicht</style_element> fahren.</statement>
+            <explanation_marker>
+               <statement>Zum Beispiel in Wismar.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Wismar ist eine Stadt in Mecklenburg-Vorpommern.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker> 
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Deutsche Bahn hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Sturm hat viele Bäume an den Bahn·gleisen beschädigt.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Wir haben gedacht:</statement>
+                  </speech>
+                  <speech id="3">
+                     <question>Ein beschädigter Baum fällt auf die Bahn·gleise?</question>
+                  </speech>
+                  <speech id="4">
+                     <statement>Dann kann ein Zug gegen den Baum fahren.</statement>
+                  </speech>
+                  <speech id="5">
+                     <explanation_marker>
+                        <statement>Deshalb haben wir einige Zug·strecken gesperrt.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Auf diesen Zug·strecken durften <style_element type="hb">keine</style_element> Züge mehr fahren.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Arbeiter haben die beschädigten Bäume abgesägt.</statement>
+            <statement>Dann konnten die Züge wieder fahren.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

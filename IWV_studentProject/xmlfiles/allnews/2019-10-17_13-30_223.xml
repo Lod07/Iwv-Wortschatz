@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2019-10-17_13-30_223.xml">
+   <title>Mehr Nachrichten vom 17.10.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-17_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-10-17_13-30_223-full.png" type="screenshot" url="2019-10-17_13-30_223-full.png"/>
+      <resource id="2" name="2019-10-17_13-30_223_plaintext.txt" type="plaintext" url="2019-10-17_13-30_223_plaintext.txt"/>
+      <resource id="3" name="2019-10-17_13-30_223_quellcode.txt" type="sourcecode" url="2019-10-17_13-30_223_quellcode.txt"/>
+      <resource id="4" name="2019-10-17_13-30_223.docx" type="formatedText" url="2019-10-17_13-30_223.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 17.10.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: 4 Verletzte bei Unfall</subheadline>
+            <explanation_marker>
+               <statement>In der Nähe von Schwentinental war ein Unfall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Schwentinental ist in der Nähe von Kiel.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Der Unfall war auf der B76.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">B76 ist die Abkürzung für <style_element type="hb">B</style_element>undes·straße <style_element type="hb">76</style_element>.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Unfall wurden 4 Menschen verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>An dem Unfall waren 4 Autos beteiligt.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Ein Mann wurde bei dem Unfall leicht verletzt.</statement>
+                  </speech>
+                  <speech id="3">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement>Und 3 Menschen wurden schwer verletzt:</statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword>• Ein Mann.</headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword>• Eine Frau.</headword>
+                           </enumeration>
+                           <enumeration id="3">
+                              <statement>• Und das Baby von der Frau.</statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>                    
+                  </speech>
+               </speeches>
+            </speech_marker>
+         <statement>Jetzt ermittelt die Polizei.</statement>
+         <speech_marker>
+            <speech_intro>
+               <statement>Die Polizei will nämlich wissen:</statement>
+            </speech_intro>
+            <speeches>
+               <speech id="1">
+                  <question>Wer hat Schuld an dem Unfall?</question>
+               </speech>
+            </speeches>
+         </speech_marker>           
+         </section>
+         <style_element type="line"/>
+         <section id="2">
+            <subheadline>Niedersachsen: Mann stirbt nach Messer·angriff</subheadline>
+            <statement>In Uelzen war ein Angriff.</statement>
+            <statement>Bei diesem Angriff hat ein Mann einen anderen Mann getötet.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die 2 Männer haben sich gestritten.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dann hat ein Mann den anderen Mann mit einem Messer angegriffen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und der Mann hat den anderen Mann schwer verletzt.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Die Polizei hat den Mann festgenommen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Und der andere Mann ist in ein Krankenhaus gekommen.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Jetzt ist der andere Mann in dem Krankenhaus gestorben.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>           
+         </section>
+         <style_element type="line"/>
+      </sections>
+   </content>
+</annotation>

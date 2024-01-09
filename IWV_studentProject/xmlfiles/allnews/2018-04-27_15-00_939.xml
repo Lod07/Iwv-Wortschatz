@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-30" url="2018-04-27_15-00_939.xml">
+   <title>Schiffs·taufe in Hamburg</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-04-27_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-04-27_15-00_939-full.png" type="screenshot" url="2018-04-27_15-00_939-full.png"/>
+      <resource id="2" name="2018-04-27_15-00_939_plaintext.txt" type="plaintext" url="2018-04-27_15-00_939_plaintext.txt"/>
+      <resource id="3" name="2018-04-27_15-00_939_quellcode.txt" type="sourcecode" url="2018-04-27_15-00_939_quellcode.txt"/>
+      <resource id="4" name="2018-04-27_15-00_939.docx" type="formatedText" url="2018-04-27_15-00_939.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Schiffs·taufe in Hamburg</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Hamburg war eine Schiffs·taufe.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Eine Schiffs·taufe ist die Taufe von einem Schiff.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Es gibt eine Feier für das Schiff.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Bei dieser Feier sind viele Menschen.</style_element></statement>
+                           </explanation>
+                           <explanation id="4">
+                              <statement><style_element type="hi">Und der Besitzer gibt dem Schiff einen Namen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Schiffs·taufe war bei einer neuen Fähre.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Fähre ist ein besonderes Schiff.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Eine Fähre transportiert zum Beispiel Menschen.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <headword><style_element type="hi">Oder Autos.</style_element></headword>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die neue Fähre heißt jetzt Halunder Jet.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Neue Fähre nach Helgoland</subheadline>
+               <explanation_marker>
+                  <statement>Die neue Fähre ist ein Katamaran.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Katamaran ist ein besonderes Schiff.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Ein Katamaran hat 2 Rümpfe.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Ein Rumpf ist ein Teil von einem Schiff.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Mit diesem Teil schwimmt ein Schiff im Wasser.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und ein Katamaran ist sehr leicht.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Deshalb kann ein Katamaran sehr schnell fahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <section id="3">
+            <explanation_marker>
+               <statement>Die neue Fähre ist ein Passagier·schiff.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die neue Fähre transportiert Menschen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die neue Fähre fährt zwischen Hamburg und Helgoland.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Helgoland ist eine Insel.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Helgoland ist in der Nordsee.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und Helgoland gehört zu Schleswig-Holstein.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="4">
+            <subheadline>680 Menschen können mitfahren</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der Besitzer von der neuen Fähre hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Viele Menschen sind mit der alten Fähre gefahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber jetzt freuen wir uns auf die neue Fähre.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Die neue Fähre ist größer.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb können mehr Menschen mit der neuen Fähre fahren.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Auf der neuen Fähre können 680 Menschen mitfahren.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Und die neue Fähre hat eine bessere Ausstattung.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Die neue Fähre hat nämlich zum Beispiel einen Fahrstuhl.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-10" url="2019-01-17_14-00_614.xml">
+   <title>Mehr Nachrichten vom 17.01.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-01-17_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-01-17_14-00_614-full.png" type="screenshot" url="2019-01-17_14-00_614-full.png"/>
+      <resource id="2" name="2019-01-17_14-00_614_plaintext.txt" type="plaintext" url="2019-01-17_14-00_614_plaintext.txt"/>
+      <resource id="3" name="2019-01-17_14-00_614_quellcode.txt" type="sourcecode" url="2019-01-17_14-00_614_quellcode.txt"/>
+      <resource id="4" name="2019-01-17_14-00_614.docx" type="formatedText" url="2019-01-17_14-00_614.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 17.01.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Firma in Emden insol·vent</subheadline>
+               <explanation_marker>
+                  <statement>Eine große Firma ist insolvent.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Insol·vent heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2"> 
+                        <statement><style_element type="hi">Eine Firma hat <style_element type="hb">kein</style_element> Geld mehr.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Deshalb kann die Firma zum Beispiel ihre Arbeiter <style_element type="hb">nicht</style_element> mehr bezahlen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Die große Firma ist in Emden.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Emden ist eine Stadt in Niedersachsen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker> 
+               <statement>Die große Firma sind die Nordsee·werke.</statement>
+               <statement>In den Nordsee·werken bauen Arbeiter Schiffe.</statement>
+               <statement>Die Nordsee·werke sind schon zum 4. Mal insol·vent.</statement>
+               <statement>Noch weiß <style_element type="hb">kein</style_element> Mensch:</statement>
+               <question>Müssen die Nordsee·werke jetzt vielleicht ganz schließen?</question>
+               <statement>Dann verlieren die Arbeiter ihre Arbeit.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Schiff bleibt stecken</subheadline>
+               <explanation_marker>
+                  <statement>In der Ostsee vor Warnemünde hat ein Schiff einen Unfall gehabt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Warne·münde ist eine Stadt in Mecklenburg-Vorpommern.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker> 
+               <explanation_marker>
+                  <statement>Das Schiff ist in der Ostsee auf Grund gelaufen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Das Schiff ist im Boden stecken geblieben.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und das Schiff konnte <style_element type="hb">nicht</style_element> mehr alleine weiter·fahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Ein anderes Schiff hat dann das Schiff in den Hafen gezogen.</statement>
+               <statement>Noch weiß <style_element type="hb">kein</style_element> Mensch:</statement>
+               <question>Warum ist das Schiff auf Grund gelaufen?</question>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2019-10-28_14-00_202.xml">
+   <title>Wahl in Hannover noch nicht entschieden</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-28_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-10-28_14-00_202-full.png" type="screenshot" url="2019-10-28_14-00_202-full.png"/>
+      <resource id="2" name="2019-10-28_14-00_202_plaintext.txt" type="plaintext" url="2019-10-28_14-00_202_plaintext.txt"/>
+      <resource id="3" name="2019-10-28_14-00_202_quellcode.txt" type="sourcecode" url="2019-10-28_14-00_202_quellcode.txt"/>
+      <resource id="4" name="2019-10-28_14-00_202.docx" type="formatedText" url="2019-10-28_14-00_202.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Wahl in Hannover noch nicht entschieden</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Am Sonntag war in Hannover eine wichtige Wahl.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Hannover ist die Haupt·stadt von Niedersachsen.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dieser Wahl sollten die Menschen einen neuen Bürgermeister wählen.</statement>
+            <statement>10 Politiker wollten Bürgermeister werden.</statement>
+            <statement>Aber <style_element type="hb">keiner</style_element> von diesen 10 Politikern hat die Wahl gewonnen.</statement>
+            <statement>Deshalb geht die Wahl am 10. November weiter.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Die Wahl am 10. November</subheadline>
+            <statement>Die Wahl am 10. November ist eine Stich·wahl.</statement>
+            <statement>Bei dieser Stich·wahl müssen sich die Menschen zwischen 2 Politikern entscheiden.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese 2 Politiker sind:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <explanation_marker>
+                        <headword>• Belit Onay.</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>Belit Onay ist von der Partei Die Grünen.</statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>                    
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <statement>• Und Eckard Scholz.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>Eckard Scholz ist in <style_element type="hb">keiner</style_element> Partei.</statement>
+                           </explanation>
+                           <explanation id="2">
+                              <explanation_marker>
+                                 <statement>Und Eckard Scholz tritt für die CDU an.</statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement>
+                                          <style_element type="hi">CDU ist die Abkürzung für <style_element type="hb">C</style_element>hristlich <style_element type="hb">D</style_element>emokratische <style_element type="hb">U</style_element>nion.</style_element>
+                                       </statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>                             
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>                    
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Belit Onay und Eckard Scholz waren nämlich bei der Wahl am Sonntag am erfolgreichsten.</statement>
+            <headword>Das heißt:</headword>
+            <statement>Die meisten Menschen in Hannover haben Belit Onay oder Eckard Scholz gewählt.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

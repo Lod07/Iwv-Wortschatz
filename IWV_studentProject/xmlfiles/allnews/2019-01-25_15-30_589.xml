@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-10" url="2019-01-25_15-30_589.xml">
+   <title>Unfall in der Ostsee</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-01-25_15-30</vdate>
+   <resources>
+      <resource id="1" name="2019-01-25_15-30_589-full.png" type="screenshot" url="2019-01-25_15-30_589-full.png"/>
+      <resource id="2" name="2019-01-25_15-30_589_plaintext.txt" type="plaintext" url="2019-01-25_15-30_589_plaintext.txt"/>
+      <resource id="3" name="2019-01-25_15-30_589_quellcode.txt" type="sourcecode" url="2019-01-25_15-30_589_quellcode.txt"/>
+      <resource id="4" name="2019-01-25_15-30_589.docx" type="formatedText" url="2019-01-25_15-30_589.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Unfall in der Ostsee</headline>
+      <sections>
+         <section id="1">
+            <statement>In der Ostsee war ein Unfall.</statement>
+            <explanation_marker>
+               <statement>Der Unfall war in der Nähe von Rügen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Rügen ist eine Insel.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Rügen gehört zu Mecklenburg-Vorpommern.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Bei dem Unfall sind 2 Frachter zusammen·gestoßen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Frachter sind Schiffe.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Und Frachter transportieren Güter.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <enumeration_marker>
+                                 <enumeration_intro>
+                                    <statement><style_element type="hi">Güter sind zum Beispiel:</style_element></statement>
+                                 </enumeration_intro>
+                                 <enumerations>
+                                    <enumeration id="1">
+                                       <headword><style_element type="hi">• Autos.</style_element></headword>
+                                    </enumeration>
+                                    <enumeration id="2">
+                                       <headword><style_element type="hi">• Oder Getreide.</style_element></headword>
+                                    </enumeration>
+                                 </enumerations>
+                              </enumeration_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker> 
+            <statement>Die 2 Frachter wurden beschädigt.</statement>
+            <statement>Aber bei dem Unfall wurde <style_element type="hb">kein</style_element> Mensch verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Der eine Frachter ist aus Deutschland.</statement>
+               <statement>Dieser Frachter ist gegen den anderen Frachter gefahren.</statement>
+               <explanation_marker>
+                  <statement>Dieser andere Frachter ist aus Norwegen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Norwegen ist ein Land im Norden von Europa.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker> 
+               <statement>Der Frachter aus Deutschland wurde bei dem Unfall nur <style_element type="hb">leicht</style_element> beschädigt.</statement>
+               <statement>Aber der Frachter aus Norwegen wurde bei dem Unfall <style_element type="hb">stark</style_element> beschädigt.</statement>
+               <statement>In dem Frachter aus Norwegen war nämlich ein Loch.</statement>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Loch ist fast 2 Meter groß.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Durch das Loch ist viel Wasser in den Frachter gelaufen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <explanation_marker>
+                        <statement>Aber Arbeiter konnten das Wasser mit Maschinen abpumpen.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Die Arbeiter haben das Wasser vom Frachter zurück in die Ostsee gepumpt.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und dann sind die 2 Frachter in einen Hafen gefahren.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <explanation_marker>
+               <statement>Dieser Hafen ist in Sassnitz.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Sassnitz ist ein Ort auf Rügen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="4">
+            <subheadline>Frachter werden untersucht</subheadline>
+               <statement>Jetzt untersuchen Fach·leute die 2 Frachter.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Fach·leute wollen nämlich wissen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Wie stark wurden die 2 Frachter beschädigt?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Auch die Polizei untersucht den Unfall.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei will nämlich wissen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Warum ist der eine Frachter gegen den anderen Frachter gefahren?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-29" url="2018-03-09_15-00_946.xml">
+   <title>Hamburg braucht einen neuen Bürger·meister</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-03-09_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-03-09_15-00_946-full.png" type="screenshot" url="2018-03-09_15-00_946-full.png"/>
+      <resource id="2" name="2018-03-09_15-00_946_plaintext.txt" type="plaintext" url="2018-03-09_15-00_946_plaintext.txt"/>
+      <resource id="3" name="2018-03-09_15-00_946_quellcode.txt" type="sourcecode" url="2018-03-09_15-00_946_quellcode.txt"/>
+      <resource id="4" name="2018-03-09_15-00_946.docx" type="formatedText" url="2018-03-09_15-00_946.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Hamburg braucht einen neuen Bürger·meister</headline>
+      <sections>
+         <section id="1">
+            <statement>Deutschland hat bald eine neue Regierung.</statement>
+            <explanation_marker>
+               <statement>Diese Regierung hat viele Minister.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Minister ist ein wichtiger Politiker.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und ein Minister hat bestimmte Aufgaben.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Ein Minister ist nämlich der Chef von einem bestimmten Bereich in der Politik.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword><style_element type="hi">• Wirtschaft.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword><style_element type="hi">• Oder Finanzen.</style_element></headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Einer von den Ministern ist Olaf Scholz.</statement>
+            <explanation_marker>
+               <statement>Olaf Scholz ist der Bürger·meister von Hamburg.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Bürger·meister ist der Chef von einer Stadt.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und Olaf Scholz ist von der SPD.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">SPD ist die Abkürzung für Sozial·demokratische Partei Deutschlands.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Olaf Scholz ist neuer Finanz·minister</subheadline>
+               <explanation_marker>
+                  <statement>Olaf Scholz ist der Finanz·minister von der neuen Regierung.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Ein Finanz·minister kümmert sich um die Finanzen von einem Land.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Finanzen ist ein anderes Wort für Geld.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Der Finanz·minister von der neuen Regierung arbeitet in Berlin.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Berlin ist die Hauptstadt von Deutschland.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Deshalb muss Olaf Scholz Hamburg verlassen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Olaf Scholz hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ich war gerne Bürger·meister von Hamburg.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Die Arbeit als Bürger·meister hat mir nämlich viel Spaß gemacht.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Aber jetzt freue ich mich auf die Arbeit als Finanz·minister.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Hamburg braucht jetzt einen neuen Bürger·meister.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Vielleicht ist Andreas Dressel bald der neue Bürger·meister von Hamburg.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Wer ist Andreas Dressel?</subheadline>
+               <statement>Andreas Dressel ist 43 Jahre alt.</statement>
+               <statement>Andreas Dressel ist verheiratet und hat 3 Kinder.</statement>
+               <statement>Und Andreas Dressel ist ein wichtiger Politiker in Hamburg.</statement>
+               <statement>Andreas Dressel kennt die Politik in Hamburg schon sehr lange.</statement>
+               <explanation_marker>
+                  <statement>Andreas Dressel ist nämlich seit 7 Jahren der Chef von der SPD in der Bürger·schaft.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Die Bürger·schaft ist das Parlament von Hamburg.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">In der Bürger·schaft sind viele Politiker.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <section id="5">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die SPD in Hamburg hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Am 24. März entscheiden wir:</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dieser Politiker von der SPD soll neuer Bürger·meister werden.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

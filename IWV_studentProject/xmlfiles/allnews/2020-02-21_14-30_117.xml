@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2020-02-21_14-30_117.xml">
+   <title>Mehr Nachrichten vom 21.02.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-02-21_14-30</vdate>
+   <resources>
+      <resource id="1" name="2020-02-21_14-30_117-full.png" type="screenshot" url="2020-02-21_14-30_117-full.png"/>
+      <resource id="2" name="2020-02-21_14-30_117_plaintext.txt" type="plaintext" url="2020-02-21_14-30_117_plaintext.txt"/>
+      <resource id="3" name="2020-02-21_14-30_117_quellcode.txt" type="sourcecode" url="2020-02-21_14-30_117_quellcode.txt"/>
+      <resource id="4" name="2020-02-21_14-30_117.docx" type="formatedText" url="2020-02-21_14-30_117.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 21.02.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Nord·deutschland: Demonstrationen nach Anschlag</subheadline>
+            <explanation_marker>
+               <statement>In Hanau hat ein Mann einen Anschlag gemacht.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Hanau ist eine Stadt in Hessen.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Anschlag hat der Mann 10 Menschen getötet.</statement>
+            <statement>Dann hat der Mann sich selbst getötet.</statement>
+            <statement>Nach dem Anschlag sind viele Menschen traurig.</statement>
+            <statement>Und viele Menschen demonstrieren.</statement>
+            <statement>Auch in Nord·deutschland.</statement>
+            <explanation_marker>
+               <statement>Die Demonstrationen sind gegen Ausländer·feindlichkeit.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Ausländer·feindliche Menschen sagen zum Beispiel:</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Wir mögen <style_element type="hb">keine</style_element> Ausländer.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat nämlich gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Mann in Hanau war ausländer·feindlich.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und 9 von den 10 getöteten Menschen waren Ausländer.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Oder die Eltern waren Ausländer.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>In Niedersachsen sind zum Beispiel Demonstrationen:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• In Hannover.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• In Braunschweig.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <headword>• Und in Cuxhaven.</headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Bombe in Kiel entschärft</subheadline>
+            <explanation_marker>
+               <statement>In Kiel haben Fach·leute eine Bombe entschärft.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>
+                        <style_element type="hi">Das heißt:</style_element>
+                     </headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Die Bombe war gefährlich.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Aber die Fach∙leute haben die Bombe ungefährlich gemacht.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Bombe war im Stadt·teil Wik.</statement>
+            <explanation_marker>
+               <statement>Und die Bombe war aus dem 2. Welt·krieg.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Im 2. Welt∙krieg haben Flugzeuge über vielen Städten Bomben abgeworfen.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Auch über Kiel.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Aber manche von den Bomben sind <style_element type="hb">nicht</style_element> explodiert.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement>
+                        <style_element type="hi">Diese Bomben heißen Blind·gänger.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Vor der Entschärfung von der Bombe mussten 2600 Menschen ihre Häuser verlassen.</statement>
+            <explanation_marker>
+               <statement>Und die Polizei hat viele Straßen gesperrt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>
+                        <style_element type="hi">Das heißt:</style_element>
+                     </headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Auf diesen Straßen durften <style_element type="hb">keine</style_element> Autos fahren.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Feuerwehr hat nämlich gesagt:</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>Die Bombe ist gefährlich.</statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hb">Kein</style_element> Mensch darf in der Nähe von der Bombe sein.</statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>Die Bombe kann nämlich explodieren.</statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Nach der Entschärfung von der Bombe durften die Menschen in ihre Häuser zurück.</statement>
+            <statement>Und auf den Straßen durften wieder Autos fahren.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

@@ -6,7 +6,7 @@ dateipfad = 'D:/documents/Uni/MI_M/IWV/git/Iwv-Wortschatz/IWV_studentProject/xml
 unique = []
 unique_final = {}
 
-def getSynonymsWikitionary(token):
+'''def getSynonymsWikitionary(token):
     r = requests.get(f"https://de.wiktionary.org/wiki/{token}")
     if("Dieser Eintrag existiert noch nicht!" in r.text):
         return []
@@ -38,42 +38,66 @@ def getSynonymsWikitionary(token):
             if(index < len(line) - 1):
                 output.append(line[index:])
 
-        return output
+        return output'''
+
+
+def getSynonymsWikitionary(token):
+    r = requests.get(f"https://de.wiktionary.org/wiki/{token}")
+    if "Dieser Eintrag existiert noch nicht!" in r.text:
+        return []
+    elif "Synonyme" not in r.text:
+        return []
+
+    blob = r.text.split("Synonyme:")
+    
+    if len(blob) <= 1:
+        return []
+
+    beginning = blob[1].split("<dd>")[1]
+    end_index = beginning.index("</dd>")
+    result = beginning[:end_index]
+
+    lines = result.split("</a>")
+    output = []
+
+    for line in lines:
+        if "<i>" in line:
+            if not "</i>" in line:
+                continue
+
+            if not line.rfind('</i>') < line.rfind('<a'):
+                continue
+        
+        index = line.rfind('>') + 1
+
+        if index < len(line) - 1:
+            output.append(line[index:])
+
+    return output
+
 
 
 if __name__ == "__main__":
-
-
-    
-    output = getSynonymsWikitionary("Arzt")
-    output2 = getSynonymsWikitionary("schleichen")
-    output3 = getSynonymsWikitionary("trinken")
-
-    out_dict = {}
-    out_dict["Arzt"] = output
-    out_dict["schleichen"] = output2
-    out_dict["trinken"] = output3
-
-    with open("out.json", "w") as f:
-        json.dump(out_dict, f)
-
-    with open("out.json", "r") as f:
-        data = json.load(f)
-
-    
-    print(data)
-    print(data["Arzt"])
 
     with open(dateipfad, 'r', encoding='utf-8') as datei:
         unique = datei.read().splitlines()
 
     print(unique)
 
+    unique_final = []
+
     for wort in unique:
         synonyme = getSynonymsWikitionary(wort)
-        unique_final = synonyme
+        
+        # Hier werden die gefundenen Synonyme zur Liste hinzugefügt
+        unique_final.extend(synonyme)
 
-    #Ergebnisse ausgeben
+    # Ergebnisse ausgeben
     print("Synonyme:")
     for element in unique_final:
         print(element)
+
+    output_dateipfad = 'D:/documents/Uni/MI_M/IWV/git/Iwv-Wortschatz/IWV_studentProject/xmlfiles/Synonyme_Liste.txt'
+    with open(output_dateipfad, 'w', encoding='utf-8') as output_datei:
+        for element in unique_final:
+            output_datei.write(element + '\n')

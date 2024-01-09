@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2019-09-19_13-30_437.xml">
+   <title>Mehr Nachrichten vom 19.09.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-09-19_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-09-19_13-30_437-full.png" type="screenshot" url="2019-09-19_13-30_437-full.png"/>
+      <resource id="2" name="2019-09-19_13-30_437_plaintext.txt" type="plaintext" url="2019-09-19_13-30_437_plaintext.txt"/>
+      <resource id="3" name="2019-09-19_13-30_437_quellcode.txt" type="sourcecode" url="2019-09-19_13-30_437_quellcode.txt"/>
+      <resource id="4" name="2019-09-19_13-30_437.docx" type="formatedText" url="2019-09-19_13-30_437.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 19.09.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Große Demonstration</subheadline>
+            <explanation_marker>
+               <statement>In Hamburg ist am Freitag eine große Demonstration.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bei einer Demonstration treffen sich viele Menschen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Menschen sagen laut ihre Meinung.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Demonstration ist für den Klima·schutz.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Der Klima·schutz soll das Klima schützen.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Das Klima ist das Wetter über eine lange Zeit.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Demonstration ist von Schülern.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <headword>Fachleute sagen:</headword>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Zu der Demonstration kommen vielleicht 30.000 Menschen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Es kommen viele Schüler.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und es kommen auch viele Erwachsene.</statement>
+                  </speech>
+                  <speech id="4">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Die Menschen wollen bei der Demonstration sagen:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Die Politiker müssen das Klima besser schützen.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Unfall mit Güter·zügen</subheadline>
+            <statement>In Hamburg war ein Unfall.</statement>
+            <statement>Der Unfall war im Hafen.</statement>
+            <explanation_marker>
+               <statement>Bei dem Unfall sind 2 Güter·züge zusammen·gestoßen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Güter·züge transportieren Waren.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Zum Beispiel Autos.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Unfall wurden 2 Menschen leicht verletzt.</statement>
+            <statement>Einer von den 2 Güter·zügen hatte Autos geladen.</statement>
+            <explanation_marker>
+               <statement>Der andere Güter·zug hatte Container geladen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Container sind große Kisten.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In diesen Kisten sind Waren.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Unfall sind auch 2 Container herunter·gefallen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt will die Polizei wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum sind die 2 Güter·züge zusammen·gestoßen?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

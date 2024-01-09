@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-19-08" url="2020-01-02_13-30_17.xml">
+   <title>Mehr Nachrichten vom 02.01.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-01-02_13-30</vdate>
+   <resources>
+      <resource id="1" name="2020-01-02_13-30_17-full.png" type="screenshot" url="2020-01-02_13-30_17-full.png"/>
+      <resource id="2" name="2020-01-02_13-30_17_plaintext.txt" type="plaintext" url="2020-01-02_13-30_17_plaintext.txt"/>
+      <resource id="3" name="2020-01-02_13-30_17_quellcode.txt" type="sourcecode" url="2020-01-02_13-30_17_quellcode.txt"/>
+      <resource id="4" name="2020-01-02_13-30_17.docx" type="formatedText" url="2020-01-02_13-30_17.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 02.01.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Kostenlose Bus·fahrten</subheadline>
+               <statement>In Dithmarschen ist eine besondere Aktion</statement>
+               <explanation_marker>
+                  <statement>Bei dieser Aktion sind ab Donnerstag viele Bus·fahrten kostenlos.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Die Menschen können mit vielen Bussen fahren.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und die Menschen müssen <style_element type="hb">kein</style_element> Geld dafür bezahlen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Bus·fahrten sind bis zum 12. Januar kostenlos.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Politiker aus Dithmarschen haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Mit der Aktion wollen wir den Menschen zeigen:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>In Dithmarschen fahren viele Busse.</statement>
+                              </speech>
+                              <speech id="2">
+                                 <statement>Deshalb müssen die Menschen <style_element type="hb">nicht</style_element> immer mit dem Auto fahren.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="2">
+                        <question>Auf den Straßen fahren weniger Autos?</question>
+                     </speech>
+                     <speech id="3">
+                        <statement>Das ist gut für die Umwelt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Politiker haben auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Aktion kostet nur 15.000 Euro.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Das ist <style_element type="hb">nicht</style_element> viel Geld für Dithmarschen.</statement> 
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb haben wir vielleicht bald Gespräche.</statement>
+                     </speech>
+                     <speech id="4">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>In diesen Gesprächen besprechen wir:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question>Sollen die Bus·fahrten immer kostenlos sein?</question>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Arbeiter fällen Bäume an der A7</subheadline>
+            <statement>Am Donnerstag haben in Hamburg Arbeiten begonnen.</statement>
+            <explanation_marker>
+               <statement>Diese Arbeiten sind an der A7.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">A7 ist die Abkürzung für <style_element type="hb">A</style_element>utobahn <style_element type="hb">7</style_element>.</style_element></statement> 
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei diesen Arbeiten fällen Arbeiter einige Bäume.</statement>
+            <explanation_marker>
+               <statement>An der A7 wird nämlich ein Tunnel gebaut.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Dieser Tunnel ist ein Lärm·schutz·tunnel.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Dieser Tunnel schützt vor Lärm.</style_element></statement> 
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Bäume stehen nah an der A7.</statement>
+            <statement>Deshalb müssen die Arbeiter die Bäume für den Bau von dem Tunnel fällen.</statement>
+            <statement>Die Arbeiten sind bis zum 24. Januar.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Arbeiten sind zu bestimmten Zeiten.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>In diesen Zeiten ist <style_element type="hb">nicht</style_element> viel Verkehr auf den Straßen.</statement> 
+                  </speech>
+                  <speech id="3">
+                     <statement>Aber an einigen Straßen gibt es vielleicht Probleme.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>An diesen Straßen müssen die Auto·fahrer vielleicht langsamer fahren.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Fach·leute haben auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Polizei hat einen Weg gesperrt.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dieser Weg ist für Fahrrad·fahrer und Fuß·gänger.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und dieser Weg ist zwischen den Stadt·teilen Bahrenfeld und Othmarschen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Die Sperrung von dem Weg ist bis Sonnabend.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      <style_element type="line" />
+      </sections>  
+   </content>
+</annotation>

@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-24" url="2018-08-27_15-00_697.xml">
+   <title>Mann in Hamburg angeschossen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-08-27_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-08-27_15-00_697-full.png" type="screenshot" url="2018-08-27_15-00_697-full.png"/>
+      <resource id="2" name="2018-08-27_15-00_697_plaintext.txt" type="plaintext" url="2018-08-27_15-00_697_plaintext.txt"/>
+      <resource id="3" name="2018-08-27_15-00_697_quellcode.txt" type="sourcecode" url="2018-08-27_15-00_697_quellcode.txt"/>
+      <resource id="4" name="2018-08-27_15-00_697.docx" type="formatedText" url="2018-08-27_15-00_697.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mann in Hamburg angeschossen</headline>
+      <sections>
+         <section id="1">
+            <statement>In Hamburg war ein schlimmes Verbrechen.</statement>
+            <statement>Das Verbrechen war im Stadt·teil St. Pauli.</statement>
+            <statement>Bei dem Verbrechen haben Unbekannte einen Mann angeschossen.</statement>
+            <statement>Der Mann wurde schwer verletzt.</statement>
+         </section>
+         <section id="2">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Einige Menschen haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Der Mann ist der Chef von den Hells Angels in Hamburg.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Die Hells Angels sind ein großer Rocker·klub.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">In einem Rocker·klub sind meistens Männer.</style_element></statement>
+                                    </explanation>
+                                    <explanation id="2">
+                                       <statement><style_element type="hi">Diese Männer fahren zum Beispiel Motorrad.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Manche Mitglieder von den Hells Angels sind kriminell.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Deshalb sind die Hells Angels in manchen Städten verboten.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Der Mann ist Auto gefahren.</statement>
+               <statement>Und der Mann hat mit dem Auto an einer Ampel angehalten.</statement>
+               <statement>Dann haben Unbekannte in einem anderen Auto neben dem Auto von dem Mann angehalten.</statement>
+               <statement>Dann haben die Unbekannten auf das Auto von dem Mann geschossen.</statement>
+               <statement>Und dann sind die Unbekannten weggefahren.</statement>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Mehrere Kugeln haben den Mann getroffen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Der Mann wurde schwer verletzt.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Der Mann ist in ein Krankenhaus gekommen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Im Krankenhaus haben Ärzte den Mann sofort operiert.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="5">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt will die Polizei wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wer hat auf den Mann geschossen?</question>
+                  </speech>
+                  <speech id="2">
+                     <question>Und warum haben die Unbekannten auf den Mann geschossen?</question>
+                  </speech>
+                  <speech id="3">
+                     <question>Sind die Unbekannten vielleicht auch in einem Rocker·klub?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

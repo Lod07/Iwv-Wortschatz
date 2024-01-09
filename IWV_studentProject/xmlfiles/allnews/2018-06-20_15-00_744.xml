@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-18" url="2018-06-20_15-00_744.xml">
+   <title>Neuer Feiertag in Niedersachsen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-06-20_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-06-20_15-00_744-full.png" type="screenshot" url="2018-06-20_15-00_744-full.png"/>
+      <resource id="2" name="2018-06-20_15-00_744_plaintext.txt" type="plaintext" url="2018-06-20_15-00_744_plaintext.txt"/>
+      <resource id="3" name="2018-06-20_15-00_744_quellcode.txt" type="sourcecode" url="2018-06-20_15-00_744_quellcode.txt"/>
+      <resource id="4" name="2018-06-20_15-00_744.docx" type="formatedText" url="2018-06-20_15-00_744.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Neuer Feiertag in Niedersachsen</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Niedersachsen gibt es einen neuen Feiertag.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">An einem Feiertag müssen die meisten Menschen <style_element type="hb">nicht</style_element> arbeiten.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Ein Feiertag ist zum Beispiel Neujahr.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Neujahr ist immer am 1. Januar.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Viele Politiker in Niedersachsen haben nämlich gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In Niedersachsen gibt es jedes Jahr nur 9 Feiertage.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Aber in vielen anderen Bundes·ländern gibt es mehr Feiertage.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb soll es in Niedersachsen einen neuen Feiertag geben.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Jetzt haben sich Politiker von mehreren Parteien geeinigt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Und diese Politiker haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der 31. Oktober soll jedes Jahr in Niedersachsen ein Feiertag sein.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dieser Tag ist der Reformations·tag.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Der Reformations·tag</subheadline>
+               <statement>Vor 500 Jahren hat es in Deutschland nur eine christliche Kirche gegeben.</statement>
+               <statement>Diese Kirche war die katholische Kirche.</statement>
+               <statement>Aber viele Menschen waren mit der katholischen Kirche <style_element type="hb">nicht</style_element> zufrieden.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Diesen Menschen haben zum Beispiel gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die katholische Kirche hat zu viel Geld.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und die katholische Kirche gibt zu viel Geld für bestimmte Dinge aus.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Zum Beispiel für teure Kirchen-Gebäude.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Einer von diesen Menschen war Martin Luther.</statement>
+               <statement>Martin Luther hat vor 500 Jahren Texte geschrieben.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>In diesen Texten hat Martin Luther zum Beispiel geschrieben:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Die katholische Kirche sagt zu den Menschen:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Gebt uns Geld!</statement>
+                              </speech>
+                              <speech id="2">
+                                 <statement> Sonst bestraft euch Gott.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Das ist falsch.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Viele Menschen haben die Texte von Martin Luther gelesen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Und diese Menschen haben gedacht:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Martin Luther hat recht.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Deshalb haben diese Menschen die Kirche erneuert.</statement>
+            <statement>Ein anderes Wort für erneuern ist reformieren.</statement>
+            <statement>Deshalb heißt die Erneuerung von der Kirche auch Reformation.</statement>
+            <statement>Seit der Reformation gibt es eine neue Kirche in Deutschland.</statement>
+            <statement>Diese neue Kirche heißt evangelische Kirche.</statement>
+         </section>
+         <section id="4">
+            <statement>Ein Text von Martin Luther war sehr wichtig für die Reformation.</statement>
+            <statement>Diesen Text konnten die Menschen am 31. Oktober 1517 lesen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Viele Menschen sagen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Mit diesem Text hat die Reformation richtig angefangen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Deshalb heißt der 31. Oktober Reformations·tag.</statement>
+         </section>
+         <section id="5">
+            <subheadline>Neuer Feier·tag auch in anderen Bundes·ländern</subheadline>
+               <statement>Der Reformations·tag ist <style_element type="hb">nicht</style_element> nur in Niedersachsen ein neuer Feiertag.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Auch in anderen Bundes·ländern ist der Reformations·tag ein neuer Feiertag:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• In Hamburg.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <statement>• Und in Schleswig-Holstein.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>In Mecklenburg-Vorpommern ist der Reformations·tag schon lange ein Feiertag.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

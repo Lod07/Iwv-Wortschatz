@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-25" url="2019-06-24_13-30_372.xml">
+   <title>Mehr Nachrichten vom 24.06.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-06-24_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-06-24_13-30_372-full.png" type="screenshot" url="2019-06-24_13-30_372-full.png"/>
+      <resource id="2" name="2019-06-24_13-30_372_plaintext.txt" type="plaintext" url="2019-06-24_13-30_372_plaintext.txt"/>
+      <resource id="3" name="2019-06-24_13-30_372_quellcode.txt" type="sourcecode" url="2019-06-24_13-30_372_quellcode.txt"/>
+      <resource id="4" name="2019-06-24_13-30_372.docx" type="formatedText" url="2019-06-24_13-30_372.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 24.06.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Bank·räuber macht Geständnis</subheadline>
+               <explanation_marker>
+                  <statement>In Hamburg ist ein Prozess.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement><style_element type="hi">Bei einem Prozess entscheidet das Gericht:</style_element></statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question><style_element type="hi">• Hat ein Mensch etwas Verbotenes getan?</style_element></question>
+                              </speech>
+                              <speech id="2">
+                                 <statement><style_element type="hi">Dann bekommt dieser Mensch eine Strafe.</style_element></statement>
+                              </speech>
+                              <speech id="3">
+                                 <question><style_element type="hi">• Oder hat ein Mensch <style_element type="hb">nichts</style_element> Verbotenes getan?</style_element></question> 
+                              </speech>
+                              <speech id="4">
+                                 <statement><style_element type="hi">Dann bekommt dieser Mensch <style_element type="hb">keine</style_element> Strafe.</style_element></statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei dem Prozess ist ein Mann angeklagt.</statement>
+               <statement>Dieser Mann ist 70 Jahre alt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <headword>Wir glauben:</headword>
+                     </speech>
+                     <speech id="2">
+                        <statement> Der Mann hat 3 Banken überfallen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Bei einem von den 3 Überfällen hat der Mann auf einen Mitarbeiter von der Bank geschossen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Der Mitarbeiter von der Bank wurde schwer verletzt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <explanation_marker>
+                  <statement>Jetzt hat der Mann ein Geständnis gemacht.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement><style_element type="hi">Bei einem Geständnis sagt ein Mensch:</style_element></statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement><style_element type="hi">Ich gebe zu:</style_element></statement>
+                              </speech>
+                              <speech id="2">
+                                 <statement><style_element type="hi">Ich habe die Tat gemacht.</style_element></statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der Mann hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ich habe die 3 Banken überfallen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Aber den Schuss auf den Mitarbeiter von der Bank hat der Mann <style_element type="hb">nicht</style_element> gestanden.</statement> 
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Gefahr für Waldbrände</subheadline>
+               <statement>In Niedersachsen ist es sehr heiß.</statement>
+               <statement>Und in einigen Gegenden von Niedersachsen ist es sehr trocken.</statement>
+               <statement>Zum Beispiel im Osten von Niedersachsen.</statement>
+               <statement>In diesen Gegenden hat es nämlich lange <style_element type="hb">nicht</style_element> geregnet.</statement> 
+               <statement>Deshalb sind die Böden von den Wäldern sehr trocken.</statement>
+               <statement>Sehr trockene Böden sind für die Wälder sehr gefährlich.</statement>
+               <statement>Bei sehr trockenen Böden kann es nämlich leicht Feuer im Wald geben.</statement>
+               <statement>Diese Feuer heißen Wald·brände.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Gefahr für Wald·brände ist in einigen Gegenden sehr hoch.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Deshalb sollen die Menschen jetzt sehr vorsichtig sein.</statement>
+               <statement>Die Menschen sollen zum Beispiel kein Feuer in einem Wald machen.</statement>
+               <statement>Und die Menschen sollen auch nicht in einem Wald rauchen.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

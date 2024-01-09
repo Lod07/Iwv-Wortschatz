@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-24" url="2020-03-23_14-30_181.xml">
+   <title>Mehr Nachrichten vom 23.03.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-03-23_14-30</vdate>
+   <resources>
+      <resource id="1" name="2020-03-23_14-30_181-full.png" type="screenshot" url="2020-03-23_14-30_181-full.png"/>
+      <resource id="2" name="2020-03-23_14-30_181_plaintext.txt" type="plaintext" url="2020-03-23_14-30_181_plaintext.txt"/>
+      <resource id="3" name="2020-03-23_14-30_181_quellcode.txt" type="sourcecode" url="2020-03-23_14-30_181_quellcode.txt"/>
+      <resource id="4" name="2020-03-23_14-30_181.docx" type="formatedText" url="2020-03-23_14-30_181.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 23.03.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Diebe stehlen Schutz·masken</subheadline>
+            <statement>In Hannover haben Diebe viele Sachen aus einem Kranken·haus gestohlen.</statement>
+            <statement>Diese Sachen waren zum Schutz vor dem Corona-Virus.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <explanation_marker>
+                        <headword><style_element type="hi">• Schutz·masken.</style_element></headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Schutz·masken sind aus Stoff.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Dieser Stoff ist vor der Nase und vor dem Mund.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Dann kann dieser Mensch andere Menschen <style_element type="hb">nicht</style_element> so leicht anstecken.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <headword>• Und Desinfektions·mittel.</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Ein Desinfektions·mittel ist eine Flüssigkeit.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Mit einem Desinfektions·mittel können Menschen Sachen sehr gründlich reinigen.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Nach dieser Reinigung ist auf diesen Sachen zum Beispiel <style_element type="hb">kein</style_element> Corona-Virus mehr.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In einem Kranken·haus müssen sich Menschen besonders gut schützen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <question>Stiehlt ein Mensch Sachen zum Schutz vor dem Corona-Virus?</question>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dann ist das gefährlich für die Menschen im Kranken·haus.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Zum Beispiel für die Ärzte.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Und für die Patienten.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Kultur trotz Corona: NDR zeigt Videos</subheadline>
+            <statement>Das Corona-Virus ist sehr ansteckend.</statement>
+            <statement>Deshalb fallen fast alle Veranstaltungen aus.</statement>
+            <statement>Zum Beispiel Konzerte.</statement>
+            <statement>Aber viele Menschen wollen Veranstaltungen sehen.</statement>
+            <headword>Und hören.</headword>
+            <statement>Deshalb macht der NDR eine besondere Aktion.</statement>
+            <statement>Diese Aktion heißt: Kultur trotz Corona.</statement>
+            <statement>Für diese Aktion machen viele Künstler zu Hause Videos.</statement>
+            <statement>Zum Beispiel von kleinen Konzerten.</statement>
+            <statement>Und diese Videos zeigt der NDR im Internet.</statement>
+            <statement>
+               <ref><style_element type="hu">Und diese Videos zeigt der NDR im Internet.</style_element></ref>
+            </statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

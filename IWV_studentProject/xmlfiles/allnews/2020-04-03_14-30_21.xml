@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2020-04-03_14-30_21.xml">
+   <title>Mehr Nachrichten vom 04.04.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-04-03_14-30</vdate>
+   <resources>
+      <resource id="1" name="2020-04-03_14-30_21-full.png" type="screenshot" url="2020-04-03_14-30_21-full.png"/>
+      <resource id="2" name="2020-04-03_14-30_21_plaintext.txt" type="plaintext" url="2020-04-03_14-30_21_plaintext.txt"/>
+      <resource id="3" name="2020-04-03_14-30_21_quellcode.txt" type="sourcecode" url="2020-04-03_14-30_21_quellcode.txt"/>
+      <resource id="4" name="2020-04-03_14-30_21.docx" type="formatedText" url="2020-04-03_14-30_21.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 04.04.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Merkel darf ihre Wohnung wieder verlassen</subheadline>
+            <explanation_marker>
+                  <statement>Die Bundes·kanzlerin muss <style_element type="hb">nicht</style_element> mehr zu Hause bleiben.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>Die Bundes·kanzlerin ist die Chefin von der Regierung in Deutschland.</statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Bundes·kanzlerin ist Angela Merkel.</statement>
+            <statement>Angela Merkel hat vor 2 Wochen einen Arzt getroffen.</statement>
+            <statement>Dieser Arzt hatte das Corona-Virus.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Und <style_element type="hb">niemand</style_element> wusste:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Hat jetzt auch Angela Merkel das Corona-Virus?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <explanation_marker>
+               <statement>Deshalb musste Angela Merkel in Quarantäne.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>Quarantäne ist eine Regel.</statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>Diese Regel sagt:</statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>Ein Mensch darf <style_element type="hb">keinen</style_element> anderen Menschen treffen.</statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement>Dieser Mensch muss zu Hause bleiben.</statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement>Oder in einem Zimmer in einem Kranken·haus.</statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Quarantäne war 2 Wochen lang.</statement>
+            <statement>Diese 2 Wochen sind jetzt vorbei.</statement>
+            <statement>Jetzt muss Angela Merkel <style_element type="hb">nicht</style_element> mehr zu Hause bleiben.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Helfer für Bauern dürfen kommen</subheadline>
+            <statement>Viele Bauern in Deutschland haben Probleme.</statement>
+            <statement>Diese Bauern müssen nämlich Obst und Gemüse ernten.</statement>
+            <statement>Aber die Bauern haben <style_element type="hb">nicht</style_element> genug Helfer.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Regierung hatte nämlich gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Viele Helfer kommen aus Ost·europa.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und diese Helfer dürfen wegen dem Corona-Virus <style_element type="hb">nicht</style_element> nach Deutschland kommen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt hat die Regierung gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement> Im April und im Mai dürfen Helfer aus Ost·europa kommen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Diese Helfer dürfen aber nur mit dem Flugzeug kommen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und die Helfer müssen gesund sein.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

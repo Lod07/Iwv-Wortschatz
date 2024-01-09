@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-06-05_13-30_313.xml">
+   <title>Mehr Nachrichten vom 05.06.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-06-05_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-06-05_13-30_313-full.png" type="screenshot" url="2019-06-05_13-30_313-full.png"/>
+      <resource id="2" name="2019-06-05_13-30_313_plaintext.txt" type="plaintext" url="2019-06-05_13-30_313_plaintext.txt"/>
+      <resource id="3" name="2019-06-05_13-30_313_quellcode.txt" type="sourcecode" url="2019-06-05_13-30_313_quellcode.txt"/>
+      <resource id="4" name="2019-06-05_13-30_313.docx" type="formatedText" url="2019-06-05_13-30_313.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 05.06.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Räuber müssen ins Gefängnis</subheadline>
+            <statement>Ein Gericht in Hamburg hat 5 Menschen verurteilt.</statement>
+            <explanation_marker>
+               <statement>Diese 5 Menschen haben nämlich einen Elektronik-Markt überfallen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Elektronik-Markt ist ein Geschäft.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In diesem Geschäft können Menschen zum Beispiel Fernseher kaufen.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <headword>Oder Computer.</headword>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Überfall war im Dezember 2017.</statement>
+            <statement>Bei dem Überfall haben die Räuber sehr viel Geld gestohlen.</statement> 
+            <statement>Den Überfall haben 3 Männer gemacht.</statement>
+            <statement>Und 2 Frauen.</statement>
+            <statement>Eine von den 2 Frauen hat in dem Elektronik-Markt gearbeitet.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt hat das Gericht gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die 3 Männer müssen für mehrere Jahre ins Gefängnis.</statement>
+                  </speech>
+                  <speech id="2">
+                     <explanation_marker>
+                        <statement> Und die 2 Frauen bekommen eine Strafe auf Bewährung.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Die Frauen müssen jetzt <style_element type="hb">nicht</style_element> ins Gefängnis.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Aber die Frauen dürfen <style_element type="hb">nichts</style_element> Verbotenes mehr machen.</style_element></statement>
+                           </explanation>
+                           <explanation id="4">
+                              <question>Die Frauen machen trotzdem etwas Verbotenes?</question>
+                           </explanation>
+                           <explanation id="5">
+                              <statement><style_element type="hi">Dann müssen die Frauen sofort ins Gefängnis.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Bau·arbeiten dauern länger</subheadline>
+            <explanation_marker>
+               <statement>Die Bau·arbeiten auf der B203 dauern viel länger als geplant.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">B203 ist die Abkürzung für Bundes·straße 203.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Auf einer Bau·stelle gibt es nämlich Probleme.</statement>
+            <statement>Diese Bau·stelle ist auf einer Brücke.</statement>
+            <explanation_marker>
+               <statement>Diese Brücke ist bei Wrohm.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Wrohm ist ein Ort.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Wrohm ist zwischen Heide und Rendsburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Zuerst haben Fach·leute gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Bau·arbeiten an der Brücke dauern bis Ende Juni.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Aber jetzt haben die Fach·leute gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Bau·arbeiten dauern wahrscheinlich noch bis Ende Juli.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Deshalb ärgern sich viele Menschen.</statement>
+            <statement>Diese Menschen wohnen zum Beispiel in kleinen Dörfern.</statement>
+            <statement>Diese Dörfer sind in der Nähe von der Bau·stelle.</statement>
+            <statement>Und durch diese Dörfer fahren jetzt sehr viele Autos.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

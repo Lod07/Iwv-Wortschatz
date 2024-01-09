@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-25" url="2020-03-13_15-00_138.xml">
+   <title>Corona-Virus: Schulen geschlossen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-03-13_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-03-13_15-00_138-full.png" type="screenshot" url="2020-03-13_15-00_138-full.png"/>
+      <resource id="2" name="2020-03-13_15-00_138_plaintext.txt" type="plaintext" url="2020-03-13_15-00_138_plaintext.txt"/>
+      <resource id="3" name="2020-03-13_15-00_138_quellcode.txt" type="sourcecode" url="2020-03-13_15-00_138_quellcode.txt"/>
+      <resource id="4" name="2020-03-13_15-00_138.docx" type="formatedText" url="2020-03-13_15-00_138.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Corona-Virus: Schulen geschlossen</headline>
+      <sections>
+         <section id="1">
+            <statement>Viele Menschen haben Angst vor dem Corona-Virus.</statement>
+            <statement>Das Corona-Virus kann Menschen nämlich krank machen.</statement>
+            <statement>Und das Corona-Virus ist sehr ansteckend.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Deshalb haben viele Bundes·länder gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir schließen die Schulen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die Kinder sollen zu Hause bleiben.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dann können sich die Kinder <style_element type="hb">nicht</style_element> mit dem Corona-Virus anstecken.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese Bundes·länder haben schon alle Schulen geschlossen:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Niedersachsen.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Schleswig-Holstein.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <headword>• Und Bremen.</headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>In Mecklenburg-Vorpommern sind in 2 Orten die Schulen geschlossen:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• In Rostock.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Und im Land·kreis Ludwigslust-Parchim.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>In Hamburg sind jetzt Ferien.</statement>
+            <statement>Und am Montag soll die Schule wieder losgehen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Aber vielleicht sagt Hamburg vorher noch:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir schließen auch alle Schulen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Viele Schulen haben auch alle Klassen·reisen abgesagt.</statement>
+         </section>
+         <section id="4">
+            <subheadline>Fußball·spiele abgesagt</subheadline>
+            <statement>Wegen dem Corona-Virus fallen auch viele Fußball·spiele aus.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <explanation_marker>
+                        <statement>• Werder Bremen gegen Bayer Leverkusen.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Dieses Spiel ist in der 1. Bundesliga.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• FC St. Pauli gegen den 1. FC Nürnberg.</statement>
+                  </enumeration>
+                  <enumeration id="3">
+                     <explanation_marker>
+                        <statement>• Und Hannover 96 gegen Dynamo Dresden.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Diese 2 Spiele sind in der 2. Bundesliga.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Zu anderen Fußball·spielen dürfen <style_element type="hb">keine</style_element> Zuschauer kommen.</statement>
+         </section>
+         <section id="5">
+            <explanation_marker>
+               <statement>Die DFL hat am Montag ein wichtiges Treffen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">DFL ist die Abkürzung für <style_element type="hb">D</style_element>eutsche <style_element type="hb">F</style_element>ußball <style_element type="hb">L</style_element>iga.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In der DFL sind alle Fußball·vereine aus der 1. Bundesliga.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und aus der 2. Bundesliga.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Und dann entscheidet die DFL wahrscheinlich:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Bis zum 3. April gibt es <style_element type="hb">keine</style_element> Fußball·spiele mehr.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="6">
+            <subheadline>Anmerkung</subheadline>
+            <speech_marker>
+               <speech_intro>
+                  <statement>In dieser Nachricht haben wir geschrieben:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Aber vielleicht sagt Hamburg vorher noch:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement><style_element type="hi">Wir schließen auch alle Schulen.</style_element></statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt hat Hamburg gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir schließen die Schulen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

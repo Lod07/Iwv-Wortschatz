@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2020-01-07_13-30_73.xml">
+   <title>Mehr Nachrichten vom 07.01.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-01-07_13-30</vdate>
+   <resources>
+      <resource id="1" name="2020-01-07_13-30_73-full.png" type="screenshot" url="2020-01-07_13-30_73-full.png"/>
+      <resource id="2" name="2020-01-07_13-30_73_plaintext.txt" type="plaintext" url="2020-01-07_13-30_73_plaintext.txt"/>
+      <resource id="3" name="2020-01-07_13-30_73_quellcode.txt" type="sourcecode" url="2020-01-07_13-30_73_quellcode.txt"/>
+      <resource id="4" name="2020-01-07_13-30_73.docx" type="formatedText" url="2020-01-07_13-30_73.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 07.01.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Basketball: Neuer Trainer in Rostock</subheadline>
+               <explanation_marker>
+                  <statement>Die Rostock Seawolves haben einen neuen Trainer.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Die Rostock Seawolves sind ein Basketball·verein aus Rostock.</style_element></statement> 
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Rostock ist eine Stadt in Mecklenburg-Vorpommern.</style_element></statement> 
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und die Rostock Seawolves spielen in der 2. Bundesliga.</style_element></statement> 
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Der neue Trainer ist Dirk Bauermann.</statement>
+               <statement>Dirk Bauermann ist ein sehr bekannter Basketball-Trainer.</statement>
+               <explanation_marker>
+                  <statement>Dirk Bauermann war nämlich lange Trainer der deutschen National·mannschaft.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">In einer National·mannschaft spielen die besten Spieler von einem Land.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und in der deutschen National·mannschaft spielen die besten Spieler von Deutschland.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Und Dirk Bauermann ist ein sehr erfolgreicher Basketball-Trainer.</statement>
+               <statement>Dirk Bauermann war mit seinen Mannschaften neunmal deutscher Meister.</statement>
+               <statement>Der Chef von den Rostock Seawolves ist Jens Hakanowitz.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Jens Hakanowitz hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Dirk Bauermann ist ein sehr guter Trainer.</statement>
+                     </speech>
+                     <speech id="2">
+                        <headword>Wir hoffen:</headword>
+                     </speech>
+                     <speech id="3">
+                        <statement>Mit Dirk Bauermann gewinnen wir viele Spiele.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Bremen: 2 Tote bei Unfall</subheadline>
+               <explanation_marker>
+                  <statement>In Bremerhaven war am Montag ein schwerer Unfall.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Bremerhaven ist eine Stadt im Bundes·land Bremen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Dieser Unfall war im Stadt·teil Fischereihafen.</statement>
+               <statement>Bei dem Unfall ist ein Auto mit einem Müll·wagen zusammengestoßen.</statement>
+               <statement>Bei dem Unfall ist der Fahrer von dem Auto gestorben.</statement>
+               <statement>Der Fahrer war 72 Jahre alt.</statement>
+               <statement>Und eine Frau in dem Auto wurde schwer verletzt.</statement>
+               <statement>Helfer haben die Frau in ein Kranken·haus gebracht.</statement>
+               <statement>Aber die Ärzte konnten der Frau <style_element type="hb">nicht</style_element> mehr helfen.</statement> 
+               <statement>Deshalb ist die Frau am Dienstag gestorben.</statement>
+               <statement>Die Frau war 68 Jahre alt.</statement>
+               <statement>Der Fahrer von dem Müllwagen wurde bei dem Unfall <style_element type="hb">nicht</style_element> verletzt.</statement> 
+         </section>
+         <style_element type="line" />  
+      </sections>
+   </content>
+</annotation>

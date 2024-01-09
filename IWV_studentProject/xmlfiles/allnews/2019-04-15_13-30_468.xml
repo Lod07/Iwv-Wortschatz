@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-25" url="2019-04-15_13-30_468.xml">
+   <title>Mehr Nachrichten vom 15.04.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-04-15_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-04-15_13-30_468-full.png" type="screenshot" url="2019-04-15_13-30_468-full.png"/>
+      <resource id="2" name="2019-04-15_13-30_468_plaintext.txt" type="plaintext" url="2019-04-15_13-30_468_plaintext.txt"/>
+      <resource id="3" name="2019-04-15_13-30_468_quellcode.txt" type="sourcecode" url="2019-04-15_13-30_468_quellcode.txt"/>
+      <resource id="4" name="2019-04-15_13-30_468.docx" type="formatedText" url="2019-04-15_13-30_468.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 15.04.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Brücke gesperrt</subheadline>
+               <explanation_marker>
+                  <statement>In der Nähe von Kiel ist seit Montag eine alte Brücke gesperrt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Kiel ist die Haupt·stadt von Schleswig-Holstein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Diese Brücke ist die älteste Brücke über den Nord-Ostsee-Kanal.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Der Nord-Ostsee-Kanal ist ein künstlicher Fluss.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Menschen haben den Nord-Ostsee-Kanal gebaut.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Diese Brücke ist schon 126 Jahre alt.</statement>
+               <statement>Bald wird die alte Brücke abgerissen.</statement>
+               <statement>Die alte Brücke ist nämlich zu klein.</statement>
+               <statement>Dann wird eine neue Brücke gebaut.</statement>
+               <statement>Die neue Brücke ist wahrscheinlich erst 2024 fertig.</statement>
+               <statement>Deshalb müssen viele Auto·fahrer jetzt einen Umweg fahren.</statement>
+               <statement>Bald ist die alte Brücke auch für Radfahrer gesperrt.</statement>
+               <statement>Und für Fußgänger.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Drogen gefunden</subheadline>
+               <explanation_marker>
+                  <statement>In Hamburg haben Menschen eine große Menge Kokain gefunden.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Kokain ist eine Droge.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Drogen sind gefährlich für den Körper.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Deshalb sind Drogen verboten.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Diese Menschen sind Mitarbeiter vom Zoll.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Der Zoll macht an besonderen Orten Kontrollen.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <headword><style_element type="hi">• Am Flug·hafen.</style_element></headword>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <statement><style_element type="hi">• Oder am Hafen.</style_element></statement>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Der Zoll will nämlich wissen:</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <question><style_element type="hi">Bringen Menschen verbotene Sachen ins Land?</style_element></question>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der Zoll hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir haben ein Schiff im Hafen kontrolliert.</statement>
+                     </speech>
+                     <speech id="2">
+                        <explanation_marker>
+                           <statement>Dieses Schiff ist aus Uruguay gekommen.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Uruguay ist ein Land in Süd·amerika.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Auf dem Schiff haben wir 440 Kilogramm Kokain gefunden.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Das Kokain ist mehrere Millionen Euro wert.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

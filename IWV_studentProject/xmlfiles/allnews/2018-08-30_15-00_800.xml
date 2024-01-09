@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-25" url="2018-08-30_15-00_800.xml">
+   <title>Überfall in Wismar</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-08-30_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-08-30_15-00_800-full.png" type="screenshot" url="2018-08-30_15-00_800-full.png"/>
+      <resource id="2" name="2018-08-30_15-00_800_plaintext.txt" type="plaintext" url="2018-08-30_15-00_800_plaintext.txt"/>
+      <resource id="3" name="2018-08-30_15-00_800_quellcode.txt" type="sourcecode" url="2018-08-30_15-00_800_quellcode.txt"/>
+      <resource id="4" name="2018-08-30_15-00_800.docx" type="formatedText" url="2018-08-30_15-00_800.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Überfall in Wismar</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Wismar war ein Überfall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Wismar ist eine Stadt in Mecklenburg-Vorpommern.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Überfall wurde ein Mann verletzt.</statement>
+            <explanation_marker>
+               <statement>Der Mann ist aus Syrien.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Syrien ist das größte Land im Nahen Osten.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Der Nahe Osten ist eine Gegend in Asien.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In Syrien ist seit mehr als 7 Jahren Krieg.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Deshalb flüchten viele Menschen aus Syrien.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Mann aus Syrien war alleine auf der Straße.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und der Mann  aus Syrien wollte nach Hause gehen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Aber 3 Männer haben den Mann aus Syrien angehalten.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Die 3 Männer haben den Mann aus Syrien beschimpft.</statement>
+                  </speech>
+                  <speech id="5">
+                     <explanation_marker>
+                        <statement>Die Beschimpfungen waren ausländer·feindlich.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <speech_marker>
+                                 <speech_intro>
+                                    <statement><style_element type="hi">Ausländer·feindliche Menschen sagen zum Beispiel:</style_element></statement>
+                                 </speech_intro>
+                                 <speeches>
+                                    <speech id="1">
+                                      <statement><style_element type="hi">Wir mögen <style_element type="hb">keine</style_element> Ausländer.</style_element></statement> 
+                                    </speech>
+                                    <speech id="2">
+                                      <statement><style_element type="hi">Und wir wollen <style_element type="hb">keine</style_element> Ausländer in Deutschland.</style_element></statement> 
+                                    </speech>
+                                 </speeches>
+                              </speech_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="6">
+                     <statement>Dann haben die 3 Männer den Mann aus Syrien getreten.</statement>
+                  </speech>
+                  <speech id="7">
+                     <statement>Und die 3 Männer haben den Mann aus Syrien mit einer Eisen·kette verletzt.</statement>
+                  </speech>
+                  <speech id="8">
+                     <statement>Dann sind die 3 Männer geflüchtet.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Polizei sucht Zeugen</subheadline>
+               <explanation_marker>
+                  <statement>Die Polizei sucht jetzt Zeugen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Zeugen sind Menschen.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Zeugen haben zum Beispiel vielleicht ein Verbrechen gesehen.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Deshalb können Zeugen vielleicht Hinweise zu dem Verbrechen geben.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Diese Zeugen können der Polizei zum Beispiel vielleicht sagen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>So sehen die 3 Männer aus.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="4">
+            <explanation_marker>
+               <statement>Stefanie Drese ist die Sozial·ministerin von Mecklenburg-Vorpommern.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Sozial·ministerin ist eine wichtige Politikerin.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Stefanie Drese hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Überfall auf den Mann aus Syrien ist sehr schlimm.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Wir wollen <style_element type="hb">keine</style_element> ausländer·feindlichen Menschen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

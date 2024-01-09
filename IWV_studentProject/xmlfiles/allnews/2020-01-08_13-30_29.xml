@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2020-01-08_13-30_29.xml">
+   <title>Mehr Nachrichten vom 08.01.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-01-08_13-30</vdate>
+   <resources>
+      <resource id="1" name="2020-01-08_13-30_29-full.png" type="screenshot" url="2020-01-08_13-30_29-full.png"/>
+      <resource id="2" name="2020-01-08_13-30_29_plaintext.txt" type="plaintext" url="2020-01-08_13-30_29_plaintext.txt"/>
+      <resource id="3" name="2020-01-08_13-30_29_quellcode.txt" type="sourcecode" url="2020-01-08_13-30_29_quellcode.txt"/>
+      <resource id="4" name="2020-01-08_13-30_29.docx" type="formatedText" url="2020-01-08_13-30_29.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 08.01.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Besonderer Film</subheadline>
+               <explanation_marker>
+                  <statement>Am Dienstag·abend war in Hamburg eine Premiere.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Premiere ist zum Beispiel die erste Aufführung von einem Film.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Oder von einem Theater·stück.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Diese Premiere war von einem besonderen Film.</statement>
+               <statement>Dieser Film heißt: Lindenberg! Mach dein Ding.</statement>
+               <explanation_marker>
+                  <statement>Und dieser Film ist über das Leben von Udo Lindenberg.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Udo Lindenberg ist ein bekannter Musiker.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und Udo Lindenberg wohnt in Hamburg.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei der Premiere waren viele Menschen.</statement>
+               <statement>Zum Beispiel Fans von Udo Lindenberg.</statement>
+               <statement>Und viele bekannte Gäste.</statement>
+               <explanation_marker>
+                  <statement>Zum Beispiel Charly Hübner.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Charly Hübner ist ein Schauspieler.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Charly Hübner spielt in dem Film den Vater von Udo Lindenberg.</statement>
+               <statement>Der Film kommt am 16. Januar in die Kinos.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Mann stirbt bei Unfall</subheadline>
+               <statement>In Vechta war ein Unfall.</statement>
+               <explanation_marker>
+                  <statement>Der Unfall war an einem Bahn·übergang.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Bahn·übergänge gibt es an manchen Straßen.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">An Bahn·übergängen können Menschen über Bahn·schienen fahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei dem Unfall ist ein Mann gestorben.</statement>
+               <statement>Der Mann war 81 Jahre alt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Mann ist mit seinem Fahrrad über den Bahn·übergang gefahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann ist ein Zug gekommen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Der Zug hat den Mann überfahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>An dem Bahn·übergang sind Schranken.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Schranken sichern die Bahn·übergänge.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <question><style_element type="hi">Sind die Schranken unten?</style_element></question>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Dann dürfen Menschen <style_element type="hb">nicht</style_element> über den Bahn·übergang fahren.</style_element></statement> 
+                              </explanation>
+                              <explanation id="4">
+                                 <headword><style_element type="hi">Oder gehen.</style_element></headword>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Zeugen haben gesagt:  </statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Die Schranken waren unten.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Aber die Schranken gehen <style_element type="hb">nicht</style_element> über den Radweg.</statement> 
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb ist der Mann auf dem Radweg über den Bahn·übergang gefahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

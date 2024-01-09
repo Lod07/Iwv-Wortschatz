@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-27" url="2019-05-17_13-30_463.xml">
+   <title>Mehr Nachrichten vom 17.05.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-05-17_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-05-17_13-30_463-full.png" type="screenshot" url="2019-05-17_13-30_463-full.png"/>
+      <resource id="2" name="2019-05-17_13-30_463_plaintext.txt" type="plaintext" url="2019-05-17_13-30_463_plaintext.txt"/>
+      <resource id="3" name="2019-05-17_13-30_463_quellcode.txt" type="sourcecode" url="2019-05-17_13-30_463_quellcode.txt"/>
+      <resource id="4" name="2019-05-17_13-30_463.docx" type="formatedText" url="2019-05-17_13-30_463.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 17.05.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: HSV entlässt seinen Trainer</subheadline>
+               <explanation_marker>
+                  <statement>Hannes Wolf ist bald <style_element type="hb">nicht</style_element> mehr der Trainer vom HSV.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Der HSV ist ein Fußball·verein.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Der HSV spielt in der 2. Bundesliga.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">HSV ist die Abkürzung für <style_element type="hb">H</style_element>amburger <style_element type="hb">S</style_element>port-<style_element type="hb">V</style_element>erein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Hannes Wolf muss den HSV nämlich im Sommer verlassen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der HSV hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Wir haben gedacht:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Wir steigen in die 1. Bundesliga auf.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber dann haben wir viele Spiele <style_element type="hb">nicht</style_element> gewonnen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb sind wir <style_element type="hb">nicht</style_element> in die 1. Bundesliga aufgestiegen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Der HSV sucht jetzt einen neuen Trainer.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Noch weiß <style_element type="hb">kein</style_element> Mensch:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Wer wird der neue Trainer?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Unfall mit besonderem Bus</subheadline>
+               <statement>In Hamburg war ein Unfall.</statement>
+               <explanation_marker>
+                  <statement>Der Unfall war mit einem Tour-Bus.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Tour-Bus ist ein Bus von Musikern.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Mit den Tour-Bussen fahren die Musiker zum Beispiel zu ihren Auftritten.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">In den Tour-Bussen können die Musiker auch schlafen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Dieser Tour-Bus ist von DJ Bobo.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">DJ Bobo ist ein Musiker aus der Schweiz.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei dem Unfall wurden 5 Menschen leicht verletzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Der Unfall war vor dem Elb·tunnel.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Der Elb·tunnel ist ein großer Tunnel unter der Elbe.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Die Elbe ist ein großer Fluss.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Bei dem Unfall ist der Bus gegen ein Auto gefahren.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und der Bus hat das Auto gegen einen Lkw geschoben.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>DJ Bobo war <style_element type="hb">nicht</style_element> in dem Bus.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Mecklenburg-Vorpommern: Junge Menschen sammeln Müll</subheadline>
+               <statement>Viele junge Menschen haben auf Usedom Müll gesammelt.</statement>
+               <statement>Zum Beispiel viele Schüler.</statement>
+               <statement>Die jungen Menschen waren an 10 Orten.</statement>
+               <statement>Und die jungen Menschen haben den Müll am Strand gesammelt.</statement>
+               <statement>Der Strand von Usedom ist 42 Kilometer lang.</statement>
+               <statement>Auch Politiker waren auf Usedom.</statement>
+               <explanation_marker>
+                  <statement>Zum Beispiel Manuela Schwesig.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Manuela Schwesig ist die Ministerpräsident von Mecklenburg-Vorpommern.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Eine Minister·präsidentin ist die Chefin von einem Bundes·land.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Manuela Schwesig hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Sehr viele junge Menschen sammeln Müll am Strand von Usedom.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Darüber freue ich mich sehr.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>So viele Menschen haben in Deutschland <style_element type="hb">noch nie</style_element> an einem Strand Müll gesammelt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

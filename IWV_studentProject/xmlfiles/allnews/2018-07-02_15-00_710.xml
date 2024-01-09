@@ -1,0 +1,213 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-19" url="2018-07-02_15-00_710.xml">
+   <title>Wichtige Auszeichnung für Haithabu</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-07-02_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-07-02_15-00_710-full.png" type="screenshot" url="2018-07-02_15-00_710-full.png"/>
+      <resource id="2" name="2018-07-02_15-00_710_plaintext.txt" type="plaintext" url="2018-07-02_15-00_710_plaintext.txt"/>
+      <resource id="3" name="2018-07-02_15-00_710_quellcode.txt" type="sourcecode" url="2018-07-02_15-00_710_quellcode.txt"/>
+      <resource id="4" name="2018-07-02_15-00_710.docx" type="formatedText" url="2018-07-02_15-00_710.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Wichtige Auszeichnung für Haithabu</headline>
+      <sections>
+         <section id="1">
+            <statement>Ein besonderer Ort in Schleswig-Holstein hat eine wichtige Auszeichnung bekommen.</statement>
+            <explanation_marker>
+               <statement>Dieser Ort ist jetzt ein Welt·kultur·erbe.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Zum Welt·kultur·erbe gehören zum Beispiel besondere Gebäude.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Gebäude sind meistens sehr alt.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Deshalb müssen Fach·leute diese Gebäude besonders gut schützen.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Dafür bekommen die Fach·leute besondere Hilfe.</style_element></statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement><style_element type="hi">Zum Beispiel Geld.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Der Ort ist in der Nähe von Schleswig.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Schleswig ist zwischen Kiel und Flensburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und der Ort heißt Haithabu.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist Haithabu?</subheadline>
+               <statement>Haithabu war früher ein Dorf.</statement>
+               <explanation_marker>
+                  <statement>Dieses Dorf war von den Wikingern.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Die Wikinger haben vor über 1000 Jahren gelebt.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Die meisten Wikinger haben in Nord·europa gelebt.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Einige von den Wikingern waren Seefahrer.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Viele Menschen hatten Angst vor diesen Seefahrern.</style_element></statement>
+                     </explanation>
+                     <explanation id="5">
+                        <statement><style_element type="hi">Diese Seefahrer haben nämlich zum Beispiel Dörfer überfallen.</style_element></statement>
+                     </explanation>
+                     <explanation id="6">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <statement><style_element type="hi">Aber die meisten Wikinger waren:</style_element></statement>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <headword><style_element type="hi">• Bauern.</style_element></headword>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <headword><style_element type="hi">• Oder Hand·werker.</style_element></headword>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Fach·leute haben in der Erde die Reste von dem Dorf gefunden.</statement>
+               <explanation_marker>
+                  <statement>Und die Fach·leute haben viele Dinge von den Wikingern ausgegraben.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <headword><style_element type="hi">• Werkzeug.</style_element></headword>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <headword><style_element type="hi">• Oder Schmuck.</style_element></headword>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Viele von den Dingen von den Wikingern sind in einem Museum.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">In einem Museum können Menschen besondere Dinge sehen.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Diese Dinge sind oft sehr alt.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und diese Dinge sind oft sehr wertvoll.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Fach·leute haben auch einige Häuser von den Wikingern nachgebaut.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Deshalb können Menschen in Haithabu sehen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>So haben die Wikinger gelebt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Die Auszeichnung</subheadline>
+               <explanation_marker>
+                  <statement>Die Auszeichnung ist von der UNESCO.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Die UNESCO ist eine Organisation.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">In der UNESCO sind viele Länder von der Welt.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Die UNESCO kümmert sich zum Beispiel um Kultur.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die UNESCO hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Haithabu ist ein besonderer Ort.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>So einen Ort gibt nur einmal auf der Welt.</statement>
+                     </speech>
+                     <speech id="3">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Nur in Haithabu können Menschen sehen:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>So haben die Wikinger gelebt.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="4">
+                        <statement>Das sollen die Menschen noch lange sehen können.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Deshalb wollen wir Haithabu besonders schützen.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Und deshalb ist Haithabu jetzt ein Welt·kultur·erbe.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Noch ein Welt·kultur·erbe</subheadline>
+               <statement>In Schleswig-Holstein gibt es noch ein anderes neues Welt·kultur·erbe.</statement>
+               <explanation_marker>
+                  <statement>Dieses Welt·kultur·erbe ist ein alter Wall.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Wall ist auf·geschüttete Erde.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Menschen haben den Wall gebaut.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Ein Wall ist sehr lang.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Dieser Wall heißt Danewerk.</statement>
+               <statement>Und dieser Wall ist auch von den Wikingern.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

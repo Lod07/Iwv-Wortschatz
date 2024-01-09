@@ -1,0 +1,192 @@
+<?xml version="1.0" ?>
+<annotation adate="" url="2020-08-20_14-00_60.xml">
+   <title>Bus mit Duschen für Menschen ohne Wohnung</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-12-06_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-12-06_14-00_60-full.png" type="screenshot" url="2019-12-06_14-00_60-full.png"/>
+      <resource id="2" name="2019-12-06_14-00_60_plaintext.txt" type="plaintext" url="2019-12-06_14-00_60_plaintext.txt"/>
+      <resource id="3" name="2019-12-06_14-00_60_quellcode.txt" type="sourcecode" url="2019-12-06_14-00_60_quellcode.txt"/>
+      <resource id="4" name="2019-12-06_14-00_60.docx" type="formatedText" url="2019-12-06_14-00_60.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>
+         Bus mit Duschen für Menschen ohne Wohnung
+      </headline>
+      <sections>
+         <section id="1">
+            <statement>
+               In Hamburg leben viele Menschen ohne Wohnung.
+            </statement>
+            <statement>
+               Diese Menschen bekommen jetzt eine besondere Hilfe.
+            </statement>
+            <statement>
+               Diese Menschen können jetzt nämlich in einem besonderen Bus duschen.
+            </statement>
+            <statement>
+               Und die Menschen bekommen in dem Bus saubere Kleidung.
+            </statement>
+            <statement>
+               Dafür müssen die Menschen <style_element type="hb">nichts</style_element> bezahlen.
+            </statement>
+            <statement>
+               Der Bus fährt an besondere Plätze in Hamburg.
+            </statement>
+            <statement>
+               An diesen Plätzen treffen sich Menschen ohne Wohnung.
+            </statement>
+            <statement>
+               Der Bus war früher ein normaler Linien·bus.
+            </statement>
+            <statement>
+               Dann hat eine Firma den Bus umgebaut.
+            </statement>
+            <statement>
+               Für den Umbau haben viele Menschen Geld gespendet.
+            </statement>
+            <statement>
+               Der Umbau war nämlich sehr teuer.
+            </statement>
+         </section>
+         <section id="2">
+            <subheadline>
+               Duschen ist wichtig
+            </subheadline>
+            <explanation_marker>
+               <statement>
+                  Die Idee für diesen besonderen Bus hatte Dominik Bloh.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Dominik Bloh hatte früher auch <style_element type="hb">keine</style_element> Wohnung.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">
+                           Deshalb hat Dominik Bloh viele Jahre auf der Straße gelebt.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">
+                           Aber jetzt lebt Dominik Bloh in einer Wohnung.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Dominik Bloh hat gesagt:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        Viele Menschen ohne Wohnung können sich <style_element type="hb">nicht</style_element> regelmäßig waschen.
+                     </statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>
+                        Aber auch diese Menschen wollen sich regelmäßig waschen.
+                     </statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>
+                        Waschen ist nämlich wichtig für die Gesundheit von einem Menschen.
+                     </statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>
+                        Menschen ohne Wohnung können sich nicht regelmäßig waschen?
+                     </statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>
+                        Dann werden diese Menschen krank.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>
+               Viele Menschen haben Geld gespendet
+            </subheadline>
+            <statement>
+               Dominik Bloh hat sich mit anderen Menschen zusammengetan.
+            </statement>
+            <statement>
+               Dann haben diese Menschen eine Organisation gegründet.
+            </statement>
+            <statement>
+               Und dann hat diese Organisation Spenden für den Bus gesammelt.
+            </statement>
+            <statement>
+               Zum Beispiel im Internet.
+            </statement>
+            <statement>
+               3500 Menschen haben für den Bus Geld gespendet.
+            </statement>
+            <statement>
+               Diese Menschen haben 140.000 Euro gespendet.
+            </statement>
+            <statement>
+               Mit diesem Geld hat eine Firma den Bus umgebaut.
+            </statement>
+            <statement>
+               Auch der Bus ist eine Spende.
+            </statement>
+            <explanation_marker>
+               <statement>
+                  Der Bus ist nämlich von der Hamburger Hochbahn.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Die Hamburger Hochbahn ist eine große Firma.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">
+                           Der Hamburger Hochbahn gehören alle U-Bahnen in Hamburg.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">
+                           Und der Hamburger Hochbahn gehören sehr viele Busse in Hamburg.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>
+               Jetzt braucht die Organisation noch mehr Geld.
+            </statement>
+            <statement>
+               Der Bus kostet nämlich jedes Jahr 60.000 Euro.
+            </statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

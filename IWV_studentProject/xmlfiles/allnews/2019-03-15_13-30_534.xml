@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-19" url="2019-03-15_13-30_534.xml">
+   <title>Mehr Nachrichten vom 15.03.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-03-15_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-03-15_13-30_534-full.png" type="screenshot" url="2019-03-15_13-30_534-full.png"/>
+      <resource id="2" name="2019-03-15_13-30_534_plaintext.txt" type="plaintext" url="2019-03-15_13-30_534_plaintext.txt"/>
+      <resource id="3" name="2019-03-15_13-30_534_quellcode.txt" type="sourcecode" url="2019-03-15_13-30_534_quellcode.txt"/>
+      <resource id="4" name="2019-03-15_13-30_534.docx" type="formatedText" url="2019-03-15_13-30_534.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 15.03.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Bremen: Wichtiger Fußball·spieler verletzt</subheadline> 
+               <explanation_marker>
+                  <statement>Claudio Pizarro kann einige Wochen <style_element type="hb">nicht</style_element> Fußball spielen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Claudio Pizarro ist ein Fußball·spieler.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und Claudio Pizarro spielt für Werder Bremen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Claudio Pizarro ist nämlich verletzt.</statement>
+               <statement>Claudio Pizarro hat seine Muskeln im Bein verletzt.</statement>
+               <statement>Der Trainer von Werder Bremen ist Florian Kohfeldt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Florian Kohfeldt hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Claudio Pizarro soll schnell wieder gesund werden.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Vielleicht kann Claudio Pizarro im April wieder für uns spielen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Masern an mehreren Schulen</subheadline>
+               <explanation_marker>
+                  <statement>In Hildesheim haben einige Menschen die Masern.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Die Masern sind eine gefährliche Krankheit.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Und die Masern sind sehr ansteckend.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <question><style_element type="hi">Hat ein Mensch die Masern?</style_element></question>
+                              </explanation>
+                              <explanation id="3">
+                                 <question><style_element type="hi">Und hat dieser Mensch Kontakt mit anderen Menschen?</style_element></question>
+                              </explanation>
+                              <explanation id="4">
+                                 <statement><style_element type="hi">Dann bekommen diese Menschen vielleicht auch die Masern.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Zum Beispiel Schüler von einer Schule in Hildesheim.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Jetzt ist klar:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Auch an 2 anderen Schulen in Hildesheim haben Schüler die Masern.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <explanation_marker>
+                  <statement>Deshalb dürfen jetzt nur noch Menschen mit einer Impfung zu den Schulen kommen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Impfung schützt den Körper vor einer bestimmten Krankheit.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Eine Impfung macht ein Arzt.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Eine Impfung ist zum Beispiel in einer Spritze.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Mit dieser Spritze spritzt der Arzt die Impfung in den Körper.</style_element></statement>
+                     </explanation>
+                     <explanation id="5">
+                        <statement><style_element type="hi">Dann kann der Mensch eine bestimmte Krankheit <style_element type="hb">nicht</style_element> mehr bekommen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker> 
+         </section>
+         <section id="3">
+            <statement>Zu den Masern in Hildesheim gibt es noch einen Text in Leichter Sprache.</statement>
+            <statement>Diesen Text können Sie hier lesen.</statement>
+            <headword>Oder hören.</headword>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

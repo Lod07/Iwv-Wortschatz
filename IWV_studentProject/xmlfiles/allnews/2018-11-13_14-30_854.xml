@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-08" url="2018-11-13_14-30_854.xml">
+   <title>Mehr Nachrichten vom 13.11.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-11-13_14-30</vdate>
+   <resources>
+      <resource id="1" name="2018-11-13_14-30_854-full.png" type="screenshot" url="2018-11-13_14-30_854-full.png"/>
+      <resource id="2" name="2018-11-13_14-30_854_plaintext.txt" type="plaintext" url="2018-11-13_14-30_854_plaintext.txt"/>
+      <resource id="3" name="2018-11-13_14-30_854_quellcode.txt" type="sourcecode" url="2018-11-13_14-30_854_quellcode.txt"/>
+      <resource id="4" name="2018-11-13_14-30_854.docx" type="formatedText" url="2018-11-13_14-30_854.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 13.11.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Großer Polizei·einsatz</subheadline>
+            <statement>In Hamburg haben Bau·arbeiter eine Bombe gefunden.</statement>
+            <statement>Deshalb ist in Hamburg ein großer Polizei·einsatz.</statement>
+            <explanation_marker>
+               <statement>Die Bombe ist im Schanzen·viertel.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Das Schanzen·viertel ist mitten in Hamburg.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und im Schanzen·viertel leben sehr viele Menschen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Bombe ist aus dem 2. Welt·krieg.</statement>
+            <statement>Fach·leute haben die Bombe unter·sucht.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Dann haben die Fach·leute gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Bombe ist sehr gefährlich.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die Bombe kann nämlich explodieren.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb müssen wir die Bombe schnell entschärfen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt müssen die Fach·leute untersuchen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wie können wir die Bombe schnell entschärfen?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <explanation_marker>
+               <statement>Die Polizei evakuiert viele Häuser im Schanzen·viertel.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Viele Menschen müssen ihre Häuser verlassen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und die Polizei sperrt auch einige Straßen.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Niedersachsen: Kamele vor Super·markt</subheadline>
+            <explanation_marker>
+               <statement>In Bergen waren 7 Kamele vor einem Super·markt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Kamele sind große Tiere.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Auf Kamelen können Menschen reiten.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Kamele leben oft in der Wüste.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Kamele sind von einem Zirkus.</statement>
+            <statement>Und diese Kamele sind aus dem Zirkus weggelaufen.</statement>
+            <statement>Menschen haben die Kamele vor dem Super·markt gesehen.</statement>
+            <statement>Dann haben die Menschen die Polizei gerufen.</statement>
+            <statement>Und die Polizei hat bei dem Zirkus angerufen.</statement>
+            <statement>Dann ist ein Arbeiter von dem Zirkus zu dem Super·markt gefahren.</statement>
+            <statement>Und der Arbeiter hat die Kamele zurück in den Zirkus gebracht.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

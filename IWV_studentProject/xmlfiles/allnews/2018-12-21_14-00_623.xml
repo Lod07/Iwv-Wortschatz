@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-19" url="2018-12-21_14-00_623.xml">
+   <title>Firma hat Berg·werk geschlossen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-12-21_14-00</vdate>
+   <resources>
+      <resource id="1" name="2018-12-21_14-00_623-full.png" type="screenshot" url="2018-12-21_14-00_623-full.png"/>
+      <resource id="2" name="2018-12-21_14-00_623_plaintext.txt" type="plaintext" url="2018-12-21_14-00_623_plaintext.txt"/>
+      <resource id="3" name="2018-12-21_14-00_623_quellcode.txt" type="sourcecode" url="2018-12-21_14-00_623_quellcode.txt"/>
+      <resource id="4" name="2018-12-21_14-00_623.docx" type="formatedText" url="2018-12-21_14-00_623.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Firma hat Berg·werk geschlossen</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Niedersachsen hat eine Firma ein großes Berg·werk geschlossen.</statement>
+               <explanations>
+                  <explanation id="1">
+                    <statement><style_element type="hi">Ein Berg·werk ist meistens unter der Erde.</style_element></statement> 
+                  </explanation>
+                  <explanation id="2">
+                    <statement><style_element type="hi">Ein Berg·werk hat viele Tunnel.</style_element></statement> 
+                  </explanation>
+                  <explanation id="3">
+                    <statement><style_element type="hi">In einem Berg·werk arbeiten viele Arbeiter.</style_element></statement> 
+                  </explanation>
+                  <explanation id="4">
+                    <statement><style_element type="hi">Diese Arbeiter holen zum Beispiel Kohle aus der Erde.</style_element></statement> 
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Das Berg·werk ist von der Firma K+S.</statement>
+            <explanation_marker>
+               <statement>Und das Berg·werk ist in Wunstorf.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Wunstorf ist in der Nähe von Hannover.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>In diesem Berg·werk haben Arbeiter Salz abgebaut.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Arbeiter haben das Salz aus der Erde geholt.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieses Salz heißt Kali·salz.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Aus Kali·salz machen Menschen Dünger.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Mit Dünger wachsen Pflanzen besser.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Zum Beispiel auf Feldern.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Zu wenig Kali·salz im Berg·werk</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>K+S hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In dem Berg·werk haben Arbeiter 120 Jahre lang Kali·salz abgebaut.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber jetzt ist in dem Berg·werk in Wunstorf ist <style_element type="hb">nicht</style_element> mehr viel Kali·salz.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und der Abbau von dem wenigen Kali·salz ist sehr schwierig.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb haben wir das Berg·werk geschlossen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>K+S hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In dem Berg·werk haben 660 Menschen gearbeitet.</statement>
+                  </speech>
+                  <speech id="2"> 
+                     <statement>Diese Menschen sollen <style_element type="hb">nicht</style_element> arbeitslos sein.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb wollen wir diesen Menschen helfen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Einige Menschen können weiter in dem Berg·werk arbeiten.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Diese Menschen sollen zum Beispiel das Berg·werk sicher machen.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Und einige Menschen können in anderen Berg·werken arbeiten.</statement>
+                  </speech>
+                  <speech id="7">
+                     <statement>Oder in Rente gehen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

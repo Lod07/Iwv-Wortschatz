@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-24" url="2020-01-28_15-30_102.xml">
+   <title>Neue Krankheit: Besondere Vorbereitungen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-01-28_15-30</vdate>
+   <resources>
+      <resource id="1" name="2020-01-28_15-30_102-full.png" type="screenshot" url="2020-01-28_15-30_102-full.png"/>
+      <resource id="2" name="2020-01-28_15-30_102_plaintext.txt" type="plaintext" url="2020-01-28_15-30_102_plaintext.txt"/>
+      <resource id="3" name="2020-01-28_15-30_102_quellcode.txt" type="sourcecode" url="2020-01-28_15-30_102_quellcode.txt"/>
+      <resource id="4" name="2020-01-28_15-30_102.docx" type="formatedText" url="2020-01-28_15-30_102.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Neue Krankheit: Besondere Vorbereitungen</headline>
+      <sections>
+         <section id="1">
+            <statement>In Nord·deutschland sind besondere Vorbereitungen.</statement>
+            <statement>Diese Vorbereitungen sind zum Beispiel in Kranken·häusern.</statement>
+            <statement>Und diese Vorbereitungen sind für eine neue Krankheit.</statement>
+            <explanation_marker>
+               <statement>Diese neue Krankheit ist eine Lungen·krankheit.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die Lunge ist ein Organ.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Lunge ist wichtig für das Atmen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und diese neue Krankheit kommt von einem Virus.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Ein Virus ist ein Krankheits·erreger.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword>Das heißt:</headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>Ein Virus kann Menschen krank machen.</statement>
+                           </explanation>
+                           <explanation id="3">
+                              <headword>Und Tiere.</headword>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Und ein Virus ist sehr ansteckend.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <question><style_element type="hi">Hat ein Mensch ein Virus?</style_element></question>
+                           </explanation>
+                           <explanation id="3">
+                              <question><style_element type="hi">Und hat dieser Mensch Kontakt mit anderen Menschen?</style_element></question>
+                           </explanation>
+                           <explanation id="4">
+                              <statement><style_element type="hi">Dann bekommen diese Menschen vielleicht auch dieses Virus.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieses Virus heißt Corona-Virus.</statement>
+            <explanation_marker>
+               <statement>Das Corona-Virus ist aus China.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">China ist ein Land in Asien.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <statement>In China sind schon einige Menschen an dem Virus gestorben.</statement>
+            <statement>Und in China sind schon viele Menschen von dem Virus krank geworden.</statement>
+            <statement>Diese Menschen haben zum Beispiel Fieber.</statement>
+            <headword>Und Husten.</headword>
+            <statement>Einige von diesen Menschen haben andere Menschen mit dem Virus angesteckt.</statement>
+            <statement>Deshalb sind diese anderen Menschen auch krank geworden.</statement>
+            <statement>Diese anderen Menschen sind aus verschiedenen Ländern.</statement>
+            <statement>Auch ein Mann aus Deutschland ist von dem Virus krank geworden.</statement>
+            <statement>Dieser Mann ist aus Bayern.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Kranken·häuser sind gut vorbereitet</subheadline>
+               <statement>In Nord·deutschland hat noch <style_element type="hb">kein</style_element> Mensch das Virus.</statement> 
+               <statement>Aber vielleicht hat bald ein Mensch aus Nord·deutschland das Virus.</statement>
+               <statement>Deshalb bereiten sich die Kranken·häuser in Nord·deutschland auf das Virus vor.</statement>
+               <question>Hat ein Mensch in Nord·deutschland das Virus?</question>
+               <statement>Dann erkennen die Ärzte in den Kranken·häusern das wahrscheinlich schnell.</statement>
+               <statement>Dann können die Ärzte sich schnell um den Menschen kümmern.</statement>
+               <statement>Und die Ärzte können den Menschen gut versorgen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Viele Kranken·häuser in Deutschland sind gut auf das Virus vorbereitet.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Auch Kranken·häuser in Bayern.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb können die Ärzte den kranken Mann aus Bayern gut versorgen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und deshalb erholt sich der Mann gut.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Der Mann hat zum Beispiel <style_element type="hb">kein</style_element> Fieber mehr.</statement> 
+                     </speech>
+                     <speech id="6">
+                        <statement>Die Menschen in Deutschland müssen <style_element type="hb">keine</style_element> Angst haben.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker> 
+         </section>
+      </sections>
+   </content>
+</annotation>

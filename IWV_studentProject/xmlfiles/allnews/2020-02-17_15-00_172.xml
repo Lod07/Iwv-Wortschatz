@@ -1,0 +1,275 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2020-02-17_15-00_172.xml">
+   <title>Fernseh-Duell vor der Bürgerschafts·wahl</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-02-17_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-02-17_15-00_172-full.png" type="screenshot" url="2020-02-17_15-00_172-full.png"/>
+      <resource id="2" name="2020-02-17_15-00_172_plaintext.txt" type="plaintext" url="2020-02-17_15-00_172_plaintext.txt"/>
+      <resource id="3" name="2020-02-17_15-00_172_quellcode.txt" type="sourcecode" url="2020-02-17_15-00_172_quellcode.txt"/>
+      <resource id="4" name="2020-02-17_15-00_172.docx" type="formatedText" url="2020-02-17_15-00_172.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Fernseh-Duell vor der Bürgerschafts·wahl</headline>
+      <sections>
+         <section id="1">
+            <statement>Im NDR ist bald eine besondere Fernseh·sendung.</statement>
+            <statement>Diese Fernseh·sendung ist am 18. Februar.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Und bei dieser Fernseh·sendung sind 2 wichtige Politiker:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <explanation_marker>
+                        <headword>• Peter Tschentscher</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement>Peter Tschentscher ist von der SPD.</statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement>
+                                          <style_element type="hi">SPD ist die Abkürzung für <style_element type="hb">S</style_element>ozial·demokratische <style_element type="hb">P</style_element>rtei <style_element type="hb">D</style_element>eutschlands.</style_element>
+                                       </statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                           <explanation id="2">
+                           <explanation_marker>
+                              <statement>Und Peter Tschentscher ist der Bürgermeister von Hamburg.</statement>
+                              <explanations>
+                                 <explanation id="1">
+                                    <statement>
+                                       <style_element type="hi">Ein Bürgermeister ist der Chef von einer Stadt.</style_element>
+                                    </statement>
+                                 </explanation>
+                              </explanations>
+                           </explanation_marker>
+                        </explanation>
+                     </explanations>
+                  </explanation_marker>
+                     </enumeration>
+                     <enumeration id="2">
+                        <explanation_marker>
+                           <statement>• Und Katharina Fegebank.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement>Katharina Fegebank ist von den Grünen.</statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <explanation_marker>
+                                    <statement>Und Katharina Fegebank ist die Zweite Bürgermeisterin von Hamburg.</statement>
+                                    <explanations>
+                                       <explanation id="1">
+                                          <explanation_marker>
+                                             <statement>
+                                                <style_element type="hi">Der Zweite Bürgermeister vertritt den Bürgermeister.</style_element>
+                                             </statement>
+                                             <explanations>
+                                                <explanation id="1">
+                                                   <headword>
+                                                      <style_element type="hi">Das heißt:</style_element>
+                                                   </headword>
+                                                </explanation>
+                                                <explanation id="1">
+                                                   <enumeration_marker>
+                                                      <enumeration_intro>
+                                                         <statement>
+                                                            <style_element type="hi">Der Zweite Bürger·meister übernimmt die Aufgaben von dem Bürger·meister:</style_element>
+                                                         </statement>
+                                                      </enumeration_intro>
+                                                      <enumerations>
+                                                         <enumeration id="1">
+                                                            <statement>
+                                                               <style_element type="hi">• Wenn der Bürger·meister krank ist.</style_element>
+                                                            </statement>
+                                                         </enumeration>
+                                                         <enumeration id="1">
+                                                            <statement>
+                                                               <style_element type="hi">• Oder wenn der Bürger·meister andere Termine hat.</style_element>
+                                                            </statement>
+                                                         </enumeration>
+                                                      </enumerations>
+                                                   </enumeration_marker>
+                                                </explanation>
+                                             </explanations>
+                                          </explanation_marker>
+                                       </explanation>
+                                    </explanations>
+                                 </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <explanation_marker>
+               <statement>Diese Fernseh·sendung ist ein Fernseh-Duell.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Ein Duell ist ein Zwei·kampf.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Im Fernseh-Duell sprechen die 2 Politiker über die Politik in Hamburg.</statement>
+            <statement>In Hamburg ist nämlich bald eine Bürgerschafts·wahl.</statement>
+         </section>
+         <section id="2">
+            <statement>Zur Bürgerschafts·wahl gibt es noch einen Text in Leichter Sprache.</statement>
+            <question>Sie möchten diesen Text lesen?</question>
+            <statement>
+               <ref>
+                  <style_element type="hu">Dann klicken Sie hier.</style_element>
+               </ref>
+            </statement>
+         </section>
+         <section id="3">
+            <statement>Bei der Bürgerschafts·wahl wollen die 2 Politiker mit ihren Parteien gewinnen.</statement>
+            <statement>Und dann wollen die 2 Politiker Bürgermeister von Hamburg werden.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Deshalb sagen die 2 Politiker im Fernseh-Duell:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Diese Politik will ich machen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die 2 Politiker wollen die Menschen in Hamburg nämlich überzeugen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Meine Partei macht die beste Politik.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Wählt meine Partei.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Das Fernseh-Duell ist am 18. Februar.</statement>
+            <statement>Und das Fernseh-Duell beginnt um 21 Uhr.</statement>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <headword>Fach·leute glauben:</headword>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die SPD und die Grünen bekommen die meisten Stimmen bei der Bürgerschafts·wahl.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb ist der neue Bürgermeister von der SPD.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Oder von den Grünen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="5">
+            <subheadline>Die anderen Parteien</subheadline>
+            <statement>Vor dem Fernseh-Duell mit den 2 Politikern ist eine andere besondere Fernseh·sendung.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Bei dieser Fernseh·sendung sind 4 wichtige Politiker:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                    <explanation_marker>
+                       <headword>• Marcus Weinberg.</headword>
+                       <explanations>
+                          <explanation id="1">
+                             <explanation_marker>
+                                <statement>Marcus Weinberg ist von der CDU.</statement>
+                                <explanations>
+                                   <explanation id="1">
+                                      <statement><style_element type="hi">CDU ist die Abkürzung für <style_element type="hb">C</style_element>hristlich <style_element type="hb">D</style_element>emokratische <style_element type="hb">U</style_element>nion.</style_element></statement>
+                                   </explanation>
+                                </explanations>
+                             </explanation_marker>
+                          </explanation>
+                       </explanations>
+                    </explanation_marker>
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <headword>• Cansu Özdemir.</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>Cansu Özdemir ist von den Grünen.</statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="3">
+                     <explanation_marker>
+                        <statement>• Anna von Treuenfels.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement>Anna von Treuenfels ist von der FDP.</statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">FDP ist die Abkürzung für <style_element type="hb">F</style_element>reie <style_element type="hb">D</style_element>emokratische <style_element type="hb">P</style_element>artei.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="4">
+                     <explanation_marker>
+                        <statement>• Und Dirk Nockemann.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement>Dirk Nockemann ist von der AfD.</statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">AfD ist die Abkürzung für <style_element type="hb">A</style_element>lternative <style_element type="hb">f</style_element>ür <style_element type="hb">D</style_element>eutschland.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>  
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Diese 4 Politiker wollen die Menschen in Hamburg auch überzeugen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Meine Partei macht die beste Politik.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Wählt meine Partei.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Diese Fernseh·sendung ist auch am 18. Februar.</statement>
+            <statement>Und diese Fernseh·sendung beginnt um 18 Uhr.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

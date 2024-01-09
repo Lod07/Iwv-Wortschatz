@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-24" url="2018-08-20_15-00_793.xml">
+   <title>Fähre fährt nicht mehr</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-08-20_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-08-20_15-00_793-full.png" type="screenshot" url="2018-08-20_15-00_793-full.png"/>
+      <resource id="2" name="2018-08-20_15-00_793_plaintext.txt" type="plaintext" url="2018-08-20_15-00_793_plaintext.txt"/>
+      <resource id="3" name="2018-08-20_15-00_793_quellcode.txt" type="sourcecode" url="2018-08-20_15-00_793_quellcode.txt"/>
+      <resource id="4" name="2018-08-20_15-00_793.docx" type="formatedText" url="2018-08-20_15-00_793.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Fähre fährt nicht mehr</headline>
+      <sections>
+         <section id="1">
+            <statement>In diesem Sommer war es lange heiß.</statement>
+            <statement>Und in diesem Sommer war wenig Regen.</statement>
+            <explanation_marker>
+               <statement>Deshalb ist in der Elbe sehr wenig Wasser.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die Elbe ist ein großer Fluss.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Elbe fließt zum Beispiel durch Niedersachsen.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Dann fließt die Elbe in die Nordsee.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und deshalb können einige Schiffe <style_element type="hb">nicht</style_element> mehr auf der Elbe fahren.</statement>
+            <explanation_marker>
+               <statement>Zum Beispiel in der Nähe von Lüneburg.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Lüneburg ist eine Stadt in Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>In der Nähe von Lüneburg fährt seit Sonntag·abend <style_element type="hb">keine</style_element> Fähre mehr.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Fähre transportiert Menschen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <headword><style_element type="hi">Oder Autos.</style_element></headword>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Weite Wege für viele Menschen</subheadline>
+               <statement>Viele Menschen müssen jeden Tag über die Elbe fahren.</statement>
+               <statement>Diese Menschen fahren nämlich zum Beispiel zur Arbeit.</statement>
+               <statement>Jetzt können diese Menschen <style_element type="hb">nicht</style_element> mehr mit der Fähre über die Elbe fahren.</statement>
+               <statement>Und diese Menschen müssen bis zur nächsten Brücke fahren.</statement>
+               <statement>Die nächste Brücke ist aber weit weg.</statement>
+               <statement>Deshalb müssen die Menschen lange Strecken fahren.</statement>
+               <statement>Das dauert sehr lange.</statement>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In der Nähe von Lüneburg ist sehr wenig Wasser in der Elbe.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>So wenig Wasser war seit über 70 Jahren <style_element type="hb">nicht</style_element> mehr in der Elbe.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Wir müssen jetzt auf Regen warten.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Regen bringt nämlich wieder Wasser in die Elbe.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Und dann können wieder Fähren über die Elbe fahren.</statement>
+                  </speech>
+                  <speech id="6">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Aber wir wissen <style_element type="hb">nicht</style_element>:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Wann regnet es wieder?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

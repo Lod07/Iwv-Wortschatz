@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-20" url="2019-04-04_13-30_492.xml">
+   <title>Mehr Nachrichten vom 04.04.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-04-04_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-04-04_13-30_492-full.png" type="screenshot" url="2019-04-04_13-30_492-full.png"/>
+      <resource id="2" name="2019-04-04_13-30_492_plaintext.txt" type="plaintext" url="2019-04-04_13-30_492_plaintext.txt"/>
+      <resource id="3" name="2019-04-04_13-30_492_quellcode.txt" type="sourcecode" url="2019-04-04_13-30_492_quellcode.txt"/>
+      <resource id="4" name="2019-04-04_13-30_492.docx" type="formatedText" url="2019-04-04_13-30_492.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 04.04.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Polizist muss ins Gefängnis </subheadline>
+               <statement>Ein Gericht in Hamburg hat einen Mann verurteilt.</statement>
+               <statement>Dieser Mann ist 31 Jahre alt.</statement>
+               <statement>Und dieser Mann hat als Polizist gearbeitet.</statement>
+               <statement>Der Polizist muss jetzt für 3 Jahre und 8 Monate ins Gefängnis.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Das Gericht hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Viele Menschen haben besonderes Vertrauen in Polizisten.</statement>
+                     </speech>
+                     <speech id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Diese Menschen glauben zum Beispiel:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Polizisten beschützen andere Menschen.</statement>
+                              </speech>
+                              <speech id="2">
+                                 <statement>Und Polizisten helfen anderen Menschen.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Aber dieser Polizist hat das Vertrauen von den Menschen missbraucht.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Der Polizist hat nämlich Geld aus einer Wohnung gestohlen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Und der Polizist hat mit Verbrechern zusammen·gearbeitet.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Diese Verbrecher haben zum Beispiel gestohlen.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Deshalb verurteilen wir den Polizisten.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Nord·deutschland: HSV und Bremen im Halb·finale</subheadline>
+               <explanation_marker>
+                  <statement>2 Fußball·vereine aus Nord·deutschland sind im DFB-Pokal sehr erfolgreich.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Der DFB-Pokal ist ein wichtiger Wettbewerb im Fußball.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi"><style_element type="hb">DFB</style_element> ist die Abkürzung für <style_element type="hb">D</style_element>eutscher <style_element type="hb">F</style_element>ußball-<style_element type="hb">B</style_element>und.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Im DFB-Pokal spielen nur deutsche Fußball·vereine.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Diese 2 Fußball·vereine sind:</statement> 
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Werder Bremen.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <explanation_marker>
+                           <statement>• Und der HSV.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi"><style_element type="hb">HSV</style_element> ist die Abkürzung für <style_element type="hb">H</style_element>amburger <style_element type="hb">S</style_element>port-<style_element type="hb">V</style_element>erein.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <explanation_marker>
+                  <statement>Diese 2 Fußball·vereine sind nämlich im Halb·finale.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Jetzt spielen nur noch 4 Mannschaften im DFB-Pokal.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Am Sonntag wissen die Mannschaften:</statement>
+               <question>Gegen welche Mannschaft spielen wir im Halb·finale?</question>
+               <statement>Am Sonntag ist nämlich die Auslosung vom Halb·finale.</statement>
+               <statement>Die ARD zeigt die Auslosung im Fernsehen.</statement>
+               <statement>Die Auslosung ist in der Sendung Sportschau.</statement>
+               <statement>Die Sportschau ist am Sonntag um 18 Uhr.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Hamburg: Frau schwer verletzt</subheadline>
+               <explanation_marker>
+                  <statement>In Barmbek war ein großes Feuer.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Barmbek ist ein Stadt·teil von Hamburg.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Das Feuer war in einem Haus mit mehreren Wohnungen.</statement>
+               <statement>Bei dem Feuer wurde eine Frau schwer verletzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Das Feuer war in der Wohnung von der Frau.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Bei dem Feuer war sehr viel Rauch.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb ist die Frau wahrscheinlich aus dem Fenster gesprungen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Bei dem Feuer wurde die Wohnung von der Frau zerstört.</statement>
+               <statement>Jetzt ermittelt die Polizei.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei will nämlich wissen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Wie ist das Feuer in der Wohnung von der Frau entstanden?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

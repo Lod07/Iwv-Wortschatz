@@ -1,0 +1,224 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-19" url="2019-03-26_13-30_524.xml">
+   <title>Mehr Nachrichten vom 26.03.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-03-26_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-03-26_13-30_524-full.png" type="screenshot" url="2019-03-26_13-30_524-full.png"/>
+      <resource id="2" name="2019-03-26_13-30_524_plaintext.txt" type="plaintext" url="2019-03-26_13-30_524_plaintext.txt"/>
+      <resource id="3" name="2019-03-26_13-30_524_quellcode.txt" type="sourcecode" url="2019-03-26_13-30_524_quellcode.txt"/>
+      <resource id="4" name="2019-03-26_13-30_524.docx" type="formatedText" url="2019-03-26_13-30_524.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 26.03.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Nord·deutschland: Bomben·drohungen in Rathäusern</subheadline>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>In 2 Städten in Nord·deutschland waren Bomben·drohungen:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <explanation_marker>
+                           <headword>• In Göttingen.</headword>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Göttingen ist eine Stadt in Niedersachsen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                     <enumeration id="2">
+                        <explanation_marker>
+                           <statement>• Und in Rendsburg.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Rendsburg ist eine Stadt in Schleswig-Holstein.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>In den 2 Städten hat die Polizei gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ein Mensch hat eine E-Mail geschickt.</statement>
+                     </speech>
+                     <speech id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>In der E-Mail steht:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Ich habe im Rathaus eine Bombe versteckt.</statement>
+                              </speech>
+                              <speech id="2">
+                                 <statement>Und ich lasse die Bombe explodieren.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Deshalb mussten alle Menschen die Rathäuser verlassen.</statement>
+               <statement>Die Polizei hat die Rathäuser durchsucht.</statement>
+               <statement>Aber die Polizei hat <style_element type="hb">keine</style_element> Bombe gefunden.</statement>
+               <statement>Deshalb dürfen Menschen jetzt wieder in die Rathäuser.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei weiß <style_element type="hb">nicht</style_element>:</statement> 
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Wer hat die Bomben·drohungen geschickt?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Herings·fest abgesagt</subheadline>
+               <explanation_marker>
+                  <statement>In Warnemünde ist jedes Jahr ein besonderes Fest.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Warnemünde ist ein Stadt·teil von Rostock.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und Warnemünde ist an der Ostsee.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Dieses Fest heißt Herings·fest.</statement>
+               <explanation_marker>
+                  <statement>Auf dem Herings·fest verkaufen Menschen viele Heringe.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Heringe sind Fische.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Viele Menschen essen gerne Heringe.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker> 
+               <statement>Fischer fangen die Heringe in der Ostsee.</statement>
+               <statement>Aber dieses Jahr ist <style_element type="hb">kein</style_element> Herings·fest.</statement>
+               <statement>Die Fischer haben nämlich zu wenige Heringe gefangen.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Mecklenburg-Vorpommern: Fach·leute entschärfen Bombe</subheadline>
+               <explanation_marker>
+                  <statement>Die Innen·stadt von Rostock wird am Mittwoch evakuiert.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">In der Innen·stadt dürfen <style_element type="hb">keine</style_element> Menschen sein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bauarbeiter haben nämlich eine Bombe gefunden.</statement>
+               <statement>Diese Bombe ist aus dem Zweiten Welt·krieg.</statement>
+               <statement>Und die Bombe ist sehr gefährlich.</statement>
+               <statement>Die Bombe kann nämlich immer noch explodieren.</statement>
+               <explanation_marker>
+                  <statement>Deshalb muss die Bombe jetzt entschärft werden.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Fach·leute machen die Bombe ungefährlich.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Dann kann die Bombe <style_element type="hb">nicht</style_element> mehr explodieren.</statement> 
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Entschärfung von der Bombe ist gefährlich.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Die Bombe kann dabei nämlich explodieren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Deshalb darf <style_element type="hb">niemand</style_element> in der Nähe von der Bombe sein.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="4">
+            <subheadline>Hamburg:  Frau muss lange ins Gefängnis</subheadline>
+               <statement>Ein Gericht hat eine Frau verurteilt.</statement>
+               <statement>Diese Frau ist 40 Jahre alt.</statement>
+               <explanation_marker>
+                  <statement>Die Frau muss lebens·lang ins Gefängnis.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Die Frau muss für mindestens 15 Jahre ins Gefängnis.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und die Frau kommt vielleicht <style_element type="hb">nie</style_element> wieder frei.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker> 
+               <explanation_marker>
+                  <statement>Die Frau hat nämlich eine Seniorin überfallen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Seniorin ist eine alte Frau.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Frau hat die Seniorin mit einem Messer schwer verletzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Das Gericht hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Frau war bei dem Überfall sehr brutal.</statement>
+                     </speech>
+                     <speech id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <headword>Wir glauben:</headword>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Die Frau wollte die Seniorin töten.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb muss die Frau sehr lange ins Gefängnis.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

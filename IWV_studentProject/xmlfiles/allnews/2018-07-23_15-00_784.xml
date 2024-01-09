@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-23" url="2018-07-23_15-00_784.xml">
+   <title>Feuerwehr Nienburg hilft in Schweden</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-07-23_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-07-23_15-00_784-full.png" type="screenshot" url="2018-07-23_15-00_784-full.png"/>
+      <resource id="2" name="2018-07-23_15-00_784_plaintext.txt" type="plaintext" url="2018-07-23_15-00_784_plaintext.txt"/>
+      <resource id="3" name="2018-07-23_15-00_784_quellcode.txt" type="sourcecode" url="2018-07-23_15-00_784_quellcode.txt"/>
+      <resource id="4" name="2018-07-23_15-00_784.docx" type="formatedText" url="2018-07-23_15-00_784.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Feuerwehr Nienburg hilft in Schweden</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>52 Feuerwehr·leute sind nach Schweden gefahren.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Schweden ist ein Land in Nord·europa.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die 52 Feuerwehr·leute kommen aus Nienburg.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Nienburg ist eine Stadt in Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und die 52 Feuerwehr·leute sollen den Feuerwehr·leuten in Schweden helfen.</statement>
+            <explanation_marker>
+               <statement>In Schweden sind nämlich viele Wald·brände.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bei einem Wald·brand brennen viele Bäume in einem Wald.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Ein Wald·brand entsteht zum Beispiel bei sehr trockenen Böden.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Feuerwehr·leute müssen diese Wald·brände löschen.</statement>
+            <statement>Aber es sind sehr viele Wald·brände in Schweden.</statement>
+            <statement>Deshalb können die Feuerwehr·leute in Schweden die Wald·brände <style_element type="hb">nicht</style_element> alleine löschen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Und deshalb haben die Feuerwehr·leute in Schweden gefragt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wer kann uns helfen?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Hilfe aus vielen Ländern</subheadline>
+               <statement>Die 52 Feuerwehr·leute sind mit 9 großen Lösch·fahrzeugen nach Schweden gefahren.</statement>
+               <statement>Mit diesen 9 großen Lösch·fahrzeugen wollen die 52 Feuerwehr·leute jetzt löschen.</statement>
+               <statement>Auch aus anderen Ländern sind Feuerwehr·leute nach Schweden gefahren.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Zum Beispiel aus:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Polen.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <headword>• Italien.</headword>
+                     </enumeration>
+                     <enumeration id="3">
+                        <headword>• Und Frankreich.</headword>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Einige Feuerwehr·leute sind mit Lösch·flugzeugen nach Schweden geflogen.</statement>
+               <statement>Die Lösch·flugzeuge sollen die Wald·brände aus der Luft löschen.</statement>
+         </section>
+         <section id="3">
+            <explanation_marker>
+               <statement>Der Innen·minister von Niedersachsen ist Boris Pistorius.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Innen·minister ist ein wichtiger Politiker.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement><style_element type="hi">Ein Innen·minister kümmert sich zum Beispiel:</style_element></statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <statement><style_element type="hi">• Um die Polizei.</style_element></statement>
+                           </enumeration>
+                           <enumeration id="2">
+                              <statement><style_element type="hi">• Und um die Feuerwehr.</style_element></statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Boris Pistorius hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die 52 Feuerwehr·leute aus Nienburg bleiben eine Woche in Schweden.</statement>
+                  </speech>
+                  <speech id="2">
+                     <explanation_marker>
+                        <question>Brauchen die Feuerwehr·leute in Schweden noch mehr Hilfe?</question>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement>Dann fahren auch noch Feuerwehr·leute aus Hannover nach Schweden.</statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">Hannover ist die Haupt·stadt von Niedersachsen.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>Wir helfen nämlich sehr gerne in Schweden.</statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

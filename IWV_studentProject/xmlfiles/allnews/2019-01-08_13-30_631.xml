@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-30" url="2019-01-08_13-30_631.xml">
+   <title>Mehr Nachrichten vom 08.01.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-01-08_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-01-08_13-30_631-full.png" type="screenshot" url="2019-01-08_13-30_631-full.png"/>
+      <resource id="2" name="2019-01-08_13-30_631_plaintext.txt" type="plaintext" url="2019-01-08_13-30_631_plaintext.txt"/>
+      <resource id="3" name="2019-01-08_13-30_631_quellcode.txt" type="sourcecode" url="2019-01-08_13-30_631_quellcode.txt"/>
+      <resource id="4" name="2019-01-08_13-30_631.docx" type="formatedText" url="2019-01-08_13-30_631.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 08.01.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Mann stirbt bei Unfall</subheadline>
+               <statement>In Hannover war ein schwerer Unfall.</statement>
+               <statement>Der Unfall war mit einem Auto.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>In diesem Auto waren 2 Männer:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Der Fahrer.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <statement>• Und der Beifahrer.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Der Beifahrer ist bei dem Unfall gestorben.</statement>
+               <statement>Und der Fahrer wurde schwer verletzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1"> 
+                        <explanation_marker>
+                           <statement>Der Fahrer ist mit seinem Auto von der Fahr·bahn abgekommen.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Der Fahrer von dem Lkw ist <style_element type="hb">ohne</style_element> Absicht von der Straße gefahren.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann ist der Fahrer mit seinem Auto gegen einen Baum geprallt.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Bei dem Aufprall ist das Auto in 2 Teile gerissen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <explanation_marker>
+                           <statement>Und der Beifahrer wurde aus dem Auto geschleudert.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Der Beifahrer ist aus dem Auto geflogen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Auto·bahn gesperrt</subheadline>
+               <explanation_marker>
+                  <statement>In der Nähe von Parchim hat die Polizei eine Auto·bahn gesperrt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2"> 
+                        <statement><style_element type="hi">Auf der Auto·bahn durften <style_element type="hb">keine</style_element> Autos fahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Auf der Auto·bahn war nämlich ein Unfall.</statement>
+               <statement>Bei dem Unfall wurde ein Lkw-Fahrer leicht verletzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement> Der Unfall war auf der A24.</statement>
+                           <explanations>
+                              <explanation id="1"> 
+                                 <statement><style_element type="hi">A24 ist die Abkürzung für <style_element type="hb">A</style_element>uto·bahn <style_element type="hb">24</style_element>.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und der Unfall war mit einem Lkw.</statement>
+                     </speech>
+                     <speech id="3">
+                        <explanation_marker>
+                           <statement>Der Lkw ist von der Straße abgekommen.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2"> 
+                                 <statement><style_element type="hi">Der Fahrer von dem Lkw ist ohne Absicht von der Straße gefahren.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="4">
+                        <statement>Dann ist der Lkw auf der Straße umgekippt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Auf dem Lkw war viel Holz.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Jetzt müssen Arbeiter das Holz von der Straße wegräumen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und die Arbeiter müssen den umgekippten Lkw wegräumen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb haben wir die A24 gesperrt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

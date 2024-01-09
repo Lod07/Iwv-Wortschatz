@@ -1,0 +1,187 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-12-08" url="2018-01-19_15-00_936.xml">
+   <title>Totes Baby: Mutter muss ins Gefängnis</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-01-19_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-01-19_15-00_936-full.png" type="screenshot" url="2018-01-19_15-00_936-full.png"/>
+      <resource id="2" name="2018-01-19_15-00_936_plaintext.txt" type="plaintext" url="2018-01-19_15-00_936_plaintext.txt"/>
+      <resource id="3" name="2018-01-19_15-00_936_quellcode.txt" type="sourcecode" url="2018-01-19_15-00_936_quellcode.txt"/>
+      <resource id="4" name="2018-01-19_15-00_936.docx" type="formatedText" url="2018-01-19_15-00_936.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Totes Baby: Mutter muss ins Gefängnis</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Mecklenburg-Vorpommern war ein Prozess.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Bei einem Prozess entscheidet das Gericht:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question><style_element type="hi">• Hat ein Mensch etwas Verbotenes getan?</style_element></question>
+                           </speech>
+                           <speech id="2">
+                              <statement><style_element type="hi">Dann bekommt dieser Mensch eine Strafe.</style_element></statement>
+                           </speech>
+                           <speech id="3">
+                              <question><style_element type="hi">• Oder hat ein Mensch <style_element type="hb">nichts</style_element> Verbotenes getan?</style_element></question>
+                           </speech>
+                           <speech id="4">
+                              <statement><style_element type="hi">Dann bekommt dieser Mensch <style_element type="hb">keine</style_element> Strafe.</style_element></statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Prozess war in Schwerin.</statement>
+            <statement>Bei dem Prozess hat das Gericht eine Mutter verurteilt.</statement>
+            <statement>Die Mutter hat nämlich ihr Baby getötet.</statement>
+            <statement>Deshalb muss die Mutter jetzt für 5 Jahre und 6 Monate ins Gefängnis.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Das Gericht hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Die Mutter wohnt in Wittenburg.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Wittenburg ist eine Stadt in Mecklenburg-Vorpommern.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und die Mutter hat in ihrer Wohnung ein Baby bekommen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Aber <style_element type="hb">kein</style_element> Mensch sollte von dem Baby wissen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Die Mutter wollte das Baby nämlich <style_element type="hb">nicht</style_element> behalten.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Aber in der Wohnung war auch der Vater von dem Baby.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Der Vater hat geschlafen.</statement>
+                     </speech>
+                     <speech id="7">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Und der Vater sollte <style_element type="hb">nicht</style_element> wissen:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Die Mutter hat ein Baby bekommen.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="8">
+                        <statement>Deshalb hat die Mutter ihr Baby kurz nach der Geburt erstickt.</statement>
+                     </speech>
+                     <speech id="9">
+                        <explanation_marker>
+                           <statement>Dann hat die Mutter ihr totes Baby in einem Gefrier·schrank versteckt.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Ein Gefrier·schrank ist ein Gerät.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">In einem Gefrier·schrank ist es sehr kalt.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">In einem Gefrier·schrank können Menschen zum Beispiel Lebensmittel einfrieren.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="10">
+                        <statement>Nach 2 Jahren hat ein Freund von der Mutter das tote Baby in einen Wald gelegt.</statement>
+                     </speech>
+                     <speech id="11">
+                        <statement>In dem Wald haben Menschen das tote Baby gefunden.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Die Polizei hat nach der Mutter von dem toten Baby gesucht.</statement>
+            <statement>Dann hat die Polizei Hinweise gefunden.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Diese Hinweise haben gezeigt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Diese Frau ist die Mutter von dem toten Baby.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und diese Mutter hat wahrscheinlich ihr Baby getötet.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <statement>Zu der Suche nach der Mutter gibt es auch einen Text in Leichter Sprache.</statement>
+            <question>Sie wollen den Text lesen?</question>
+            <statement>
+               <ref>
+                  Dann klicken Sie <style_element type="hu">hier</style_element>.
+               </ref>
+            </statement>
+         </section>
+         <section id="5">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Mutter hat bei dem Prozess gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Ich habe mein Baby <style_element type="hb">nicht</style_element> getötet.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Aber das Gericht hat der Mutter <style_element type="hb">nicht</style_element> geglaubt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Gericht hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Mutter hat die Tat <style_element type="hb">nicht</style_element> geplant.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Aber die Mutter hat ihr Baby getötet.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb muss die Mutter jetzt ins Gefängnis.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

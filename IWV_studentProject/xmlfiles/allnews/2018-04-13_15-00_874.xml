@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-30" url="2018-04-13_15-00_874.xml">
+   <title>Drogen in Obst·kisten gefunden</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-04-13_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-04-13_15-00_874-full.png" type="screenshot" url="2018-04-13_15-00_874-full.png"/>
+      <resource id="2" name="2018-04-13_15-00_874_plaintext.txt" type="plaintext" url="2018-04-13_15-00_874_plaintext.txt"/>
+      <resource id="3" name="2018-04-13_15-00_874_quellcode.txt" type="sourcecode" url="2018-04-13_15-00_874_quellcode.txt"/>
+      <resource id="4" name="2018-04-13_15-00_874.docx" type="formatedText" url="2018-04-13_15-00_874.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Drogen in Obst·kisten gefunden</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Mecklenburg-Vorpommern haben Menschen eine große Menge Kokain gefunden.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Kokain ist eine Droge.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Drogen sind gefährlich für den Körper.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Deshalb sind Drogen verboten.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Diese Menschen sind Mitarbeiter von Edeka.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Edeka ist eine große Firma.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Edeka hat viele Supermärkte.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Mitarbeiter haben das Kokain in Obst·kisten gefunden.</statement>
+            <statement>Diese Obst·kisten waren in einer Lager·halle.</statement>
+            <statement>Die Lager·halle ist in der Nähe von Valluhn.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Die Mitarbeiter haben Obst·kisten ausgepackt.</statement>
+               <statement>In den Obst·kisten waren Ananas.</statement>
+               <statement>Unter den Ananas haben die Mitarbeiter viele Plastik·tüten gefunden.</statement>
+               <statement>In diesen Plastik·tüten war das Kokain.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In den Plastik·tüten waren 110 Kilo Kokain.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>So viel Kokain finden wir selten.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Das Kokain ist ungefähr 5 Millionen Euro wert.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Das ist sehr viel Geld.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Jetzt vernichten wir das Kokain.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Kokain ist nämlich verboten.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wer hat das Kokain in die Obst·kisten getan?</question>
+                  </speech>
+                  <speech id="2">
+                     <question>Und für wen war das Kokain?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

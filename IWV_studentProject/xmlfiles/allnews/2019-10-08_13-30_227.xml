@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-30" url="2019-10-08_13-30_227.xml">
+   <title>Mehr Nachrichten vom 08.10.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-08_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-10-08_13-30_227-full.png" type="screenshot" url="2019-10-08_13-30_227-full.png"/>
+      <resource id="2" name="2019-10-08_13-30_227_plaintext.txt" type="plaintext" url="2019-10-08_13-30_227_plaintext.txt"/>
+      <resource id="3" name="2019-10-08_13-30_227_quellcode.txt" type="sourcecode" url="2019-10-08_13-30_227_quellcode.txt"/>
+      <resource id="4" name="2019-10-08_13-30_227.docx" type="formatedText" url="2019-10-08_13-30_227.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 08.10.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Großes Feuer</subheadline>
+            <explanation_marker>
+               <statement>In Hohenfelde war ein großes Feuer.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Hohenfelde ist ein Stadt·teil von Hamburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Das Feuer war in einer Druckerei.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi"> Eine Druckerei ist eine Firma.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Eine Druckerei druckt zum Beispiel Zeitungen.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Die Druckerei macht zum Beispiel die Schrift auf die Zeitungen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Das Feuer hat die Druckerei zerstört.</statement>
+            <statement>Und bei dem Feuer wurde ein Mann verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Feuerwehr hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Feuer war sehr groß.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Das Löschen von dem Feuer hat einige Stunden gedauert.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und das Löschen von dem Feuer war schwierig.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>In der Druckerei waren nämlich viele Sachen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Zum Beispiel Papier.</statement>
+                  </speech>
+                  <speech id="6">
+                     <headword>Und Farben.</headword>
+                  </speech>
+                  <speech id="7">
+                     <statement>Diese Sachen brennen leicht.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Feuerwehr hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Bei dem Feuer war sehr viel giftiger Rauch.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Ein Mann hat zu viel von diesem giftigen Rauch eingeatmet.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb hat dieser Mann eine Rauch·vergiftung bekommen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Neue Bahn·strecke</subheadline>
+            <statement>In Mecklenburg-Vorpommern ist bald eine neue Bahn·strecke.</statement>
+            <explanation_marker>
+               <statement>Diese neue Bahn·strecke ist von der Deutschen Bahn.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die Deutsche Bahn ist eine große Firma.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Deutsche Bahn hat die meisten Züge in Deutschland.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die neue Bahn·strecke ist von Rostock nach Dresden.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Dresden ist die Haupt·stadt von Sachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und die neue Bahn·strecke führt über Berlin.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Berlin ist die Haupt·stadt von Deutschland.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Ein Sprecher von der Deutschen Bahn hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Ab dem 15. Dezember fahren Züge auf der neuen Bahn·strecke.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dann dauert die Fahrt von Rostock nach Berlin zum Beispiel nur 2 Stunden.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

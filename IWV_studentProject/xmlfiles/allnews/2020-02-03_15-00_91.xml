@@ -1,0 +1,224 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-25" url="2020-02-03_15-00_91.xml">
+   <title>Mehr Nachrichten vom 03.02.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-02-03_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-02-03_15-00_91-full.png" type="screenshot" url="2020-02-03_15-00_91-full.png"/>
+      <resource id="2" name="2020-02-03_15-00_91_plaintext.txt" type="plaintext" url="2020-02-03_15-00_91_plaintext.txt"/>
+      <resource id="3" name="2020-02-03_15-00_91_quellcode.txt" type="sourcecode" url="2020-02-03_15-00_91_quellcode.txt"/>
+      <resource id="4" name="2020-02-03_15-00_91.docx" type="formatedText" url="2020-02-03_15-00_91.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 03.02.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Feuer in Stall</subheadline>
+               <statement>In Melle war in der Nacht ein Feuer.</statement>
+               <statement>Das Feuer war im Stadt·teil Wellingholzhausen.</statement>
+               <statement>Und das Feuer war in einem Stall.</statement>
+               <statement>Bei dem Feuer sind 120 Schweine gestorben.</statement>
+               <statement>Und bei dem Feuer wurden zum Beispiel einige Fahr·zeuge zerstört.</statement>
+               <statement>Aber bei dem Feuer wurde <style_element type="hb">kein</style_element> Mensch verletzt.</statement> 
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Neben dem Stall ist ein Wohn·haus.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Die 5 Bewohner von dem Wohn·haus haben geschlafen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb haben wir die 5 Bewohner geweckt.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und wir haben die 5 Bewohner in Sicherheit gebracht.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Jetzt ermitteln wir.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und wir haben einen Mann festgenommen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Wir glauben nämlich:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Dieser Mann hat das Feuer gelegt.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="4">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Und wir prüfen zum Beispiel:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question>Hat der Mann vielleicht auch andere Feuer gelegt?</question>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="5">
+                        <statement>Im Stadt·teil Wellingholzhausen waren zuletzt noch andere Feuer.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Mitarbeiter von Kranken·häusern streiken</subheadline>
+               <explanation_marker>
+               <statement>In Schleswig-Holstein ist ein Streik.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bei einem Streik arbeiten Menschen <style_element type="hb">nicht</style_element>.</style_element></statement> 
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Menschen sind zum Beispiel mit ihrer Arbeit <style_element type="hb">nicht</style_element> zufrieden.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Die Menschen wollen zum Beispiel mehr Geld.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Streik ist in Kiel.</statement>
+            <statement>Und in Lübeck.</statement>
+            <statement>Und dieser Streik ist von 350 Mitarbeitern von Kranken·häusern.</statement>
+            <explanation_marker>
+               <statement>Diese Kranken·häuser sind vom UKSH.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">UKSH ist die Abkürzung für <style_element type="hb">U</style_element>niversitäts·<style_element type="hb">k</style_element>linikum <style_element type="hb">S</style_element>chleswig-<style_element type="hb">H</style_element>olstein.</style_element></statement> 
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Deshalb muss das UKSH viele Termine verschieben.</statement>
+            <statement>Zum Beispiel Operationen.</statement>
+            <explanation_marker>
+               <statement>Eine Gewerkschaft hilft den Mitarbeitern bei dem Streik.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Gewerkschaft ist zum Beispiel eine Vereinigung von Arbeitern.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Eine Gewerkschaft hilft Arbeitern zum Beispiel bei einem Streit mit der Firma.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Gewerkschaft ist ver.di.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Ver.di hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Mitarbeiter vom UKSH arbeiten sehr viel.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb müssen die Mitarbeiter entlastet werden.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und deshalb braucht das UKSH zum Beispiel viele neue Mitarbeiter.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Aber das UKSH will <style_element type="hb">nicht</style_element> so viele neue Mitarbeiter einstellen.</statement> 
+                  </speech>
+                  <speech id="5">
+                     <statement>Deshalb streiken die Mitarbeiter.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Der Streik geht am Dienstag weiter.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Schleswig-Holstein: Werft hat Probleme</subheadline>
+               <explanation_marker>
+                  <statement>Die Flensburger Schiffbau-Gesellschaft hat Probleme.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Die Flensburger Schiffbau-Gesellschaft ist eine Werft in Flensburg.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Eine Werft ist eine große Firma.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Auf einer Werft bauen Arbeiter Schiffe.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Flensburger Schiffbau-Gesellschaft hat 700 Mitarbeiter.</statement>
+               <statement>Aber die Flensburger Schiffbau-Gesellschaft hat nur sehr wenige Aufträge.</statement>
+               <statement>Deshalb baut die Flensburger Schiffbau-Gesellschaft nur sehr wenige Schiffe.</statement>
+               <statement>Und deshalb müssen die Mitarbeiter nur wenig arbeiten.</statement>
+               <explanation_marker>
+                  <statement>Deshalb machen viele Mitarbeiter Kurz·arbeit.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement><style_element type="hi">Bei Kurz·arbeit sagt ein Arbeit·geber zu seinen Mitarbeitern:</style_element></statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement><style_element type="hi">Es gibt es <style_element type="hb">nicht</style_element> genügend Arbeit für alle Mitarbeiter.</style_element></statement> 
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Deshalb müssen zum Beispiel einige von den Mitarbeitern weniger arbeiten.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Kurz·arbeit ist für eine bestimmte Zeit.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">In dieser Zeit verdienen die Mitarbeiter weniger Geld.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement><style_element type="hb">Kein</style_element> Mensch weiß:</statement> 
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Wie geht es weiter mit der Flensburger Schiffbau-Gesellschaft?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

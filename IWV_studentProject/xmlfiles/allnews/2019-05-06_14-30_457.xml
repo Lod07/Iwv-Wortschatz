@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-26" url="2019-05-06_14-30_457.xml">
+   <title>Unfall mit Segel·jacht</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-05-06_14-30</vdate>
+   <resources>
+      <resource id="1" name="2019-05-06_14-30_457-full.png" type="screenshot" url="2019-05-06_14-30_457-full.png"/>
+      <resource id="2" name="2019-05-06_14-30_457_plaintext.txt" type="plaintext" url="2019-05-06_14-30_457_plaintext.txt"/>
+      <resource id="3" name="2019-05-06_14-30_457_quellcode.txt" type="sourcecode" url="2019-05-06_14-30_457_quellcode.txt"/>
+      <resource id="4" name="2019-05-06_14-30_457.docx" type="formatedText" url="2019-05-06_14-30_457.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Unfall mit Segel·jacht</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In der Nähe von Horumersiel war ein Unfall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Horumersiel ist ein Ort im Norden von Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Unfall war auf der Nordsee.</statement>
+            <explanation_marker>
+               <statement>Bei dem Unfall ist eine Segel·jacht gekentert.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Segel·jacht ist auf dem Wasser umgekippt.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Auf der Segel·jacht waren 4 Menschen:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• 3 Männer.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Und eine Frau.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Die Frau ist bei dem Unfall gestorben.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Seenot·retter bringen Männer in Sicherheit</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ein Mensch hat den Unfall gesehen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <explanation_marker>
+                           <statement>Dieser Mensch hat Seenot·retter angerufen.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Seenot·retter retten andere Menschen.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Zum Beispiel nach einem Schiffs·unfall.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Dann sind die Seenot·retter zu der Segel·jacht gefahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die 3 Männer waren auf der umgekippten Segel·jacht.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und die Seenot·retter haben die 3 Männer gerettet.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Die Frau war im Wasser.</statement>
+                     </speech>
+                     <speech id="4">
+                        <explanation_marker>
+                           <statement>Und die Frau war bewusstlos.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Die Frau konnte sich <style_element type="hb">nicht</style_element> mehr bewegen.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Und die Frau war <style_element type="hb">nicht</style_element> ansprechbar.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="5">
+                        <statement>Die Seenot·retter haben die Frau aus dem Wasser geholt.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Aber die Frau ist gestorben.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum ist die Segel·jacht gekentert?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Wind war stark.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb waren hohe Wellen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Vielleicht ist die Segel·jacht deshalb gekentert.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

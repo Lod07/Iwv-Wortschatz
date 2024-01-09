@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2020-02-18_14-30_173.xml">
+   <title>Mehr Nachrichten vom 18.02.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-02-18_14-30</vdate>
+   <resources>
+      <resource id="1" name="2020-02-18_14-30_173-full.png" type="screenshot" url="2020-02-18_14-30_173-full.png"/>
+      <resource id="2" name="2020-02-18_14-30_173_plaintext.txt" type="plaintext" url="2020-02-18_14-30_173_plaintext.txt"/>
+      <resource id="3" name="2020-02-18_14-30_173_quellcode.txt" type="sourcecode" url="2020-02-18_14-30_173_quellcode.txt"/>
+      <resource id="4" name="2020-02-18_14-30_173.docx" type="formatedText" url="2020-02-18_14-30_173.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+   <headline>Mehr Nachrichten vom 18.02.2020</headline>
+   <sections>
+      <section id="1">
+         <subheadline>Schleswig-Holstein: Jugendlicher macht Unfall</subheadline>
+         <statement>In Flensburg war ein Unfall.</statement>
+         <explanation_marker>
+            <statement>Bei diesem Unfall ist ein Auto gegen einen Strom·kasten gefahren.</statement>
+            <explanations>
+               <explanation id="1">
+                  <statement>
+                     <style_element type="hi">Ein Strom·kasten ist ein Gerät.</style_element>
+                  </statement>
+               </explanation>
+               <explanation id="2">
+                  <statement>
+                     <style_element type="hi">Dieses Gerät leitet Strom weiter.</style_element>
+                  </statement>
+               </explanation>
+               <explanation id="3">
+                  <statement>
+                     <style_element type="hi">Dieser Strom ist zum Beispiel für Häuser.</style_element>
+                  </statement>
+               </explanation>
+            </explanations>
+         </explanation_marker>
+         <speech_marker>
+            <speech_intro>
+               <statement>Die Polizei hat gesagt:</statement>
+            </speech_intro>
+            <speeches>
+               <speech id="1">
+                  <statement>Ein Jugendlicher ist mit einem Auto gefahren.</statement>
+               </speech>
+               <speech id="2">
+                  <statement>Dieser Jugendliche ist 14 Jahre alt.</statement>
+               </speech>
+               <speech id="3">
+                  <statement>Wir wollten das Auto anhalten.</statement>
+               </speech>
+               <speech id="4">
+                  <statement>Aber der Jugendliche ist schnell weiter·gefahren.</statement>
+               </speech>
+               <speech id="5">
+                  <statement>Deshalb haben wir den Jugendlichen verfolgt.</statement>
+               </speech>
+               <speech id="6">
+                  <statement>Bei der Verfolgung ist der Jugendliche gegen den Strom·kasten gefahren.</statement>
+               </speech>
+               <speech id="7">
+                  <statement>Jetzt bekommt der Jugendliche wahrscheinlich eine Strafe.</statement>
+               </speech>
+               <speech id="8">
+                  <statement>Jugendliche dürfen nämlich <style_element type="hb">kein</style_element> Auto fahren.</statement>
+               </speech>
+            </speeches>
+         </speech_marker>
+         <statement>Der Strom·kasten wurde bei dem Unfall beschädigt.</statement>
+         <statement>Deshalb war in einigen Häusern <style_element type="hb">kein</style_element> Strom.</statement>
+         <statement>Fach·leute haben den Stromkasten repariert.</statement>
+         <statement>Dann war in den Häusern wieder Strom.</statement>
+      </section>
+      <style_element type="line" />
+      <section id="2">
+         <subheadline>Mecklenburg-Vorpommern: Viele Busse fahren nicht</subheadline>
+         <explanation_marker>
+            <statement>In Rostock ist heute ein Streik.</statement>
+            <explanations>
+               <explanation id="1">
+                  <statement>
+                     <style_element type="hi">Bei einem Streik arbeiten Menschen <style_element type="hb">nicht</style_element>.</style_element>
+                  </statement>
+               </explanation>
+               <explanation id="2">
+                  <statement>
+                     <style_element type="hi">Diese Menschen sind zum Beispiel mit ihrer Arbeit <style_element type="hb">nicht</style_element> zufrieden.</style_element>
+                  </statement>
+               </explanation>
+               <explanation id="3">
+                  <statement>
+                     <style_element type="hi">Die Menschen wollen zum Beispiel mehr Geld.</style_element>
+                  </statement>
+               </explanation>
+            </explanations>
+         </explanation_marker>
+         <statement>Dieser Streik ist von Bus·fahrern.</statement>
+         <statement>Und von Straßen·bahn·fahrern.</statement>
+         <statement>Deshalb fahren viele Busse und Straßen·bahnen in Rostock <style_element type="hb">nicht</style_element>.</statement>
+         <statement>Und deshalb haben viele Menschen in Rostock Probleme.</statement>
+         <statement>Diese Menschen kommen zum Beispiel <style_element type="hb">nicht</style_element> zur Arbeit.</statement>
+         <statement>Und Schüler kommen <style_element type="hb">nicht</style_element> zur Schule.</statement>
+         <speech_marker>
+            <speech_intro>
+               <statement>Die Bus·fahrer haben gesagt:</statement>
+            </speech_intro>
+            <speeches>
+               <speech id="1">
+                  <statement>Wir wollen mehr Geld verdienen.</statement>
+               </speech>
+               <speech id="1">
+                  <question>Bekommen wir <style_element type="hb">nicht</style_element> mehr Geld?</question>
+               </speech>
+               <speech id="1">
+                  <statement>Dann streiken wir bald wieder.</statement>
+               </speech>
+            </speeches>
+         </speech_marker>
+      </section>
+      <style_element type="line" />
+   </sections>
+   </content>
+</annotation>

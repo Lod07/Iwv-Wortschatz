@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2019-10-28_13-30_201.xml">
+   <title>Mehr Nachrichten vom 28.10.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-28_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-10-28_13-30_201-full.png" type="screenshot" url="2019-10-28_13-30_201-full.png"/>
+      <resource id="2" name="2019-10-28_13-30_201_plaintext.txt" type="plaintext" url="2019-10-28_13-30_201_plaintext.txt"/>
+      <resource id="3" name="2019-10-28_13-30_201_quellcode.txt" type="sourcecode" url="2019-10-28_13-30_201_quellcode.txt"/>
+      <resource id="4" name="2019-10-28_13-30_201.docx" type="formatedText" url="2019-10-28_13-30_201.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 28.10.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Ulf Kämpfer bleibt Bürgermeister von Kiel</subheadline>
+            <explanation_marker>
+               <statement>In Kiel war am Sonntag eine wichtige Wahl.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Kiel ist die Haupt·stadt von Schleswig-Holstein.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Bei dieser Wahl haben die Menschen den Bürgermeister gewählt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Ein Bürgermeister ist der wichtigste Politiker von einer Stadt.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Ulf Kämpfer hat die Wahl gewonnen.</statement>
+            <explanation_marker>
+               <statement>Ulf Kämpfer ist von der SPD.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">SPD ist die Abkürzung für <style_element type="hb">S</style_element>ozial·demokratische <style_element type="hb">P</style_element>artei <style_element type="hb">D</style_element>eutschlands.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und Ulf Kämpfer ist schon seit 2014 der Bürgermeister von Kiel.</statement>
+            <statement>Jetzt bleibt Ulf Kämpfer auch die nächsten 6 Jahre der Bürgermeister von Kiel.</statement>
+         </section>
+         <style_element type="line"/>
+         <section id="2">
+            <subheadline>Hamburg: Junger Mann nach Sprung von Mauer verletzt</subheadline>
+            <explanation_marker>
+               <statement>In Sülldorf war ein Unfall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Sülldorf ist im Westen von Hamburg.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Unfall war nachts in einem Frei·bad.</statement>
+            <statement>Bei dem Unfall ist ein junger Mann von einer Mauer gesprungen.</statement>
+            <statement>Bei dem Sprung hat sich der junge Mann schwer verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der junge Mann war nachts mit Freunden im Frei·bad.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Das ist verboten.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Ein Nachbar hat den jungen Mann gesehen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb ist der junge Mann weggelaufen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Und deshalb ist der junge Mann von einer Mauer gesprungen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Jetzt ist der junge Mann in einem Kranken·haus.</statement>
+         </section>
+         <style_element type="line"/>
+      </sections>
+   </content>
+</annotation>

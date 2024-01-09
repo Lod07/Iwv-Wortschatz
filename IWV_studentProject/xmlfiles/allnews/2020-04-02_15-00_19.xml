@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2020-04-02_15-00_19.xml">
+   <title>Viele Betten für sehr kranke Menschen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-04-02_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-04-02_15-00_19-full.png" type="screenshot" url="2020-04-02_15-00_19-full.png"/>
+      <resource id="2" name="2020-04-02_15-00_19_plaintext.txt" type="plaintext" url="2020-04-02_15-00_19_plaintext.txt"/>
+      <resource id="3" name="2020-04-02_15-00_19_quellcode.txt" type="sourcecode" url="2020-04-02_15-00_19_quellcode.txt"/>
+      <resource id="4" name="2020-04-02_15-00_19.docx" type="formatedText" url="2020-04-02_15-00_19.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Viele Betten für sehr kranke Menschen</headline>
+      <sections>
+         <section id="1">
+            <statement>Wegen dem Corona-Virus sind viele Menschen krank.</statement>
+            <statement>Und einige von diesen Menschen sind sehr krank.</statement>
+            <statement>Diese Menschen brauchen besondere Hilfe in Kranken·häusern.</statement>
+            <statement>Deshalb gibt es für diese Menschen besondere Abteilungen.</statement>
+            <statement>Diese Abteilungen heißen Intensiv·stationen.</statement>
+         </section>
+         <section id="2">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Kranken·häuser in Deutschland haben jetzt gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir haben in Deutschland noch viel Platz in den Intensiv·stationen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <explanation_marker>
+                        <statement>Wir haben nämlich sehr viele neue Intensiv·betten.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Intensiv·betten sind die Betten in einer Intensiv·station.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">An einem Intensiv·bett sind zum Beispiel besondere Geräte.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="3">
+                     <statement>Vor dem Corona-Virus hatten wir 28.000 Intensiv·betten.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Jetzt haben wir 40.000 Intensiv·betten.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Mit diesen Intensiv·betten können wir vielen sehr kranken Menschen helfen.</statement>
+                  </speech>
+                  <speech id="6">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Und wir glauben:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Bald haben viel mehr Menschen das Corona-Virus.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker> 
+                  </speech>
+                  <speech id="7">
+                     <statement>Deshalb brauchen wir viele Intensiv·betten.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Wenig Intensiv·betten in Spanien und Italien</subheadline>
+            <statement>In anderen Ländern gibt es viel weniger Intensiv·betten als in Deutschland.</statement>
+            <statement>Zum Beispiel in Spanien.</statement>
+            <statement>Und in Italien.</statement>
+            <statement>Deshalb haben die Kranken·häuser in diesen Ländern große Probleme.</statement>
+            <statement>Diese Länder können <style_element type="hb">nicht</style_element> allen sehr kranken Menschen gut helfen.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-19" url="2018-07-13_15-00_719.xml">
+   <title>Feuer in Halle mit Dünger</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-07-13_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-07-13_15-00_719-full.png" type="screenshot" url="2018-07-13_15-00_719-full.png"/>
+      <resource id="2" name="2018-07-13_15-00_719_plaintext.txt" type="plaintext" url="2018-07-13_15-00_719_plaintext.txt"/>
+      <resource id="3" name="2018-07-13_15-00_719_quellcode.txt" type="sourcecode" url="2018-07-13_15-00_719_quellcode.txt"/>
+      <resource id="4" name="2018-07-13_15-00_719.docx" type="formatedText" url="2018-07-13_15-00_719.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Feuer in Halle mit Dünger</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Westerstede war ein großes Feuer.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Westerstede ist eine Stadt in Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Das Feuer war in einer Halle.</statement>
+            <statement>In der Halle waren Maschinen.</statement>
+            <explanation_marker>
+               <statement>Und in der Halle war Dünger.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Mit Dünger wachsen Pflanzen besser.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Zum Beispiel auf Feldern.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Manche Dünger sind für Menschen giftig.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Feuer hat es viel Rauch gegeben.</statement>
+            <statement>Viele Menschen haben den Rauch eingeatmet.</statement>
+            <statement>27 Menschen mussten in ein Kranken·haus.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Einsatz war sehr schwierig.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Bei dem Feuer hat nämlich der Dünger gebrannt.</statement>
+                     </speech>
+                     <speech id="3">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Deshalb wussten wir <style_element type="hb">nicht</style_element>:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question>Gibt es vielleicht bei dem Feuer giftigen Rauch?</question>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Feuerwehr hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>3 Menschen haben das Feuer gesehen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dann haben die 3 Menschen die Feuerwehr gerufen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Aber die 3 Menschen haben Rauch eingeatmet.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb wurden die 3 Menschen leicht verletzt.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Und deshalb mussten die 3 Menschen in ein Kranken·haus.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <statement>Auch 24 andere Menschen mussten in ein Kranken·haus.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese 24 anderen Menschen sind:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• 20 Feuerwehr·leute.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Und 4 Mitarbeiter von der Halle.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Im Kranken·haus haben Ärzte geprüft:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Haben die 24 anderen Menschen vielleicht giftigen Rauch eingeatmet?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Aber die Ärzte haben festgestellt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die 24 anderen Menschen haben <style_element type="hb">keinen</style_element> giftigen Rauch eingeatmet.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Deshalb konnten alle Menschen das Kranken·haus wieder verlassen.</statement>
+         </section>
+         <section id="5">
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wie ist das Feuer in der Halle entstanden?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

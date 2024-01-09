@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-26" url="2019-05-03_14-30_455.xml">
+   <title>Niedersachsen: Feuer in Wohn·haus</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-05-03_14-30</vdate>
+   <resources>
+      <resource id="1" name="2019-05-03_14-30_455-full.png" type="screenshot" url="2019-05-03_14-30_455-full.png"/>
+      <resource id="2" name="2019-05-03_14-30_455_plaintext.txt" type="plaintext" url="2019-05-03_14-30_455_plaintext.txt"/>
+      <resource id="3" name="2019-05-03_14-30_455_quellcode.txt" type="sourcecode" url="2019-05-03_14-30_455_quellcode.txt"/>
+      <resource id="4" name="2019-05-03_14-30_455.docx" type="formatedText" url="2019-05-03_14-30_455.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Niedersachsen: Feuer in Wohn·haus</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Obernkirchen war ein großes Feuer.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Obernkirchen ist eine Stadt in Niedersachsen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Obernkirchen ist in der Nähe von Hannover.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Das Feuer war in einem Wohn·haus.</statement>
+            <statement>Bei dem Feuer wurden 9 Menschen verletzt.</statement>
+            <statement>2 von diesen 9 Menschen sind Polizisten.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline> 
+               <statement>Das Feuer in dem Wohn·haus war in der Nacht.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir sind zu dem Wohn·haus gefahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Das Feuer war im Erdgeschoss von dem Wohn·haus.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und das Feuer war auch im Dach von dem Wohn·haus.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker> 
+               <statement>80 Feuerwehr·leute haben gegen das Feuer gekämpft.</statement>
+               <statement>Dann war das Feuer gelöscht.</statement>
+               <statement>Das Wohn·haus ist aber zerstört.</statement>
+               <statement>In dem Wohn·haus kann <style_element type="hb">niemand</style_element> mehr wohnen.</statement>
+         </section>
+         <section id="3">
+            <subheadline>9 Menschen verletzt</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>7 Menschen von dem Wohn·haus wurden bei dem Feuer verletzt.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und 2 Polizisten wurden bei dem Feuer verletzt.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Diese 2 Polizisten haben die Menschen vor dem Feuer gerettet.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Die Verletzten sind in ein Kranken·haus gekommen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei will wissen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Warum ist das Feuer ausgebrochen?</question>
+                     </speech>
+                     <speech id="2">
+                        <question>Hat vielleicht ein Mensch das Wohn·haus angezündet?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Deshalb untersucht die Polizei jetzt das Wohn·haus.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

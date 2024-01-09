@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-10" url="2019-01-31_15-00_593.xml">
+   <title>Mehr Nachrichten vom 31.01.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-01-31_15-00</vdate>
+   <resources>
+      <resource id="1" name="2019-01-31_15-00_593-full.png" type="screenshot" url="2019-01-31_15-00_593-full.png"/>
+      <resource id="2" name="2019-01-31_15-00_593_plaintext.txt" type="plaintext" url="2019-01-31_15-00_593_plaintext.txt"/>
+      <resource id="3" name="2019-01-31_15-00_593_quellcode.txt" type="sourcecode" url="2019-01-31_15-00_593_quellcode.txt"/>
+      <resource id="4" name="2019-01-31_15-00_593.docx" type="formatedText" url="2019-01-31_15-00_593.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 31.01.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Mecklenburg-Vorpommern: Schlimmer Unfall</subheadline>
+               <explanation_marker>
+                  <statement>In Röbel war ein schlimmer Unfall.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Röbel ist ein Ort an der Müritz.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Die Müritz ist ein großer See.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei dem Unfall ist eine Frau gestorben.</statement>
+               <statement>Die Frau war 59 Jahre alt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Frau ist mit einem Auto gefahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann ist die Frau mit dem Auto gegen einen Baum gefahren.</statement>
+                     </speech>
+                     <speech id="3"> 
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Wir wissen aber <style_element type="hb">nicht</style_element>:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question>Warum ist die Frau gegen den Baum gefahren?</question>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Alter Mann fährt ohne Führerschein</subheadline>
+               <statement>In Winsen hat die Polizei ein Auto angehalten.</statement>
+               <statement>In dem Auto war ein alter Mann.</statement>
+               <statement>Der Mann ist 90 Jahre alt.</statement>
+               <explanation_marker>
+                  <statement>Und der Mann hat <style_element type="hb">keinen</style_element> Führer·schein.</statement> 
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Führer·schein ist eine Erlaubnis.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Mit dieser Erlaubnis darf ein Mensch ein Auto fahren.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi"><style_element type="hb">Kein</style_element> Mensch darf <style_element type="hb">ohne</style_element> Führer·schein ein Auto fahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir haben den Mann schon 6 Mal angehalten.</statement>
+                     </speech>
+                     <speech id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Und wir haben dem Mann immer wieder gesagt:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Sie dürfen <style_element type="hb">ohne</style_element> Führer·schein <style_element type="hb">nicht</style_element> Auto fahren.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Aber der Mann ist immer wieder Auto gefahren.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb haben wir jetzt dem Mann das Auto weggenommen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Jetzt kann der Mann <style_element type="hb">nicht</style_element> mehr Auto fahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

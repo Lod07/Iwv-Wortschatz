@@ -1,0 +1,177 @@
+<?xml version="1.0" ?>
+<annotation adate="" url="2020-08-20_13-30_55.xml">
+   <title>Mehr Nachrichten vom 04.12.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-12-04_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-12-04_13-30_55-full.png" type="screenshot" url="2019-12-04_13-30_55-full.png"/>
+      <resource id="2" name="2019-12-04_13-30_55_plaintext.txt" type="plaintext" url="2019-12-04_13-30_55_plaintext.txt"/>
+      <resource id="3" name="2019-12-04_13-30_55_quellcode.txt" type="sourcecode" url="2019-12-04_13-30_55_quellcode.txt"/>
+      <resource id="4" name="2019-12-04_13-30_55.docx" type="formatedText" url="2019-12-04_13-30_55.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>
+         Mehr Nachrichten vom 04.12.2019
+      </headline>
+      <sections>
+         <section id="1">
+            <subheadline>
+               Schleswig-Holstein: Treffen von Politikern
+            </subheadline>
+            <statement>
+               In Lübeck ist ein besonderes Treffen.
+            </statement>
+            <explanation_marker>
+               <statement>
+                  Dieses Treffen ist mit den Innen·ministern von den 16 Bundes·ländern.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Ein Innen·minister ist ein wichtiger Politiker in einer Regierung.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">
+                           Ein Innen·minister kümmert sich zum Beispiel um die Polizei.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>
+               Die Innen·minister sprechen über viele wichtige Themen.
+            </statement>
+            <statement>
+               Zum Beispiel über Beschimpfungen im Internet.
+            </statement>
+            <statement>
+               Und über Flüchtlinge.
+            </statement>
+            <statement>
+               Das Treffen hat am Mittwoch begonnen.
+            </statement>
+            <statement>
+               Und das Treffen ist bis Freitag.
+            </statement>
+            <statement>
+               Deshalb sind viele Straßen in Lübeck gesperrt.
+            </statement>
+            <statement>
+               Und deshalb sind wahrscheinlich Staus in Lübeck.
+            </statement>
+         </section>
+         <style_element type="line"/>
+         <section id="2">
+            <subheadline>
+               Niedersachsen: Menschen haben die Masern
+            </subheadline>
+            <explanation_marker>
+               <statement>
+                  In Hildesheim haben 5 Menschen die Masern.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Die Masern sind eine Krank·heit.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">
+                              Diese Krank·heit ist sehr ansteckend.
+                           </style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword>
+                                 <style_element type="hi">
+                                    Das heißt:
+                                 </style_element>
+                              </headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">
+                                    Menschen können von anderen Menschen schnell die Masern bekommen.
+                                 </style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">
+                           Menschen bekommen bei den Masern zum Beispiel hohes Fieber.
+                        </style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement>
+                        <style_element type="hi">
+                           Und Menschen können an den Masern sterben.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>
+                  Einer von diesen 5 Menschen war in Thailand.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Thailand ist ein Land in Asien.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>
+               In Thailand hat dieser Mensch die Masern bekommen.
+            </statement>
+            <statement>
+               Dann ist dieser Mensch zurück nach Deutschland gekommen.
+            </statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Dieser Mensch wusste wahrscheinlich <style_element type="hb">nicht</style_element>:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        Ich habe die Masern.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>
+               Und der Mensch hatte Kontakt mit anderen Menschen.
+            </statement>
+            <statement>
+               4 von diesen anderen Menschen hat der Mensch mit den Masern angesteckt.
+            </statement>
+         </section>
+         <style_element type="line"/>
+      </sections>
+   </content>
+</annotation>

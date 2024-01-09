@@ -1,0 +1,215 @@
+<?xml version="1.0" ?>
+<annotation adate="" url="2020-08-19_13-30_47.xml">
+   <title>Mehr Nachrichten vom 28.11.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-11-28_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-11-28_13-30_47-full.png" type="screenshot" url="2019-11-28_13-30_47-full.png"/>
+      <resource id="2" name="2019-11-28_13-30_47_plaintext.txt" type="plaintext" url="2019-11-28_13-30_47_plaintext.txt"/>
+      <resource id="3" name="2019-11-28_13-30_47_quellcode.txt" type="sourcecode" url="2019-11-28_13-30_47_quellcode.txt"/>
+      <resource id="4" name="2019-11-28_13-30_47.docx" type="formatedText" url="2019-11-28_13-30_47.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>
+         Mehr Nachrichten vom 28.11.2019
+      </headline>
+      <sections>
+         <section id="1">
+            <subheadline>
+               Bremen: Feuer im Hoch·haus
+            </subheadline>
+            <statement>
+               In Bremen war ein großes Feuer.
+            </statement>
+            <statement>
+               Das Feuer war in einer Wohnung.
+            </statement>
+            <statement>
+               Diese Wohnung ist im 14. Stock von einem Hoch·haus.
+            </statement>
+            <statement>
+               Dieses Hoch·haus ist im Stadt·teil Vegesack.
+            </statement>
+            <statement>
+               Bei dem Feuer wurden einige Menschen leicht verletzt.
+            </statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Die Feuerwehr hat gesagt:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        Wir konnten das Feuer schnell löschen.
+                     </statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>
+                        Aber bei dem Feuer war viel Rauch.
+                     </statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>
+                        Dieser Rauch war giftig.
+                     </statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>
+                        Einige Menschen in dem Hoch·haus haben diesen Rauch eingeatmet.
+                     </statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>
+                        Deshalb wurden diese Menschen ins Kranken·haus gebracht.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>
+               Jetzt ermittelt die Polizei.
+            </statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Die Polizei will nämlich wissen:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>
+                        Warum war das Feuer in der Wohnung?
+                     </question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line"/>
+         <section id="2">
+            <subheadline>
+               Niedersachsen: 2 Männer müssen ins Gefängnis
+            </subheadline>
+            <statement>
+               Ein Gericht in Osnabrück hat 2 Männer verurteilt.
+            </statement>
+            <statement>
+               Diese Männer haben ein verbotenes Computer·programm verkauft.
+            </statement>
+            <statement>
+               Die Käufer von dem Computer·programm waren Besitzer von Restaurants.
+            </statement>
+            <statement>
+               Mit dem Computer·programm haben die Besitzer von den Restaurants die Behörden betrogen.
+            </statement>
+            <statement>
+               Jetzt muss der eine Mann für 7 Jahre und 6 Monate ins Gefängnis.
+            </statement>
+            <statement>
+               Und der andere Mann muss für 3 Jahre und 6 Monate ins Gefängnis.
+            </statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Das Gericht hat gesagt:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        Die Besitzer von den Restaurants haben viel Geld verdient.
+                     </statement>
+                  </speech>
+                  <speech id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>
+                              Aber das Computer·programm hat gesagt:
+                           </statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>
+                                 Die Besitzer von den Restaurants haben weniger Geld verdient.
+                              </statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="3">
+                     <explanation_marker>
+                        <statement>
+                           Deshalb haben die Besitzer von den Restaurants zu wenig Steuern bezahlt.
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">
+                                    Menschen zahlen Steuern an den Staat.
+                                 </style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">
+                                    Und Firmen zahlen Steuern an den Staat.
+                                 </style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="3">
+                              <enumeration_marker>
+                                 <enumeration_intro>
+                                    <statement>
+                                       <style_element type="hi">
+                                          Von diesen Steuern bezahlt der Staat zum Beispiel:
+                                       </style_element>
+                                    </statement>
+                                 </enumeration_intro>
+                                 <enumerations>
+                                    <enumeration id="1">
+                                       <headword>
+                                          <style_element type="hi">
+                                             Lehrer.
+                                          </style_element>
+                                       </headword>
+                                    </enumeration>
+                                    <enumeration id="2">
+                                       <headword>
+                                          <style_element type="hi">
+                                             Polizisten.
+                                          </style_element>
+                                       </headword>
+                                    </enumeration>
+                                    <enumeration id="3">
+                                       <statement>
+                                          <style_element type="hi">
+                                             Oder den Bau von Straßen.
+                                          </style_element>
+                                       </statement>
+                                    </enumeration>
+                                 </enumerations>
+                              </enumeration_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="4">
+                     <statement>
+                        Die Besitzer von den Restaurants haben 6 Millionen Euro zu wenig Steuern bezahlt.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line"/>
+      </sections>
+   </content>
+</annotation>

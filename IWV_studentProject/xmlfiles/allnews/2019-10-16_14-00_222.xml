@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2019-10-16_14-00_222.xml">
+   <title>Unwetter in Nord·deutschland</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-16_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-10-16_14-00_222-full.png" type="screenshot" url="2019-10-16_14-00_222-full.png"/>
+      <resource id="2" name="2019-10-16_14-00_222_plaintext.txt" type="plaintext" url="2019-10-16_14-00_222_plaintext.txt"/>
+      <resource id="3" name="2019-10-16_14-00_222_quellcode.txt" type="sourcecode" url="2019-10-16_14-00_222_quellcode.txt"/>
+      <resource id="4" name="2019-10-16_14-00_222.docx" type="formatedText" url="2019-10-16_14-00_222.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Unwetter in Nord·deutschland</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In einigen Orten in Nord·deutschland waren Unwetter.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement>
+                              <style_element type="hi">Unwetter sind zum Beispiel:</style_element>
+                           </statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword>
+                                 <style_element type="hi">• Starke Gewitter.</style_element>
+                              </headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword>
+                                 <style_element type="hi">• Oder starke Stürme.</style_element>
+                              </headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>                    
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese Unwetter waren zum Beispiel:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• In Niedersachsen.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Und in Hamburg.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>                       
+         </section>
+         <section id="2">
+            <subheadline>Straßen überschwemmt</subheadline>
+            <statement>Bei den Unwettern hat es sehr viel geregnet.</statement>
+            <explanation_marker>
+               <statement>Deshalb waren zum Beispiel viele Straßen überschwemmt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>
+                        <style_element type="hi">Das heißt:</style_element>
+                     </headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Auf diesen Straßen war sehr viel Wasser.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>   
+            </explanation_marker>           
+            <explanation_marker>
+               <statement>Und deshalb hat die Polizei einige Straßen gesperrt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>
+                        <style_element type="hi">Das heißt:</style_element>
+                     </headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Auf diesen Straßen durften <style_element type="hb">keine</style_element> Autos fahren.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+         </explanation_marker>
+         <explanation_marker>
+            <statement>
+               <style_element type="hi">Zum Beispiel die Bundes·straße 6 in Hannover.</style_element>
+            </statement>
+            <explanations>
+               <explanation id="1">
+                  <statement>
+                     <style_element type="hi">Hannover ist Haupt·stadt von Niedersachsen.</style_element>
+                  </statement>
+               </explanation>
+            </explanations>
+         </explanation_marker>        
+         </section>
+         <section id="3">
+            <statement>Auf einigen Straßen waren auch Unfälle.</statement>
+            <explanation_marker>
+               <statement>Zum Beispiel auf einer Straße in Bad Münder.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Bad Münder ist eine Stadt in Niedersachsen.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Und Bad Münder ist in der Nähe von Hameln.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Regen hat nämlich Schlamm auf die Straße gespült.</statement>
+            <statement>Deshalb war die Straße sehr rutschig.</statement>
+            <explanation_marker>
+               <statement>Und deshalb ist ein Mann mit seinem Lkw von der Straße abgekommen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>
+                        <style_element type="hi">Das heißt:</style_element>
+                     </headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Der Mann ist <style_element type="hb">ohne</style_element> Absicht von der Straße gefahren.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und der Mann ist mit seinem Lkw gegen eine Leit·planke geprallt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Eine Leit·planke ist eine Begrenzung von einer Fahr·bahn.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <question>
+                        <style_element type="hi">Rutscht zum Beispiel ein Auto·fahrer mit seinem Auto von der Fahr·bahn?</style_element>
+                     </question>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Dann rutscht das Auto gegen die Leit·planke.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement>
+                        <style_element type="hi">Und das Auto rutscht zum Beispiel <style_element type="hb">nicht</style_element> gegen andere Autos.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement>
+                        <style_element type="hi">Deshalb verhindern Leit·planken oft schwere Unfälle.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Mann wurde beim Unfall <style_element type="hb">nicht</style_element> verletzt.</statement>
+         </section>
+         <section id="4">
+            <subheadline>Viel Arbeit für die Feuerwehr</subheadline>
+            <explanation_marker>
+               <statement>Bei den Unwettern sind viele Häuser vollgelaufen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>
+                        <style_element type="hi">Das heißt:</style_element>
+                     </headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">In diesen Häusern war sehr viel Wasser.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Feuerwehr musste das Wasser aus den Häusern pumpen.</statement>
+            <statement>Und die Feuerwehr musste zum Beispiel Bäume wegräumen.</statement>
+            <statement>Bei den Unwettern war nämlich auch starker Wind.</statement>
+            <statement>Der Wind hat zum Beispiel Bäume umgeweht.</statement>
+            <statement>Und der Wind hat zum Beispiel viele Äste auf Straßen geweht.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

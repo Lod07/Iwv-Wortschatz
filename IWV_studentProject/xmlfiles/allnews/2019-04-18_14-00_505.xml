@@ -1,0 +1,172 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-25" url="2019-04-18_14-00_505.xml">
+   <title>Sehr alter Affe hat Geburtstag</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-04-18_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-04-18_14-00_505-full.png" type="screenshot" url="2019-04-18_14-00_505-full.png"/>
+      <resource id="2" name="2019-04-18_14-00_505_plaintext.txt" type="plaintext" url="2019-04-18_14-00_505_plaintext.txt"/>
+      <resource id="3" name="2019-04-18_14-00_505_quellcode.txt" type="sourcecode" url="2019-04-18_14-00_505_quellcode.txt"/>
+      <resource id="4" name="2019-04-18_14-00_505.docx" type="formatedText" url="2019-04-18_14-00_505.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Sehr alter Affe hat Geburtstag</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Hamburg hat ein sehr alter Orang-Utan Geburtstag.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Orang-Utan ist eine Affen·art.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Orang-Utan ist 58 Jahre alt.</statement>
+            <statement>Und dieser Orang-Utan heißt Bella.</statement>
+            <explanation_marker>
+               <statement>Bella lebt im Tier·park Hagenbeck.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Der Tier·park Hagenbeck ist ein großer Zoo.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Im Tier·park Hagenbeck leben viele Tiere.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword><style_element type="hi">• Löwen.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword><style_element type="hi">• Elefanten.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="3">
+                              <headword><style_element type="hi">• Und Affen. </style_element></headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bella ist die älteste Orang-Utan-Frau der Welt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Bella ist gesund</subheadline>
+               <statement>Im Tier·park Hagenbeck kümmern sich Menschen um die Tiere.</statement>
+               <statement>Diese Menschen sind Tier·pfleger.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der Tier·pfleger von Bella hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Bella wird heute 58 Jahre alt.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Das ist besonders.</statement>
+                     </speech>
+                     <speech id="3"> 
+                        <statement>Denn Orang-Utans werden sonst <style_element type="hb">nicht</style_element> so alt.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Bella ist gesund.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Bella kann zum Beispiel noch sehr gut klettern.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Bella hört noch gut.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Und Bella sieht auch noch gut.</statement>
+                     </speech>
+                     <speech id="8">
+                        <statement>Aber Bella hat nur noch 3 Zähne.</statement>
+                     </speech>
+                     <speech id="9">
+                        <statement>Deshalb bekommt Bella besonderes Essen.</statement>
+                     </speech>
+                     <speech id="10">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <headword>Zum Beispiel:</headword>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <headword>• Gries·brei.</headword>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <headword>• Oder Obst·brei.</headword>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Bella ist aus Indonesien</subheadline>
+               <explanation_marker>
+                  <statement>Bella ist aus Indonesien.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Indonesien ist ein Land in Asien.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>In Indonesien hat Bella im Dschungel gelebt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Dschungel ist ein dichter Wald.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">In einem Dschungel sind viele verschiedene Pflanzen.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und in einem Dschungel leben viele Tiere.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der Tier·pfleger von Bella hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Orang-Utans sind vom Aussterben bedroht.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Vielleicht gibt es bald <style_element type="hb">keine</style_element> Orang-Utans mehr.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker> 
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber im Tier·park können Orang-Utans gut leben.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb sterben Orang-Utans vielleicht <style_element type="hb">nicht</style_element> aus.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-25" url="2019-07-15_14-00_424.xml">
+   <title>Brennende Autos in Lübeck</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-07-15_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-07-15_14-00_424-full.png" type="screenshot" url="2019-07-15_14-00_424-full.png"/>
+      <resource id="2" name="2019-07-15_14-00_424_plaintext.txt" type="plaintext" url="2019-07-15_14-00_424_plaintext.txt"/>
+      <resource id="3" name="2019-07-15_14-00_424_quellcode.txt" type="sourcecode" url="2019-07-15_14-00_424_quellcode.txt"/>
+      <resource id="4" name="2019-07-15_14-00_424.docx" type="formatedText" url="2019-07-15_14-00_424.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Brennende Autos in Lübeck</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Lübeck haben 13 Autos gebrannt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Lübeck ist eine Stadt in Schleswig-Holstein.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>12 von den 13 Autos waren vor der Musik- und Kongress·halle.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">In der Musik- und Kongress·halle sind zum Beispiel Konzerte.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <headword>
+                        <style_element type="hi">Oder Versammlungen.</style_element>
+                     </headword>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Ein Auto war in einem Wohn·gebiet.</statement>
+            <statement>Dieses Wohn·gebiet ist im Stadt·teil Eichholz.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Feuer war wahrscheinlich <style_element type="hb">kein</style_element> Unfall.</statement>
+                  </speech>
+                   <speech id="2">
+                     <explanation_marker>
+                        <statement>Brand·stifter haben die 13 Autos wahrscheinlich angezündet.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Brand·stifter sind Menschen.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="2">
+                              <explanation_marker>
+                                 <statement>
+                                    <style_element type="hi">Brand·stifter machen absichtlich Feuer.</style_element>
+                                 </statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <headword>
+                                          <style_element type="hi">Das heißt:</style_element>
+                                       </headword>
+                                    </explanation>
+                                    <explanation id="2">
+                                       <headword>
+                                          <style_element type="hi">Die Menschen zünden zum Beispiel ein Haus an.</style_element>
+                                       </headword>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                           <explanation id="3">
+                              <statement>
+                                 <style_element type="hi">Brand·stifter wollen zum Beispiel anderen Menschen Angst machen.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>75 Feuerwehr·leute löschen</subheadline>
+            <statement>Die 13 Autos haben in der Nacht gebrannt.</statement>
+            <statement>Menschen haben die brennenden Autos gesehen.</statement>
+            <statement>Dann haben diese Menschen die Feuerwehr angerufen.</statement>
+            <statement>Die Feuerwehr ist mit 75 Feuerwehr·leuten gekommen.</statement>
+            <statement>Diese 75 Feuerwehr·leute haben die 13 Autos gelöscht.</statement>
+            <statement>Aber die 13 Autos wurden trotzdem beschädigt.</statement>
+            <explanation_marker>
+               <statement>6 von den 13 Autos sind ausgebrannt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>
+                        <style_element type="hi">Das heißt:</style_element>
+                     </headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Diese 6 Autos sind kaputt.</style_element>
+                     </statement>
+                  </explanation>
+                   <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Und diese 6 Autos können <style_element type="hb">nicht</style_element> mehr repariert werden.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="3">
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum haben die 13 Autos gebrannt?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2019-09-20_13-30_273.xml">
+   <title>Mehr Nachrichten vom 20.09.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-09-20_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-09-20_13-30_273-full.png" type="screenshot" url="2019-09-20_13-30_273-full.png"/>
+      <resource id="2" name="2019-09-20_13-30_273_plaintext.txt" type="plaintext" url="2019-09-20_13-30_273_plaintext.txt"/>
+      <resource id="3" name="2019-09-20_13-30_273_quellcode.txt" type="sourcecode" url="2019-09-20_13-30_273_quellcode.txt"/>
+      <resource id="4" name="2019-09-20_13-30_273.docx" type="formatedText" url="2019-09-20_13-30_273.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 20.09.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Segel·flugzeug abgestürzt</subheadline>
+            <explanation_marker>
+               <statement>In Bergedorf ist ein besonderes Flugzeug abgestürzt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bergedorf ist ein Stadt·teil von Hamburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Das besondere Flugzeug war ein Segel·flugzeug.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Segel·flugzeug kann ohne Motor fliegen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Segel·flugzeug ist sehr hoch geflogen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dann ist das Segel·flugzeug plötzlich abgestürzt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Bei dem Unfall ist der Pilot von dem Segel·flugzeug gestorben.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nun wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum ist das Segel·flugzeug abgestürzt?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Fußball: Wolfsburg gewinnt</subheadline>
+            <explanation_marker>
+               <statement>In Wolfsburg war ein wichtiges Fußball·spiel.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Wolfsburg ist eine Stadt in Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Bei dem Fußball·spiel hat der VfL Wolfsburg gewonnen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">VfL ist die Abkürzung für: <style_element type="hb">V</style_element>erein <style_element type="hb">f</style_element>ür <style_element type="hb">L</style_element>eibes·übungen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Das Spiel war im Europa·cup.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Der Europa·cup ist ein besonderes Fußball·turnier.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Am Europa·cup nehmen viele Fußball·mannschaften aus Europa teil.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und das Spiel war gegen die Mannschaft von Olexandrija.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Olexandrija ist eine Stadt in der Ukraine.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der VfL Wolfsburg hat mit 3:1 gewonnen.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

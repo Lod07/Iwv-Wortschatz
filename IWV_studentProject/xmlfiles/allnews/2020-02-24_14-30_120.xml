@@ -1,0 +1,210 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-24" url="2020-02-24_14-30_120.xml">
+   <title>Mehr Nachrichten vom 24.02.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-02-24_14-30</vdate>
+   <resources>
+      <resource id="1" name="2020-02-24_14-30_120-full.png" type="screenshot" url="2020-02-24_14-30_120-full.png"/>
+      <resource id="2" name="2020-02-24_14-30_120_plaintext.txt" type="plaintext" url="2020-02-24_14-30_120_plaintext.txt"/>
+      <resource id="3" name="2020-02-24_14-30_120_quellcode.txt" type="sourcecode" url="2020-02-24_14-30_120_quellcode.txt"/>
+      <resource id="4" name="2020-02-24_14-30_120.docx" type="formatedText" url="2020-02-24_14-30_120.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 24.02.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Unfall mit Schwer·transporter</subheadline>
+            <explanation_marker>
+               <statement>In Sögel war am Sonntag ein Unfall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Sögel ist ein Ort in der Nähe von Meppen.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieser Unfall war mit einem Schwer·transporter.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Schwer·transporter sind besondere Lkw.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Schwer·transporter haben sehr große Anhänger.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Auf diesen Anhängern transportieren Schwer·transporter sehr schwere Sachen.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="4">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">Und auf diesen Anhängern transportieren Schwer·transporter sehr große Sachen.</style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword>
+                                 <style_element type="hi">Das heißt:</style_element>
+                              </headword>
+                           </explanation>
+                           <explanation id="2">
+                              <headword>
+                                 <style_element type="hi">Schwer·transporter fahren diese Sachen von einem Ort zu einem anderen Ort.</style_element>
+                              </headword>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>          
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Unfall wurde <style_element type="hb">kein</style_element> Mensch verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Schwer·transporter hat einen Gas·tank transportiert.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und der Schwer·transporter ist auf einer Land·straße gefahren.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dann ist der Anhänger von dem Schwer·transporter in einen Graben gerutscht.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und der Gas·tank auf dem Anhänger ist in den Graben gerutscht.</statement>
+                  </speech>
+                  <speech id="5">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Fach·leute sollen klären:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Wie holen wir den Anhänger und den Gas·tank aus dem Graben?</question>
+                           </speech>
+                           <speech id="2">
+                              <question>Und warum ist der Unfall passiert?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker> 
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Explosion in Halle</subheadline>
+            <explanation_marker>
+               <statement>In Rastede war eine Explosion.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Rastede ist eine Stadt in der Nähe von Oldenburg.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Explosion war in einer Halle.</statement>
+            <statement>Und diese Explosion war in der Nacht.</statement>
+            <statement>Bei der Explosion wurde <style_element type="hb">kein</style_element> Mensch verletzt.</statement>
+            <statement>Aber die Explosion hat große Schäden an der Halle gemacht.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Vielleicht stürzt die Halle ein.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum war die Explosion in der Halle?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Vor 6 Wochen war ein Polizei·einsatz in der Halle.</statement>
+                  </speech>
+                  <speech id="2">
+                     <explanation_marker>
+                        <statement>In der Halle haben Menschen nämlich Cannabis angebaut.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Cannabis ist eine Pflanze.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">Der Anbau von Cannabis-Pflanzen ist verboten.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="3">
+                              <explanation_marker>
+                                 <statement>
+                                    <style_element type="hi">Aus Cannabis-Pflanzen können Menschen nämlich Drogen machen.</style_element>
+                                 </statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement>
+                                          <style_element type="hi">Drogen sind gefährlich für den Körper.</style_element>
+                                       </statement>
+                                    </explanation>
+                                    <explanation id="2">
+                                       <statement>
+                                          <style_element type="hi">Deshalb sind Drogen verboten.</style_element>
+                                       </statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="3">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Jetzt prüfen wir:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Hat dieser Polizei·einsatz etwas mit der Explosion zu tun?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

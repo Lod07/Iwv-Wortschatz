@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-19" url="2018-06-27_15-00_749.xml">
+   <title>Auto fällt aus Park·haus</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-06-27_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-06-27_15-00_749-full.png" type="screenshot" url="2018-06-27_15-00_749-full.png"/>
+      <resource id="2" name="2018-06-27_15-00_749_plaintext.txt" type="plaintext" url="2018-06-27_15-00_749_plaintext.txt"/>
+      <resource id="3" name="2018-06-27_15-00_749_quellcode.txt" type="sourcecode" url="2018-06-27_15-00_749_quellcode.txt"/>
+      <resource id="4" name="2018-06-27_15-00_749.docx" type="formatedText" url="2018-06-27_15-00_749.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Auto fällt aus Park·haus</headline>
+      <sections>
+         <section id="1">
+            <statement>In Hamburg war ein Unfall.</statement>
+            <statement>Bei diesem Unfall ist ein Auto aus einem Park·haus gestürzt.</statement>
+            <statement>Und bei diesem Unfall ist der Fahrer von dem Auto gestorben.</statement>
+            <statement>Der Fahrer von dem Auto war 88 Jahre alt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Das Park·haus ist in einem Einkaufs·zentrum.</statement>
+               <explanation_marker>
+                  <statement>Dieses Einkaufs·zentrum ist in Barmbek-Süd.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Barmbek-Süd ist ein Stadt·teil von Hamburg.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Das Auto von dem Mann war in dem Park·haus.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und das Auto von dem Mann war in der 5. Etage von dem Park·haus.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Die 5. Etage von dem Park·haus ist in 15 Meter Höhe.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Der Mann wollte mit dem Auto ausparken.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Beim Ausparken ist der Mann mit dem Auto rückwärts gefahren.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Dann ist das Auto gegen eine Wand gefahren.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Danach ist das Auto schnell vorwärts gefahren.</statement>
+                     </speech>
+                     <speech id="8">
+                        <statement>Und dann ist das Auto gegen eine andere Wand gefahren.</statement>
+                     </speech>
+                     <speech id="9">
+                        <statement>Diese andere Wand ist an der Außen·seite von dem Park·haus.</statement>
+                     </speech>
+                     <speech id="10">
+                        <statement>Diese andere Wand hat das Auto <style_element type="hb">nicht</style_element> gestoppt.</statement>
+                     </speech>
+                     <speech id="11">
+                        <statement>Deshalb ist das Auto aus dem Park·haus gestürzt.</statement>
+                     </speech>
+                     <speech id="12">
+                        <statement>Das Auto ist 15 Meter herunter·gestürzt.</statement>
+                     </speech>
+                     <speech id="13">
+                        <statement>Das Auto wurde bei dem Unfall zerquetscht.</statement>
+                     </speech>
+                     <speech id="14">
+                        <statement>Der Mann in dem Auto ist bei dem Unfall gestorben.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt will die Polizei wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum ist der Unfall passiert?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Deshalb müssen Fach·leute untersuchen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>War der Mann vielleicht krank?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Teil vom Park·haus gesperrt</subheadline>
+               <explanation_marker>
+                  <statement>Die Polizei hat einen Teil vom Park·haus gesperrt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">In diesem Teil vom Park·haus dürfen <style_element type="hb">keine</style_element> Autos parken.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Wand an der Außen·seite vom Park·haus ist kaputt.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb kann diese Wand auf die Straße fallen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Jetzt müssen Fach·leute diese Wand reparieren.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Dann können wieder Autos in diesem Teil vom Park·haus parken.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

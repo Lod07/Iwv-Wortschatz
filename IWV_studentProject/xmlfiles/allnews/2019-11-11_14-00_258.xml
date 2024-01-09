@@ -1,0 +1,194 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-28" url="2019-11-11_14-00_258.xml">
+   <title>Neuer Bürgermeister von Hannover</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-11-11_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-11-11_14-00_258-full.png" type="screenshot" url="2019-11-11_14-00_258-full.png"/>
+      <resource id="2" name="2019-11-11_14-00_258_plaintext.txt" type="plaintext" url="2019-11-11_14-00_258_plaintext.txt"/>
+      <resource id="3" name="2019-11-11_14-00_258_quellcode.txt" type="sourcecode" url="2019-11-11_14-00_258_quellcode.txt"/>
+      <resource id="4" name="2019-11-11_14-00_258.docx" type="formatedText" url="2019-11-11_14-00_258.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Neuer Bürgermeister von Hannover</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Hannover war eine wichtige Wahl.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Hannover ist die Hauptstadt von Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Menschen in Hannover haben nämlich einen neuen Bürgermeister gewählt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Bürgermeister ist der Chef von einer Stadt.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Die Menschen in Hannover konnten wählen zwischen:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <explanation_marker>
+                        <headword>• Belit Onay.</headword>
+                         <explanations>
+                           <explanation id="1">
+                              <statement>Belit Onay ist von der Partei Die Grünen.</statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <statement>• Und Eckard Scholz.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>Eckard Scholz ist in <style_element type="hb">keiner</style_element> Partei.</statement>
+                           </explanation>
+                           <explanation id="2">
+                              <explanation_marker>
+                                 <statement>Und Eckard Scholz ist für die CDU angetreten.</statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">CDU ist die Abkürzung für <style_element type="hb">C</style_element>hristlich <style_element type="hb">D</style_element>emokratische <style_element type="hb">U</style_element>nion.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>   
+                    </enumeration>
+                 </enumerations>
+              </enumeration_marker>
+            <statement>Belit Onay hat die Wahl gewonnen.</statement>
+            <statement>Belit Onay ist 38 Jahre alt.</statement>
+         </section>
+         <section id="2">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Nach der Wahl hat Belit Onay gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Ich freue mich sehr über das Ergebnis von der Wahl.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Jetzt gibt es nämlich 4 große Städte in Deutschland mit einem Bürgermeister von der Partei Die Grünen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement>Diese 4 großen Städte sind:</statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <explanation_marker>
+                                 <headword>• Darmstadt.</headword>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">Darmstadt ist in Hessen.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </enumeration>
+                           <enumeration id="2">
+                              <explanation_marker>
+                                 <headword>• Stuttgart.</headword>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">Stuttgart ist die Haupt·stadt von Baden-Württemberg.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </enumeration>
+                           <enumeration id="3">
+                              <headword>• Und Hannover.</headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>                  
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Belit Onay hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Ich möchte viele Dinge für die Menschen in Hannover verändern.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Hannover soll zum Beispiel viele günstige Wohnungen bauen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und in der Innen·stadt von Hannover sollen bald <style_element type="hb">keine</style_element> Autos mehr fahren.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Die Autos machen nämlich viele Abgase.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Das ist schlecht für die Menschen.</statement>
+                  </speech>
+                  <speech id="6">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement>Die Innen·stadt von Hannover soll nur noch da sein für:</statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword> • Fußgänger.</headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword>• Fahrräder.</headword>
+                           </enumeration>
+                           <enumeration id="3">
+                              <headword>• Busse.</headword>
+                           </enumeration>
+                           <enumeration id="4">
+                              <headword>• Und Bahnen.</headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Stefan Schostock wollte nicht mehr Bürgermeister sein</subheadline>
+            <statement>Vor Belit Onay war Stefan Schostok der Bürgermeister von Hannover.</statement>
+            <explanation_marker>
+               <statement>Stefan Schostok war bei der SPD.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">SPD ist die Abkürzung für <style_element type="hb">S</style_element>ozial·demokratische <style_element type="hb">P</style_element>artei <style_element type="hb">D</style_element>eutschlands.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Stefan Schostok hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Ich möchte <style_element type="hb">nicht</style_element> mehr Bürgermeister von Hannover sein.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

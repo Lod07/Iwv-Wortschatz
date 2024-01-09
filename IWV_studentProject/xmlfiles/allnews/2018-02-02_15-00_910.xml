@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-28" url="2018-02-02_15-00_910.xml">
+   <title>Frau erschossen: Mann festgenommen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-02-02_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-02-02_15-00_910-full.png" type="screenshot" url="2018-02-02_15-00_910-full.png"/>
+      <resource id="2" name="2018-02-02_15-00_910_plaintext.txt" type="plaintext" url="2018-02-02_15-00_910_plaintext.txt"/>
+      <resource id="3" name="2018-02-02_15-00_910_quellcode.txt" type="sourcecode" url="2018-02-02_15-00_910_quellcode.txt"/>
+      <resource id="4" name="2018-02-02_15-00_910.docx" type="formatedText" url="2018-02-02_15-00_910.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Frau erschossen: Mann festgenommen</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Waren hat die Polizei einen Mann festgenommen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Waren ist eine Stadt in Mecklenburg-Vorpommern.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei glaubt nämlich:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Mann hat eine Frau erschossen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Mehrere Menschen in Waren haben in einem Haus 3 Schüsse gehört.</statement>
+               <statement>Diese Menschen haben die Polizei angerufen.</statement>
+               <statement>Die Polizei hat in dem Haus die tote Frau gefunden.</statement>
+               <statement>Die tote Frau war in ihrem Büro.</statement>
+               <explanation_marker>
+                  <statement>Die tote Frau war eine Anwältin.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Anwältin weiß sehr viel über Gesetze.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Deshalb kann eine Anwältin anderen Menschen helfen.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Zum Beispiel bei einem Streit vor Gericht.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Nach der Tat haben Nachbarn einen Mann gesehen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dieser Mann ist von dem Haus weggelaufen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <speech_marker>
+                        <speech_intro>
+                           <headword>Wir glauben:</headword>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Der Mann hat die Frau erschossen.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb haben wir nach dem Mann gesucht.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Dann haben wir den Mann gefunden.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Und wir haben den Mann festgenommen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat auch gesagt</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Der Mann hat uns gesagt:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Ich habe die Frau <style_element type="hb">nicht</style_element> erschossen.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement> Aber wir glauben dem Mann <style_element type="hb">nicht</style_element>.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb haben wir den Mann festgenommen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Jetzt wollen wir wissen:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Warum hat der Mann die Frau erschossen?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

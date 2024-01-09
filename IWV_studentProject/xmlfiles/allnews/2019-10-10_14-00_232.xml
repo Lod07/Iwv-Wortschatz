@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-30" url="2019-10-10_14-00_232.xml">
+   <title>Polizei schützt jüdische Kirchen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-10_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-10-10_14-00_232-full.png" type="screenshot" url="2019-10-10_14-00_232-full.png"/>
+      <resource id="2" name="2019-10-10_14-00_232_plaintext.txt" type="plaintext" url="2019-10-10_14-00_232_plaintext.txt"/>
+      <resource id="3" name="2019-10-10_14-00_232_quellcode.txt" type="sourcecode" url="2019-10-10_14-00_232_quellcode.txt"/>
+      <resource id="4" name="2019-10-10_14-00_232.docx" type="formatedText" url="2019-10-10_14-00_232.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Polizei schützt jüdische Kirchen</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Viele Juden in Nord·deutschland haben im Moment Angst.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Juden gehören zum Judentum.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Das Judentum ist eine von den 5 großen Religionen.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <enumeration_marker>
+                                 <enumeration_intro>
+                                    <statement><style_element type="hi">Die 4 anderen großen Religionen sind:</style_element></statement>
+                                 </enumeration_intro>
+                                 <enumerations>
+                                    <enumeration id="1">
+                                       <headword><style_element type="hi">• Das Christentum.</style_element></headword>
+                                    </enumeration>
+                                    <enumeration id="2">
+                                       <headword><style_element type="hi">• Der Islam.</style_element></headword>
+                                    </enumeration>
+                                    <enumeration id="3">
+                                       <headword><style_element type="hi">• Der Hinduismus.</style_element></headword>
+                                    </enumeration>
+                                    <enumeration id="4">
+                                       <statement><style_element type="hi">• Und der Buddhismus.</style_element></statement>
+                                    </enumeration>
+                                 </enumerations>
+                              </enumeration_marker>  
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>        
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>In Halle war nämlich ein schlimmer Anschlag.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Halle ist eine Stadt in Sachsen-Anhalt.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieser Anschlag war in der Nähe von einer Synagoge.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Synagogen sind jüdische Kirchen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Deshalb sind jetzt vor vielen Synagogen Polizisten.</statement>
+            <statement>Auch in Nord·deutschland.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Schlimmer Anschlag in Halle</subheadline>
+            <statement>Bei dem Anschlag in Halle hat ein Mann auf mehrere Menschen geschossen.</statement>
+            <statement>2 von diesen Menschen sind gestorben.</statement>
+            <statement>Und 2 Menschen wurden schwer verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Mann wollte Juden töten.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb wollte der Mann in eine Synagoge gehen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>In dieser Synagoge waren 80 Juden.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Aber die Tür von der Synagoge war abgeschlossen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Der Mann hat auf die Tür geschossen.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Aber der Mann hat die Tür <style_element type="hb">nicht</style_element> aufbekommen.</statement>
+                  </speech>
+                  <speech id="7">
+                     <statement>Dann ist der Mann weggegangen.</statement>
+                  </speech>
+                  <speech id="8">
+                     <statement>Dann hat der Mann auf mehrere Menschen geschossen.</statement>
+                  </speech>
+                  <speech id="9">
+                     <statement>Und dann ist der Mann mit einem Auto geflohen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Später hat die Polizei den Mann festgenommen.</statement>
+         </section>
+         <section id="3">
+            <statement>Jetzt schützt die Polizei viele Synagogen.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• In Hamburg.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• In Hannover.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <statement>• Und in Rostock.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Vor vielen Synagogen waren schon vor dem Anschlag Polizisten.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Jetzt sind vor den Synagogen noch mehr Polizisten.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Diese Polizisten passen auf.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Die Juden sollen nämlich sicher sein.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

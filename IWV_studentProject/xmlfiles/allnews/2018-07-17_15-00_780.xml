@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-20" url="2018-07-17_15-00_780.xml">
+   <title>Sehr gute Wein·ernte in Mecklenburg-Vorpommern</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-07-17_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-07-17_15-00_780-full.png" type="screenshot" url="2018-07-17_15-00_780-full.png"/>
+      <resource id="2" name="2018-07-17_15-00_780_plaintext.txt" type="plaintext" url="2018-07-17_15-00_780_plaintext.txt"/>
+      <resource id="3" name="2018-07-17_15-00_780_quellcode.txt" type="sourcecode" url="2018-07-17_15-00_780_quellcode.txt"/>
+      <resource id="4" name="2018-07-17_15-00_780.docx" type="formatedText" url="2018-07-17_15-00_780.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Sehr gute Wein·ernte in Mecklenburg-Vorpommern</headline>
+      <sections>
+         <section id="1">
+            <statement>Die Wein·bauern in Mecklenburg-Vorpommern erwarten eine sehr gute Ernte.</statement>
+            <explanation_marker>
+               <statement>An den Wein·reben sind nämlich sehr viele Wein·trauben.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Wein·rebe ist ein Strauch.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">An diesem Strauch wachsen Wein·trauben.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Wein·trauben ernten die Wein·bauern bald.</statement>
+            <statement>Dann machen die Wein·bauern Wein aus den Wein·trauben.</statement>
+            <statement>Und die Wein·bauern verkaufen den Wein.</statement>
+            <statement>Ein anderes Wort für Wein·bauer ist Winzer.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Warum gibt es viele Wein·trauben?</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Wein·bauern haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In diesem Jahr ist viel Sonnen·schein.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und in diesem Jahr ist wenig Regen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb sind die Wein·reben gut gewachsen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und deshalb haben die Wein·reben sehr viele Wein·trauben.</statement>
+                     </speech>
+                     <speech id="5">
+                        <explanation_marker>
+                           <statement>In diesem Jahr sind auch wenig Stare in Mecklenburg-Vorpommern.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Stare sind Vögel.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="6">
+                        <statement>Stare haben in den vergangenen Jahren viele Wein·trauben gefressen.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Aber in diesem Jahr haben Stare kaum Wein·trauben gefressen.</statement>
+                     </speech>
+                     <speech id="8">
+                        <statement>Deshalb haben wir in diesem Jahr vielleicht die beste Ernte seit vielen Jahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Wo wächst Wein in Mecklenburg-Vorpommern?</subheadline>
+               <statement>In Mecklenburg-Vorpommern gibt es mehrere Anbau·gebiete für Wein.</statement>
+               <explanation_marker>
+                  <statement>Zum Beispiel auf Rügen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Rügen ist eine Insel.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Rügen ist in der Ostsee.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Das größte Anbau·gebiet ist das Stargarder Land.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Das Stargarder Land ist in der Nähe von Neubrandenburg.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Wein·ernte beginnt Ende August.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

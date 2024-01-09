@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-09-27_15-00_770.xml">
+   <title>Eine Tote bei Unfall mit Kutsche</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-09-27_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-09-27_15-00_770-full.png" type="screenshot" url="2018-09-27_15-00_770-full.png"/>
+      <resource id="2" name="2018-09-27_15-00_770_plaintext.txt" type="plaintext" url="2018-09-27_15-00_770_plaintext.txt"/>
+      <resource id="3" name="2018-09-27_15-00_770_quellcode.txt" type="sourcecode" url="2018-09-27_15-00_770_quellcode.txt"/>
+      <resource id="4" name="2018-09-27_15-00_770.docx" type="formatedText" url="2018-09-27_15-00_770.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Eine Tote bei Unfall mit Kutsche</headline>
+      <sections>
+         <section id="1">
+            <statement>In Hamburg war ein schwerer Unfall.</statement>
+            <explanation_marker>
+               <statement>Bei dem Unfall ist eine Kutsche gegen ein Auto gefahren.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Kutsche ist ein Wagen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Pferde ziehen diesen Wagen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dann ist die Kutsche umgekippt.</statement>
+            <statement>Bei dem Unfall ist eine Frau gestorben.</statement>
+            <statement>Und bei dem Unfall wurden mehrere Menschen verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Der Friedhof in Ohlsdorf</subheadline>
+               <explanation_marker>
+                  <statement>Der Unfall war im Stadt·teil Ohlsdorf.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ohlsdorf ist im Norden von Hamburg.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Und der Unfall war auf einem Friedhof.</statement>
+               <statement>Der Friedhof in Ohlsdorf ist einer von den größten Friedhöfen auf der Welt.</statement>
+               <statement>Der Friedhof in Ohlsdorf ist wie ein großer Park.</statement>
+               <statement>Auf dem Friedhof in Ohlsdorf sind auch Straßen.</statement>
+               <statement>Auf diesen Straßen fahren Autos.</statement>
+               <statement>Und auf diesen Straßen fahren Kutschen.</statement>
+               <statement>Bei diesen Kutsch·fahrten können sich Besucher den Friedhof ansehen.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Der Unfall</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Bei einer Kutsch·fahrt ist ein Pferd plötzlich sehr schnell gelaufen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann ist die Kutsche gegen ein Auto gefahren.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und dann ist die Kutsche umgekippt.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>2 alte Frauen wurden unter der Kutsche eingeklemmt.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Eine von diesen 2 alten Frauen ist bei dem Unfall gestorben.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Die andere alte Frau wurde sehr schwer verletzt.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Der Fahrer von dem Auto wurde auch sehr schwer verletzt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="4">
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum ist das Pferd plötzlich sehr schnell gelaufen?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

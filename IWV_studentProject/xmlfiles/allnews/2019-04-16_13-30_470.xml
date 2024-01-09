@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-25" url="2019-04-16_13-30_470.xml">
+   <title>Mehr Nachrichten vom 16.04.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-04-16_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-04-16_13-30_470-full.png" type="screenshot" url="2019-04-16_13-30_470-full.png"/>
+      <resource id="2" name="2019-04-16_13-30_470_plaintext.txt" type="plaintext" url="2019-04-16_13-30_470_plaintext.txt"/>
+      <resource id="3" name="2019-04-16_13-30_470_quellcode.txt" type="sourcecode" url="2019-04-16_13-30_470_quellcode.txt"/>
+      <resource id="4" name="2019-04-16_13-30_470.docx" type="formatedText" url="2019-04-16_13-30_470.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 16.04.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Neue Boote für Helgoland</subheadline>
+               <explanation_marker>
+                  <statement>Fach·leute testen bald vor Helgoland neue Boote.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Helgoland ist eine Insel.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Helgoland ist in der Nordsee.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und Helgoland gehört zu Schleswig-Holstein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker> 
+               <statement>Diese Boote bringen Menschen von großen Schiffen nach Helgoland.</statement>
+               <headword>Und zurück.</headword>
+               <statement>Der Hafen von Helgoland ist nämlich sehr klein.</statement>
+               <statement>Deshalb können <style_element type="hb">keine</style_element> großen Schiffe im Hafen von Helgoland anlegen.</statement>
+               <statement>Die neuen Boote haben Elektro·motoren.</statement>
+               <statement>Deshalb sind die neuen Boote besonders leise.</statement>
+               <statement>Und deshalb sind die neuen Boote besonders gut für die Umwelt.</statement>
+               <statement>Das erste von den neuen Booten soll ab Mitte Mai fahren.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Neuer Wind·park eröffnet</subheadline>
+               <explanation_marker>
+                  <statement>In der Ostsee haben Menschen einen neuen Wind·park eröffnet.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">In einem Wind·park sind viele Wind·kraft·anlagen.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Eine Wind·kraft·anlage ist ein sehr hoher Turm.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Auf diesem Turm ist eine Maschine.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">An der Maschine ist ein großes Wind·rad.</style_element></statement>
+                              </explanation>
+                              <explanation id="4">
+                                 <statement><style_element type="hi">Das Wind·rad hat sehr lange Flügel.</style_element></statement>
+                              </explanation>
+                              <explanation id="5">
+                                 <statement><style_element type="hi">Die Flügel drehen sich im Wind.</style_element></statement>
+                              </explanation>
+                              <explanation id="6">
+                                 <statement><style_element type="hi">So macht das Wind·rad Strom.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Dieser Wind·park heißt Arkona.</statement>
+               <statement>Der Wind·park ist der größte Wind·park in der Ostsee.</statement>
+               <explanation_marker>
+                  <statement>Und der Wind·park ist 35 km vor Rügen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Rügen ist eine Insel in der Ostsee.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei der Eröffnung waren viele wichtige Politiker.</statement>
+               <explanation_marker>
+                  <statement>Zum Beispiel Angela Merkel.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Angela Merkel ist die Bundes·kanzlerin.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Die Bundes·kanzlerin ist die wichtigste Politikerin in Deutschland.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

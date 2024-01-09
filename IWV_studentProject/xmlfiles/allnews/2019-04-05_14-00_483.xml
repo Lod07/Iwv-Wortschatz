@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<annotation adate="21.10.2020" url="2019-04-05_14-00_483.xml">
+   <title>Oster·ferien: Viele Staus</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-04-05_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-04-05_14-00_483-full.png" type="screenshot" url="2019-04-05_14-00_483-full.png"/>
+      <resource id="2" name="2019-04-05_14-00_483_plaintext.txt" type="plaintext" url="2019-04-05_14-00_483_plaintext.txt"/>
+      <resource id="3" name="2019-04-05_14-00_483_quellcode.txt" type="sourcecode" url="2019-04-05_14-00_483_quellcode.txt"/>
+      <resource id="4" name="2019-04-05_14-00_483.docx" type="formatedText" url="2019-04-05_14-00_483.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Oster·ferien: Viele Staus</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In vielen Bundes·ländern in Nord·deutschland sind Oster·ferien.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In diesen Bundes·ländern haben Schüler 2 Wochen frei.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese Bundes·länder sind:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Schleswig-Holstein.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Niedersachsen.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <headword>• Und Bremen.</headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Auch viele Erwachsene haben an Ostern frei.</statement>
+            <explanation_marker>
+               <statement>An Ostern sind nämlich mehrere Feier·tage.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">An diesen Tagen haben fast alle Menschen frei.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Viele Menschen machen in den Oster·ferien eine Reise.</statement>
+            <statement>Und viele von diesen Menschen fahren mit dem Auto.</statement>
+            <explanation_marker>
+               <statement>Deshalb sind auf den Straßen viele Staus.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Viele Auto·fahrer müssen lange warten.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Tipps für die Reise</subheadline> 
+               <explanation_marker>
+                  <statement>Der ADAC warnt Auto·fahrer vor den Staus.</statement>
+                  <explanations>
+                     <explanation id="1">
+                       <statement><style_element type="hi"><style_element type="hb">ADAC</style_element> ist die Abkürzung für <style_element type="hb">A</style_element>llgemeiner <style_element type="hb">D</style_element>eutscher <style_element type="hb">A</style_element>utomobil-<style_element type="hb">C</style_element>lub.</style_element></statement> 
+                     </explanation>
+                     <explanation id="2">
+                       <statement><style_element type="hi">Der ADAC ist ein Verein.</style_element></statement> 
+                     </explanation>
+                     <explanation id="3">
+                       <statement><style_element type="hi">Im ADAC sind viele Auto·fahrer.</style_element></statement> 
+                     </explanation>
+                     <explanation id="4">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Der ADAC hilft diesen Auto·fahrern.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Bei einem Unfall.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Oder bei einer Panne.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker> 
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der ADAC hat zum Beispiel gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Viele Auto·fahrer beginnen ihre Reise am Anfang von den Ferien.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb sind die Straßen am Anfang von den Ferien oft besonders voll.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und deshalb sind am Anfang von den Ferien besonders viele Staus.</statement>
+                     </speech>
+                     <speech id="4">
+                        <question>Die Auto·fahrer fahren <style_element type="hb">nicht</style_element> alle am Anfang von den Ferien?</question>
+                     </speech>
+                     <speech id="5">
+                        <statement>Dann ist es auf den Straßen <style_element type="hb">nicht</style_element> so voll.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Und dann sind auch <style_element type="hb">nicht</style_element> so viele Staus.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">   
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der ADAC hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Auf vielen Auto·bahnen in Nord·deutschland sind Bau·stellen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Vor Bau·stellen sind oft Staus.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Am Ende von den Staus sind oft Unfälle.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Viele Auto·fahrer sehen den Stau nämlich zu spät.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Deshalb bremsen viele Auto·fahrer zu spät.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Und deshalb sollen Auto·fahrer vor Bau·stellen besonders vorsichtig fahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

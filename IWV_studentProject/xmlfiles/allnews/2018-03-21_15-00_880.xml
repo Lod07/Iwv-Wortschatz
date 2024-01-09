@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-29" url="2018-03-21_15-00_880.xml">
+   <title>Ein Toter und 4 Verletzte bei Unfällen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-03-21_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-03-21_15-00_880-full.png" type="screenshot" url="2018-03-21_15-00_880-full.png"/>
+      <resource id="2" name="2018-03-21_15-00_880_plaintext.txt" type="plaintext" url="2018-03-21_15-00_880_plaintext.txt"/>
+      <resource id="3" name="2018-03-21_15-00_880_quellcode.txt" type="sourcecode" url="2018-03-21_15-00_880_quellcode.txt"/>
+      <resource id="4" name="2018-03-21_15-00_880.docx" type="formatedText" url="2018-03-21_15-00_880.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Ein Toter und 4 Verletzte bei Unfällen</headline>
+      <sections>
+         <section id="1">
+            <statement>In Nord·deutschland waren 3 schwere Unfälle.</statement>
+            <explanation_marker>
+               <statement>2 von den 3 Unfällen waren auf der A1.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">A1 ist die Abkürzung für Auto·bahn 1.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und einer von den 3 Unfällen war auf der A33.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">A33 ist die Abkürzung für Auto·bahn 33.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei diesen 3 Unfällen ist ein Mensch gestorben.</statement>
+            <statement>Und bei diesen 3 Unfällen wurden 4 Menschen verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Der Unfall bei Ahrensburg</subheadline>
+               <explanation_marker>
+                  <statement>Einer von den 2 Unfällen auf der A1 war bei Ahrensburg.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ahrensburg ist eine Stadt in Schleswig-Holstein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei diesem Unfall ist ein Mann gestorben.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Auf der A1 bei Ahrensburg war ein Stau.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber der Fahrer von einem Transporter hat diesen Stau wahrscheinlich zu spät gesehen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb hat der Fahrer von dem Transporter zu spät gebremst.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und deshalb ist der Fahrer von dem Transporter in einen Lkw gefahren.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Der Fahrer von dem Transporter ist bei dem Unfall gestorben.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Der Unfall bei Wildeshausen</subheadline>
+               <statement>Auf der A1 war noch ein Unfall.</statement>
+               <explanation_marker>
+                  <statement>Dieser Unfall war bei Wildeshausen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Wildeshausen ist eine Stadt in Niedersachsen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Und bei diesem Unfall wurde ein Mann verletzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Auf der A1 bei Wildeshausen war ein Stau.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber der Fahrer von einem Lkw hat diesen Stau wahrscheinlich zu spät gesehen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Auf der A1 war nämlich Nebel.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb hat der Fahrer von diesem Lkw zu spät gebremst.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Und deshalb ist der Fahrer von diesem Lkw in einen anderen Lkw gefahren.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Auf dem Lkw waren Eisen·stangen.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Diese Eisen·stangen sind bei dem Unfall nach vorne gerutscht.</statement>
+                     </speech>
+                     <speech id="8">
+                        <statement>Und diese Eisen·stangen haben den Fahrer von dem Lkw eingeklemmt.</statement>
+                     </speech>
+                     <speech id="9">
+                        <statement>Deshalb musste die Feuerwehr den Fahrer von dem Lkw befreien.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Der Unfall bei Georgsmarienhütte</subheadline>
+               <explanation_marker>
+                  <statement>Der Unfall auf der A33 war bei Georgsmarienhütte.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Georgsmarienhütte ist eine Stadt in Niedersachsen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei diesem Unfall sind 3 Pkw und 2 Lkw ineinander gefahren.</statement>
+               <statement>Und bei diesem Unfall wurden 3 Menschen verletzt.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

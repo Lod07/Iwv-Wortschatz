@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2019-11-04_14-00_210.xml">
+   <title>Fach·leute finden Bakterien in Frikadellen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-11-04_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-11-04_14-00_210-full.png" type="screenshot" url="2019-11-04_14-00_210-full.png"/>
+      <resource id="2" name="2019-11-04_14-00_210_plaintext.txt" type="plaintext" url="2019-11-04_14-00_210_plaintext.txt"/>
+      <resource id="3" name="2019-11-04_14-00_210_quellcode.txt" type="sourcecode" url="2019-11-04_14-00_210_quellcode.txt"/>
+      <resource id="4" name="2019-11-04_14-00_210.docx" type="formatedText" url="2019-11-04_14-00_210.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Fach·leute finden Bakterien in Frikadellen</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In einer Firma in Niedersachsen haben Fach·leute Listerien gefunden.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">Listerien sind bestimmte Bakterien.</style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Bakterien sind sehr kleine Lebewesen.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">Bakterien können Menschen krank machen.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                     <explanation id="2">
+                        <statement>
+                           <style_element type="hi">Und Listerien sind sehr gefährlich.</style_element>
+                        </statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement>
+                           <style_element type="hi">Besonders für kranke Menschen.</style_element>
+                        </statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement>
+                           <style_element type="hi">Und für alte Menschen.</style_element>
+                        </statement>
+                     </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Diese Firma ist in Goldenstedt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Goldenstedt ist ein Ort in der Nähe von Vechta.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Firma heißt Fleisch-Krone.</statement>
+            <explanation_marker>
+               <statement>Und diese Firma macht zum Beispiel Frikadellen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Frikadellen sind aus gebratenem Hack·fleisch.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Und Frikadellen sind meistens rund.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Fach·leute haben die Firma kontrolliert.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Und die Fach·leute haben herausgefunden:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In einigen Frikadellen von der Firma sind Listerien.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>          
+         </section>
+         <section id="2">
+            <statement>Die Firma Fleisch-Krone hat die Frikadellen zum Beispiel an Super·märkte verkauft.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese Super·märkte sind:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Rewe.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Und Norma.</headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Und diese Supermärkte sind in verschiedenen Orten in Deutschland.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• In Niedersachsen.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• In Nordrhein-Westfalen.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <statement>• Und in Brandenburg.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Jetzt verkauft die Firma <style_element type="hb">keine</style_element> Frikadellen mehr an die Super·märkte.</statement>
+            <statement>Jetzt ist die Firma Fleisch-Krone nämlich geschlossen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <headword>Fach·leute prüfen:</headword>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wie sind die Listerien in die Frikadellen gekommen?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Und die Fach·leute warnen vor den Frikadellen von der Firma Fleisch-Krone.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Skandal bei der Firma Wilke</subheadline>
+            <statement>Vor einigen Wochen war ein Skandal in einer anderen Firma.</statement>
+            <statement>Diese Firma ist in Hessen.</statement>
+            <statement>Und diese Firma heißt Wilke.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Vor einigen Wochen haben Fach·leute nämlich herausgefunden:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In einigen Würsten von der Firma Wilke sind Listerien.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Viele Menschen haben diese Würste gegessen.</statement>
+            <statement>Dann sind einige Menschen krank geworden.</statement>
+            <statement>Diese Menschen hatten zum Beispiel Fieber.</statement>
+            <headword>Und Durchfall.</headword>
+            <statement>2 von diesen Menschen sind gestorben.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <headword>Fach·leute glauben:</headword>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die 2 Menschen sind an den Listerien gestorben.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>           
+         </section>
+      </sections>
+   </content>
+</annotation>

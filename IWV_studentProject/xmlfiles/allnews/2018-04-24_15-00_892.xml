@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-30" url="2018-04-24_15-00_892.xml">
+   <title>Viele Straßen in Nord·deutschland kaputt</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-04-24_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-04-24_15-00_892-full.png" type="screenshot" url="2018-04-24_15-00_892-full.png"/>
+      <resource id="2" name="2018-04-24_15-00_892_plaintext.txt" type="plaintext" url="2018-04-24_15-00_892_plaintext.txt"/>
+      <resource id="3" name="2018-04-24_15-00_892_quellcode.txt" type="sourcecode" url="2018-04-24_15-00_892_quellcode.txt"/>
+      <resource id="4" name="2018-04-24_15-00_892.docx" type="formatedText" url="2018-04-24_15-00_892.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Viele Straßen in Nord·deutschland kaputt</headline>
+      <sections>
+         <section id="1">
+            <statement>In Nord·deutschland sind viele Straßen kaputt.</statement>
+            <statement>Diese Straßen haben zum Beispiel Löcher.</statement>
+            <headword>Oder Risse.</headword>
+            <explanation_marker>
+               <statement>Das haben Journalisten herausgefunden.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Journalist ist ein Beruf.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement><style_element type="hi">Ein Journalist arbeitet zum Beispiel:</style_element></statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword><style_element type="hi">• Für Zeitungen.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <statement><style_element type="hi">• Oder für das Fernsehen.</style_element></statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Journalisten sind von Panorama 3.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Panorama 3 ist eine Fernseh·sendung vom NDR.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Umfrage von Journalisten</subheadline>
+               <statement>Die Journalisten haben eine Umfrage gemacht.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Journalisten haben zum Beispiel Mitarbeiter von Städten gefragt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>• Wie sind die Straßen in Ihrer Stadt?</question>
+                     </speech>
+                     <speech id="2">
+                        <question>• Sind die Straßen gut?</question>
+                     </speech>
+                     <speech id="3">
+                        <question>• Oder sind die Straßen kaputt?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Die Umfrage war:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• In Niedersachsen.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <headword>• In Mecklenburg-Vorpommern.</headword>
+                     </enumeration>
+                     <enumeration id="3">
+                        <headword>• In Schleswig-Holstein.</headword>
+                     </enumeration>
+                     <enumeration id="4">
+                        <statement>• Und in Hamburg.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+         </section>
+         <section id="3">
+            <subheadline>Das Ergebnis von der Umfrage</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Ein Journalist von Panorama 3 hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Fast ein Viertel von den Straßen ist kaputt.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Diese Straßen müssen repariert werden.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Aber die Reparaturen kosten viel Geld.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Die Reparaturen kosten fast 4 Milliarden Euro.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Aber viele Städte haben <style_element type="hb">kein</style_element> Geld für die Reparaturen.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Deshalb reparieren viele Städte ihre Straßen <style_element type="hb">nicht</style_element>.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der Journalist hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In 2 Gebieten sind die Straßen besonders kaputt.</statement>
+                     </speech>
+                     <speech id="2">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <statement>Diese Gebiete sind:</statement>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <explanation_marker>
+                                    <statement>• Der Landkreis Stade.</statement>
+                                    <explanations>
+                                       <explanation id="1">
+                                          <statement><style_element type="hi">Stade ist in Niedersachsen.</style_element></statement>
+                                       </explanation>
+                                    </explanations>
+                                 </explanation_marker>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <explanation_marker>
+                                    <statement>• Und der Landkreis Rostock.</statement>
+                                    <explanations>
+                                       <explanation id="1">
+                                          <statement><style_element type="hi">Rostock ist in Mecklenburg-Vorpommern.</style_element></statement>
+                                       </explanation>
+                                    </explanations>
+                                 </explanation_marker>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

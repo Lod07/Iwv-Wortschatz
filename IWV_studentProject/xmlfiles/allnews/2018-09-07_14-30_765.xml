@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-25" url="2018-09-07_14-30_765.xml">
+   <title>Mehr Nachrichten vom 07.09.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-09-07_14-30</vdate>
+   <resources>
+      <resource id="1" name="2018-09-07_14-30_765-full.png" type="screenshot" url="2018-09-07_14-30_765-full.png"/>
+      <resource id="2" name="2018-09-07_14-30_765_plaintext.txt" type="plaintext" url="2018-09-07_14-30_765_plaintext.txt"/>
+      <resource id="3" name="2018-09-07_14-30_765_quellcode.txt" type="sourcecode" url="2018-09-07_14-30_765_quellcode.txt"/>
+      <resource id="4" name="2018-09-07_14-30_765.docx" type="formatedText" url="2018-09-07_14-30_765.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 07.09.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Mann muss ins Gefängnis</subheadline>
+               <explanation_marker>
+                  <statement>In Lübeck war ein Prozess.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Das Gericht in Lübeck hat einen Mann verurteilt.</statement>
+               <statement>Der Mann hat nämlich seine Frau erstochen.</statement>
+               <statement>Deshalb muss der Mann jetzt 10 Jahre ins Gefängnis.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Mann hat sich mit seiner Frau gestritten.</statement>
+                     </speech>
+                     <speech id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Die Frau hat nämlich gesagt:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Du darfst dich <style_element type="hb">nicht</style_element> mehr um unseren Sohn kümmern.</statement>
+                              </speech>
+                              <speech id="2">
+                                 <statement>Ich kümmere mich alleine um unseren Sohn.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Dann ist der Mann wütend geworden.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und dann hat der Mann seine Frau erstochen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Niedersachsen: Haus explodiert</subheadline>
+               <statement>In Sottrum war eine Explosion.</statement>
+               <statement>Die Explosion war in einem Haus.</statement>
+               <statement>Bei der Explosion wurde der Bewohner von dem Haus schwer verletzt.</statement>
+               <statement>Nach der Explosion war ein Feuer in dem Haus.</statement>
+               <statement>Dieses Feuer hat das Haus zerstört.</statement>
+               <statement>Jetzt ermittelt die Polizei.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei will nämlich wissen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Warum war in dem Haus eine Explosion?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Hamburg: NDR gewinnt Radio·preise</subheadline>
+               <statement>In Hamburg war eine große Feier.</statement>
+               <statement>Bei dieser Feier haben Mitarbeiter von Radio·sendern einen Preis bekommen.</statement>
+               <statement>Dieser Preis heißt: Deutscher Radio·preis.</statement>
+               <explanation_marker>
+                  <statement>Beim Deutschen Radio·preis gibt es mehrere Kategorien.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Kategorien sind bestimmte Bereiche.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>In jeder Kategorie waren Mitarbeiter von einem Radio·sender besonders gut.</statement>
+               <statement>Deshalb haben diese Mitarbeiter einen Radio·preis in dieser Kategorie gewonnen.</statement>
+         </section>
+         <section id="4">
+            <statement>Auch Mitarbeiter vom NDR haben Radio·preise bekommen.</statement>
+            <explanation_marker>
+               <statement>Philipp Schmid hat zum Beispiel einen Radio·preis als bester Moderator bekommen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Moderator ist ein Beruf.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Moderatoren arbeiten zum Beispiel beim Radio.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und Moderatoren stellen zum Beispiel anderen Menschen Fragen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Philipp Schmid ist Moderator bei dem Radio·sender NDR Kultur.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

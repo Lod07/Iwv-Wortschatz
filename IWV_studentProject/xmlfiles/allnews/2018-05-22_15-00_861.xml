@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-31" url="2018-05-22_15-00_861.xml">
+   <title>VfL Wolfsburg bleibt in der 1. Bundesliga</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-05-22_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-05-22_15-00_861-full.png" type="screenshot" url="2018-05-22_15-00_861-full.png"/>
+      <resource id="2" name="2018-05-22_15-00_861_plaintext.txt" type="plaintext" url="2018-05-22_15-00_861_plaintext.txt"/>
+      <resource id="3" name="2018-05-22_15-00_861_quellcode.txt" type="sourcecode" url="2018-05-22_15-00_861_quellcode.txt"/>
+      <resource id="4" name="2018-05-22_15-00_861.docx" type="formatedText" url="2018-05-22_15-00_861.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>VfL Wolfsburg bleibt in der 1. Bundesliga</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Die Spieler vom VfL Wolfsburg haben sich sehr gefreut.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Der VfL Wolfsburg ist ein Fußball·verein aus Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Der VfL Wolfsburg darf nämlich weiter in der 1. Bundesliga spielen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">In der 1. Bundesliga spielen die 18 besten Fußball·vereine von Deutschland.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Diese 18 Fußball·vereine spielen immer eine Saison lang gegeneinander.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Eine Saison dauert etwa 9 Monate.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der VfL Wolfsburg hat nämlich ein wichtiges Fußball·spiel gewonnen.</statement>
+            <explanation_marker>
+               <statement>Dieses Fußball·spiel war gegen Holstein Kiel.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Holstein Kiel ist ein Fußball·verein aus Schleswig-Holstein.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Der VfL Wolfsburg hat das Fußball·spiel 1:0 gewonnen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Der VfL Wolfsburg hat 1 Tor geschossen.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und Holstein Kiel hat <style_element type="hb">kein</style_element> Tor geschossen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Das wichtige Fußball·spiel war ein Relegations·spiel.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Die Relegations·spiele</subheadline>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Am Ende von einer Saison spielen immer 2 Mannschaften gegeneinander:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <statement>• Eine Mannschaft war auf dem 16. Platz in der 1. Bundesliga.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Diese Mannschaft war der VfL Wolfsburg.</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <statement>• Und die andere Mannschaft war auf dem 3. Platz in der 2. Bundesliga.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Diese Mannschaft war Holstein Kiel.</statement>
+               <statement>Der VfL Wolfsburg und Holstein Kiel haben 2 Mal gegeneinander gespielt.</statement>
+               <statement>Diese 2 Spiele heißen Relegations·spiele.</statement>
+               <statement>Der Gewinner von diesen 2 Spielen darf in der 1. Bundesliga spielen.</statement>
+               <statement>Und der Verlierer muss in der 2. Bundesliga spielen.</statement>
+         </section>
+         <section id="3">
+            <statement>Das 1. Relegations·spiel war in Wolfsburg.</statement>
+            <statement>Dieses Relegations·spiel hat der VfL Wolfsburg 3:1 gewonnen.</statement>
+            <statement>Jetzt war das 2. Relegations·spiel.</statement>
+            <statement>Das 2. Relegations·spiel war in Kiel.</statement>
+            <statement>Dieses 2. Relegations·spiel hat der VfL Wolfsburg 1:0 gewonnen.</statement>
+            <statement>Der VfL Wolfsburg hat also beide Relegations·spiele gewonnen.</statement>
+            <statement>Deshalb darf der VfL Wolfsburg auch in der nächsten Saison in der 1. Bundesliga spielen.</statement>
+            <statement>Und Holstein Kiel muss weiter in der 2. Bundesliga spielen.</statement>
+         </section>
+         <section id="4">
+            <subheadline>Was sagen die Trainer?</subheadline>
+               <statement>Der Trainer vom VfL Wolfsburg heißt Bruno Labbadia.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Bruno Labbadia hat nach dem Spiel gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die letzten Wochen waren sehr anstrengend.</statement>
+                     </speech>
+                     <speech id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Wir hatten nämlich Angst:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Vielleicht müssen wir in der nächsten Saison in der 2. Bundesliga spielen.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Aber meine Mannschaft hat in den letzten Wochen gut gespielt.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb bleiben wir jetzt in der 1. Bundesliga.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Das war eine sehr schwere Aufgabe.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>So eine schwere Aufgabe hatte ich noch <style_element type="hb">nie</style_element> als Trainer.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="5">
+            <statement>Der Trainer von Holstein Kiel heißt Markus Anfang.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Markus Anfang hat nach dem Spiel gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir haben ein gutes Spiel gemacht.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und wir waren besser als der VfL Wolfsburg.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Aber der VfL Wolfsburg ist eine sehr gute Mannschaft.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Der VfL Wolfsburg hat zum Beispiel viel Erfahrung.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Deshalb hat der VfL Wolfsburg das Spiel gewonnen.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Aber wir haben eine sehr gute Saison gespielt.</statement>
+                  </speech>
+                  <speech id="7">
+                     <statement>Deshalb bin ich sehr stolz auf meine Mannschaft.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

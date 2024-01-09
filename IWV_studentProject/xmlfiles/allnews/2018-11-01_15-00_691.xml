@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-11-01_15-00_691.xml">
+   <title>Hilfe für Obdach·lose</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-11-01_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-11-01_15-00_691-full.png" type="screenshot" url="2018-11-01_15-00_691-full.png"/>
+      <resource id="2" name="2018-11-01_15-00_691_plaintext.txt" type="plaintext" url="2018-11-01_15-00_691_plaintext.txt"/>
+      <resource id="3" name="2018-11-01_15-00_691_quellcode.txt" type="sourcecode" url="2018-11-01_15-00_691_quellcode.txt"/>
+      <resource id="4" name="2018-11-01_15-00_691.docx" type="formatedText" url="2018-11-01_15-00_691.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Hilfe für Obdach·lose</headline>
+      <sections>
+         <section id="1">
+            <statement>In Hamburg hat das Winter·not·programm begonnen.</statement>
+            <statement>Das Winter·not·programm ist von der Stadt Hamburg.</statement>
+            <explanation_marker>
+               <statement>Und das Winter·not·programm hilft Obdach·losen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Obdach·lose haben <style_element type="hb">keine</style_element> Wohnung.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Obdach·lose haben nämlich wenig Geld.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Deshalb können Obdach·lose <style_element type="hb">keine</style_element> Wohnung bezahlen.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Und deshalb schlafen Obdach·lose oft draußen.</style_element></statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement><style_element type="hi">Auch im Winter.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Das Winter·not·programm</subheadline>
+               <statement>In Hamburg leben ungefähr 2000 Obdach·lose.</statement>
+               <statement>Für Obdach·lose ist der Winter gefährlich.</statement>
+               <statement>Im Winter ist es nämlich oft sehr kalt.</statement>
+               <question>Obach·lose schlafen bei großer Kälte draußen?</question>
+               <statement>Dann können Obdach·lose zum Beispiel erfrieren.</statement>
+               <statement>Deshalb hat die Stadt im Winter viele Betten für Obdachlose.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Diese Betten sind in 2 großen Häusern:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <explanation_marker>
+                           <statement>• In der Friesenstraße.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Die Friesenstraße ist im Stadt·teil Hammerbrook.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                     <enumeration id="2">
+                        <explanation_marker>
+                           <statement>• Und in der Kollaustraße.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Die Kollaustraße ist im Stadt·teil Lokstedt.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Ein Sprecher von der Stadt hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Obdach·losen können jetzt jeden Tag ab 17 Uhr in die 2 Häuser.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>In den 2 Häusern können die Obdach·losen schlafen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Warmes Essen</subheadline>
+               <statement>In den 2 Häusern gibt es auch warmes Essen für die Obdach·losen.</statement>
+               <statement>Das warme Essen ist aber <style_element type="hb">nicht</style_element> von der Stadt.</statement>
+               <statement>Das warme Essen ist zum Beispiel von der Kirche.</statement>
+               <statement>Oder von Vereinen.</statement>
+         </section>
+         <section id="5">
+            <statement>Das Winter·not·programm ist jeden Winter.</statement>
+            <statement>In diesem Winter ist das Winter·not·programm bis Ende März 2019.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

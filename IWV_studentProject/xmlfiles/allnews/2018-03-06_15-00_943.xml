@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-29" url="2018-03-06_15-00_943.xml">
+   <title>Drogen: Polizei durchsucht Wohnungen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-03-06_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-03-06_15-00_943-full.png" type="screenshot" url="2018-03-06_15-00_943-full.png"/>
+      <resource id="2" name="2018-03-06_15-00_943_plaintext.txt" type="plaintext" url="2018-03-06_15-00_943_plaintext.txt"/>
+      <resource id="3" name="2018-03-06_15-00_943_quellcode.txt" type="sourcecode" url="2018-03-06_15-00_943_quellcode.txt"/>
+      <resource id="4" name="2018-03-06_15-00_943.docx" type="formatedText" url="2018-03-06_15-00_943.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Drogen: Polizei durchsucht Wohnungen</headline>
+      <sections>
+         <section id="1">
+            <statement>In Niedersachsen war ein großer Polizei·einsatz.</statement>
+            <statement>200 Polizisten haben 16 Wohnungen durchsucht.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese 16 Wohnungen sind:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• In Hameln.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• In Fischbeck.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <statement>• Und in Emmerthal.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>In den Wohnungen haben die Polizisten zum Beispiel nach Drogen gesucht.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir ermitteln gegen 12 Männer.</statement>
+                  </speech>
+                  <speech id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Wir glauben nämlich:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Die 12 Männer verkaufen Drogen.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Polizei findet Drogen</subheadline>
+               <statement>Die Polizei hat nach Beweisen gegen die Männer gesucht.</statement>
+               <statement>Deshalb hat die Polizei jetzt 16 Wohnungen durchsucht.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Nach den Durchsuchungen hat die Polizei gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir haben in mehreren Wohnungen Drogen gefunden.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und wir haben verschiedene Waffen gefunden.</statement>
+                     </speech>
+                     <speech id="3">
+                        <explanation_marker>
+                           <statement>In einem Haus in Emmerthal haben wir viele Cannabis-Pflanzen gefunden.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Der Anbau von Cannabis-Pflanzen ist verboten.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Aus Cannabis-Pflanzen können Menschen nämlich Drogen machen.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Zum Beispiel Marihuana.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt muss die Polizei beweisen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Männer haben die Cannabis-Pflanzen angebaut.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dann haben die Männer aus den Cannabis-Pflanzen Drogen gemacht.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und dann haben die Männer die Drogen verkauft.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Dann bekommen die Männer vielleicht eine Strafe.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

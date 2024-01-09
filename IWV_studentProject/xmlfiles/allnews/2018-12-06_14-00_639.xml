@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-28" url="2018-12-06_14-00_639.xml">
+   <title>Sohn findet tote Mutter</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-12-06_14-00</vdate>
+   <resources>
+      <resource id="1" name="2018-12-06_14-00_639-full.png" type="screenshot" url="2018-12-06_14-00_639-full.png"/>
+      <resource id="2" name="2018-12-06_14-00_639_plaintext.txt" type="plaintext" url="2018-12-06_14-00_639_plaintext.txt"/>
+      <resource id="3" name="2018-12-06_14-00_639_quellcode.txt" type="sourcecode" url="2018-12-06_14-00_639_quellcode.txt"/>
+      <resource id="4" name="2018-12-06_14-00_639.docx" type="formatedText" url="2018-12-06_14-00_639.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Sohn findet tote Mutter</headline>
+      <sections>
+         <section id="1">
+            <statement>In Hamburg hat ein Junge eine tote Frau gefunden.</statement>
+            <statement>Die tote Frau ist die Mutter von dem Jungen.</statement>
+            <explanation_marker>
+               <statement>Der Junge hat seine tote Mutter in einer Wohnung in Altona gefunden.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Altona ist ein Stadt·teil von Hamburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>In der Wohnung hat der Junge mit seiner Mutter gelebt.</statement>
+            <statement>Und in der Wohnung haben auch die 3 anderen Kinder von der Frau gelebt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei glaubt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Ehe·mann von der Frau hat die Frau getötet.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Der Junge ist von der Schule nach Hause gekommen.</statement>
+               <statement>Dann hat der Junge zu Hause seine tote Mutter gefunden.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Frau hatte einen Ehe·mann.</statement>
+                     </speech>
+                     <speech id="2"> 
+                        <statement>Aber die Frau und der Mann haben <style_element type="hb">nicht</style_element> mehr zusammengelebt.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Die Frau und der Mann waren nämlich getrennt.</statement>
+                     </speech>
+                     <speech id="4">
+                        <speech_marker>
+                           <speech_intro>
+                              <headword>Wir glauben:</headword>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Der Mann hat die Frau mit einem Messer getötet.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Aber wir wissen <style_element type="hb">nicht</style_element>:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Warum hat der Mann die Frau getötet?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <explanation_marker>
+               <statement>Jetzt ist der Mann in Untersuchungs·haft.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Der Mann ist im Gefängnis.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Und die Polizei muss beweisen:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement><style_element type="hi">Der Mann hat die Frau getötet.</style_element></statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Dann wird der Mann vielleicht angeklagt.</style_element></statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement><style_element type="hi">Und der Mann bekommt vielleicht eine Strafe.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

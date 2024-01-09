@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-17" url="2019-02-25_13-30_549.xml">
+   <title>Mehr Nachrichten vom 25.02.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-02-25_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-02-25_13-30_549-full.png" type="screenshot" url="2019-02-25_13-30_549-full.png"/>
+      <resource id="2" name="2019-02-25_13-30_549_plaintext.txt" type="plaintext" url="2019-02-25_13-30_549_plaintext.txt"/>
+      <resource id="3" name="2019-02-25_13-30_549_quellcode.txt" type="sourcecode" url="2019-02-25_13-30_549_quellcode.txt"/>
+      <resource id="4" name="2019-02-25_13-30_549.docx" type="formatedText" url="2019-02-25_13-30_549.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 25.02.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Musik·gruppe singt für Deutschland</subheadline>
+               <statement>Im Fernsehen war eine besondere Sendung.</statement>
+               <statement>Diese Sendung heißt: Unser Lied für Israel.</statement>
+               <statement>Bei dieser Sendung waren mehrere Musiker.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Und bei dieser Sendung konnten Zuschauer und Fach·leute entscheiden:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker> 
+                           <question>Welcher von den Musikern darf für Deutschland beim ESC singen?</question>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">ESC ist die Abkürzung für: <style_element type="hb">E</style_element>urovision <style_element type="hb">S</style_element>ong <style_element type="hb">C</style_element>ontest.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Der ESC ist ein sehr bekannter Musik·wettbewerb.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Viele Länder machen beim ESC mit.</style_element></statement>
+                              </explanation>
+                              <explanation id="4">
+                                 <statement><style_element type="hi">Und jedes Land schickt Musiker zum ESC.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Zuschauer und die Fach·leute haben entschieden:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Die S!sters dürfen für Deutschland beim ESC singen.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Die S!sters sind eine Musik·gruppe.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">In dieser Musik·gruppe sind 2 Frauen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Der ESC ist am 18. Mai.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Volleyballerinnen gewinnen Pokal</subheadline>
+               <statement>Die Volleyballerinnen aus Schwerin haben einen wichtigen Wettbewerb gewonnen.</statement>
+               <explanation_marker>
+                  <statement>Dieser Wettbewerb heißt: DVV-Pokal.</statement>
+                  <explanations>
+                     <explanation id="1"> 
+                        <statement><style_element type="hi">DVV ist die Abkürzung für <style_element type="hb">D</style_element>eutscher <style_element type="hb">V</style_element>olleyball-<style_element type="hb">V</style_element>erband.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Im DVV-Pokal gibt es viele Spiele.</statement>
+               <explanation_marker>
+                  <statement>Am Ende von dem DVV-Pokal gibt es ein Finale.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Finale ist das letzte Spiel von einem Wettbewerb.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Der Gewinner von dem Finale hat den Wettbewerb gewonnen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Im Finale spielen die 2 besten Volleyball·mannschafen im DVV-Pokal.</statement>
+               <statement>In diesem Jahr war Schwerin im Finale.</statement>
+               <explanation_marker>
+                  <statement>Und Stuttgart war im Finale.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Stuttgart ist die Hauptstadt von Baden-Württemberg.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Schwerin hat das Finale gegen Stuttgart mit 3:0 gewonnen.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

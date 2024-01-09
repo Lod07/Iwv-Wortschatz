@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-25" url="2018-12-04_13-30_674.xml">
+   <title>Mehr Nachrichten vom 04.12.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-12-04_13-30</vdate>
+   <resources>
+      <resource id="1" name="2018-12-04_13-30_674-full.png" type="screenshot" url="2018-12-04_13-30_674-full.png"/>
+      <resource id="2" name="2018-12-04_13-30_674_plaintext.txt" type="plaintext" url="2018-12-04_13-30_674_plaintext.txt"/>
+      <resource id="3" name="2018-12-04_13-30_674_quellcode.txt" type="sourcecode" url="2018-12-04_13-30_674_quellcode.txt"/>
+      <resource id="4" name="2018-12-04_13-30_674.docx" type="formatedText" url="2018-12-04_13-30_674.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 04.12.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Rekord am Flughafen</subheadline>
+               <statement>Am Flughafen von Hannover war am Dienstag ein Rekord.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der Chef vom Flughafen hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>In diesem Jahr waren schon 6 Millionen Passagiere am Flughafen Hannover.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">6 Millionen Menschen sind mit dem Flugzeug in Hannover gestartet.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <headword><style_element type="hi">Oder gelandet.</style_element></headword>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2"> 
+                        <statement>So viele Passagiere waren noch <style_element type="hb">nie</style_element> am Flughafen Hannover.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der Chef vom Flughafen hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Viele Menschen fliegen von Hannover in den Urlaub.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Zum Beispiel nach Spanien.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Oder in die Türkei.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Bald können Menschen in noch mehr Länder fliegen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <explanation_marker>
+                           <statement>Zum Beispiel nach Finnland.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Finnland ist ein Land in Nord·europa.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Großer Auftrag</subheadline>
+               <explanation_marker>
+                  <statement>Eine Firma in Torgelow hat einen großen Auftrag bekommen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Torgelow ist eine Stadt in Vorpommern.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Diese Firma ist eine Eisen·gießerei.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">In einer Eisen·gießerei machen Menschen Bau·teile aus Eisen.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Diese Bau·teile sind zum Beispiel in vielen Maschinen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der Chef von der Eisen·gießerei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Eine Firma will Wind·kraft·anlagen in Amerika bauen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb braucht die Firma viele Bau·teile aus Eisen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und diese Bau·teile machen wir in unserer Firma.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Der Auftrag ist sehr gut für unsere Firma.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Mit dem Auftrag können wir nämlich viel Geld verdienen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

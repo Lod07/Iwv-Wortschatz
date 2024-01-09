@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-27" url="2019-12-13_14-00_62.xml">
+   <title>Fach·leute entschärfen Bombe in Hannover</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-12-13_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-12-13_14-00_62-full.png" type="screenshot" url="2019-12-13_14-00_62-full.png"/>
+      <resource id="2" name="2019-12-13_14-00_62_plaintext.txt" type="plaintext" url="2019-12-13_14-00_62_plaintext.txt"/>
+      <resource id="3" name="2019-12-13_14-00_62_quellcode.txt" type="sourcecode" url="2019-12-13_14-00_62_quellcode.txt"/>
+      <resource id="4" name="2019-12-13_14-00_62.docx" type="formatedText" url="2019-12-13_14-00_62.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Fach·leute entschärfen Bombe in Hannover</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Niedersachsen haben Fach·leute eine Bombe entschärft.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Bombe war gefährlich.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Aber die Fach·leute haben die Bombe ungefährlich gemacht.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Jetzt kann die Bombe <style_element type="hb">nicht</style_element> mehr explodieren.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Bombe war in Hannover.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Hannover ist die Haupt·stadt von Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und die Bombe war im Stadt·teil Brink-Hafen.</statement>
+         </section>  
+         <section id="2">
+            <subheadline>Polizei bringt Menschen in Sicherheit</subheadline>
+            <statement>Die Entschärfung von der Bombe war am Donnerstag.</statement>
+            <statement>Und die Entschärfung von der Bombe war am späten Abend.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Vor der Entschärfung von der Bombe haben die Fach·leute gedacht:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Vielleicht explodiert die Bombe.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Deshalb durfte <style_element type="hb">kein</style_element> Mensch in der Nähe von der Bombe sein.</statement>
+            <statement>Und deshalb hat die Polizei 6500 Menschen in Sicherheit gebracht.</statement>
+            <statement>Diese Menschen mussten ihre Häuser verlassen.</statement>
+            <statement>Die Häuser von diesen Menschen waren nämlich in der Nähe von der Bombe.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Die Häuser sind in 3 Stadt·teilen:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Brink-Hafen.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Vinnhorst.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <headword>• Und Langenhagen-Wiesenau.</headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Nach der Entschärfung von der Bombe durften die Menschen wieder in ihre Häuser zurück.</statement>
+         </section>   
+         <section id="3">
+            <subheadline>Bombe aus dem 2. Welt·krieg</subheadline>
+            <statement>Die Bombe war aus dem 2. Welt·krieg.</statement>
+            <explanation_marker>
+               <statement>Und die Bombe war ein Blind·gänger.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Blind·gänger sind Bomben.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Bomben haben zum Beispiel Flugzeuge über einer Stadt abgeworfen.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Aber diese Bomben sind <style_element type="hb">nicht</style_element> explodiert.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Deshalb sind die Bomben immer noch gefährlich.</style_element></statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement><style_element type="hi">Die Bomben können nämlich immer noch explodieren.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bau·arbeiter haben die Bombe gefunden.</statement>
+            <explanation_marker>
+               <statement>Die Bombe war in einem Gewerbe·gebiet.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">In einem Gewerbe·gebiet sind viele Firmen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und in einem Gewerbe·gebiet sind <style_element type="hb">keine</style_element> Wohnungen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section> 
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-25" url="2019-06-24_14-00_373.xml">
+   <title>Hitze in Nord·deutschland</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-06-24_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-06-24_14-00_373-full.png" type="screenshot" url="2019-06-24_14-00_373-full.png"/>
+      <resource id="2" name="2019-06-24_14-00_373_plaintext.txt" type="plaintext" url="2019-06-24_14-00_373_plaintext.txt"/>
+      <resource id="3" name="2019-06-24_14-00_373_quellcode.txt" type="sourcecode" url="2019-06-24_14-00_373_quellcode.txt"/>
+      <resource id="4" name="2019-06-24_14-00_373.docx" type="formatedText" url="2019-06-24_14-00_373.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Hitze in Nord·deutschland</headline>
+      <sections>
+         <section id="1">
+            <statement>In Nord·deutschland ist es sehr sonnig.</statement>
+            <statement>Und in Nord·deutschland ist es sehr heiß.</statement>
+            <statement>In den nächsten Tagen soll es noch heißer werden.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <headword>Wir glauben:</headword>
+                  </speech>
+                  <speech id="2">
+                     <statement>Am Dienstag ist ein neuer Hitze·rekord.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Am Dienstag können die Temperaturen in einigen Orten auf 38 Grad steigen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>So heiß ist es nur ganz selten in Nord·deutschland.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Viele Menschen haben mit der Hitze große Probleme.</statement>
+            <statement>Deshalb sollen sich diese Menschen vor der Hitze schützen.</statement>
+            <statement>Und vor der Sonne.</statement>
+            <question>Menschen schützen sich <style_element type="hb">nicht</style_element> vor der Sonne?</question> 
+            <statement>Dann kann die Sonne die Haut von den Menschen verbrennen.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Viele Menschen haben Probleme</subheadline>
+               <statement>Die Hitze ist für den Körper eine große Belastung.</statement>
+               <statement>Zum Beispiel schwitzen Menschen bei der Hitze sehr stark.</statement>
+               <statement>Deshalb müssen Menschen bei der Hitze viel trinken.</statement>
+               <statement>Aber viele Menschen trinken bei der Hitze zu wenig.</statement>
+               <statement>Deshalb haben viele Menschen bei der Hitze Probleme mit der Gesundheit.</statement>
+               <statement>Und deshalb fühlen sich diese Menschen bei der Hitze <style_element type="hb">nicht</style_element> wohl.</statement> 
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <headword>Zum Beispiel:</headword>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Ältere Menschen.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <headword>• Kranke Menschen.</headword>
+                     </enumeration>
+                     <enumeration id="3">
+                        <headword>• Oder Kinder.</headword>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Diese Menschen haben bei der Hitze zum Beispiel Kopf·schmerzen.</statement>
+               <statement>Oder diesen Menschen wird schwindelig.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Tipps bei großer Hitze</subheadline>
+               <statement>Fach·leute haben herausgefunden:</statement>
+               <statement>Mit diesen Tipps können Menschen die Hitze besser vertragen.</statement>
+               <question>Menschen beachten diese Tipps?</question>
+               <statement>Dann werden diese Menschen bei der Hitze <style_element type="hb">nicht</style_element> krank.</statement> 
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Alle Menschen sollen bei Hitze zum Beispiel:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <headword>• Viel trinken.</headword>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <headword>Zum Beispiel:</headword>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <headword>• Wasser.</headword>
+                              </enumeration>
+                              <enumeration id="3">
+                                 <headword>• Oder Frucht·säfte.</headword>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </enumeration>
+                     <enumeration id="2">
+                        <statement>• <style_element type="hb">Keinen</style_element> anstrengenden Sport machen.</statement> 
+                     </enumeration>
+                     <enumeration id="3">
+                        <statement>• <style_element type="hb">Nicht</style_element> zu lange in der Sonne sein.</statement>
+                     </enumeration>
+                     <enumeration id="4">
+                        <statement>• Und viel im Schatten sein.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

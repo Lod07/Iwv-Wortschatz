@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-14" url="2020-04-16_14-30_185.xml">
+   <title>Mehr Nachrichten vom 16.04.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-04-16_14-30</vdate>
+   <resources>
+      <resource id="1" name="2020-04-16_14-30_185-full.png" type="screenshot" url="2020-04-16_14-30_185-full.png"/>
+      <resource id="2" name="2020-04-16_14-30_185_plaintext.txt" type="plaintext" url="2020-04-16_14-30_185_plaintext.txt"/>
+      <resource id="3" name="2020-04-16_14-30_185_quellcode.txt" type="sourcecode" url="2020-04-16_14-30_185_quellcode.txt"/>
+      <resource id="4" name="2020-04-16_14-30_185.docx" type="formatedText" url="2020-04-16_14-30_185.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+    <headline>Viele große Veranstaltungen abgesagt</headline>
+    <sections>
+      <section id="1">
+      <subheadline>Besonderer Schutz in Firmen</subheadline>
+        <statement>Wegen dem Corona-Virus gibt es viele Regeln.</statement>
+        <statement>Einige von diesen Regeln will die Regierung lockern.</statement>
+        <statement>Zum Beispiel dürfen ab der nächsten Woche wieder kleine Geschäfte öffnen.</statement>
+        <statement>Aber die Mitarbeiter in diesen Geschäften sollen besonders geschützt werden.</statement>
+        <statement>Die Mitarbeiter sollen sich nämlich <style_element type="hb">nicht</style_element> mit dem Corona-Virus anstecken.</statement>
+        <statement>Jetzt hat die Regierung besondere Regeln gemacht.</statement>
+        <statement>Diese Regeln sind für alle Firmen.</statement>
+        <statement>Und diese Regeln sollen die Mitarbeiter schützen.</statement>
+        <enumeration_marker>
+          <enumeration_intro>
+            <statement>Diese Regeln sind zum Beispiel:</statement>
+          </enumeration_intro> 
+          <enumerations>
+            <enumeration id="1">
+              <statement>• Mitarbeiter sollen mindestens 1,5 Meter Abstand zu anderen Mitarbeitern halten.</statement>
+            </enumeration>
+            <enumeration id="2">
+              <statement>• Die Mitarbeiter sollen nicht alle zusammen Pause machen.</statement>
+            </enumeration>
+            <enumeration id="3">
+              <statement>• Und die Mitarbeiter sollen sich oft die Hände waschen.</statement>
+            </enumeration>
+          </enumerations>
+        </enumeration_marker>
+      </section>
+      <style_element type="line"></style_element>  
+    </sections>
+  </content>
+</annotation>
+

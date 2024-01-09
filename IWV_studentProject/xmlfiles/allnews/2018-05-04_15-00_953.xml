@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-31" url="2018-05-04_15-00_953.xml">
+   <title>Kommunal·wahl in Schleswig-Holstein</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-05-04_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-05-04_15-00_953-full.png" type="screenshot" url="2018-05-04_15-00_953-full.png"/>
+      <resource id="2" name="2018-05-04_15-00_953_plaintext.txt" type="plaintext" url="2018-05-04_15-00_953_plaintext.txt"/>
+      <resource id="3" name="2018-05-04_15-00_953_quellcode.txt" type="sourcecode" url="2018-05-04_15-00_953_quellcode.txt"/>
+      <resource id="4" name="2018-05-04_15-00_953.docx" type="formatedText" url="2018-05-04_15-00_953.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Kommunal·wahl in Schleswig-Holstein</headline>
+      <sections>
+         <section id="1">
+            <statement>In Schleswig-Holstein ist bald eine wichtige Wahl.</statement>
+            <statement>Diese Wahl ist am 6. Mai.</statement>
+            <explanation_marker>
+               <statement>Und diese Wahl ist eine Kommunal·wahl.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Diese Wahl ist in den Kommunen von Schleswig-Holstein.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Eine Kommune ist zum Beispiel eine Gemeinde.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Oder eine Stadt.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Oder ein Land·kreis.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei der Kommunal·wahl wählen die Menschen Politiker.</statement>
+            <statement>Diese Politiker kümmern sich dann um ihre Kommune.</statement>
+            <statement>Diese Politiker kümmern sich also <style_element type="hb">nicht</style_element> um ganz Deutschland.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Politiker entscheiden über wichtige Fragen</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Politiker entscheiden über viele wichtige Fragen in den Kommunen.</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <headword>Zum Beispiel:</headword>
+                     </speech>
+                     <speech id="2">
+                        <question>Brauchen wir eine neue Straße?</question>
+                     </speech>
+                     <speech id="3">
+                        <question>Brauchen wir einen neuen Kinder·garten?</question>
+                     </speech>
+                     <speech id="4">
+                        <question>Oder brauchen wir einen neuen Sport·platz?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <explanation_marker>
+                  <statement>Bei diesen Entscheidungen vertreten die Politiker ihre Wähler.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Die Politiker sagen die Meinung von ihren Wählern.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <section id="3">
+            <statement>Die meisten von den Politikern sind in einer Partei.</statement>
+            <explanation_marker>
+               <statement>Andere von den Politikern sind in einer Wähler·gruppe.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Wähler·gruppe ist so etwas ähnliches wie eine Partei.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Eine Wähler·gruppe gibt es aber oft nur in einer bestimmten Kommune.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und manche von den Politikern sind Einzel·bewerber.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Politiker sind in <style_element type="hb">keiner</style_element> Partei.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und in <style_element type="hb">keiner</style_element> Wähler·gruppe.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <question>Ein Politiker bekommt viele Stimmen von den Wählern?</question>
+            <statement>Dann kommt dieser Politiker in das Parlament von einer Kommune:</statement>
+            <statement>Zum Beispiel in die Gemeinde·vertretung.</statement>
+            <statement>Oder in die Kreis·vertretung.</statement>
+         </section>
+         <section id="4">
+            <subheadline>Wahl von 8 bis 18 Uhr</subheadline>
+               <statement>Jeder Wähler bekommt eine Wahl·benachrichtigung.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>In der Wahl·benachrichtigung steht:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>An diesem Ort darf ich wählen.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Dieser Ort heißt Wahl·lokal.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Die Wahl·benachrichtigung müssen Sie zur Wahl mitbringen.</statement>
+               <statement>Und Sie müssen Ihren Ausweis zur Wahl mitbringen.</statement>
+               <statement>Sie können von 8 Uhr bis 18 Uhr wählen.</statement>
+         </section>
+         <section id="5">
+            <subheadline>Sie können mitbestimmen</subheadline>
+               <statement>Die Kommunal·wahl in Schleswig-Holstein ist alle 5 Jahre.</statement>
+               <statement>In diesem Jahr ist die Kommunal·wahl in Schleswig-Holstein am 6. Mai.</statement>
+               <statement>Der 6. Mai ist ein Sonntag.</statement>
+               <statement>Gehen Sie an diesem Tag in Ihr Wahl·lokal.</statement>
+               <statement>Dann können Sie mitbestimmen.</statement>
+         </section>
+         <section id="6">
+            <statement>Zur Kommunal·wahl gibt es noch mehr Informationen in Leichter Sprache.</statement>
+            <statement>Diese Informationen sind vom Land Schleswig-Holstein.</statement>
+            <question>Sie möchten diese Informationen lesen?</question>
+            <headword>Oder hören?</headword>
+            <statement>
+               <ref>
+                  Dann klicken Sie <style_element type="hu">hier</style_element>.
+               </ref>
+            </statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

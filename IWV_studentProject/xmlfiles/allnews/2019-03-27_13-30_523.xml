@@ -1,0 +1,192 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-19" url="2019-03-27_13-30_523.xml">
+   <title>Mehr Nachrichten vom 27.03.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-03-27_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-03-27_13-30_523-full.png" type="screenshot" url="2019-03-27_13-30_523-full.png"/>
+      <resource id="2" name="2019-03-27_13-30_523_plaintext.txt" type="plaintext" url="2019-03-27_13-30_523_plaintext.txt"/>
+      <resource id="3" name="2019-03-27_13-30_523_quellcode.txt" type="sourcecode" url="2019-03-27_13-30_523_quellcode.txt"/>
+      <resource id="4" name="2019-03-27_13-30_523.docx" type="formatedText" url="2019-03-27_13-30_523.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 27.03.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Polizei durchsucht Häuser</subheadline>
+               <statement>In Niedersachsen hat die Polizei 4 Häuser durchsucht.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Diese Häuser sind:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• In Wriedel.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <headword>• In Hanstedt.</headword>
+                     </enumeration>
+                     <enumeration id="3">
+                        <headword>• In Waddeweitz.</headword>
+                     </enumeration>
+                     <enumeration id="4">
+                        <statement>• Und in Munster.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <explanation_marker>
+                  <statement>In den Häusern hat die Polizei zum Beispiel nach falschen Papieren gesucht.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Falsche Papiere sind zum Beispiel falsche Ausweise.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir ermitteln gegen eine Groß·familie.</statement>
+                     </speech>
+                     <speech id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Wir glauben nämlich:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Diese Groß·familie fälscht Papiere.</statement>
+                              </speech>
+                              <speech id="2">
+                                 <statement>Und diese Groß·familie hält Menschen gefangen.</statement>
+                              </speech>
+                              <speech id="3">
+                                 <statement>Diese Menschen müssen für die Großfamilie arbeiten.</statement>
+                              </speech>
+                              <speech id="4"> 
+                                 <statement>Und diese Menschen bekommen <style_element type="hb">kein</style_element> Geld für die Arbeit.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Das ist verboten.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Die Polizei hat 3 Männer und eine Frau festgenommen.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Ärger mit Hunde·besitzern</subheadline>
+               <explanation_marker>
+                  <statement>Auf Sylt ist Ärger mit Hunde·besitzern.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Sylt ist eine Insel in der Nordsee.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Die Hunde·besitzer lassen ihre Hunde oft frei laufen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Die Hunde laufen <style_element type="hb">nicht</style_element> an der Leine.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Das ist verboten.</statement> 
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Ein Schäfer von Sylt hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Hunde greifen unsere Schafe an.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und die Hunde stören die Vögel.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb dürfen die Hunde <style_element type="hb">nicht</style_element> frei laufen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir müssen die Hunde·besitzer besser kontrollieren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und wir müssen mehr mit den Hunde·besitzern sprechen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Dann lassen die Hundebesitzer vielleicht die Hunde <style_element type="hb">nicht</style_element> frei laufen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Hamburg: Einbrecher gefasst</subheadline>
+               <statement>Die Polizei hat einen Einbrecher gefasst.</statement>
+               <statement>Die Polizei hatte ein Foto von dem Einbrecher.</statement>
+               <statement>Menschen haben den Einbrecher auf diesem Foto gesehen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Diese Menschen haben zur Polizei gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ich kenne diesen Mann.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Deshalb konnte die Polizei den Einbrecher festnehmen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Der Einbrecher hat einen Juwelier überfallen.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Ein Juwelier verkauft zum Beispiel Schmuck.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Und ein Juwelier verkauft Uhren.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Der Einbrecher hat viele Uhren gestohlen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und der Einbrecher ist ein Mit·arbeiter in einem Hamburger Gefängnis.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-10-22_15-00_813.xml">
+   <title>Test·strecke für besondere Lkw</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-10-22_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-10-22_15-00_813-full.png" type="screenshot" url="2018-10-22_15-00_813-full.png"/>
+      <resource id="2" name="2018-10-22_15-00_813_plaintext.txt" type="plaintext" url="2018-10-22_15-00_813_plaintext.txt"/>
+      <resource id="3" name="2018-10-22_15-00_813_quellcode.txt" type="sourcecode" url="2018-10-22_15-00_813_quellcode.txt"/>
+      <resource id="4" name="2018-10-22_15-00_813.docx" type="formatedText" url="2018-10-22_15-00_813.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Test·strecke für besondere Lkw</headline>
+      <sections>
+         <section id="1">
+            <statement>In Schleswig-Holstein ist seit Montag eine große Bau·stelle.</statement>
+            <explanation_marker>
+               <statement>Diese Bau·stelle ist auf der A1.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">A1 ist die Abkürzung für Auto·bahn 1.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und diese Bau·stelle ist zwischen Lübeck und Reinfeld.</statement>
+            <explanation_marker>
+               <statement>Arbeiter bauen zwischen Lübeck und Reinfeld eine Test·strecke.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Test·strecke ist ein Stück Straße.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Auf diesem Stück Straße testen Fach·leute zum Beispiel neue Autos.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Test·strecke ist für besondere Lkw.</statement>
+            <statement>Diese besonderen Lkw fahren mit Strom.</statement>
+            <statement>Und diese besonderen Lkw heißen Elektro-Lkw.</statement>
+         </section>
+         <section id="2">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Wichtige Politiker aus Schleswig-Holstein haben vor einiger Zeit gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Normale Lkw machen sehr viele Schad·stoffe.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Schad·stoffe machen die Luft schmutzig.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Elektro-Lkw sind viel besser.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Elektro-Lkw machen nämlich fast <style_element type="hb">keine</style_element> Schad·stoffe.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb wollen wir eine Test·strecke für Elektro-Lkw bauen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Auf dieser Test·strecke sollen Fach·leute zum Beispiel untersuchen:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Wie viel Strom brauchen Elektro-Lkw auf einer Auto·bahn?</question>
+                           </speech>
+                           <speech id="2">
+                              <question>Und machen Elektro-Lkw wirklich fast <style_element type="hb">keine</style_element> Schad·stoffe?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Jetzt haben Arbeiter mit dem Bau von der Test·strecke begonnen.</statement>
+            <statement>Die Arbeiter bauen zum Beispiel eine Strom·leitung über die A1.</statement>
+            <statement>Aus dieser Stromleitung bekommen die Elektro-Lkw den Strom zum Fahren.</statement>
+            <statement>Im Mai 2019 sollen die ersten Elektro-Lkw auf der Test·strecke fahren.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

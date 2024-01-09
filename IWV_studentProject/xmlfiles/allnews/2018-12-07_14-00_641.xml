@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-28" url="2018-12-07_14-00_641.xml">
+   <title>Fach·leute sprengen Bombe</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-12-07_14-00</vdate>
+   <resources>
+      <resource id="1" name="2018-12-07_14-00_641-full.png" type="screenshot" url="2018-12-07_14-00_641-full.png"/>
+      <resource id="2" name="2018-12-07_14-00_641_plaintext.txt" type="plaintext" url="2018-12-07_14-00_641_plaintext.txt"/>
+      <resource id="3" name="2018-12-07_14-00_641_quellcode.txt" type="sourcecode" url="2018-12-07_14-00_641_quellcode.txt"/>
+      <resource id="4" name="2018-12-07_14-00_641.docx" type="formatedText" url="2018-12-07_14-00_641.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Fach·leute sprengen Bombe</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Schleswig-Holstein haben Fach·leute eine Bombe gesprengt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Fach·leute haben die Bombe explodieren lassen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Bombe war in Kiel.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Kiel ist die Haupt·stadt von Schleswig-Holstein.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Sprengung von der Bombe hat sehr lange gedauert.</statement>
+            <statement>Viele Menschen haben nämlich die Arbeit von den Fach·leuten gestört.</statement>
+            <statement>Bei der Sprengung wurden <style_element type="hb">keine</style_element> Menschen verletzt.</statement>
+         </section> 
+         <section id="2">
+            <subheadline>Menschen stören</subheadline>
+               <statement>Die Bombe war sehr gefährlich.</statement>
+               <explanation_marker>
+                  <statement>Deshalb hat die Polizei das Gebiet gesperrt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Die Menschen mussten ihre Häuser verlassen.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und die Autos durften <style_element type="hb">nicht</style_element> mehr auf den Straßen fahren.</style_element></statement>
+                     </explanation> 
+                  </explanations>
+               </explanation_marker>
+               <statement>Viele Menschen waren trotzdem in dem Gebiet.</statement>
+               <statement>Diese Menschen waren nämlich sehr neugierig.</statement>
+               <statement>Und diese Menschen wollten die Sprengung sehen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1"> 
+                        <statement>In dem Gebiet durften <style_element type="hb">keine</style_element> Menschen sein.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb mussten wir die Menschen aus dem Gebiet bringen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Das hat sehr lange gedauert.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und die Fach·leute mussten sehr lange mit der Sprengung warten.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3"> 
+            <subheadline>Die Sprengung</subheadline>
+               <statement>Die Bombe war aus dem 2. Welt·krieg.</statement>
+               <statement>Im 2. Welt·krieg haben Flugzeuge über vielen Städten Bomben abgeworfen.</statement>
+               <statement>Auch über Kiel.</statement>
+               <statement>Aber manche Bomben sind <style_element type="hb">nicht</style_element> explodiert.</statement>
+               <statement>Die Bombe in Kiel war 4 Meter tief in der Erde.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir wollten die Bombe entschärfen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber wir konnten die Bombe <style_element type="hb">nicht</style_element> entschärfen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Die Entschärfung von der Bombe war nämlich zu gefährlich.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb mussten wir die Bombe sprengen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Die Fach·leute haben die Bombe gesprengt.</statement>
+               <statement>Bei der Sprengung wurden <style_element type="hb">keine</style_element> Menschen verletzt.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

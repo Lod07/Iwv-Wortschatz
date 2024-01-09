@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-10" url="2019-02-05_15-30_567.xml">
+   <title>Rostock: Viele Flug·zeuge fliegen nicht mehr</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-02-05_15-30</vdate>
+   <resources>
+      <resource id="1" name="2019-02-05_15-30_567-full.png" type="screenshot" url="2019-02-05_15-30_567-full.png"/>
+      <resource id="2" name="2019-02-05_15-30_567_plaintext.txt" type="plaintext" url="2019-02-05_15-30_567_plaintext.txt"/>
+      <resource id="3" name="2019-02-05_15-30_567_quellcode.txt" type="sourcecode" url="2019-02-05_15-30_567_quellcode.txt"/>
+      <resource id="4" name="2019-02-05_15-30_567.docx" type="formatedText" url="2019-02-05_15-30_567.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Rostock: Viele Flug·zeuge fliegen nicht mehr</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Viele Menschen in Rostock machen sich Sorgen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Rostock ist eine Stadt in Mecklenburg-Vorpommern.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Flug·hafen in Rostock hat nämlich Probleme:</statement>
+            <statement>Einige Flug·zeuge fliegen <style_element type="hb">nicht mehr.</style_element></statement>
+            <explanation_marker>
+               <statement>Diese Flug·zeuge sind von der Germania.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Die Germania ist eine Flug·gesellschaft.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Eine Flug·gesellschaft hat viele Flug·zeuge.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker> 
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Germania hat nämlich Insolvenz angemeldet.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Germania hat viele Schulden.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und die Germania kann diese Schulden <style_element type="hb">nicht</style_element> zurückzahlen.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Jetzt müssen Fach·leute prüfen:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question><style_element type="hi">Können wir der Germania helfen?</style_element></question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+                  <explanation id="5">
+                     <question><style_element type="hi">Die Fach·leute können der Germania <style_element type="hb">nicht</style_element> helfen?</style_element></question>
+                  </explanation>
+                  <explanation id="6">
+                     <statement><style_element type="hi">Dann gibt es die Germania bald <style_element type="hb">nicht mehr</style_element>.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Chefin vom Flug·hafen in Rostock hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Insolvenz von der Germania ist sehr schlecht für den Flug·hafen in Rostock.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Jetzt starten nämlich weniger Flug·zeuge am Flug·hafen in Rostock.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb braucht der Flug·hafen in Rostock weniger Arbeiter.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und deshalb verlieren einige Arbeiter vielleicht ihre Arbeit.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2"> 
+            <statement>Von der Germania sind immer sehr viele Flug·zeuge in Rostock gestartet.</statement>
+            <statement>Mit diesen Flug·zeugen sind immer sehr viele Menschen geflogen.</statement>
+            <statement>Jetzt können die Menschen <style_element type="hb">nicht mehr</style_element> mit diesen Flug·zeugen fliegen.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Auch Probleme an anderen Flug·häfen</subheadline>
+               <statement>Auch andere Flug·häfen in Deutschland haben Probleme.</statement>
+               <statement>Von der Germania sind nämlich auch Flug·zeuge an anderen Flug·häfen gestartet.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <headword>Zum Beispiel:</headword>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• In Hamburg.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <headword>• In Bremen.</headword>
+                     </enumeration>
+                     <enumeration id="3">
+                        <explanation_marker>
+                           <statement>• Und in München.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <explanation_marker>
+                                    <statement><style_element type="hi">München ist die Haupt·stadt von Bayern.</style_element></statement>
+                                    <explanations>
+                                       <explanation id="1">
+                                          <statement><style_element type="hi">Bayern ist ein Bundes·land im Süden von Deutschland.</style_element></statement>
+                                       </explanation>
+                                    </explanations>
+                                 </explanation_marker>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker> 
+               <statement>Auch diese Flug·zeuge können jetzt <style_element type="hb">nicht mehr</style_element> fliegen.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

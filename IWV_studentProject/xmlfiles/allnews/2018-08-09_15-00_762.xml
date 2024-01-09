@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<annotation adate="2002-11-24" url="2018-08-09_15-00_762.xml">
+   <title>Großes Fest in Rostock</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-08-09_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-08-09_15-00_762-full.png" type="screenshot" url="2018-08-09_15-00_762-full.png"/>
+      <resource id="2" name="2018-08-09_15-00_762_plaintext.txt" type="plaintext" url="2018-08-09_15-00_762_plaintext.txt"/>
+      <resource id="3" name="2018-08-09_15-00_762_quellcode.txt" type="sourcecode" url="2018-08-09_15-00_762_quellcode.txt"/>
+      <resource id="4" name="2018-08-09_15-00_762.docx" type="formatedText" url="2018-08-09_15-00_762.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Großes Fest in Rostock</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Rostock ist ein großes Fest.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Rostock ist eine Stadt in Mecklenburg-Vorpommern.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieses Fest heißt: Hanse Sail.</statement>
+            <statement>Die Hanse Sail ist jedes Jahr.</statement>
+            <statement>In diesem Jahr beginnt die Hanse Sail am 9. August.</statement>
+            <statement>Und die Hanse Sail endet am 12. August.</statement>
+            <statement>Zur Hanse Sail kommen immer viele Besucher.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Viele besondere Schiffe</subheadline>
+               <statement>Bei der Hanse Sail sind viele besondere Schiffe.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <headword>Zum Beispiel:</headword>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <explanation_marker>
+                           <headword>• Museums·schiffe.</headword>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Museums·schiffe sind sehr alte Schiffe.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                     <enumeration id="2">
+                        <explanation_marker>
+                           <headword>• Und Traditions·segler.</headword>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Traditions·segler sind alte Segel·schiffe.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Dieses Jahr sind 170 besondere Schiffe bei der Hanse Sail.</statement>
+               <statement>Diese 170 besonderen Schiffe sind aus 10 Ländern.</statement>
+         </section>
+         <section id="3">
+            <statement>Die Besucher können sich die besonderen Schiffe angucken.</statement>
+            <statement>Und die Besucher können auf verschiedenen Segel·schiffen mitsegeln.</statement>
+            <statement>Aber die Besucher können auch viele andere Dinge machen.</statement>
+            <statement>Bei der Hanse Sail sind nämlich viele Veranstaltungen.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Musik·konzerte.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Ein Feuerwerk.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <explanation_marker>
+                        <statement>• Und eine Regatta.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Eine Regatta ist eine Wett·fahrt für Schiffe.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

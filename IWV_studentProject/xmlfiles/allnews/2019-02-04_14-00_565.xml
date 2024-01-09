@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-10" url="2019-02-04_14-00_565.xml">
+   <title>Messer·angriff in Möbel·haus</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-02-04_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-02-04_14-00_565-full.png" type="screenshot" url="2019-02-04_14-00_565-full.png"/>
+      <resource id="2" name="2019-02-04_14-00_565_plaintext.txt" type="plaintext" url="2019-02-04_14-00_565_plaintext.txt"/>
+      <resource id="3" name="2019-02-04_14-00_565_quellcode.txt" type="sourcecode" url="2019-02-04_14-00_565_quellcode.txt"/>
+      <resource id="4" name="2019-02-04_14-00_565.docx" type="formatedText" url="2019-02-04_14-00_565.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Messer·angriff in Möbel·haus</headline>
+      <sections>
+         <section id="1">
+            <statement>In Hamburg war ein Angriff.</statement>
+            <explanation_marker>
+               <statement>Dieser Angriff war in Schnelsen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Schnelsen ist ein Stadt·teil von Hamburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und der Angriff war bei Ikea.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Ikea ist ein Möbel·haus.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">In einem Möbel·haus können Menschen zum Beispiel Möbel kaufen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Angriff hat ein Täter einen Mann mit einem Messer verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Mann war an einer Kasse von Ikea.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann hat der Täter den Mann angegriffen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Der Täter hat dem Mann mit einem Messer in den Ober·körper gestochen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und der Täter hat den Mann schwer verletzt.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Dann ist der Mann zusammen·gebrochen.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Und der Mann ist in ein Kranken·haus gekommen.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>In dem Kranken·haus haben Ärzte den Mann operiert.</statement>
+                     </speech>
+                     <speech id="8">
+                        <explanation_marker>
+                           <statement>Der Mann ist <style_element type="hb">nicht</style_element> in Lebens·gefahr.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Der Mann muss <style_element type="hb">nicht</style_element> sterben.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker> 
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Nach dem Angriff ist der Täter geflüchtet.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Wir wissen <style_element type="hb">nicht</style_element>:</statement>
+                     </speech>
+                     <speech id="3">
+                        <question>Wer ist der Täter?</question>
+                     </speech>
+                     <speech id="4">
+                        <question>Und warum hat der Täter den Mann angegriffen?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Polizei sucht Zeugen</subheadline>
+               <statement>Jetzt sucht die Polizei den Täter.</statement>
+               <explanation_marker>
+                  <statement>Und die Polizei sucht Zeugen von dem Angriff.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Zeugen gibt es zum Beispiel bei einer Straf·tat.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Die Zeugen haben die Straf·tat vielleicht gesehen.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Oder die Zeugen kennen vielleicht das Opfer.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Oder die Zeugen kennen vielleicht den Täter.</style_element></statement>
+                     </explanation>
+                     <explanation id="5">
+                        <statement><style_element type="hi">Deshalb können die Zeugen vielleicht wichtige Hinweise zu der Straf·tat geben.</style_element></statement>
+                     </explanation>
+                     <explanation id="6">
+                        <statement><style_element type="hi">Und deshalb muss die Polizei die Zeugen befragen.</style_element></statement>
+                     </explanation>
+                     <explanation id="7">
+                        <statement><style_element type="hi">So kann die Polizei den Täter von der Straf·tat vielleicht schneller finden.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <section id="4">
+            <statement>Der Angriff war am Sonnabend um 18 Uhr.</statement>
+            <question>Können Sie Hinweise zu dem Angriff geben?</question>
+            <statement>Dann rufen Sie die Polizei an.</statement>
+            <statement>Die Telefon·nummer ist 040/4286-56789.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

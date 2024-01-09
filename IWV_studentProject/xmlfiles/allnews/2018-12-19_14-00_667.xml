@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-29" url="2018-12-19_14-00_667.xml">
+   <title>Fischer dürfen weniger Fische fangen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-12-19_14-00</vdate>
+   <resources>
+      <resource id="1" name="2018-12-19_14-00_667-full.png" type="screenshot" url="2018-12-19_14-00_667-full.png"/>
+      <resource id="2" name="2018-12-19_14-00_667_plaintext.txt" type="plaintext" url="2018-12-19_14-00_667_plaintext.txt"/>
+      <resource id="3" name="2018-12-19_14-00_667_quellcode.txt" type="sourcecode" url="2018-12-19_14-00_667_quellcode.txt"/>
+      <resource id="4" name="2018-12-19_14-00_667.docx" type="formatedText" url="2018-12-19_14-00_667.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Fischer dürfen weniger Fische fangen</headline>
+      <sections>
+         <section id="1"> 
+            <statement>Viele Fischer in Nord·deutschland machen sich Sorgen.</statement>
+            <statement>Die Fischer dürfen nämlich im nächsten Jahr <style_element type="hb">nicht</style_element> mehr so viele Fische in der Nordsee fangen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute sagen nämlich:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Von einigen Fisch·arten sind nur noch wenige Fische in der Nordsee.</statement>
+                  </speech>
+                  <speech id="2">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword>Zum Beispiel:</headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword>• Vom Hering.</headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <statement>• Und vom Kabeljau.</statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb müssen wir diese Fisch·arten schützen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <explanation_marker>
+                        <statement>Und deshalb gibt es für diese Fisch·arten eine Fang·quote.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Eine Fang·quote ist eine Vorschrift.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <speech_marker>
+                                 <speech_intro>
+                                    <statement><style_element type="hi">In dieser Vorschrift steht:</style_element></statement>
+                                 </speech_intro>
+                                 <speeches>
+                                    <speech id="1">
+                                       <statement><style_element type="hi">So viele Fische von einer bestimmten Fisch·art dürfen die Fischer fangen.</style_element></statement>
+                                    </speech>
+                                 </speeches>
+                              </speech_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker> 
+            <speech_marker>
+               <speech_intro>
+                  <statement>Deshalb haben die Fach·leute jetzt entschieden:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Von einigen Fisch·arten dürfen die Fischer <style_element type="hb">nicht</style_element> mehr so viele Fische fangen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Deshalb können die Fischer im nächsten Jahr <style_element type="hb">nicht</style_element> mehr so viele Fische verkaufen.</statement>
+            <statement>Und deshalb verdienen die Fischer im nächsten Jahr wahrscheinlich <style_element type="hb">weniger</style_element> Geld.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Fang·quote auch für Ostsee</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>In jedem Jahr untersuchen Fach·leute:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Wie viele Fische von den verschiedenen Fisch·arten sind noch in den Meeren?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Dann entscheiden die Fach·leute:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Von diesen Fisch·arten dürfen die Fischer viele Fische fangen.</statement>
+                     </speech>
+                     <speech id="2"> 
+                        <statement>Und von diesen Fisch·arten dürfen die Fischer <style_element type="hb">nicht</style_element> mehr so viele Fische fangen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Deshalb gibt es jedes Jahr eine neue Fang·quote.</statement>
+               <statement>Die Fang·quote gibt es für die Fisch·arten in der Nordsee.</statement>
+               <statement>Und die Fang·quote gibt es auch für die Fisch·arten in der Ostsee.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>In der Fang·quote für die Ost·see steht:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Fischer dürfen im nächsten Jahr nur wenige Heringe in der Ostsee fangen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber die Fischer dürfen im nächsten Jahr mehr Fische von anderen Fisch·arten fangen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               
+         </section>
+      </sections>
+   </content>
+</annotation>

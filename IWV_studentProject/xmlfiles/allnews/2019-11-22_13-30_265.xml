@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<annotation adate="" url="2020-08-19_13-30_265.xml">
+   <title>Mehr Nachrichten vom 22.11.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-11-22_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-11-22_13-30_265-full.png" type="screenshot" url="2019-11-22_13-30_265-full.png"/>
+      <resource id="2" name="2019-11-22_13-30_265_plaintext.txt" type="plaintext" url="2019-11-22_13-30_265_plaintext.txt"/>
+      <resource id="3" name="2019-11-22_13-30_265_quellcode.txt" type="sourcecode" url="2019-11-22_13-30_265_quellcode.txt"/>
+      <resource id="4" name="2019-11-22_13-30_265.docx" type="formatedText" url="2019-11-22_13-30_265.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>
+         Mehr Nachrichten vom 22.11.2019
+      </headline>
+      <sections>
+         <section id="1">
+            <subheadline>
+               Niedersachsen: Mann stirbt bei Unfall
+            </subheadline>
+            <explanation_marker>
+               <statement>
+                  In der Nähe von Großenkneten war ein Unfall.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Großenkneten ist ein Ort in der Nähe von Bremen.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>
+                  Dieser Unfall war auf der A29.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           A29 ist die Abkürzung für <style_element type="hb">A</style_element>utobahn <style_element type="hb">29</style_element>.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>
+               Bei diesem Unfall ist ein Mann gestorben.
+            </statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Die Polizei hat gesagt:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        Ein Auto·fahrer ist mit seinem Auto sehr schnell gefahren.
+                     </statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>
+                        Dann ist dieser Auto·fahrer auf ein anderes Auto aufgefahren.
+                     </statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>
+                        Dann sind die 2 Autos geschleudert.
+                     </statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>
+                        Und dann sind die 2 Autos umgekippt.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>
+               Der Autofahrer wurde leicht verletzt.
+            </statement>
+            <statement>
+               Der Mann in dem anderen Auto ist bei dem Unfall gestorben.
+            </statement>
+         </section>
+         <style_element type="line"/>
+         <section id="2">
+            <subheadline>
+               Niedersachsen: Neuer Bürgermeister fängt an
+            </subheadline>
+            <explanation_marker>
+               <statement>
+                  In Hannover fängt der neue Bürgermeister mit der Arbeit an.
+               </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">
+                           Hannover ist die Haupt·stadt von Niedersachsen.
+                        </style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>
+               Der neue Bürgermeister ist Belit Onay.
+            </statement>
+            <statement>
+               Belit Onay ist von der Partei Die Grünen.
+            </statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>
+                     Belit Onay hat gesagt:
+                  </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>
+                        Es wartet viel Arbeit auf mich.
+                     </statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>
+                        Aber ich freue mich auf diese Arbeit.
+                     </statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>
+                        Ich muss auch die neuen Kollegen kennen·lernen.
+                     </statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>
+                        Und ich möchte mit allen neuen Kollegen reden.
+                     </statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>
+               Belit Onay möchte in Hannover viel ändern.
+            </statement>
+            <statement>
+               Belit Onay möchte zum Beispiel <style_element type="hb">weniger</style_element> Auto·verkehr.
+            </statement>
+            <statement>
+               Zu der Wahl von Belit Onay gibt es einen Text in Leichter Sprache.
+            </statement>
+            <statement>
+            <ref>
+               <style_element type="hu">
+                  Diesen Text finden Sie hier.
+               </style_element>
+            </ref>
+            </statement>
+         </section>
+         <style_element type="line"/>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-27" url="2019-05-14_14-00_515.xml">
+   <title>Jörg Kastendiek ist tot</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-05-14_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-05-14_14-00_515-full.png" type="screenshot" url="2019-05-14_14-00_515-full.png"/>
+      <resource id="2" name="2019-05-14_14-00_515_plaintext.txt" type="plaintext" url="2019-05-14_14-00_515_plaintext.txt"/>
+      <resource id="3" name="2019-05-14_14-00_515_quellcode.txt" type="sourcecode" url="2019-05-14_14-00_515_quellcode.txt"/>
+      <resource id="4" name="2019-05-14_14-00_515.docx" type="formatedText" url="2019-05-14_14-00_515.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Jörg Kastendiek ist tot</headline>
+      <sections>
+         <section id="1">
+            <statement>Jörg Kastendiek ist gestorben.</statement>
+            <explanation_marker>
+               <statement>Jörg Kastendiek war Chef von der CDU in Bremen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die CDU ist eine Partei.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">CDU ist die Abkürzung für <style_element type="hb">C</style_element>hristlich <style_element type="hb">D</style_element>emokratische <style_element type="hb">U</style_element>nion Deutschlands.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Jörg Kastendiek war 54 Jahre alt.</statement>
+         </section>
+         <section id="2">
+            <statement>Jörg Kastendiek war sehr lange in der CDU.</statement>
+            <explanation_marker>
+               <statement>Und Jörg Kastendiek war schon mit 27 Jahren in der Bremischen Bürgerschaft.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die Bremische Bürgerschaft ist das Parlament von Bremen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In diesem Parlament sind viele Politiker.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Diese Politiker entscheiden über viele wichtige Fragen.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                  </explanation>
+                  <explanation id="5">
+                     <question><style_element type="hi">Wofür soll Bremen Geld ausgeben?</style_element></question>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und Jörg Kastendiek war mal Wirtschafts·senator von Bremen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Wirtschafts·senator kümmert sich um die Wirtschaft von einer Stadt.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword><style_element type="hi">• Um Firmen.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <statement><style_element type="hi">• Und um Arbeits·plätze.</style_element></statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Seit dem Jahr 2012 war Jörg Kastendiek Chef von der CDU in Bremen.</statement>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die CDU hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Jörg Kastendiek hat viel für die CDU gemacht.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Mit Jörg Kastendiek ist die CDU stärker geworden.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Leider war Jörg Kastendiek sehr krank.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Jetzt ist Jörg Kastendiek gestorben.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-25" url="2019-07-12_14-00_422.xml">
+   <title>Zelt·lager für Kinder überschwemmt</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-07-12_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-07-12_14-00_422-full.png" type="screenshot" url="2019-07-12_14-00_422-full.png"/>
+      <resource id="2" name="2019-07-12_14-00_422_plaintext.txt" type="plaintext" url="2019-07-12_14-00_422_plaintext.txt"/>
+      <resource id="3" name="2019-07-12_14-00_422_quellcode.txt" type="sourcecode" url="2019-07-12_14-00_422_quellcode.txt"/>
+      <resource id="4" name="2019-07-12_14-00_422.docx" type="formatedText" url="2019-07-12_14-00_422.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Zelt·lager für Kinder überschwemmt</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Niedersachen war ein Unwetter.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement>
+                              <style_element type="hi">Unwetter sind zum Beispiel:</style_element>
+                           </statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword>
+                                 <style_element type="hi">• Starke Gewitter.</style_element>
+                              </headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <statement>
+                                 <style_element type="hi">• Oder starke Stürme.</style_element>
+                              </statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Unwetter hat es sehr viel geregnet.</statement>
+            <explanation_marker>
+               <statement>Deshalb waren viele Straßen überschwemmt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>
+                        <style_element type="hi">Das heißt:</style_element>
+                     </headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Auf diesen Straßen war sehr viel Wasser.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Und deshalb konnten auf diesen Straßen <style_element type="hb">keine</style_element> Autos mehr fahren.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und in viele Keller ist Wasser gelaufen.</statement>
+            <explanation_marker>
+               <statement>Bei dem Unwetter war auch ein Zelt·lager für Kinder überschwemmt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Ein Zelt·lager ist ein besonderer Platz.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Auf diesem Platz stehen Zelte.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Diese Zelte stehen nur für eine bestimmte Zeit.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement>
+                        <style_element type="hi">In dieser Zeit machen Menschen zum Beispiel Urlaub in den Zelten.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Deshalb musste das Zelt·lager schließen.</statement>
+            <explanation_marker>
+               <statement>Das Zelt·lager war in Dersum.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Dersum ist in der Nähe von Papenburg.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Kinder müssen Zelt·lager verlassen</subheadline>
+            <statement>In dem  Zelt·lager waren 90 Kinder.</statement>
+            <explanation_marker>
+               <statement>Und Betreuer von den Kindern.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Betreuer ist ein Beruf.</style_element>
+                     </statement>
+                  </explanation>
+                   <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Betreuer passen auf andere Menschen auf.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Kinder und die Betreuer haben in großen Zelten Urlaub gemacht.</statement>
+            <statement>In diese Zelte ist sehr viel Regen·wasser gelaufen.</statement>
+            <statement>Dieses Regen·wasser musste die Feuerwehr aus den Zelten pumpen.</statement>
+            <statement>Deshalb konnten die Kinder und Betreuer <style_element type="hb">nicht</style_element> in den Zelten bleiben.</statement>
+            <statement>Und deshalb mussten die Kinder und Betreuer in ein Haus umziehen.</statement>
+            <statement>In diesem Haus hat die Feuerwehr Betten aufgebaut.</statement>
+            <statement>In diesen Betten können die Kinder und Betreuer jetzt schlafen.</statement>
+            <statement>Und die Kinder und Betreuer können weiter Urlaub machen.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

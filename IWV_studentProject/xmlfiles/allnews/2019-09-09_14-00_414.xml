@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2019-09-09_14-00_414.xml">
+   <title>Viele Besucher bei den Karl-May-Spielen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-09-09_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-09-09_14-00_414-full.png" type="screenshot" url="2019-09-09_14-00_414-full.png"/>
+      <resource id="2" name="2019-09-09_14-00_414_plaintext.txt" type="plaintext" url="2019-09-09_14-00_414_plaintext.txt"/>
+      <resource id="3" name="2019-09-09_14-00_414_quellcode.txt" type="sourcecode" url="2019-09-09_14-00_414_quellcode.txt"/>
+      <resource id="4" name="2019-09-09_14-00_414.docx" type="formatedText" url="2019-09-09_14-00_414.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Viele Besucher bei den Karl-May-Spielen</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Schleswig-Holstein waren besondere Aufführungen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Aufführungen sind zum Beispiel Theater·stücke.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Aufführungen waren in Bad Segeberg.</statement>
+            <statement>Und diese Aufführungen heißen Karl-May-Spiele.</statement>
+            <statement>Die Karl-May-Spiele sind jedes Jahr im Sommer.</statement>
+            <statement>Und zu den Karl-May-Spielen kommen immer viele Besucher.</statement>
+         </section>
+         <section id="2">
+            <statement>Jetzt sind die Karl-May-Spiele von diesem Jahr zu Ende.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Und der Chef von den Karl-May-Spielen hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In diesem Jahr waren mehr als 400.000 Besucher bei den Karl-May-Spielen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>So viele Besucher waren noch nie bei den Karl-May-Spielen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Die Karl-May-Spiele</subheadline>
+            <statement>Die Karl-May-Spiele sind in einem großen Theater.</statement>
+            <statement>Dieses Theater ist draußen.</statement>
+            <statement>Und dieses Theater ist an einem Berg.</statement>
+            <explanation_marker>
+               <statement>Die Geschichten bei den Karl-May-Spielen spielen im Wilden Westen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Der Wilde Westen war früher ein Gebiet in Amerika.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Im Wilden Westen haben Cowboys gelebt.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und Indianer.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Diese Geschichten sind von Karl May.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Karl May war ein bekannter Autor.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Karl May ist 1912 gestorben.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Eine bekannte Geschichte von Karl May heißt: Winnetou.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Winnetou ist ein Indianer.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="4">
+            <statement>Bei den Aufführungen spielen viele Schau·spieler mit.</statement>
+            <statement>Die Schau·spieler reiten zum Beispiel als Indianer durch das Theater.</statement>
+            <statement>Oder die Schau·spieler schießen als Cowboys mit unechten Pistolen.</statement>
+            <statement>Bei den Aufführungen haben auch bekannte Schau·spieler mit·gemacht.</statement>
+            <statement>Zum Beispiel Alexander Klaws.</statement>
+            <statement>Alexander Klaws hat Winnetou gespielt.</statement>
+         </section>
+         <section id="5">
+            <statement>Bei den Karl-May-Spielen gibt es jedes Jahr eine andere Geschichte von Karl May.</statement>
+            <statement>In diesem Jahr war die Geschichte: Unter Geiern - Der Sohn des Bärenjägers.</statement>
+            <statement>Im nächsten Jahr ist die Geschichte: Der Ölprinz.</statement>
+         </section>
+   </sections>
+   </content>
+</annotation>

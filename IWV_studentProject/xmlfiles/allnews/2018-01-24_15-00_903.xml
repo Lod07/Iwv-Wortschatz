@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-12-08" url="2018-01-24_15-00_903.xml">
+   <title>Viele Menschen demonstrieren</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-01-24_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-01-24_15-00_903-full.png" type="screenshot" url="2018-01-24_15-00_903-full.png"/>
+      <resource id="2" name="2018-01-24_15-00_903_plaintext.txt" type="plaintext" url="2018-01-24_15-00_903_plaintext.txt"/>
+      <resource id="3" name="2018-01-24_15-00_903_quellcode.txt" type="sourcecode" url="2018-01-24_15-00_903_quellcode.txt"/>
+      <resource id="4" name="2018-01-24_15-00_903.docx" type="formatedText" url="2018-01-24_15-00_903.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Viele Menschen demonstrieren</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Nord·deutschland waren viele Demonstrationen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bei einer Demonstration treffen sich viele Menschen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Dann gehen diese Menschen gemeinsam durch die Stadt.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Diese Menschen sind mit etwas <style_element type="hb">nicht</style_element> einverstanden.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Zum Beispiel mit einer Entscheidung von Politikern.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Deshalb rufen die Menschen laut ihre Meinung.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Demonstrationen waren in 16 Städten.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <explanation_marker>
+                        <headword>• In Kiel.</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Kiel ist die Hauptstadt von Schleswig-Holstein.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <headword>• In Rostock.</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Rostock ist eine Stadt in Mecklenburg-Vorpommern.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="3">
+                     <statement>• Und in Bremen.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Die größte Demonstration war in Hamburg.</statement>
+            <statement>Bei den Demonstrationen waren sehr viele Menschen.</statement>
+            <explanation_marker>
+               <statement>Diese Menschen arbeiten in der Metall- und Elektro·industrie.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement><style_element type="hi">In der Metall- und Elektro·industrie arbeiten zum Beispiel:</style_element></statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword><style_element type="hi">• Mechaniker.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword><style_element type="hi">• Oder Schlosser.</style_element></headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Warum demonstrieren die Menschen?</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Menschen bei den Demonstrationen haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir sind <style_element type="hb">nicht</style_element> zufrieden.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Wir bekommen nämlich <style_element type="hb">nicht</style_element> genug Geld für unsere Arbeit.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und wir möchten andere Arbeits·zeiten.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Einige von uns wollen zum Beispiel weniger arbeiten.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Wichtiges Treffen</subheadline>
+               <statement>Morgen ist ein wichtiges Treffen in Hamburg.</statement>
+               <explanation_marker>
+                  <statement>Bei dem Treffen sind Arbeit·geber.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Arbeit·geber sind die Chefs von Mitarbeitern.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Arbeit·geber bezahlen die Mitarbeiter für ihre Arbeit.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Und bei diesem Treffen ist die IG Metall.</statement>
+               <explanation_marker>
+                  <statement>Die IG Metall ist eine Gewerkschaft.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Gewerkschaft ist eine Vereinigung von Mitarbeitern.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Eine Gewerkschaft hilft Mitarbeitern zum Beispiel bei einem Streit mit der Firma.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei dem Treffen sprechen die Arbeit·geber mit der IG Metall.</statement>
+               <statement>Dann einigen sich vielleicht die Arbeit·geber und die IG Metall.</statement>
+               <statement>Und dann bekommen die Menschen in der Metall- und Elektro·industrie vielleicht mehr Geld.</statement>
+         </section>
+         <section id="4">
+            <statement>Die Arbeit·geber und die IG Metall haben sich schon öfter getroffen.</statement>
+            <statement>Aber die Arbeit·geber und die IG Metall haben sich noch <style_element type="hb">nicht</style_element> geeinigt.</statement>
+            <explanation_marker>
+               <statement>Deshalb haben die Menschen in der Metall- und Elektro·industrie schon mal gestreikt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Menschen haben einige Stunden <style_element type="hb">nicht</style_element> gearbeitet.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und diese Menschen haben protestiert.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="5">
+            <statement><style_element type="hb">Zu diesem Streik gibt es auch einen Text in Leichter Sprache.</style_element></statement>
+            <question><style_element type="hb">Sie wollen diesen Text lesen?</style_element></question>
+            <headword><style_element type="hb">Oder hören?</style_element></headword>
+            <statement>
+               <ref>
+                  <style_element type="hb">Dann klicken Sie <style_element type="hu">hier</style_element>.</style_element>
+               </ref>
+            </statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

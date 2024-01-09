@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-03" url="2019-08-29_13-30_386.xml">
+   <title>Mehr Nachrichten vom 29.08.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-08-29_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-08-29_13-30_386-full.png" type="screenshot" url="2019-08-29_13-30_386-full.png"/>
+      <resource id="2" name="2019-08-29_13-30_386_plaintext.txt" type="plaintext" url="2019-08-29_13-30_386_plaintext.txt"/>
+      <resource id="3" name="2019-08-29_13-30_386_quellcode.txt" type="sourcecode" url="2019-08-29_13-30_386_quellcode.txt"/>
+      <resource id="4" name="2019-08-29_13-30_386.docx" type="formatedText" url="2019-08-29_13-30_386.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 29.08.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Mecklenburg-Vorpommern: Starker Regen</subheadline>
+            <statement>In Mecklenburg-Vorpommern waren viele Gewitter.</statement>
+            <statement>Diese Gewitter waren in den vergangenen 2 Tagen.</statement>
+            <statement>Bei den Gewittern hat es sehr viel geregnet.</statement>
+            <explanation_marker>
+               <statement>Besonders viel Regen war in Schwerin.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Schwerin ist die Haupt·stadt von Mecklenburg-Vorpommern.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Regen hat viele Straßen überschwemmt.</statement>
+            <statement>In viele Häuser ist Wasser in die Keller gelaufen.</statement>
+            <statement>Die Feuerwehr musste das Wasser aus den Kellern pumpen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fachleute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Es war sehr viel Regen in den vergangenen 2 Tagen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>So viel Regen haben wir im Sommer sehr selten.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Frau muss ins Gefängnis</subheadline>
+            <statement>In Güstrow war ein Prozess.</statement>
+            <statement>Bei dem Prozess hat das Gericht eine Frau verurteilt.</statement>
+            <statement>Diese Frau muss für 2 Jahre und 4 Monate ins Gefängnis.</statement>
+            <explanation_marker>
+               <statement>Die Frau hat in Krakow am See 2 Pflege·heime geleitet. </statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">In einem Pflege·heim leben meistens alte Menschen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese alten Menschen brauchen besondere Hilfe.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Die alten Menschen können sich nämlich oft <style_element type="hb">nicht</style_element> alleine versorgen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Gericht hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Bei der Leitung von den 2 Pflege·heimen hat die Frau schwere Fehler gemacht.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb ging es vielen Menschen in den 2 Pflege·heimen <style_element type="hb">nicht</style_element> gut.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Einige Menschen haben zum Beispiel <style_element type="hb">nicht</style_element> genug zu essen bekommen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Die Pflege·heime mussten 2016 schließen.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

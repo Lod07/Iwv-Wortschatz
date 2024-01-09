@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-30" url="2018-04-11_15-00_872.xml">
+   <title>Wichtige Rede von Peter Tschentscher</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-04-11_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-04-11_15-00_872-full.png" type="screenshot" url="2018-04-11_15-00_872-full.png"/>
+      <resource id="2" name="2018-04-11_15-00_872_plaintext.txt" type="plaintext" url="2018-04-11_15-00_872_plaintext.txt"/>
+      <resource id="3" name="2018-04-11_15-00_872_quellcode.txt" type="sourcecode" url="2018-04-11_15-00_872_quellcode.txt"/>
+      <resource id="4" name="2018-04-11_15-00_872.docx" type="formatedText" url="2018-04-11_15-00_872.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Wichtige Rede von Peter Tschentscher</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Peter Tschentscher hat eine wichtige Rede gehalten.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Peter Tschentscher ist der Bürger·meister von Hamburg.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Ein Bürger·meister ist der Chef von einer Stadt.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Und Peter Tschentscher ist von der SPD.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">SPD ist die Abkürzung für Sozial·demokratische Partei Deutschlands.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Rede war in der Bürgerschaft von Hamburg.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die Bürgerschaft ist das Parlament von Hamburg.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In der Bürgerschaft arbeiten viele Politiker.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Diese Politiker sind von verschiedenen Parteien.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Und diese Politiker sagen zum Beispiel:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement><style_element type="hi">Dafür soll Hamburg Geld ausgeben.</style_element></statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Rede war eine Regierungs·erklärung.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">In einer Regierungs·erklärung sagt zum Beispiel ein neuer Bürger·meister:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement><style_element type="hi">So wollen wir regieren.</style_element></statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Die Regierungs·erklärung</subheadline>
+               <statement>Peter Tschentscher ist erst seit 2 Wochen der Bürger·meister von Hamburg.</statement>
+               <statement>Der alte Bürger·meister von Hamburg hat nämlich aufgehört.</statement>
+               <statement>Deshalb hat Hamburg einen neuen Bürger·meister gebraucht.</statement>
+               <statement>Die Politiker in der Bürgerschaft haben Peter Tschentscher zum Bürger·meister gewählt.</statement>
+               <statement>Deshalb hat Peter Tschentscher jetzt eine Regierungs·erklärung gehalten.</statement>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Peter Tschentscher hat in seiner Regierungs·erklärung zum Beispiel gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Regierung hat viel für Hamburg gemacht.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Hamburg hat zum Beispiel viele neue Wohnungen gebaut.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Ich will diese erfolgreiche Politik weiter·machen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Aber ich will auch einige Sachen verändern.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Ich möchte zum Beispiel eine bessere Ausbildung für junge Menschen.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Deshalb soll Hamburg zum Beispiel neue Schulen bauen.</statement>
+                  </speech>
+                  <speech id="7">
+                     <statement>Und Hamburg soll alte Schulen umbauen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Peter Tschentscher hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir wollen in Hamburg eine neue U-Bahn-Linie bauen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Diese U-Bahn-Linie heißt U5.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Mit der U5 kommen dann zum Beispiel mehr Menschen besser zur Arbeit.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="5">
+            <statement>Nach der Regierungs·erklärung haben Politiker aus anderen Parteien gesagt:</statement>
+            <statement>Wir finden die Politik von der Regierung <style_element type="hb">nicht</style_element> gut.</statement>
+            <statement>Jetzt will Peter Tschentscher einige Sachen verändern.</statement>
+            <statement>Aber Peter Tschentscher soll das <style_element type="hb">nicht</style_element> nur sagen.</statement>
+            <statement>Peter Tschentscher soll wirklich einige Sachen verändern.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

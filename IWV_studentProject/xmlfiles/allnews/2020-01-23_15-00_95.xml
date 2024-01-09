@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-24" url="2020-01-23_15-00_95.xml">
+   <title>Mehr Nachrichten vom 23.01.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-01-23_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-01-23_15-00_95-full.png" type="screenshot" url="2020-01-23_15-00_95-full.png"/>
+      <resource id="2" name="2020-01-23_15-00_95_plaintext.txt" type="plaintext" url="2020-01-23_15-00_95_plaintext.txt"/>
+      <resource id="3" name="2020-01-23_15-00_95_quellcode.txt" type="sourcecode" url="2020-01-23_15-00_95_quellcode.txt"/>
+      <resource id="4" name="2020-01-23_15-00_95.docx" type="formatedText" url="2020-01-23_15-00_95.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 23.01.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: 130 neue Sport·hallen</subheadline>
+               <statement>Die Stadt Hamburg will 130 neue Sport·hallen bauen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Stadt Hamburg hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In Hamburg sind immer mehr Schüler.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb sind die Schulen in Hamburg <style_element type="hb">nicht</style_element> mehr groß genug.</statement> 
+                     </speech>
+                     <speech id="3">
+                        <statement>Und deshalb bauen wir 44 neue Schulen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>An vielen von den neuen Schulen bauen wir auch eine neue Sport·halle.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Viele Schulen haben schon eine Sport·halle.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Aber viele von diesen Sport·hallen sind <style_element type="hb">nicht</style_element> mehr schön.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Deshalb bekommen auch viele andere Schulen eine neue Sport·halle.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Stadt Hamburg hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die neuen Sport·hallen sind für den Schul·unterricht.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und für die Sport·vereine.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Polizei findet viele Drogen</subheadline>
+               <explanation_marker>
+                  <statement>Die Polizei in Niedersachsen hat viele Drogen gefunden.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Drogen sind gefährlich für den Körper.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Deshalb sind Drogen verboten.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Diese Drogen waren im Auto von einer Frau.</statement>
+               <statement>Deshalb hat die Polizei die Frau festgenommen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Wir haben auf der A1 Auto·fahrer kontrolliert.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">A1 ist die Abkürzung für <style_element type="hb">A</style_element>uto·bahn <style_element type="hb">1</style_element>.</style_element></statement> 
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <explanation_marker>
+                           <statement>Eine Kontrolle war in der Nähe von Diepholz.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Diepholz ist eine Stadt im Südwesten von Niedersachsen.</style_element></statement> 
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Bei der Kontrolle hat sich eine Auto·fahrerin komisch verhalten.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb haben wir das Auto von der Frau durchsucht.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Bei der Durchsuchung haben wir 21 Kilogramm Drogen gefunden.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

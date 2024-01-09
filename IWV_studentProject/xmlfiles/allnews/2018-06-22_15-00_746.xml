@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-18" url="2018-06-22_15-00_746.xml">
+   <title>Neuer Tunnel auf der A7 in Hamburg</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-06-22_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-06-22_15-00_746-full.png" type="screenshot" url="2018-06-22_15-00_746-full.png"/>
+      <resource id="2" name="2018-06-22_15-00_746_plaintext.txt" type="plaintext" url="2018-06-22_15-00_746_plaintext.txt"/>
+      <resource id="3" name="2018-06-22_15-00_746_quellcode.txt" type="sourcecode" url="2018-06-22_15-00_746_quellcode.txt"/>
+      <resource id="4" name="2018-06-22_15-00_746.docx" type="formatedText" url="2018-06-22_15-00_746.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Neuer Tunnel auf der A7 in Hamburg</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Auf der A7 bei Hamburg ist ein neuer Tunnel.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">A7 ist die Abkürzung für Autobahn 7.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieser Tunnel ist in Schnelsen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Schnelsen ist ein Stadt·teil von Hamburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Tunnel heißt auch: A7-Deckel.</statement>
+         </section>
+         <section id="2">
+            <statement>In der Nähe von der A7 bei Schnelsen wohnen viele Menschen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Diese Menschen haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Auf der A7 fahren viele Autos.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Diese Autos machen sehr viel Lärm.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und dieser Lärm stört uns.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <explanation_marker>
+               <statement>Deshalb haben Fach·leute auf der A7 den Tunnel gebaut.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Fach·leute haben neben der A7 große Wände gebaut.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und auf diesen Wänden haben die Fach·leute ein Dach gebaut.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Der Tunnel ist nämlich ein Lärm·schutz·tunnel.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Autos fahren durch den Tunnel.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Dann ist der Lärm in dem Tunnel.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Und dann hören die Menschen nur noch wenig von dem Lärm.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="3">
+            <subheadline>Sperrungen auf der A7</subheadline>
+               <statement>Im Moment müssen die Autos um den Tunnel fahren.</statement>
+               <statement>Aber bald sollen die Autos durch den Tunnel fahren.</statement>
+               <explanation_marker>
+                  <statement>Deshalb müssen Fach·leute die Fahr·spuren von der A7 jetzt in den Tunnel verlegen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Die Fach·leute müssen die Fahr·spuren umleiten.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Dann können die Autos durch den Tunnel fahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>2 von diesen Fahr·spuren verlegen wir in der Nacht zum Sonnabend in den Tunnel.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb wird ein Teil von der A7 in der Nacht zum Sonnabend gesperrt.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Ab Sonnabend können die Autos dann auf diesen 2 Fahr·spuren durch den Tunnel fahren.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Am Sonntag verlegen wir die anderen Fahr·spuren in den Tunnel.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Dann wird wieder ein Teil von der A7 gesperrt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="4">
+            <statement>Auf der A7 bei Hamburg bauen Fach·leute noch 2 andere Lärm·schutz·tunnel.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese 2 anderen Lärm·schutz·tunnel sind in den Stadtteilen:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Stellingen.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Und Altona.</headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

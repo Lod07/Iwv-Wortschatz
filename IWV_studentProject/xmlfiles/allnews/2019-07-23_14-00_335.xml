@@ -1,0 +1,204 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-07-23_14-00_335.xml">
+   <title>Hamburg: Besondere Bau·arbeiten an der Elbe</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-07-23_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-07-23_14-00_335-full.png" type="screenshot" url="2019-07-23_14-00_335-full.png"/>
+      <resource id="2" name="2019-07-23_14-00_335_plaintext.txt" type="plaintext" url="2019-07-23_14-00_335_plaintext.txt"/>
+      <resource id="3" name="2019-07-23_14-00_335_quellcode.txt" type="sourcecode" url="2019-07-23_14-00_335_quellcode.txt"/>
+      <resource id="4" name="2019-07-23_14-00_335.docx" type="formatedText" url="2019-07-23_14-00_335.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Hamburg: Besondere Bau·arbeiten an der Elbe</headline>
+      <sections>
+         <section id="1">
+            <statement>Am Dienstag haben in Hamburg besondere Bau·arbeiten begonnen.</statement>
+            <explanation_marker>
+               <statement>Diese Bau·arbeiten sind an der Elbe.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Die Elbe ist ein großer Fluss.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Die Elbe fließt durch Hamburg.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Und dann fließt die Elbe in die Nordsee.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Bei diesen Bau·arbeiten machen Arbeiter die Elbe tiefer.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>
+                        <style_element type="hi">Das heißt:</style_element>
+                     </headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Arbeiter graben mit Baggern Erde aus dem Boden von der Elbe.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Deshalb heißen diese Bau·arbeiten Elb·vertiefung.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Warum macht Hamburg die Elbe tiefer?</subheadline>
+            <statement>Viele Schiffe fahren auf der Elbe nach Hamburg.</statement>
+            <explanation_marker>
+               <statement>Diese Schiffe transportieren zum Beispiel Container.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Container sind große Kisten.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">In den Kisten sind Waren.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und diese Schiffe bringen die Container mit den Waren nach Hamburg.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Hamburg hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Viele neue Schiffe sind sehr groß.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Diese Schiffe können <style_element type="hb">nicht</style_element> auf der Elbe nach Hamburg fahren.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Die Elbe ist nämlich <style_element type="hb">nicht</style_element> tief genug für diese Schiffe.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb müssen wir die Elbe tiefer machen.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Dann können auch die großen Schiffe nach Hamburg fahren.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Streit über Elb·vertiefung</subheadline>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Hamburg hat schon vor 17 Jahren gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir wollen die Elbe tiefer machen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Aber es hat viel Streit über die Elb·vertiefung gegeben.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Natur·schützer haben zum Beispiel gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Elb·vertiefung ist schlecht für die Umwelt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <explanation_marker>
+               <statement>Deshalb waren wegen der Elb·vertiefung auch Prozesse.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="4">
+            <statement>
+               <style_element type="hb">Zu einem Prozess wegen der Elb·vertiefung gibt es auch einen Text in Leichter Sprache.</style_element>
+            </statement>
+            <question>
+               <style_element type="hb">Sie wollen diesen Text lesen?</style_element>
+            </question>
+            <headword>
+               <style_element type="hb">Oder hören?</style_element>
+            </headword>
+            <statement>
+               <style_element type="hb">Dann klicken Sie hier.</style_element>
+            </statement>
+         </section>
+         <section id="5">
+            <statement>Jetzt haben die Bau·arbeiten für die Elb·vertiefung in Hamburg begonnen.</statement>
+            <statement>Beim Beginn von den Bau·arbeiten waren auch Politiker.</statement>
+            <statement>Einer von diesen Politikern war Andreas Scheuer.</statement>
+            <explanation_marker>
+               <statement>Andreas Scheuer ist der Bundes·verkehrs·minister.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Ein Minister ist der Chef von einem bestimmten Bereich in der Politik.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword>
+                              <style_element type="hi">Zum Beispiel:</style_element>
+                           </headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword>
+                                 <style_element type="hi">• Wirtschaft.</style_element>
+                              </headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <headword>
+                                 <style_element type="hi">• Oder Bildung.</style_element>
+                              </headword>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Fach·leute haben zum Beispiel die Bau·arbeiten erklärt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Fach·leute haben zum Beispiel gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Bau·arbeiten dauern mehr als 2 Jahre.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und die Bau·arbeiten kosten fast 800 Millionen Euro.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2020-04-06_14-30_23.xml">
+   <title>Mehr Nachrichten vom 06.04.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-04-06_14-30</vdate>
+   <resources>
+      <resource id="1" name="2020-04-06_14-30_23-full.png" type="screenshot" url="2020-04-06_14-30_23-full.png"/>
+      <resource id="2" name="2020-04-06_14-30_23_plaintext.txt" type="plaintext" url="2020-04-06_14-30_23_plaintext.txt"/>
+      <resource id="3" name="2020-04-06_14-30_23_quellcode.txt" type="sourcecode" url="2020-04-06_14-30_23_quellcode.txt"/>
+      <resource id="4" name="2020-04-06_14-30_23.docx" type="formatedText" url="2020-04-06_14-30_23.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 06.04.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>England: Regierungs·chef im Kranken·haus</subheadline>
+            <explanation_marker>
+               <statement>Boris Johnson ist in ein Kranken·haus gekommen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>Boris Johnson ist der Chef von der Regierung in England.</statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Vor 10 Tagen haben Ärzte festgestellt:</statement>
+            <statement>Boris Johnson hat das Corona-Virus.</statement>
+            <explanation_marker>
+                  <statement>Deshalb war Boris Johnson zu Hause in Quarantäne.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>Quarantäne ist eine Regel.</statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>Diese Regel sagt:</statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>Ein Mensch darf <style_element type="hb">keinen</style_element> anderen Menschen treffen.</statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement>Dieser Mensch muss zu Hause bleiben.</statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement>Oder in einem Zimmer in einem Kranken·haus.</statement>
+                  </explanation>
+                  <explanation id="6">
+                     <statement>Dieser Mensch hat nämlich eine ansteckende Krankheit.</statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Aber Boris Johnson ist immer noch krank.</statement>
+            <statement>Deshalb ist Boris Johnson jetzt in einem Kranken·haus.</statement>
+            <statement>Boris Johnson will auch im Kranken·haus weiter regieren.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>   
+</annotation>

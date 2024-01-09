@@ -1,0 +1,183 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-18" url="2019-09-05_13-30_411.xml">
+   <title>Mehr Nachrichten vom 05.09.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-09-05_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-09-05_13-30_411-full.png" type="screenshot" url="2019-09-05_13-30_411-full.png"/>
+      <resource id="2" name="2019-09-05_13-30_411_plaintext.txt" type="plaintext" url="2019-09-05_13-30_411_plaintext.txt"/>
+      <resource id="3" name="2019-09-05_13-30_411_quellcode.txt" type="sourcecode" url="2019-09-05_13-30_411_quellcode.txt"/>
+      <resource id="4" name="2019-09-05_13-30_411.docx" type="formatedText" url="2019-09-05_13-30_411.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 05.09.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Neuer Turm auf dem Wurm·berg</subheadline>
+            <explanation_marker>
+               <statement>Auf dem Wurm·berg war ein Fest.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Der Wurm·berg ist der höchste Berg in Niedersachsen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Und der Wurm·berg ist in der Nähe von Braunlage.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Braunlage ist eine Stadt im Harz.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">Der Harz ist ein Gebirge.</style_element></statement>
+                                    </explanation>
+                                 </explanations
+                              ></explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei diesem Fest wurde ein neuer Turm eröffnet.</statement>
+            <statement>Dieser Turm steht auf dem Wurm·berg.</statement>
+            <explanation_marker>
+               <statement>Und dieser Turm ist ein Aussichts·turm.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <headword>Das heißt:</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Menschen können auf diesen Turm gehen.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Dann können Menschen sehr weit gucken.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Wurm·berg ist 971 Meter hoch.</statement>
+            <statement>Und der neue Turm ist 32 Meter hoch.</statement>
+            <statement>Der Turm hat 2 Millionen Euro gekostet.</statement>
+            <statement>Und der Bau von dem Turm hat 13 Monate gedauert.</statement>
+         </section>
+         <style_element type="line"/>
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Bombe entschärft</subheadline>
+            <explanation_marker>
+               <headword>Das heißt:</headword>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die Fach·leute haben die Bombe ungefährlich gemacht.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Jetzt kann die Bombe <style_element type="hb">nicht</style_element> mehr explodieren.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Bombe war in Glinde.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Glinde ist in der Nähe von Hamburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und die Bombe war aus dem 2. Welt·krieg.</statement>
+            <statement>Im 2. Welt∙krieg haben Flug·zeuge über vielen Städten Bomben abgeworfen.</statement>
+            <statement>Aber manche Bomben sind <style_element type="hb">nicht</style_element> explodiert.</statement>
+            <statement>Alle Menschen in der Nähe von der Bombe mussten ihre Häuser verlassen.</statement>
+            <statement>Oder ihre Wohnungen.</statement>
+            <speech_marker>					
+               <speech_intro>			
+                  <statement>Die Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>					
+                  <speech id="1">
+                     <statement>Das Entschärfen von der Bombe war sehr schwierig.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die Entschärfung von der Bombe hat 8 Stunden gedauert.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>	
+         </section>
+         <style_element type="line"/>
+         <section id="3">
+            <subheadline>Hamburg: Straße an der Elbe gesperrt</subheadline>
+            <statement>Die Polizei hat eine Straße in Hamburg gesperrt.</statement>
+            <statement>Diese Straße ist nämlich kaputt.</statement>
+            <explanation_marker>
+               <statement>Die Straße heißt Elbchausee.</statement>	
+               <explanations>				
+                  <explanation id="1">		
+                     <statement><style_element type="hi">Die Elbchaussee ist im Westen von Hamburg.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">		
+                     <statement><style_element type="hi">Und die Elbchaussee ist an der Elbe.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>					
+               <speech_intro>			
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>					
+                  <speech id="1">
+                     <statement>Unter der Straße ist eine Wasser·leitung.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Diese Wasser·leitung ist kaputt·gegangen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dann ist sehr viel Wasser in die Erde gelaufen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb ist die Erde sehr weich geworden.</statement>
+                  </speech>
+                  <speech id="5">
+                     <explanation_marker>
+                        <statement>Und deshalb ist ein Teil von der Straße abgesackt.</statement>	
+                        <explanations>				
+                           <explanation id="1">		
+                             <headword>Das heißt:</headword>
+                           </explanation>
+                           <explanation id="2">		
+                              <statement>Ein Teil von der Straße hat sich nach unten bewegt.</statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="6">
+                     <speech_marker>					
+                     <speech_intro>			
+                        <statement>Wir wissen noch <style_element type="hb">nicht</style_element>:</statement>
+                     </speech_intro>
+                     <speeches>					
+                        <speech id="1">
+                           <question> Wie groß sind die Schäden an der Straße?</question>
+                        </speech>
+                        <speech id="2">
+                           <question>Und wie lange dauert die Reparatur von der kaputten Wasser·leitung?</question>
+                        </speech>
+                     </speeches>
+                  </speech_marker>	
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line"/>
+      </sections>
+   </content>
+</annotation>

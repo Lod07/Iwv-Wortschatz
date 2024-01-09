@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-10-11_15-00_826.xml">
+   <title>Schießerei in Hamburg</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-10-11_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-10-11_15-00_826-full.png" type="screenshot" url="2018-10-11_15-00_826-full.png"/>
+      <resource id="2" name="2018-10-11_15-00_826_plaintext.txt" type="plaintext" url="2018-10-11_15-00_826_plaintext.txt"/>
+      <resource id="3" name="2018-10-11_15-00_826_quellcode.txt" type="sourcecode" url="2018-10-11_15-00_826_quellcode.txt"/>
+      <resource id="4" name="2018-10-11_15-00_826.docx" type="formatedText" url="2018-10-11_15-00_826.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Schießerei in Hamburg</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Hamburg war eine Schießerei.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bei einer Schießerei schießt ein Mensch mit einer Waffe auf andere Menschen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Schießerei war in der Nähe von einem Einkaufs·zentrum.</statement>
+            <explanation_marker>
+               <statement>Dieses Einkaufs·zentrum ist in Wandsbek.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Wandsbek ist ein Stadt·teil von Hamburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei der Schießerei wurde ein Mann am Bein verletzt.</statement>
+            <statement>Deshalb ist der Mann jetzt im Kranken·haus.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Mann hatte mit 3 anderen Männern einen Streit.</statement>
+                     </speech>
+                     <speech id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <headword>Wir glauben:</headword>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <explanation_marker>
+                                    <statement>Der Streit war wegen Drogen.</statement>
+                                    <explanations>
+                                       <explanation id="1">
+                                          <statement><style_element type="hi">Drogen sind gefährlich für den Körper.</style_element></statement>
+                                       </explanation>
+                                       <explanation id="2">
+                                          <statement><style_element type="hi">Drogen machen Menschen zum Beispiel krank im Kopf.</style_element></statement>
+                                       </explanation>
+                                       <explanation id="3">
+                                          <statement><style_element type="hi">Deshalb sind Drogen verboten.</style_element></statement>
+                                       </explanation>
+                                    </explanations>
+                                 </explanation_marker>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Die 3 Männer hatten eine Waffe.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und einer von den 3 Männern hat mit dieser Waffe auf den Mann geschossen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Dann sind die 3 Männer mit einem Auto geflüchtet.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>U-Bahnhof gesperrt</subheadline>
+               <statement>Die Polizei hat nach den 3 Männern gesucht.</statement>
+               <statement>Die Suche war zum Beispiel im U-Bahnhof Wandsbek Markt.</statement>
+               <explanation_marker>
+                  <statement>Deshalb hat die Polizei diesen U-Bahnhof für mehrere Stunden gesperrt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Im U-Bahnhof durfte mehrere Stunden <style_element type="hb">keine</style_element> U-Bahn fahren.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und im U-Bahnhof durften mehrere Stunden <style_element type="hb">keine</style_element> Menschen sein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Polizei hat die 3 Männer <style_element type="hb">nicht</style_element> gefunden.</statement>
+               <statement>Aber die Polizei hat das Auto von den 3 Männern gefunden.</statement>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Das Auto von den 3 Männern haben wir in Glinde gefunden.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Glinde ist eine Stadt in Schleswig-Holstein.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="2">
+                     <explanation_marker>
+                        <statement>Jetzt suchen wir nach Zeugen.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Zeugen sind Menschen.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Zeugen haben zum Beispiel vielleicht ein Verbrechen gesehen.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Deshalb können Zeugen vielleicht Hinweise zu dem Verbrechen geben.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="3">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Diese Zeugen können uns zum Beispiel vielleicht sagen:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>So sehen die 3 Männer aus.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="4">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Und wir wollen den Mann im Krankenhaus fragen:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Wer sind die 3 Männer?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

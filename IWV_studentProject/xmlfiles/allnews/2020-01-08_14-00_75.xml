@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2020-01-08_14-00_75.xml">
+   <title>Test·strecke für besondere Autos</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-01-08_14-00</vdate>
+   <resources>
+      <resource id="1" name="2020-01-08_14-00_75-full.png" type="screenshot" url="2020-01-08_14-00_75-full.png"/>
+      <resource id="2" name="2020-01-08_14-00_75_plaintext.txt" type="plaintext" url="2020-01-08_14-00_75_plaintext.txt"/>
+      <resource id="3" name="2020-01-08_14-00_75_quellcode.txt" type="sourcecode" url="2020-01-08_14-00_75_quellcode.txt"/>
+      <resource id="4" name="2020-01-08_14-00_75.docx" type="formatedText" url="2020-01-08_14-00_75.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Test·strecke für besondere Autos</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Cremlingen haben Fach·leute eine besondere Strecke eröffnet.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Cremlingen ist ein Ort in Niedersachsen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Cremlingen ist in der Nähe von Braunschweig.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Diese besondere Strecke ist eine Test·strecke.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Test·strecke ist ein Stück Straße.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Auf diesem Stück Straße testen Fach·leute zum Beispiel neue Autos.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Test·strecke ist für besondere Autos.</statement>
+            <explanation_marker>
+               <statement>Diese besonderen Autos sind selbst·fahrende Autos.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Autos fahren <style_element type="hb">ohne</style_element> Fahrer.</style_element></statement> 
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <statement>Die Test·strecke ist in Niedersachsen.</statement>
+            <statement>Und die Test·strecke ist 280 Kilometer lang.</statement>
+            <statement>Die Test·strecke ist zum Beispiel auf verschiedenen Autobahnen.</statement>
+            <statement>Zum Beispiel auf einem Teil von der Autobahn 2.</statement>
+            <statement>Und auf einem Teil von der Autobahn 7.</statement>
+            <statement>Und die Test·strecke ist in verschiedenen Städten.</statement>
+            <statement>Zum Beispiel in Hannover.</statement>
+            <statement>Und in Braunschweig.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Die Eröffnung von der Test·strecke</subheadline>
+               <statement>Bei der Eröffnung von der Test·strecke waren auch bekannte Politiker.</statement>
+               <explanation_marker>
+                  <statement>Zum Beispiel Bernd Althusmann.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Bernd Althusmann ist der Verkehrs·minister von Niedersachsen.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Ein Minister ist der Chef von einem bestimmten Bereich in der Politik.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Zum Beispiel von der Wirtschaft.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Oder von der Bildung.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Und Björn Thümler.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Björn Thümler ist der Wissenschafts·minister von Niedersachsen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Fach·leute haben den Politikern die Test·strecke gezeigt.</statement>
+               <statement>Und die Fach·leute haben den Politikern Fahrten mit den selbst·fahrenden Autos gezeigt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Auf der Test·strecke sind besondere Kameras.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Die Kameras filmen den Verkehr auf der Test·strecke.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>So sammeln die Kameras Daten.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Diese Daten leiten die Kameras an die selbst·fahrenden Autos weiter.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Mit diesen Daten können die Autos besser fahren.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Dann können die Autos zum Beispiel besser Abstand zu anderen Autos halten.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Und dann können die Autos zum Beispiel besser die Fahr·bahn wechseln.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Fach·leute haben auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die selbst·fahrenden Autos sind wichtig für die Zukunft.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Mit diesen Autos soll es zum Beispiel weniger Staus geben.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Aber die Autos müssen noch weiter·entwickelt werden.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb müssen wir die Autos testen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Und deshalb haben wir zum Beispiel diese Test·strecke.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

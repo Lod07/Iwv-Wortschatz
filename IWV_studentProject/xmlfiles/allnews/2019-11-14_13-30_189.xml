@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-29" url="2019-11-14_13-30_189.xml">
+   <title>Mehr Nachrichten vom 14.11.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-11-14_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-11-14_13-30_189-full.png" type="screenshot" url="2019-11-14_13-30_189-full.png"/>
+      <resource id="2" name="2019-11-14_13-30_189_plaintext.txt" type="plaintext" url="2019-11-14_13-30_189_plaintext.txt"/>
+      <resource id="3" name="2019-11-14_13-30_189_quellcode.txt" type="sourcecode" url="2019-11-14_13-30_189_quellcode.txt"/>
+      <resource id="4" name="2019-11-14_13-30_189.docx" type="formatedText" url="2019-11-14_13-30_189.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 14.11.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Mann stirbt bei Feuer</subheadline>
+            <statement>In Glückstadt war ein Feuer.</statement>
+            <statement>Bei diesem Feuer hat ein Haus gebrannt.</statement>
+            <statement>Und bei diesem Feuer ist ein Mann gestorben.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In dem Haus haben mehrere Menschen gewohnt.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Ein Mann ist bei dem Feuer gestoben.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dieser Mann war 70 Jahre alt.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Die anderen Menschen in dem Haus wurden <style_element type="hb">nicht</style_element> verletzt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen: </statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum hat das Haus gebrannt?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Polizei evakuiert 2 Häuser</subheadline>
+            <statement>In Hagenow war ein großer Polizei·einsatz.</statement>
+            <explanation_marker>
+               <statement>Bei diesem Einsatz hat die Polizei 2 Häuser evakuiert.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Polizei hat alle Menschen aus diesen 2 Häusern geholt.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>In diesen 2 Häusern waren 45 Menschen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Ein Zeuge hat gesagt:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement> Es gab einen Einbruch.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb sind wir zu den 2 Häusern gefahren.</statement>
+                  </speech>
+                  <speech id="3">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>In den 2 Häusern haben wir gemerkt:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Ein Mensch hat eine stinkende Flüssigkeit in den 2 Häusern verteilt.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="4">
+                     <statement>Deshalb haben wir die 2 Häuser evakuiert.</statement>
+                  </speech>
+                  <speech id="5">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>5 Menschen aus den 2 Häusern haben gesagt:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Uns ist sehr schlecht.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="6">
+                     <statement>Deshalb haben wir diese 5 Menschen in ein Kranken·haus gebracht.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt will die Polizei wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wer hat die stinkende Flüssigkeit in den 2 Häusern verteilt?</question>
+                  </speech>
+                  <speech id="2">
+                     <question>Und was für eine Flüssigkeit ist das?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

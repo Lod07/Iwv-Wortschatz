@@ -1,0 +1,218 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-30" url="2018-04-26_15-00_938.xml">
+   <title>Bester Rast·platz ist in Niedersachsen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-04-26_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-04-26_15-00_938-full.png" type="screenshot" url="2018-04-26_15-00_938-full.png"/>
+      <resource id="2" name="2018-04-26_15-00_938_plaintext.txt" type="plaintext" url="2018-04-26_15-00_938_plaintext.txt"/>
+      <resource id="3" name="2018-04-26_15-00_938_quellcode.txt" type="sourcecode" url="2018-04-26_15-00_938_quellcode.txt"/>
+      <resource id="4" name="2018-04-26_15-00_938.docx" type="formatedText" url="2018-04-26_15-00_938.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Bester Rast·platz ist in Niedersachsen</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Ein Verein hat Rast·plätze getestet.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Rast·plätze sind meistens an Auto·bahnen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement><style_element type="hi">Auto·fahrer können auf Rast·plätzen zum Beispiel:</style_element></statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <headword><style_element type="hi">• Sich ausruhen.</style_element></headword>
+                           </enumeration>
+                           <enumeration id="2">
+                              <statement><style_element type="hi">• Und auf die Toilette gehen.</style_element></statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der Verein wollte bei dem Test zum Beispiel wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wie sauber sind die Rast·plätze?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der Test hat gezeigt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der beste Rast·platz ist in Niedersachsen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>ADAC macht den Test</subheadline>
+               <explanation_marker>
+                  <statement>Der Test war vom ADAC.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Der ADAC ist ein Verein.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">ADAC ist die Abkürzung für Allgemeiner Deutscher Automobil-Club.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Im ADAC sind viele Auto·fahrer.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Der ADAC hilft diesen Auto·fahrern.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <enumeration_marker>
+                                    <enumeration_intro>
+                                       <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                                    </enumeration_intro>
+                                    <enumerations>
+                                       <enumeration id="1">
+                                          <statement><style_element type="hi">• Bei einem Unfall.</style_element></statement>
+                                       </enumeration>
+                                       <enumeration id="2">
+                                          <statement><style_element type="hi">• Oder bei einer Panne.</style_element></statement>
+                                       </enumeration>
+                                    </enumerations>
+                                 </enumeration_marker>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Der ADAC hat 50 Rast·plätze in Deutschland getestet.</statement>
+               <statement>Diese 50 Rast·plätze sind an Auto·bahnen.</statement>
+               <statement>11 von diesen 50 Rast·plätzen sind in Nord·deutschland.</statement>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der ADAC hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Viele Auto·fahrer fühlen sich auf Rast·plätzen <style_element type="hb">nicht</style_element> wohl.</statement>
+                  </speech>
+                  <speech id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Diese Auto·fahrer sagen nämlich:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Rast·plätze sind oft schmutzig.</statement>
+                           </speech>
+                           <speech id="2">
+                              <statement>Und Rast·plätze sind oft dunkel.</statement>
+                           </speech>
+                           <speech id="3">
+                              <statement>Deshalb fahren wir <style_element type="hb">nicht</style_element> gerne auf Rast·plätze.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="3">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Wir wollen wissen:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Sind die Rast·plätze wirklich so schlecht?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <statement>Der ADAC hat verschiedene Sachen getestet.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <headword>Zum Beispiel:</headword>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <statement>• Die Sauberkeit von den Toiletten.</statement>
+                  </enumeration>
+                  <enumeration id="2">
+                     <statement>• Die Sauberkeit auf dem Rast·platz.</statement>
+                  </enumeration>
+                  <enumeration id="3">
+                     <explanation_marker>
+                        <statement>• Und die Sicherheit auf dem Rast·platz.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <question><style_element type="hi">Ist der Rast·platz zum Beispiel gut beleuchtet?</style_element></question>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Dann können nämlich Auto·fahrer andere Menschen auf dem Rast·platz gut sehen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="5">
+            <subheadline>Bester Rast·platz in Niedersachsen</subheadline>
+               <statement>Der beste Rast·platz ist in Niedersachsen.</statement>
+               <statement>Dieser Rast·platz heißt Cappeln Hagelage West.</statement>
+               <explanation_marker>
+                  <statement>Und dieser Rast·platz ist an der A1.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">A1 ist die Abkürzung für Auto·bahn 1.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der ADAC hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Dieser Rast·platz ist sehr sauber.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dieser Rast·platz hat eine gute Beleuchtung.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und auf diesem Rast·platz ist es besonders leise.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb können sich Auto·fahrer auf diesem Rast·platz gut erholen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

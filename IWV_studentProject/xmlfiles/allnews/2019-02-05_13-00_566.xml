@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-10" url="2019-02-05_13-00_566.xml">
+   <title>Mehr Nachrichten vom 05.02.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-02-05_13-00</vdate>
+   <resources>
+      <resource id="1" name="2019-02-05_13-00_566-full.png" type="screenshot" url="2019-02-05_13-00_566-full.png"/>
+      <resource id="2" name="2019-02-05_13-00_566_plaintext.txt" type="plaintext" url="2019-02-05_13-00_566_plaintext.txt"/>
+      <resource id="3" name="2019-02-05_13-00_566_quellcode.txt" type="sourcecode" url="2019-02-05_13-00_566_quellcode.txt"/>
+      <resource id="4" name="2019-02-05_13-00_566.docx" type="formatedText" url="2019-02-05_13-00_566.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 05.02.2019</headline>
+         <sections>
+            <section id="1">
+               <subheadline>Hamburg: Mann festgenommen</subheadline>
+                  <statement>In Hamburg hat die Polizei einen Mann festgenommen.</statement>
+                  <speech_marker>
+                     <speech_intro>
+                        <statement>Die Polizei hat gesagt:</statement>
+                     </speech_intro>
+                     <speeches>
+                        <speech id="1">
+                           <statement>Der Mann hat wahrscheinlich einen anderen Mann mit einem Messer angegriffen.</statement>
+                        </speech>
+                        <speech id="2">
+                           <explanation_marker>
+                              <statement>Dieser Angriff war bei Ikea.</statement>
+                              <explanations>
+                                 <explanation id="1">
+                                    <explanation_marker>
+                                       <statement><style_element type="hi">Ikea ist ein Möbel·haus.</style_element></statement>
+                                       <explanations>
+                                          <explanation id="1">
+                                             <statement><style_element type="hi">In einem Möbel·haus können Menschen zum Beispiel Möbel kaufen.</style_element></statement>
+                                          </explanation>
+                                       </explanations>
+                                    </explanation_marker>
+                                 </explanation>
+                              </explanations>
+                           </explanation_marker>
+                        </speech>
+                        <speech id="3">
+                           <statement>Und bei diesem Angriff hat der Täter den Mann schwer verletzt.</statement>
+                        </speech>
+                        <speech id="4">
+                           <statement>Jetzt müssen wir weiter ermitteln.</statement>
+                        </speech>
+                        <speech id="5">
+                           <statement>Wir wollen nämlich zum Beispiel wissen:</statement>
+                        </speech>
+                        <speech id="6">
+                           <question>Ist dieser Mann wirklich der Täter?</question>
+                        </speech>
+                        <speech id="7">
+                           <question>Und warum hat der Täter den Mann angegriffen?</question>
+                        </speech>
+                     </speeches>
+                  </speech_marker>
+            </section>
+            <section id="2">
+               <statement>Zu dem Angriff gibt es noch einen Text in Leichter Sprache.</statement>
+               <question>Sie wollen diesen Text lesen?</question>
+               <headword>Oder hören?</headword>
+               <statement>
+                  <ref> 
+                     Dann klicken Sie <style_element type="hu">hier</style_element>.
+                  </ref>
+               </statement>
+            </section>
+            <style_element type="line" />
+            <section id="3">
+               <subheadline>Schleswig-Holstein: 2 junge Männer müssen ins Gefängnis</subheadline>
+                  <explanation_marker>
+                     <statement>In Flensburg war ein Prozess.</statement>
+                     <explanations>
+                        <explanation id="1">
+                           <statement><style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element></statement>
+                        </explanation>
+                        <explanation id="2">
+                           <speech_marker>
+                              <speech_intro>
+                                 <statement><style_element type="hi">Bei einem Prozess entscheidet das Gericht:</style_element></statement>
+                              </speech_intro>
+                              <speeches>
+                                 <speech id="1">
+                                    <question><style_element type="hi">• Hat ein Mensch etwas Verbotenes getan?</style_element></question>
+                                 </speech>
+                                 <speech id="2">
+                                    <statement><style_element type="hi">Dann bekommt dieser Mensch eine Strafe.</style_element></statement>
+                                 </speech>
+                                 <speech id="3">
+                                    <question><style_element type="hi">• Oder hat ein Mensch <style_element type="hb">nichts</style_element> Verbotenes getan?</style_element></question>
+                                 </speech>
+                                 <speech id="4">
+                                    <statement><style_element type="hi">Dann bekommt dieser Mensch <style_element type="hb">keine</style_element> Strafe.</style_element></statement>
+                                 </speech>
+                              </speeches>
+                           </speech_marker>
+                        </explanation>
+                     </explanations>
+                  </explanation_marker>    
+                  <statement>Bei dem Prozess hat ein Gericht 2 junge Männer verurteilt.</statement>
+                  <statement>Diese 2 jungen Männer haben nämlich große Steine von Brücken auf Straßen geworfen.</statement>
+                  <statement>Diese großen Steine haben einige fahrende Fahr·zeuge getroffen.</statement>
+                  <statement>Zum Beispiel das Auto von einer Frau.</statement>
+                  <statement>Diese Frau wurde schwer verletzt.</statement>
+                  <statement>Deshalb müssen die 2 jungen Männer für 6 Jahre ins Gefängnis.</statement>
+            </section>
+            <style_element type="line" />
+         </sections>
+   </content>
+</annotation>

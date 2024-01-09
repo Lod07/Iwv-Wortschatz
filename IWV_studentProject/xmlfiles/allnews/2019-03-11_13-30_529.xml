@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-17" url="2019-03-11_13-30_529.xml">
+   <title>Mehr Nachrichten vom 11.03.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-03-11_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-03-11_13-30_529-full.png" type="screenshot" url="2019-03-11_13-30_529-full.png"/>
+      <resource id="2" name="2019-03-11_13-30_529_plaintext.txt" type="plaintext" url="2019-03-11_13-30_529_plaintext.txt"/>
+      <resource id="3" name="2019-03-11_13-30_529_quellcode.txt" type="sourcecode" url="2019-03-11_13-30_529_quellcode.txt"/>
+      <resource id="4" name="2019-03-11_13-30_529.docx" type="formatedText" url="2019-03-11_13-30_529.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 11.03.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: HSV gewinnt besonderes Fußball·spiel</subheadline>
+               <statement>In Hamburg war am Sonntag ein besonderes Fußball·spiel.</statement>
+               <explanation_marker>
+                  <statement>Dieses Fußball·spiel war ein Derby.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Bei einem Derby spielen 2 Mannschaften aus der gleichen Stadt gegeneinander.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Oder aus der gleichen Region.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei diesem Derby haben 2 Mannschaften aus Hamburg gegeneinander gespielt.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Diese 2 Mannschaften sind:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <explanation_marker>
+                           <statement>• Der FC St. Pauli.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">St. Pauli ist ein Stadtteil von Hamburg.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker> 
+                     </enumeration>
+                     <enumeration id="2">
+                        <explanation_marker>
+                           <statement>• Und der HSV.</statement>
+                           <explanations>
+                              <explanation id="1"> 
+                                 <statement><style_element type="hi">HSV ist die Abkürzung für <style_element type="hb">H</style_element>amburger <style_element type="hb">S</style_element>port-<style_element type="hb">V</style_element>erein.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker> 
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Der HSV hat das Derby mit 4:0 gewonnen.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Mann stirbt bei Unfall</subheadline>
+               <explanation_marker>
+                  <statement>Auf der A1 war ein schwerer Unfall.</statement>
+                  <explanations>
+                     <explanation id="1"> 
+                        <statement><style_element type="hi">A1 ist die Abkürzung für <style_element type="hb">A</style_element>utobahn <style_element type="hb">1</style_element>.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei diesem Unfall ist ein Lkw-Fahrer gestorben.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ein Mann hatte einen Unfall mit seinem Auto.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Bei diesem Unfall wurde der Mann verletzt.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Der Lkw-Fahrer hat diesen Unfall gesehen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Dann ist der Lkw-Fahrer aus seinem Lkw gestiegen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Und der Lkw-Fahrer ist zu dem verletzten Mann gegangen.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Der Lkw-Fahrer wollte dem verletzten Mann nämlich helfen.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Dann ist ein anderer Mann mit seinem Auto in das Auto von dem verletzten Mann gefahren.</statement>
+                     </speech>
+                     <speech id="8">
+                        <statement>Der andere Mann hat das Auto nämlich <style_element type="hb">nicht</style_element> gesehen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker> 
+         </section>
+         <style_element type="line" /> 
+         <section id="3">
+            <subheadline>Schleswig-Holstein: Bomben·drohung in Lübeck</subheadline>
+               <explanation_marker>
+                  <statement>Am Montagmorgen hat die Polizei den Haupt·bahnhof in Lübeck gesperrt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">In dem Bahnhof durften <style_element type="hb">keine</style_element> Züge fahren.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und in dem Bahnhof durften <style_element type="hb">keine</style_element> Menschen sein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Am Haupt·bahnhof in Lübeck war nämlich eine Bomben·drohung.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Bei einer Bomben·drohung sagt ein Mensch:</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Ich habe eine Bombe versteckt.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Und ich lasse diese Bombe explodieren.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                     <explanation id="2">
+                        <question><style_element type="hi">Explodiert die Bombe?</style_element></question>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Dann können zum Beispiel viele Menschen verletzt werden.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir haben den Bahnhof durchsucht.</statement>
+                     </speech>
+                     <speech id="2"> 
+                        <statement>Aber wir haben <style_element type="hb">keine</style_element> Bombe gefunden.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb dürfen in dem Bahnhof jetzt wieder Züge fahren.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und deshalb dürfen in dem Bahnhof jetzt wieder Menschen sein.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

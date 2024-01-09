@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2019-09-17_13-30_433.xml">
+   <title>Mehr Nachrichten vom 17.09.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-09-17_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-09-17_13-30_433-full.png" type="screenshot" url="2019-09-17_13-30_433-full.png"/>
+      <resource id="2" name="2019-09-17_13-30_433_plaintext.txt" type="plaintext" url="2019-09-17_13-30_433_plaintext.txt"/>
+      <resource id="3" name="2019-09-17_13-30_433_quellcode.txt" type="sourcecode" url="2019-09-17_13-30_433_quellcode.txt"/>
+      <resource id="4" name="2019-09-17_13-30_433.docx" type="formatedText" url="2019-09-17_13-30_433.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 17.09.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: ICE bleibt stehen</subheadline>
+            <explanation_marker>
+               <statement>In Seelze ist ein ICE stehengeblieben.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Der ICE ist der schnellste Zug in Deutschland.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">ICE ist die Abkürzung für <style_element type="hb">I</style_element>nter·<style_element type="hb">c</style_element>ity-<style_element type="hb">E</style_element>xpress.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Der ICE ist in Berlin gestartet.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Berlin ist die Haupt·stadt von Deutschland.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und der ICE wollte nach Köln fahren.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Köln ist eine Stadt in Nordrhein-Westfalen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Aber dann hatte der ICE eine Panne.</statement>
+            <statement>Der ICE ist in Seelze auf den Gleisen stehengeblieben.</statement>
+            <statement>Und der ICE konnte <style_element type="hb">nicht</style_element> weiterfahren.</statement>
+            <statement>Die Menschen in dem ICE mussten 3 Stunden warten.</statement>
+            <statement>Dann war klar:</statement>
+            <statement>Die Menschen müssen den ICE verlassen.</statement>
+            <statement>Die Menschen mussten den ICE über Leitern verlassen.</statement>
+            <statement>Und die Menschen mussten in einen anderen Zug einsteigen.</statement>
+            <statement>Dann konnten die Menschen mit dem anderen Zug weiterfahren.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Kohl·tage haben begonnen</subheadline>
+            <explanation_marker>
+               <statement>In Dithmarschen hat ein großes Fest begonnen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Dithmarschen ist eine Region an der Nordsee.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieses Fest heißt Kohl·tage.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Kohl ist ein Gemüse.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Es gibt zum Beispiel Weiß·kohl.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und Rot·kohl</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Mit den Kohl·tagen feiern die Menschen den Beginn von der Kohl·ernte.</statement>
+            <statement>In Dithmarschen gibt es sehr viel Kohl.</statement>
+            <statement>Deshalb ist Kohl sehr wichtig für Dithmarschen.</statement>
+            <statement>Bei dem großen Fest können die Menschen zum Beispiel Kohl essen.</statement>
+            <statement>Und Kohl·brot backen.</statement>
+            <statement>Die Kohl·tage sind jedes Jahr.</statement>
+            <statement>In diesem Jahr enden die Kohl·tage am 22. September.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

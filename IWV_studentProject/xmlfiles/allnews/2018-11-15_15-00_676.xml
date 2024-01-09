@@ -1,0 +1,204 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-08" url="2018-11-15_15-00_676.xml">
+   <title>Wichtiges Treffen von der CDU in Lübeck</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-11-15_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-11-15_15-00_676-full.png" type="screenshot" url="2018-11-15_15-00_676-full.png"/>
+      <resource id="2" name="2018-11-15_15-00_676_plaintext.txt" type="plaintext" url="2018-11-15_15-00_676_plaintext.txt"/>
+      <resource id="3" name="2018-11-15_15-00_676_quellcode.txt" type="sourcecode" url="2018-11-15_15-00_676_quellcode.txt"/>
+      <resource id="4" name="2018-11-15_15-00_676.docx" type="formatedText" url="2018-11-15_15-00_676.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Wichtiges Treffen von der CDU in Lübeck</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Lübeck ist am Donnerstag ein wichtiges Treffen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Lübeck ist eine Stadt in Schleswig-Holstein.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieses Treffen ist von der CDU.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die CDU ist eine Partei.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">CDU ist die Abkürzung für Christlich Demokratische Union Deutschlands.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Treffen sind viele Mitglieder von der CDU.</statement>
+            <statement>Und bei dem Treffen sind auch 3 wichtige Politiker von der CDU.</statement>
+            <statement>Diese 3 Politiker wollen Chef von der CDU werden.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Warum braucht die CDU einen neuen Chef?</subheadline>
+               <explanation_marker>
+                  <statement>Die Chefin von der CDU ist Angela Merkel.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Angela Merkel ist die wichtigste Politikerin in Deutschland.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Angela Merkel ist nämlich seit 13 Jahren die Bundes·kanzlerin von Deutschland.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <explanation_marker>
+                                    <statement><style_element type="hi">Der Bundes·kanzler ist der Chef von der deutschen Regierung.</style_element></statement>
+                                    <explanations>
+                                       <explanation id="1">
+                                          <statement><style_element type="hi">Die Regierung entscheidet über die Politik in Deutschland.</style_element></statement>
+                                       </explanation>
+                                    </explanations>
+                                 </explanation_marker>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Aber Angela Merkel hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ich bin seit 18 Jahren die Chefin von der CDU.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber in letzter Zeit haben weniger Menschen die CDU gewählt als früher.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb müssen wir etwas ändern.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und deshalb will ich als Chefin von der CDU aufhören.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Und ich will nur noch 3 Jahre lang Bundes·kanzlerin sein.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>   
+         </section>
+         <section id="3">
+            <statement>Jetzt muss die CDU einen neuen Chef wählen.</statement>
+            <statement>3 Politiker wollen der neue Chef von der CDU sein.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese 3 Politiker sind:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <explanation_marker>
+                        <headword>• Annegret Kramp-Karrenbauer.</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Annegret Kramp-Karrenbauer ist die General·sekretärin von der CDU.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">Ein General·sekretär hilft dem Chef von einer Partei.</style_element></statement>
+                                    </explanation>
+                                    <explanation id="2">
+                                       <speech_marker>
+                                          <speech_intro>
+                                             <statement><style_element type="hi">Ein General·sekretär erklärt zum Beispiel den Wählern:</style_element></statement>
+                                          </speech_intro>
+                                          <speeches>
+                                             <speech id="1">
+                                                <statement><style_element type="hi">Das will unsere Partei.</style_element></statement>
+                                             </speech>
+                                          </speeches>
+                                       </speech_marker>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <headword>• Friedrich Merz.</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Friedrich Merz war früher ein wichtiger Politiker in der CDU.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Aber 2009 hat Friedrich Merz in der Politik aufgehört.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="3">
+                     <explanation_marker>
+                        <statement>• Und Jens Spahn.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Jens Spahn ist Gesundheits·minister in der deutschen Regierung.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">Ein Gesundheits·minister kümmert sich zum Beispiel um Ärzte.</style_element></statement>
+                                    </explanation>
+                                    <explanation id="2">
+                                       <statement><style_element type="hi">Und um Kranken·häuser.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>  
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="4">
+            <statement>Bei dem Treffen in Lübeck halten die 3 Politiker Reden.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>In diesen Reden erklären die 3 Politiker:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>So will ich als Chef die CDU führen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Und die Mitglieder von der CDU können den 3 Politikern Fragen stellen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Dann können die Mitglieder von CDU überlegen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wer soll unser neuer Chef sein?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="5">
+            <statement>In den nächsten Wochen sind noch 7 weitere Treffen von der CDU.</statement>
+            <statement>Diese Treffen sind in anderen Bundes·ländern.</statement>
+            <statement>Nach den Treffen ist eine Wahl.</statement>
+            <statement>Bei dieser Wahl bestimmen Politiker von der CDU ihren neuen Chef.</statement>
+            <statement>Diese Wahl ist am 7. Dezember.</statement>
+            <statement>Und diese Wahl ist in Hamburg.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

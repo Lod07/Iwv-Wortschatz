@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-19" url="2019-03-22_13-30_520.xml">
+   <title>Mehr Nachrichten vom 22.03.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-03-22_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-03-22_13-30_520-full.png" type="screenshot" url="2019-03-22_13-30_520-full.png"/>
+      <resource id="2" name="2019-03-22_13-30_520_plaintext.txt" type="plaintext" url="2019-03-22_13-30_520_plaintext.txt"/>
+      <resource id="3" name="2019-03-22_13-30_520_quellcode.txt" type="sourcecode" url="2019-03-22_13-30_520_quellcode.txt"/>
+      <resource id="4" name="2019-03-22_13-30_520.docx" type="formatedText" url="2019-03-22_13-30_520.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 22.03.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Bekannter Spieler verlässt den HSV</subheadline>
+               <explanation_marker>
+                  <statement>Lewis Holtby spielt bald <style_element type="hb">nicht</style_element> mehr beim HSV.</statement>
+                  <explanations>
+                     <explanation id="1"> 
+                        <statement><style_element type="hi">Der HSV ist ein Fußball·verein.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">HSV ist die Abkürzung für <style_element type="hb">H</style_element>amburger <style_element type="hb">S</style_element>port-<style_element type="hb">V</style_element>erein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Der HSV gibt Lewis Holtby nämlich <style_element type="hb">keinen</style_element> neuen Vertrag.</statement>
+               <statement>Der Chef vom HSV ist Ralf Becker.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Ralf Becker hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Lewis Holtby hat noch einen Vertrag bis zum Sommer.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Im Sommer muss Lewis Holtby den HSV dann verlassen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Wir wünschen Lewis Holtby alles Gute.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Lewis Holtby spielt seit 2014 beim HSV.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Bundes·straße lange gesperrt</subheadline>
+               <explanation_marker>
+                  <statement>Am Montag sperrt die Polizei einen Teil von der Bundes·straße 203.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2"> 
+                        <statement><style_element type="hi">Auf dem Teil von der Bundes·straße 203 dürfen <style_element type="hb">keine</style_element> Autos fahren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Auf dem Teil von der Bundes·straße 203 erneuern Arbeiter nämlich die Fahr·bahn.</statement>
+               <statement>Der Teil von der Bundes·straße 203 ist 11 Kilometer lang.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Und der Teil von der Bundes·straße 203 ist zwischen den Städten:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Heide.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <headword>• Und Rendsburg.</headword>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Arbeiten an der Straße dauern lange.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb ist die Straße wahrscheinlich bis Ende Juni gesperrt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-18" url="2019-09-06_13-30_271.xml">
+   <title>Mehr Nachrichten vom 06.09.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-09-06_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-09-06_13-30_271-full.png" type="screenshot" url="2019-09-06_13-30_271-full.png"/>
+      <resource id="2" name="2019-09-06_13-30_271_plaintext.txt" type="plaintext" url="2019-09-06_13-30_271_plaintext.txt"/>
+      <resource id="3" name="2019-09-06_13-30_271_quellcode.txt" type="sourcecode" url="2019-09-06_13-30_271_quellcode.txt"/>
+      <resource id="4" name="2019-09-06_13-30_271.docx" type="formatedText" url="2019-09-06_13-30_271.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 06.09.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: A2 bis Sonnabend gesperrt</subheadline>
+               <explanation_marker>
+               <statement>Auf der A2 war ein schwerer Unfall.</statement>	
+               <explanations>				
+                  <explanation id="1">		
+                     <statement>
+                        <style_element type="hi">A2 ist die Abkürzung für <style_element type="hb">A</style_element>uto·bahn <style_element type="hb">2</style_element>.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Unfall war in der Nähe von Braunschweig.</statement>
+            <statement>Bei dem Unfall wurden 2 Menschen schwer verletzt.</statement>
+            <speech_marker>					
+               <speech_intro>			
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>					
+                  <speech id="1">			
+                     <statement>Bei dem Unfall sind ein Auto und ein Lkw zusammen·gestoßen.</statement>
+                  </speech>
+                  <speech id="2">			
+                     <statement>Dann ist ein Bus in die Unfall·stelle gefahren.</statement>
+                  </speech>
+                  <speech id="3">			
+                     <statement>Und dann sind noch 3 Lkw in die Unfall·stelle gefahren.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Bei dem Unfall haben mehrere Lkw gebrannt.</statement>
+            <statement>Das Feuer hat die Fahr·bahn von der A2 beschädigt.</statement>
+            <statement>Deshalb hat die Polizei einen Teil von der Auto·bahn gesperrt.</statement>
+            <statement>Die Sperrung dauert wahrscheinlich bis Sonnabend.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: A2 bis Sonnabend gesperrt</subheadline>
+            <statement>In Hamburg hat ein Mensch auf einen Mann geschossen.</statement>
+            <explanation_marker>
+               <statement>Die Schüsse waren im Stadt·teil Neuallermöhe.</statement>	
+               <explanations>				
+                  <explanation id="1">		
+                     <statement>
+                        <style_element type="hi">Neuallermöhe ist im Osten von Hamburg.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Mann wurde schwer verletzt.</statement>
+            <statement>Deshalb wurde der Mann ins Kranken·haus gebracht.</statement>
+            <speech_marker>					
+               <speech_intro>			
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>					
+                  <speech id="1">			
+                     <headword>Wir wissen noch nicht:</headword>
+                  </speech>
+                  <speech id="2">			
+                     <question>Wer hat auf den Mann geschossen?</question>
+                  </speech>
+                  <speech id="3">			
+                     <statement>Aber wir haben 3 Männer fest·genommen.</statement>
+                  </speech>
+                  <speech id="4">			
+                     <statement>Diese Männer waren in der Nähe.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>	
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>					
+               <speech_intro>			
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>					
+                  <speech id="1">			
+                     <question>Wer hat auf den Mann geschossen?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

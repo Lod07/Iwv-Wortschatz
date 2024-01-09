@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2019-10-25_13-30_253.xml">
+   <title>Mehr Nachrichten vom 25.10.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-25_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-10-25_13-30_253-full.png" type="screenshot" url="2019-10-25_13-30_253-full.png"/>
+      <resource id="2" name="2019-10-25_13-30_253_plaintext.txt" type="plaintext" url="2019-10-25_13-30_253_plaintext.txt"/>
+      <resource id="3" name="2019-10-25_13-30_253_quellcode.txt" type="sourcecode" url="2019-10-25_13-30_253_quellcode.txt"/>
+      <resource id="4" name="2019-10-25_13-30_253.docx" type="formatedText" url="2019-10-25_13-30_253.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 25.10.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Autobahn gesperrt</subheadline>
+            <explanation_marker>
+               <statement>Am Wochenende sind wichtige Bau·arbeiten auf der A7.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">A7 ist eine Abkürzung für <style_element type="hb">A</style_element>utobahn <style_element type="hb">7</style_element>.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Bauarbeiten sind zwischen Schnelsen-Nord und Hamburg-Nordwest.</statement>
+            <statement>Deshalb sperrt die Polizei die A7 am Freitag·abend.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Auto·fahrer können <style_element type="hb">nicht</style_element> auf der A7 fahren.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die Auto·fahrer müssen deshalb auf anderen Straßen fahren.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und deshalb wird es lange Staus auf den anderen Straßen geben.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Die Bau·arbeiten auf der A7 dauern bis Montag·morgen.</statement>
+         </section>
+         <style_element type="line"/>
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Neuer Sand für Zempin</subheadline>
+            <explanation_marker>
+               <statement>Zempin bekommt neuen Sand.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">Zempin ist ein Ort auf Usedom.</style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Usedom ist eine Insel in der Ostsee.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>                    
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der neue Sand kommt an den Strand.</statement>
+            <explanation_marker>
+               <statement>An dem Strand soll der neue Sand die Dünen verstärken.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Dünen sind kleine Berge aus Sand.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fachleute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir haben viele Stürme auf Usedom.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die Stürme haben die Dünen kaputtgemacht.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Die Dünen sind aber wichtig.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Die Dünen schützen uns nämlich vor Hochwasser.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Deshalb soll der neue Sand die Dünen wieder verstärken.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>           
+         </section>
+         <style_element type="line"/>
+      </sections> 
+   </content>
+</annotation>

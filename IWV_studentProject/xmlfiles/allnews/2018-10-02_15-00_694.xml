@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-10-02_15-00_694.xml">
+   <title>Orden für Otto</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-10-02_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-10-02_15-00_694-full.png" type="screenshot" url="2018-10-02_15-00_694-full.png"/>
+      <resource id="2" name="2018-10-02_15-00_694_plaintext.txt" type="plaintext" url="2018-10-02_15-00_694_plaintext.txt"/>
+      <resource id="3" name="2018-10-02_15-00_694_quellcode.txt" type="sourcecode" url="2018-10-02_15-00_694_quellcode.txt"/>
+      <resource id="4" name="2018-10-02_15-00_694.docx" type="formatedText" url="2018-10-02_15-00_694.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Orden für Otto</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Ein Künstler aus Nord·deutschland hat einen wichtigen Orden bekommen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Orden ist eine besondere Auszeichnung.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieser wichtige Orden heißt Bundes·verdienst·kreuz.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Das Bundes·verdienst·kreuz bekommen Menschen für besondere Leistungen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <statement><style_element type="hi">• In der Politik.</style_element></statement>
+                           </enumeration>
+                           <enumeration id="2">
+                              <statement><style_element type="hi">• In der Wirtschaft.</style_element></statement>
+                           </enumeration>
+                           <enumeration id="3">
+                              <statement><style_element type="hi">• Oder in der Kultur.</style_element></statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Künstler ist Otto.</statement>
+            <explanation_marker>
+               <statement>Otto ist ein bekannter Komiker.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Komiker bringt andere Menschen zum Lachen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Ein Komiker erzählt zum Beispiel Witze.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Otto ist in Emden geboren.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Emden ist eine Stadt in Ost·friesland.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Ost·friesland ist eine Region in Niedersachsen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und Otto wohnt schon lange in Hamburg.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Feier in Berlin</subheadline>
+               <statement>Otto hat den Orden bei einem großen Fest bekommen.</statement>
+               <explanation_marker>
+                  <statement>Dieses große Fest war in Berlin.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Berlin ist die Haupt·stadt von Deutschland.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Bei diesem großen Fest haben noch andere Künstler einen Orden bekommen.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <headword>Zum Beispiel:</headword>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Musiker.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <headword>• Filme·macher.</headword>
+                     </enumeration>
+                     <enumeration id="3">
+                        <headword>• Und Schau·spieler.</headword>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <explanation_marker>
+                  <statement>Die Orden hat der Bundes·präsident vergeben.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Der Bundes·präsident ist ein sehr wichtiger Politiker.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Der Bundes·präsident ist der Chef von Deutschland.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Der Bundes·präsident ist Frank-Walter Steinmeier.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Frank-Walter Steinmeier hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Otto ist schon sehr lange Künstler.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und Otto ist ein besonderer Künstler.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Viele Menschen kennen Otto.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und viele Menschen lachen über die Witze von Otto.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Deshalb ist Otto ein wichtiger Künstler.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Und deshalb hat Otto den Orden verdient.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

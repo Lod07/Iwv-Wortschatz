@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-07-05_13-30_350.xml">
+   <title>Mehr Nachrichten vom 05.07.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-07-05_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-07-05_13-30_350-full.png" type="screenshot" url="2019-07-05_13-30_350-full.png"/>
+      <resource id="2" name="2019-07-05_13-30_350_plaintext.txt" type="plaintext" url="2019-07-05_13-30_350_plaintext.txt"/>
+      <resource id="3" name="2019-07-05_13-30_350_quellcode.txt" type="sourcecode" url="2019-07-05_13-30_350_quellcode.txt"/>
+      <resource id="4" name="2019-07-05_13-30_350.docx" type="formatedText" url="2019-07-05_13-30_350.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 05.07.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Mehr Nachrichten vom 05.07.2019</subheadline>
+               <explanation_marker>
+                  <statement>In Marienthal haben Bau·arbeiter eine Gas·leitung beschädigt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Marienthal ist ein Stadt·teil von Hamburg.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Deshalb ist aus der Gas·leitung Gas rausgekommen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Gas ist gefährlich.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Gas kann nämlich explodieren.</statement>
+                     </speech>
+                     <speech id="3">
+                        <explanation_marker>
+                           <statement>Deshalb haben wir 4 Häuser evakuiert.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Die Menschen mussten ihre Häuser verlassen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="4">
+                        <statement>Die Menschen mussten ihre Häuser verlassen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Diese Zug·strecke ist nämlich in der Nähe von der Gas·leitung.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Fach·leute haben die Gas·leitung repariert.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Mann tötet wahrscheinlich seine Frau</subheadline>
+               <explanation_marker>
+                  <statement>In Großenwörden hat ein Mann wahrscheinlich seine Frau getötet.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Großenwörden ist ein kleiner Ort in der Nähe von Stade.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Der Mann ist zur Polizei gegangen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Und der Mann hat zur Polizei gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ich habe meine Frau getötet.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann habe ich meine Frau bei uns zu Hause versteckt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Die Polizei hat die Frau bei dem Mann zu Hause gesucht.</statement>
+               <explanation_marker>
+                  <statement>Und die Polizei hat die Leiche von der Frau in einem Gewächs·haus gefunden.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Gewächshaus ist ein Haus aus Glas.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">In einem Gewächs·haus wachsen Pflanzen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Frau war schon viele Monate tot.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber <style_element type="hb">kein</style_element> Mensch ist zur Polizei gegangen.</statement> 
+                     </speech>
+                     <speech id="3">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Aber <style_element type="hb">kein</style_element> Mensch ist zur Polizei gegangen.</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <question>Wo ist diese Frau?</question>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <explanation_marker>
+                  <statement>Jetzt ist der Mann in Untersuchungs·haft.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Bei einer Untersuchungshaft ist ein Mensch im Gefängnis.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <explanation_marker>
+                           <statement><style_element type="hi"> Und die Polizei muss beweisen:</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Der Mensch hat ein Verbrechen gemacht.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Dann muss der Mensch vielleicht vor Gericht.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Und dann bekommt der Mensch vielleicht eine Strafe.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Und die Polizei will wissen:</statement>
+               <question>Hat der Mann wirklich seine Frau getötet?</question>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

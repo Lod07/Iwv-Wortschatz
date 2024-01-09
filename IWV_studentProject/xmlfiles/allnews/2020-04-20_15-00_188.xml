@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-14" url="2020-04-20_15-00_188.xml">
+    <title>Menschen müssen Schutz·masken tragen</title>
+    <source>NDR Fernsehen</source>
+    <vdate>2020-04-20_15-00</vdate>
+    <resources>
+        <resource id="1" name="2020-04-20_15-00_188-full.png" type="screenshot" url="2020-04-20_15-00_188-full.png"/>
+        <resource id="2" name="2020-04-20_15-00_188_plaintext.txt" type="plaintext" url="2020-04-20_15-00_188_plaintext.txt"/>
+        <resource id="3" name="2020-04-20_15-00_188_quellcode.txt" type="sourcecode" url="2020-04-20_15-00_188_quellcode.txt"/>
+        <resource id="4" name="2020-04-20_15-00_188.docx" type="formatedText" url="2020-04-20_15-00_188.docx"/>
+    </resources>
+    <textlength/>
+    <complexity>
+        <Flesch value=""/>
+        <Amstad value=""/>
+        <Lix value=""/>
+        <WSTF4 value=""/>
+        <gSMOG value=""/>
+    </complexity>
+    <content>
+        <headline>Menschen müssen Schutz·masken tragen</headline>
+        <sections>
+            <section id="1"> 
+                <statement>Wegen dem Corona-Virus gibt es viele Regeln.</statement>
+                <enumeration_marker>
+                    <enumeration_intro>
+                        <headword>Zum Beispiel:</headword>
+                    </enumeration_intro>
+                    <enumerations>
+                      <enumeration id="1">
+                            <statement>• Die Menschen sollen Abstand zu anderen Menschen halten.</statement>
+                        </enumeration>
+                        <enumeration id="2">
+                            <statement>• Und die Menschen sollen zu Hause bleiben</statement>
+                        </enumeration>
+                        <enumeration id="3">
+                            <statement>Die Menschen sollen sich nämlich <style_element type="hf">nicht</style_element> mit dem Corona-Virus anstecken.</statement>
+                        </enumeration>
+                    </enumerations>     
+                </enumeration_marker>
+            </section>
+            <section id="2">
+                <statement>Seit Montag gibt es weniger Regeln.</statement>
+                <statement>Zum Beispiel dürfen einige Kinder wieder in die Schule gehen.</statement>
+                <statement>Und einige Geschäfte dürfen wieder öffnen.</statement>
+                <enumeration_marker>
+                    <enumeration_intro>
+                        <headword>Zum Beispiel:</headword>
+                    </enumeration_intro>
+                    <enumerations>
+                        <enumeration id="1">
+                            <headword>• Kleine Geschäfte.</headword>
+                        </enumeration>
+                        <enumeration id="2">
+                            <headword>• Fahrrad·händler.</headword>
+                        </enumeration>
+                        <enumeration id="3">
+                            <headword>• Und Buch·geschäfte.</headword>
+                        </enumeration>
+                    </enumerations>
+                </enumeration_marker>
+                <statement>In einigen Städten dürfen auch Zoos wieder öffnen</statement>
+            </section>
+            <section id="2">
+            <speech_marker>
+                <speech_intro>
+                    <statement>Jetzt haben einige Bundes·länder gesagt:</statement>
+                </speech_intro>
+                <speeches>
+                <speech id="1">
+                    <question>Die Menschen wollen einkaufen gehen?</question>
+                </speech>
+                <speech id="2">
+                    <question>Die Menschen wollen Bus fahren?</question>
+                </speech>
+                <speech id="2">
+                    <headword>Oder Bahn?</headword>
+                </speech>
+                <speech id="3">
+                    <explanation_marker>
+                        <statement>Dann müssen diese Menschen eine Schutz·maske tragen.</statement>
+                    <explanations>
+                    <explanation id="1">
+                        <statement>
+                            <style_element type="hk">Eine Schutz·maske ist aus Stoff.</style_element>
+	                    </statement>
+                    </explanation>
+                    <explanation id="2">
+                        <statement> 
+                          <style_element type="hk"> Dieser Stoff ist vor der Nase und vor dem Mund.</style_element>
+                        </statement>
+                    </explanation>
+                    <explanation id="3">
+                        <question>
+                           <style_element type="hk">Trägt ein Mensch eine Schutz·maske?</style_element>
+                        </question>
+                    </explanation>
+                    <explanation id="4">
+                        <statement>
+                            <style_element type="hk">Dann kann dieser Mensch andere Menschen <style_element type="hf">nicht</style_element> so leicht anstecken.</style_element>
+                        </statement>
+                    </explanation>
+                    <explanation id="5">
+                        <statement> 
+                            <style_element type="hk">Zum Beispiel mit dem Corona-Virus.</style_element>
+                        </statement>
+                    </explanation>
+                </explanations>
+                </explanation_marker>
+                </speech>
+                </speeches>
+            </speech_marker>
+            </section>
+            <section id="4"> 
+                <statement> Diese Regel heißt Masken·pflicht.</statement>
+                <statement>Diese Regel ist seit Montag in Sachsen.</statement>
+                <statement>Und ab der kommenden Woche in Bayern.</statement>
+                <statement>Und in Mecklenburg-Vorpommern.</statement>
+                <statement>Aber in Mecklenburg-Vorpommern müssen die Menschen <style_element type="hf">nur</style_element> im Bus eine Schutz·masken tragen.</statement>
+                <statement>Und in der Bahn.</statement> 
+            </section> 
+            <section id="5"> 
+                <statement>Auch in einigen Städten müssen die Menschen Schutz·masken tragen.</statement>
+               	<explanation_marker>
+                    <statement>Zum Beispiel in Wolfsburg.</statement>
+               		<explanations>
+		                <explanation id="1">
+		                	<statement>
+		                        <style_element type="hk">Wolfsburg ist eine Stadt in Niedersachsen.</style_element>
+		                    </statement>
+		                </explanation>
+		            </explanations>
+		        </explanation_marker>
+                <explanation_marker>
+                    <statement>Und in Jena.</statement>
+                    <explanations>
+                	<explanation id="1">
+		                <statement>
+		                        <style_element type="hk">Jena ist eine Stadt in Thüringen.</style_element>
+		                </statement>
+                	</explanation>
+                </explanations>
+                </explanation_marker>
+            </section>
+            <section id="6"> 
+                <statement>In einigen Bundes·ländern ist <style_element type="hf">keine</style_element> Masken·pflicht.</statement>
+                <speech_marker>
+                	<speech_intro>
+                    	<statement>Die Regierung empfiehlt aber:</statement>
+                    </speech_intro>
+                    <speeches>
+                    	<speech id="1">
+                    		<statement>Die Menschen sollen eine Schutz·maske tragen.</statement>
+                    	</speech>
+                    </speeches>
+                </speech_marker>
+            </section>
+        </sections>
+    </content>
+</annotation>

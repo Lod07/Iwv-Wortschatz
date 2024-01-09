@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2019-09-24_13-30_397.xml">
+   <title>Mehr Nachrichten vom 24.09.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-09-24_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-09-24_13-30_397-full.png" type="screenshot" url="2019-09-24_13-30_397-full.png"/>
+      <resource id="2" name="2019-09-24_13-30_397_plaintext.txt" type="plaintext" url="2019-09-24_13-30_397_plaintext.txt"/>
+      <resource id="3" name="2019-09-24_13-30_397_quellcode.txt" type="sourcecode" url="2019-09-24_13-30_397_quellcode.txt"/>
+      <resource id="4" name="2019-09-24_13-30_397.docx" type="formatedText" url="2019-09-24_13-30_397.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 24.09.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Feuer war kein Unfall</subheadline>
+            <statement>Am Sonntag haben 9 Lkw gebrannt.</statement>
+            <explanation_marker>
+               <statement>Diese Lkw waren in Geesthacht.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Geesthacht ist eine Stadt östlich von Hamburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und diese Lkw waren Kies-Laster.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Kies-Laster transportieren Kies.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Kies sind kleine Steine.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt hat die Polizei gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <headword>Wir glauben:</headword>
+                  </speech>
+                  <speech id="2">
+                     <statement>Das Feuer an den Lkw war kein Unfall.</statement>
+                  </speech>
+                  <speech id="3">
+                     <explanation_marker>
+                        <statement>Das Feuer war Brand·stiftung.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Das heißt:</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Menschen haben absichtlich das Feuer an den Lkw gemacht.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt will die Polizei wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wer hat das Feuer an den Lkw gemacht?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Schwerer Unfall auf Auto·bahn</subheadline>
+            <explanation_marker>
+               <statement>Auf der A2 war ein schwerer Unfall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">A2 ist die Abkürzung für <style_element type="hb">A</style_element>uto·bahn <style_element type="hb">2</style_element>.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Unfall war zwischen Peine und Braunschweig.</statement>
+            <statement>Bei dem Unfall sind 4 Lkw zusammen·gestoßen.</statement>
+            <statement>2 Menschen wurden verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Bei dem Unfall ist Salpeter·säure auf die Auto·bahn gelaufen.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Salpeter·säure ist eine Flüssigkeit.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Und Salpeter·säure ist ätzend.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">Menschen berühren zum Beispiel Salpeter·säure?</style_element></statement>
+                                    </explanation>
+                                    <explanation id="2">
+                                       <statement><style_element type="hi">Dann können sich die Menschen sehr schwer verletzen.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Auch der Dampf von Salpeter·säure ist sehr gefährlich.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>                     
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Jetzt müssen Feuerwehr·leute die Unfall·stelle reinigen.</statement>
+            <statement>Deshalb hat die Polizei die Autobahn gesperrt.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

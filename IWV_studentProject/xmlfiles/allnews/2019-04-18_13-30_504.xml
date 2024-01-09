@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-25" url="2019-04-18_13-30_504.xml">
+   <title>Mehr Nachrichten vom 18.04.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-04-18_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-04-18_13-30_504-full.png" type="screenshot" url="2019-04-18_13-30_504-full.png"/>
+      <resource id="2" name="2019-04-18_13-30_504_plaintext.txt" type="plaintext" url="2019-04-18_13-30_504_plaintext.txt"/>
+      <resource id="3" name="2019-04-18_13-30_504_quellcode.txt" type="sourcecode" url="2019-04-18_13-30_504_quellcode.txt"/>
+      <resource id="4" name="2019-04-18_13-30_504.docx" type="formatedText" url="2019-04-18_13-30_504.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 18.04.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Bombe entschärft</subheadline>
+               <explanation_marker>
+                  <statement>Fach·leute haben in Lüneburg eine Bombe entschärft.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Die Bombe war gefährlich.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Aber die Fach·leute haben die Bombe ungefährlich gemacht.</style_element></statement>
+                     </explanation>
+                     <explanation id="4"> 
+                        <statement><style_element type="hi">Jetzt kann die Bombe <style_element type="hb">nicht</style_element> mehr explodieren.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Diese Bombe war aus dem Zweiten Welt·krieg.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Vor der Entschärfung haben die Fach·leute gedacht:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Vielleicht explodiert die Bombe.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker> 
+               <statement>Deshalb haben die Fach·leute das Gebiet um die Bombe gesperrt.</statement>
+               <statement><style_element type="hb">Niemand</style_element> durfte in dem Gebiet sein.</statement>
+               <statement>4700 Menschen mussten ihre Wohnungen verlassen.</statement>
+               <statement>Nach der Entschärfung konnten diese Menschen zurück in ihre Wohnungen.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Besonderer Bus</subheadline>
+               <explanation_marker>
+                  <statement>Auf Sylt fährt ein besonderer Bus.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Sylt ist eine Insel in der Nordsee.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Dieser Bus fährt von allein.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Dieser Bus hat keinen Bus·fahrer.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Und dieser Bus fährt mit Strom.</statement>
+               <statement>Der Bus ist klein.</statement>
+               <statement>Und der Bus fährt langsam.</statement>
+               <statement>Mit dem Bus können 10 Menschen fahren.</statement>
+               <statement>Die Menschen müssen für die Fahrt <style_element type="hb">nicht</style_element> bezahlen.</statement>
+         </section>
+         <style_element type="line" />
+      </sections> 
+   </content>
+</annotation>

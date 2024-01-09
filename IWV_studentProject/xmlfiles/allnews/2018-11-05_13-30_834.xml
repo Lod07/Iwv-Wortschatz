@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-11-05_13-30_834.xml">
+   <title>Mehr Nachrichten vom 05.11.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-11-05_13-30</vdate>
+   <resources>
+      <resource id="1" name="2018-11-05_13-30_834-full.png" type="screenshot" url="2018-11-05_13-30_834-full.png"/>
+      <resource id="2" name="2018-11-05_13-30_834_plaintext.txt" type="plaintext" url="2018-11-05_13-30_834_plaintext.txt"/>
+      <resource id="3" name="2018-11-05_13-30_834_quellcode.txt" type="sourcecode" url="2018-11-05_13-30_834_quellcode.txt"/>
+      <resource id="4" name="2018-11-05_13-30_834.docx" type="formatedText" url="2018-11-05_13-30_834.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 05.11.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Uwe Seeler feiert Geburtstag</subheadline>
+               <explanation_marker>
+                  <statement>Uwe Seeler hat am Montag seinen Geburtstag gefeiert.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Uwe Seeler war ein sehr berühmter Fußball·spieler.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Uwe Seeler war zum Beispiel in der deutschen National·mannschaft.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">In der deutschen National·mannschaft spielen die besten Spieler von Deutschland.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                     <explanation id="3">
+                         <explanation_marker>
+                           <statement><style_element type="hi">Und Uwe Seeler hat immer für den HSV gespielt.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Der HSV ist ein Fußball·verein.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">HSV ist die Abkürzung für Hamburger Sport-Verein.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Uwe Seeler ist jetzt 82 Jahre alt.</statement>
+         </section>
+         <section id="2">
+            <question>Sie wollen mehr über Uwe Seeler wissen?</question>
+            <statement>Der NDR hat viele Informationen über Uwe Seeler.</statement>
+            <statement>Diese Informationen sind <style_element type="hb">nicht</style_element> in Leichter Sprache.</statement>
+            <question>Sie wollen diese Informationen trotzdem lesen?</question>
+            <statement>
+               <ref>
+                  Dann klicken Sie <style_element type="hu">hier</style_element>.
+               </ref>
+            </statement>
+         </section>
+         <section id="3">
+            <subheadline>Mecklenburg-Vorpommern: Neue Orgel für Kirche</subheadline>
+               <explanation_marker>
+                  <statement>Die Klosterkirche in Dobbertin bekommt eine neue Orgel.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Orgel ist ein großes Musik·instrument.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die alte Orgel ist nämlich kaputt.</statement>
+               <statement>Deshalb haben Menschen Geld für eine neue Orgel gesammelt.</statement>
+               <statement>Und deshalb bauen Fach·leute jetzt eine neue Orgel in die Klosterkirche.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Orgel ist wahrscheinlich im Jahr 2020 fertig.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Niedersachsen: Flüchtling erstochen</subheadline>
+               <explanation_marker>
+                  <statement>In Oldenburg hat ein Mensch einen Flüchtling erstochen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Flüchtlinge sind Menschen aus anderen Ländern.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Den Flüchtlingen geht es in ihren eigenen Ländern <style_element type="hb">nicht</style_element> gut.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">In vielen von diesen Ländern ist nämlich Krieg.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Deshalb verlassen die Flüchtlinge diese Länder.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Der Flüchtling war in einer Unterkunft für Flüchtlinge.</statement>
+               <statement>Und der Flüchtling hatte einen schlimmen Streit mit einem anderen Flüchtling.</statement>
+               <statement>Deshalb haben Menschen die Polizei gerufen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Flüchtling war in der Nähe von der Unterkunft.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und der Flüchtling war sehr schwer verletzt.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Ein Mensch hat nämlich auf den Flüchtling eingestochen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Dann ist der Flüchtling gestorben.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Jetzt ermitteln wir gegen den anderen Flüchtling.</statement>
+                     </speech>
+                     <speech id="6">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Wir glauben nämlich:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Der andere Flüchtling hat den Flüchtling erstochen.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

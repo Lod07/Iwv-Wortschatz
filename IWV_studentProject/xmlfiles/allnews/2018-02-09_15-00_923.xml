@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-28" url="2018-02-09_15-00_923.xml">
+   <title>Arnd Peiffer bei den Olympischen Spielen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-02-09_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-02-09_15-00_923-full.png" type="screenshot" url="2018-02-09_15-00_923-full.png"/>
+      <resource id="2" name="2018-02-09_15-00_923_plaintext.txt" type="plaintext" url="2018-02-09_15-00_923_plaintext.txt"/>
+      <resource id="3" name="2018-02-09_15-00_923_quellcode.txt" type="sourcecode" url="2018-02-09_15-00_923_quellcode.txt"/>
+      <resource id="4" name="2018-02-09_15-00_923.docx" type="formatedText" url="2018-02-09_15-00_923.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Arnd Peiffer bei den Olympischen Spielen</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Am Freitag haben die Olympischen Spiele begonnen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die Olympischen Spiele sind der größte Sport·wettbewerb auf der Welt.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Bei den Olympischen Spielen machen Sportler aus fast allen Ländern mit.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Die 3 besten Sportler in jeder Sport·art gewinnen Medaillen.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Die Olympischen Spiele sind alle 2 Jahre.</style_element></statement>
+                  </explanation>
+                  <explanation id="5">
+                     <statement><style_element type="hi">Es gibt die Olympischen Sommer·spiele.</style_element></statement>
+                  </explanation>
+                  <explanation id="6">
+                     <statement><style_element type="hi">Und die Olympischen Winter·spiele.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Olympischen Spiele sind immer in einem anderen Land.</statement>
+            <explanation_marker>
+               <statement>In diesem Jahr sind die Olympischen Spiele in Süd·korea.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Süd·korea ist ein Land in Asien.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <statement>Bei den Olympischen Spielen sind auch 5 Sportler aus Nord·deutschland.</statement>
+            <statement>Der bekannteste von den 5 Sportlern ist Arnd Peiffer.</statement>
+            <explanation_marker>
+               <statement>Arnd Peiffer kommt aus Clausthal-Zellerfeld.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Clausthal-Zellerfeld ist eine Stadt in Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und Arnd Peiffer macht Biathlon.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Beim Biathlon machen die Sportler Ski·langlauf.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Beim Ski·langlauf laufen die Sportler eine lange Strecke mit Skiern.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und beim Biathlon schießen die Sportler mit Gewehren auf Scheiben.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="3">
+            <subheadline>Arnd Peiffer will eine Medaille gewinnen</subheadline>
+               <statement>Arnd Peiffer ist schon zum 3. Mal bei Olympischen Spielen.</statement>
+               <statement>2014 hat Arnd Peiffer eine Medaille gewonnen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Arnd Peiffer hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ich bin vielleicht das letzte Mal bei Olympischen Spielen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und vielleicht kann ich wieder eine Medaille gewinnen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Der 1. Wettkampf von Arnd Peiffer ist am Sonntag.</statement>
+         </section>
+         <section id="4">
+            <statement>Die Olympischen Spiele sind noch bis zum 25. Februar.</statement>
+            <statement>
+               <refextern>
+                  Viele Informationen zu den Olympischen Spielen in Leichter Sprache lesen Sie <style_element type="hu">hier</style_element>.
+               </refextern>
+            </statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

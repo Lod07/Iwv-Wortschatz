@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-25" url="2019-04-11_14-00_491.xml">
+   <title>Feuer in Firma: Torf brennt</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-04-11_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-04-11_14-00_491-full.png" type="screenshot" url="2019-04-11_14-00_491-full.png"/>
+      <resource id="2" name="2019-04-11_14-00_491_plaintext.txt" type="plaintext" url="2019-04-11_14-00_491_plaintext.txt"/>
+      <resource id="3" name="2019-04-11_14-00_491_quellcode.txt" type="sourcecode" url="2019-04-11_14-00_491_quellcode.txt"/>
+      <resource id="4" name="2019-04-11_14-00_491.docx" type="formatedText" url="2019-04-11_14-00_491.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Feuer in Firma: Torf brennt</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Breesen ist ein großes Feuer.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Breesen ist ein Dorf in Mecklenburg-Vorpommern.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Breesen ist in der Nähe vonSchwerin.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Das Feuer ist in einer besonderen Firma.</statement>
+            <explanation_marker>
+               <statement>Diese Firma hat 3 große Hallen mit Torf.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Torf ist eine besondere Erde.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Torf ist sehr gut für Pflanzen und Blumen.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und Torf brennt sehr gut.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Torf in diesen Hallen brennt.</statement>
+            <statement>130 Feuerwehr·leute sind im Einsatz.</statement>
+            <statement>Trotzdem hat das Feuer schon 2 von den 3 Hallen zerstört.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Gefahr für Menschen</subheadline>
+               <statement>Bei dem Feuer ist viel Rauch.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir haben Probleme beim Löschen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Torf brennt nämlich sehr gut.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und es ist viel Rauch.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Der Rauch ist gefährlich für die Menschen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Deshalb sollen die Menschen in Breesen zu Hause bleiben.</statement>
+                     </speech>
+                     <speech id="6"> 
+                        <statement>Und die Menschen sollen Fenster und Türen <style_element type="hb">nicht</style_element> öffnen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Noch weiß niemand:</statement>
+            <question>Wie ist das Feuer entstanden?</question>
+            <statement>Deshalb ermittelt jetzt die Polizei.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

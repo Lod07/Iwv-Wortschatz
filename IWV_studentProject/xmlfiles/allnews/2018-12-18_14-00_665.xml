@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-29" url="2018-12-18_14-00_665.xml">
+   <title>Ausbau von Auto·bahn 7 fertig</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-12-18_14-00</vdate>
+   <resources>
+      <resource id="1" name="2018-12-18_14-00_665-full.png" type="screenshot" url="2018-12-18_14-00_665-full.png"/>
+      <resource id="2" name="2018-12-18_14-00_665_plaintext.txt" type="plaintext" url="2018-12-18_14-00_665_plaintext.txt"/>
+      <resource id="3" name="2018-12-18_14-00_665_quellcode.txt" type="sourcecode" url="2018-12-18_14-00_665_quellcode.txt"/>
+      <resource id="4" name="2018-12-18_14-00_665.docx" type="formatedText" url="2018-12-18_14-00_665.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Ausbau von Auto·bahn 7 fertig</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In den vergangenen 4 Jahren hat es viele Probleme auf der A7 gegeben.</statement>
+               <explanations>
+                  <explanation id="1"> 
+                     <statement><style_element type="hi">A7 ist die Abkürzung für <style_element type="hb">A</style_element>uto·bahn <style_element type="hb">7</style_element>.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>In Schleswig-Holstein haben Arbeiter nämlich einen Teil von der A7 ausgebaut.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Die Arbeiter haben die A7 größer gemacht.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Deshalb waren auf diesem Teil von der A7 viele Bau·stellen.</statement>
+            <statement>Und deshalb waren auf diesem Teil von der A7 zum Beispiel viele Staus.</statement>
+            <statement>Aber jetzt ist der Ausbau von der A7 fertig.</statement>
+            <statement>Deshalb war am Dienstag an der A7 eine Feier.</statement>
+            <explanation_marker>
+               <statement>Diese Feier war in Nützen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Nützen ist ein Ort in Schleswig-Holstein.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Bei dieser Feier haben Fach·leute die neue Auto·bahn freigegeben.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Jetzt können Auto·fahrer auf der neuen Auto·bahn fahren.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dieser Feier waren wichtige Politiker.</statement>
+            <explanation_marker>
+               <statement>Zum Beispiel Daniel Günther.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Daniel Günther ist der Minister·präsident von Schleswig-Holstein.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Ein Minister·präsident ist der Chef von einem Bundes·land.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement><style_element type="hi">Und Enak Ferlemann.</style_element></statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Enak Ferlemann ist ein wichtiger Mitarbeiter im Bundes·verkehrs·ministerium.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Das Bundes·verkehrs·ministerium kümmert sich um den Verkehr in Deutschland.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <subheadline>Ausbau zwischen Hamburg und Bordesholm</subheadline>
+               <statement>Der Ausbau war auf einer langen Strecke von der A7.</statement>
+               <statement>Diese Strecke ist 70 Kilometer lang.</statement>
+               <explanation_marker>
+                  <statement>Und diese Strecke ist zwischen Hamburg und Bordesholm.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Bordesholm ist ein Ort in Schleswig-Holstein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Auf einem Teil von dieser Strecke hat die A7 jetzt 8 Fahr·spuren.</statement>
+               <statement>Und auf einem anderen Teil von dieser Strecke hat die A7 jetzt 6 Fahr·spuren.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

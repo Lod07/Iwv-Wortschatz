@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-10-23_15-00_815.xml">
+   <title>HSV entlässt seinen Trainer</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-10-23_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-10-23_15-00_815-full.png" type="screenshot" url="2018-10-23_15-00_815-full.png"/>
+      <resource id="2" name="2018-10-23_15-00_815_plaintext.txt" type="plaintext" url="2018-10-23_15-00_815_plaintext.txt"/>
+      <resource id="3" name="2018-10-23_15-00_815_quellcode.txt" type="sourcecode" url="2018-10-23_15-00_815_quellcode.txt"/>
+      <resource id="4" name="2018-10-23_15-00_815.docx" type="formatedText" url="2018-10-23_15-00_815.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>HSV entlässt seinen Trainer</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Christian Titz ist <style_element type="hb">nicht</style_element> mehr Trainer vom HSV.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Der HSV ist ein Fußball·verein.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">HSV ist die Abkürzung für Hamburger Sport-Verein.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der HSV hat nämlich Christian Titz entlassen.</statement>
+         </section>
+         <section id="2">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der HSV hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Wir spielen in der 2. Bundesliga.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">In der 2. Bundesliga spielen 18 Fußball·vereine.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Diese 18 Fußball·vereine spielen immer eine Saison lang gegen·einander.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">Eine Saison dauert etwa 9 Monate.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                           <explanation id="3">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Am Ende von jeder Saison steigen die besten 2 Fußball·vereine auf.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <headword><style_element type="hi">Das heißt:</style_element></headword>
+                                    </explanation>
+                                    <explanation id="2">
+                                       <statement><style_element type="hi">Diese 2 Fußball·vereine spielen dann in der 1. Bundesliga.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und wir wollen wieder in die 1. Bundesliga aufsteigen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Aber wir haben in den letzten Spielen <style_element type="hb">nicht</style_element> gut gespielt.</statement>
+                  </speech>
+                  <speech id="4">
+                     <question>Wir spielen so weiter?</question>
+                  </speech>
+                  <speech id="5">
+                     <statement>Dann steigen wir vielleicht <style_element type="hb">nicht</style_element> in die 1. Bundesliga auf.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Deshalb haben wir Christian Titz entlassen.</statement>
+                  </speech>
+                  <speech id="7">
+                     <speech_marker>
+                        <speech_intro>
+                           <headword>Wir glauben:</headword>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Mit einem neuen Trainer spielen wir wieder besser.</statement>
+                           </speech>
+                           <speech id="2">
+                              <statement>Und dann steigen wir vielleicht in die 1. Bundesliga auf.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Neuer Trainer ist Hannes Wolf</subheadline>
+               <statement>Der neue Trainer vom HSV ist Hannes Wolf.</statement>
+               <statement>Hannes Wolf ist 37 Jahre alt.</statement>
+               <explanation_marker>
+                  <statement>Und Hannes Wolf war zum Beispiel Trainer beim VfB Stuttgart.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Stuttgart ist die Haupt·stadt von Baden-Württemberg.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Mit Hannes Wolf ist der VfB Stuttgart im Jahr 2017 in die 1. Bundesliga aufgestiegen.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

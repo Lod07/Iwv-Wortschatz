@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2019-09-23_13-30_395.xml">
+   <title>Mehr Nachrichten vom 23.09.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-09-23_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-09-23_13-30_395-full.png" type="screenshot" url="2019-09-23_13-30_395-full.png"/>
+      <resource id="2" name="2019-09-23_13-30_395_plaintext.txt" type="plaintext" url="2019-09-23_13-30_395_plaintext.txt"/>
+      <resource id="3" name="2019-09-23_13-30_395_quellcode.txt" type="sourcecode" url="2019-09-23_13-30_395_quellcode.txt"/>
+      <resource id="4" name="2019-09-23_13-30_395.docx" type="formatedText" url="2019-09-23_13-30_395.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 23.09.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Protest gegen Fabrik</subheadline>
+            <explanation_marker>
+               <statement>In Brunsbüttel war eine Demonstration.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bei einer Demonstration treffen sich viele Menschen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Menschen sagen laut ihre Meinung.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Demonstration war vor einer Fabrik.</statement>
+            <statement>Diese Fabrik ist von einer Firma.</statement>
+            <statement>Diese Firma heißt Yara.</statement>
+            <statement>In der Fabrik machen Menschen zum Beispiel künstlichen Dünger.</statement>
+            <statement>Diesen künstlichen Dünger verteilen Bauern auf ihren Feldern.</statement>
+            <statement>Dieser künstliche Dünger lässt die Pflanzen nämlich schneller wachsen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Demonstranten haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In dem künstlichen Dünger sind viele Stoffe.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Diese Stoffe sind <style_element type="hb">nicht</style_element> gut für die Umwelt.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb protestieren wir gegen diese Firma.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Frau stirbt bei Motorrad-Unfall</subheadline>
+            <explanation_marker>
+               <statement>In Rotenburg war ein Unfall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Rotenburg ist eine Stadt.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Rotenburg ist zwischen Hamburg und Bremen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Unfall war mit einem Motorrad.</statement>
+            <statement>Bei dem Unfall ist eine Frau gestorben.</statement>
+            <statement>Diese Frau war 55 Jahre alt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <headword>Wir glauben:</headword>
+                  </speech>
+                  <speech id="2">
+                     <statement>Die Frau wollte das Fahren mit dem Motorrad üben.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Die Frau hatte nämlich <style_element type="hb">keinen</style_element> Motorrad-Führerschein.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Die Frau hat wahrscheinlich die Kontrolle über das Motorrad verloren.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Dann ist die Frau gegen 2 Bäume gefahren.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section> 
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

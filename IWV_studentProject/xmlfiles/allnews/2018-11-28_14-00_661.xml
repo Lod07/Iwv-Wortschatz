@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-23" url="2018-11-28_14-00_661.xml">
+   <title>Feuer zerstört 12 Autos</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-11-28_14-00</vdate>
+   <resources>
+      <resource id="1" name="2018-11-28_14-00_661-full.png" type="screenshot" url="2018-11-28_14-00_661-full.png"/>
+      <resource id="2" name="2018-11-28_14-00_661_plaintext.txt" type="plaintext" url="2018-11-28_14-00_661_plaintext.txt"/>
+      <resource id="3" name="2018-11-28_14-00_661_quellcode.txt" type="sourcecode" url="2018-11-28_14-00_661_quellcode.txt"/>
+      <resource id="4" name="2018-11-28_14-00_661.docx" type="formatedText" url="2018-11-28_14-00_661.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Feuer zerstört 12 Autos</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Hannover war ein Feuer.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Hannover ist die Haupt·stadt von Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Das Feuer war in einer Auto·werkstatt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">In einer Auto·werkstatt reparieren Fach·leute Autos.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker> 
+            <statement>Das Feuer hat 12 Autos zerstört.</statement>
+            <statement>Und das Feuer hat die Auto·werkstatt zerstört.</statement>
+            <statement>Bei dem Feuer wurde <style_element type="hb">kein</style_element> Mensch verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Bei dem Feuer war viel Rauch.</statement>
+               <statement>Menschen haben diesen Rauch gesehen.</statement>
+               <statement>Dann haben diese Menschen die Feuerwehr gerufen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Das Feuer hat 12 Autos zerstört.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>3 von den Autos waren in der Auto·werkstatt.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Die anderen 9 Autos waren vor der Auto·werkstatt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Feuerwehr hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Das Löschen von dem Feuer hat einige Stunden gedauert.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Das Löschen von dem Feuer war nämlich sehr schwierig.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und das Löschen von dem Feuer war gefährlich.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>In der Auto·werkstatt waren nämlich auch Gas·flaschen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Einige von den Gas·flaschen sind bei dem Feuer explodiert.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Wie ist das Feuer in der Auto·werkstatt entstanden?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

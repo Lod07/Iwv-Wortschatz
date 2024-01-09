@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-07-08_14-00_353.xml">
+   <title>Beach·volleyball: 2. Platz für Männer aus Hamburg</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-07-08_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-07-08_14-00_353-full.png" type="screenshot" url="2019-07-08_14-00_353-full.png"/>
+      <resource id="2" name="2019-07-08_14-00_353_plaintext.txt" type="plaintext" url="2019-07-08_14-00_353_plaintext.txt"/>
+      <resource id="3" name="2019-07-08_14-00_353_quellcode.txt" type="sourcecode" url="2019-07-08_14-00_353_quellcode.txt"/>
+      <resource id="4" name="2019-07-08_14-00_353.docx" type="formatedText" url="2019-07-08_14-00_353.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Beach·volleyball: 2. Platz für Männer aus Hamburg</headline>
+      <sections>
+         <section id="1">
+            <statement>In Hamburg war ein wichtiges Turnier.</statement>
+            <explanation_marker>
+                  <statement>Dieses Turnier war eine WM.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">WM ist die Abkürzung für Welt·meisterschaft.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Bei einer WM spielen die besten Mannschaften der Welt.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Die WM war im Beach·volleyball.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Beach·volleyball ist eine besondere Art von Volleyball.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Beim Beach·volleyball spielen die Mannschaften im Sand.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und beim Beach·volleyball hat jede Mannschaft nur 2 Spieler.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>2 Beach·volleyball·spieler aus Hamburg waren bei der WM sehr erfolgreich.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Diese 2 Beach·volleyball·spieler sind:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Julius Thole.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <statement>• Und Clemens Wickler.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Julius Thole und Clemens Wickler haben bei der WM den 2. Platz gemacht.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Das Finale</subheadline>
+               <explanation_marker>
+                  <statement>Das Finale</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Finale ist das letzte Spiel von einem Turnier.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Im Finale spielen die 2 besten Mannschaften.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Der Gewinner von dem Finale hat das Turnier gewonnen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Im Finale haben Julius Thole und Clemens Wickler gegen eine Mannschaft aus Russland gespielt.</statement>
+               <statement>Aber Julius Thole und Clemens Wickler haben das Finale verloren.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Trotzdem hat Julius Thole nach dem Finale gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir waren im Finale von der WM.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Das ist ein großer Erfolg für uns.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb sind wir sehr stolz.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Gute Stimmung bei der WM</subheadline>
+               <explanation_marker>
+                  <statement>Die WM im Beach·volleyball war im Stadion Am Rothenbaum.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Das Stadion Am Rothenbaum ist im Stadt·teil Harvestehude.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und im Stadion Am Rothenbaum sind sonst Tennis·spiele.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der Veranstalter von der WM hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Wir sind sehr zufrieden.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Bei der WM waren viele Zuschauer.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und bei der WM war eine sehr gute Stimmung.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Laura Ludwig früh ausgeschieden</subheadline>
+            <statement>Bei der WM hat auch Laura Ludwig gespielt.</statement>
+            <statement>Laura Ludwig ist aus Hamburg.</statement>
+            <statement>Und Laura Ludwig hat 2017 die WM gewonnen.</statement>
+            <statement>2017 hat Laura Ludwig mit Kira Walkenhorst zusammen gespielt.</statement>
+            <statement>In diesem Jahr hat Laura Ludwig mit Margareta Kozuch zusammen gespielt.</statement>
+            <statement>Aber Laura Ludwig und Margareta Kozuch waren <style_element type="hb">nicht</style_element> sehr erfolgreich.</statement> 
+            <statement>Laura Ludwig und Margareta Kozuch sind nämlich früh aus der WM ausgeschieden.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

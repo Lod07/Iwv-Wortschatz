@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-26" url="2019-05-13_13-30_512.xml">
+   <title>Mehr Nachrichten vom 13.05.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-05-13_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-05-13_13-30_512-full.png" type="screenshot" url="2019-05-13_13-30_512-full.png"/>
+      <resource id="2" name="2019-05-13_13-30_512_plaintext.txt" type="plaintext" url="2019-05-13_13-30_512_plaintext.txt"/>
+      <resource id="3" name="2019-05-13_13-30_512_quellcode.txt" type="sourcecode" url="2019-05-13_13-30_512_quellcode.txt"/>
+      <resource id="4" name="2019-05-13_13-30_512.docx" type="formatedText" url="2019-05-13_13-30_512.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 13.05.2019</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Bei Penzlin war ein Feuer.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Penzlin ist eine Stadt in der Nähe von Neubrandenburg.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Das Feuer war in einem Guts·haus.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Guts·haus ist ein großes Haus.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Guts·häuser sind oft sehr alt.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Zu einem Guts·haus gehört ein großes Gelände.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Auf diesem Gelände sind zum Beispiel Felder.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>In dem Guts·haus haben 9 Menschen gewohnt.</statement>
+            <statement>Bei dem Feuer wurde das Guts·haus zerstört.</statement>
+            <statement>Aber bei dem Feuer wurde <style_element type="hb">kein</style_element> Mensch verletzt.</statement>
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei will nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum war das Feuer in dem Guts·haus?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Viele Menschen beim Hafen·geburtstag</subheadline>
+               <statement>In Hamburg war am Wochen·ende ein großes Fest.</statement>
+               <statement>Hamburg hat nämlich den 830. Hafen·geburtstag gefeiert.</statement>
+               <statement>In diesem Jahr waren 300 Schiffe beim Hafen·geburtstag.</statement>
+               <statement>Und mehr als eine Million Menschen waren beim Hafen·geburtstag.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Die Menschen konnten zum Beispiel:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <statement>• Die Schiffe angucken.</statement>
+                     </enumeration>
+                     <enumeration id="2">
+                        <headword>• Musik hören.</headword>
+                     </enumeration>
+                     <enumeration id="3">
+                        <statement>• Essen und trinken</statement>
+                     </enumeration>
+                     <enumeration id="4">
+                        <statement>• Und Karussell fahren.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Am Sonntag war die Auslauf·parade.</statement>
+               <statement>Bei der Auslauf·parade haben viele Schiffe Hamburg verlassen.</statement>
+               <statement>Nach der Auslauf·parade war der Hafen·geburtstag zu Ende.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Mecklenburg-Vorpommern: Staats·akt für wichtige Politikerin</subheadline>
+               <explanation_marker>
+                  <statement>In Neubrandenburg war ein Staats·akt.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Staats·akt ist eine besondere Veranstaltung.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Ein Staats·akt ist zum Beispiel eine große Trauer·feier.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Nur besonders wichtige Menschen bekommen nach dem Tod einen Staats·akt.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Dieser Staats·akt war für Sylvia Bretschneider.</statement>
+               <explanation_marker>
+                  <statement>Sylvia Bretschneider war die Landtags·präsidentin von Mecklenburg-Vorpommern.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Die Landtags·präsidentin ist die Chefin von einem Landtag.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Im Landtag sind viele Politiker.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Diese Politiker beschäftigen sich mit vielen wichtigen Fragen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Sylvia Bretschneider war sehr krank.</statement>
+               <statement>Und Sylvia Bretschneider ist am 28. April gestorben.</statement>
+               <statement>Bei dem Staats·akt waren einige Politiker.</statement>
+               <statement>Zum Beispiel Manuela Schwesig.</statement>
+               <explanation_marker>
+                  <statement>Manuela Schwesig ist die Minister·präsidentin von Mecklenburg-Vorpommern.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Minister·präsidentin ist die Chefin von einem Bundesland.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Mit dem Staats·akt hat Mecklenburg-Vorpommern gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Sylvia Bretschneider war sehr wichtig für Mecklenburg-Vorpommern.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

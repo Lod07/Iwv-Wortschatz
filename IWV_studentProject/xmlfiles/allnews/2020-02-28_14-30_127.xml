@@ -1,0 +1,217 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-24" url="2020-02-28_14-30_127.xml">
+   <title>Mehr Nachrichten vom 28.02.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-02-28_14-30</vdate>
+   <resources>
+      <resource id="1" name="2020-02-28_14-30_127-full.png" type="screenshot" url="2020-02-28_14-30_127-full.png"/>
+      <resource id="2" name="2020-02-28_14-30_127_plaintext.txt" type="plaintext" url="2020-02-28_14-30_127_plaintext.txt"/>
+      <resource id="3" name="2020-02-28_14-30_127_quellcode.txt" type="sourcecode" url="2020-02-28_14-30_127_quellcode.txt"/>
+      <resource id="4" name="2020-02-28_14-30_127.docx" type="formatedText" url="2020-02-28_14-30_127.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 28.02.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Arbeiter haben Fahr·bahn repariert</subheadline>
+            <explanation_marker>
+               <statement>Bau·arbeiter haben eine kaputte Fahrbahn im Elb·tunnel repariert.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">Der Elb·tunnel ist ein Tunnel unter der Elbe.</style_element> 
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Die Elbe ist ein Fluss.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Deshalb können Auto·fahrer diese Fahr·bahn wieder benutzen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Am Donnerstag ist eine Fahr·bahn im Elb·tunnel abgesackt.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Diese Fahr·bahn hatte Risse.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb durften <style_element type="hb">keine</style_element> Auto·fahrer auf der kaputten Fahr·bahn fahren.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Dann haben Bau·arbeiter die Fahr·bahn untersucht.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Deshalb haben die Bau·arbeiter eine Röhre vom Elb·tunnel gesperrt.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Und deshalb waren am Donnerstag lange Staus vor dem Elb·tunnel.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Jetzt haben die Bau·arbeiter die kaputte Fahr·bahn repariert.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: 3 Tote bei Unfall</subheadline>
+            <explanation_marker>
+               <statement>In der Nähe von Torgelow war ein schwerer Unfall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Torgelow ist eine Stadt im Nord·osten von Mecklenburg-Vorpommern.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Unfall ist ein Auto gegen einen Baum geprallt.</statement>
+            <statement>In dem Auto waren 5 Menschen.</statement>
+            <statement>3 Menschen in dem Auto sind bei dem Unfall gestorben.</statement>
+            <statement>Und 2 Menschen in dem Auto wurden bei dem Unfall schwer verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Bei dem Unfall ist ein Auto von der Fahr·bahn abgekommen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dann ist das Auto gegen einen Baum gefahren.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt will die Polizei wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum ist das Auto von der Fahr·bahn abgekommen?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Schleswig-Holstein: Nord-Ostsee-Kanal für große Schiffe gesperrt</subheadline>
+            <explanation_marker>
+               <statement>Auf dem Nord-Ostsee-Kanal können <style_element type="hb">keine</style_element> großen Schiffe mehr fahren.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">Der Nord-Ostsee-Kanal ist ein künstlicher Fluss.</style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword>
+                                 <style_element type="hi">Das heißt:</style_element>
+                              </headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">Menschen haben den Nord-Ostsee-Kanal gebaut.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement>
+                                 <style_element type="hi">Der Nord-Ostsee-Kanal ist 98 Kilometer lang.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="4">
+                              <statement>
+                                 <style_element type="hi">Und der Nord-Ostsee-Kanal verbindet die Nordsee mit der Ostsee.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="5">
+                              <statement>
+                                 <style_element type="hi">Auf dem Nord-Ostsee-Kanal fahren viele Schiffe.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Der Nord-Ostsee-Kanal hat 2 große Schleusen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Eine Schleuse ist ein Fahr·stuhl für Schiffe.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese Schleusen sind:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <explanation_marker>
+                        <headword>• In Brunsbüttel</headword>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Brunsbüttel ist eine Stadt an der Nordsee.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <statement>• Und in Kiel.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Kiel ist eine Stadt an der Ostsee.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Computer steuern diese Schleusen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Mit diesen Computern haben wir im Moment Probleme.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb können wir die großen Schleusen nicht steuern.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und deshalb müssen viele große Schiffe vor den Schleusen warten.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

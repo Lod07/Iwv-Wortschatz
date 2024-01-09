@@ -1,0 +1,17 @@
+Gesamtzahl aller Wörter: 0
+
+Anzahl Wortarten:
+
+Wort - Wortart nach pos - Wortart nach tag- Anzahl
+
+Substantive mit den gesuchten Endungen:
+heit: 0 - []
+ie: 0 - []
+ik: 0 - []
+ion: 0 - []
+ismus: 0 - []
+ität: 0 - []
+keit: 0 - []
+nz: 0 - []
+tur: 0 - []
+ung: 0 - []

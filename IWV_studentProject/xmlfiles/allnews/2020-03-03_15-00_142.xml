@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-24" url="2020-03-03_15-00_142.xml">
+   <title>2 Messen wegen Corona-Virus abgesagt</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-03-03_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-03-03_15-00_142-full.png" type="screenshot" url="2020-03-03_15-00_142-full.png"/>
+      <resource id="2" name="2020-03-03_15-00_142_plaintext.txt" type="plaintext" url="2020-03-03_15-00_142_plaintext.txt"/>
+      <resource id="3" name="2020-03-03_15-00_142_quellcode.txt" type="sourcecode" url="2020-03-03_15-00_142_quellcode.txt"/>
+      <resource id="4" name="2020-03-03_15-00_142.docx" type="formatedText" url="2020-03-03_15-00_142.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>2 Messen wegen Corona-Virus abgesagt</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Hannover fallen 2 große Veranstaltungen aus.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>Hannover ist die Haupt·stadt von Niedersachsen.</statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Deutsche Messe AG hat diese Veranstaltungen nämlich abgesagt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Die Deutsche Messe AG ist eine große Firma.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">Und die Deutsche Messe AG veranstaltet Messen.</style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Eine Messe ist eine große Ausstellung.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">Bei einer Messe zeigen Firmen ihre neuen Produkte.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Veranstaltungen sind Messen.</statement>
+            <statement>Die Termine für diese Messen waren eigentlich im März.</statement>
+            <statement>Aber jetzt bekommen diese Messen neue Termine.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Warum fallen die Messen aus?</subheadline>
+            <statement>Die Messen fallen wegen einer besonderen Krankheit aus.</statement>
+            <explanation_marker>
+               <statement>Diese Krankheit kommt von einem Virus.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">Ein Virus ist ein Krankheits·erreger.</style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword>
+                                 <style_element type="hi">Das heißt:</style_element>
+                              </headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">Ein Virus kann Menschen krank machen.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Das Virus heißt Corona-Virus.</statement>
+            <statement>Und das Virus ist sehr ansteckend.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Bei einer Messe sind sehr viele Menschen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Wir können diese Menschen <style_element type="hb">nicht</style_element> richtig vor dem Virus schützen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Deshalb hat die Deutsche Messe AG die 2 Messen abgesagt.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Was können Sie tun?</subheadline>
+            <statement>Menschen können sich gegen das Virus schützen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>• Waschen Sie oft Ihre Hände.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>• Husten oder niesen Sie in ein Taschen·tuch.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>• Husten oder niesen Sie nicht Menschen an.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>• Halten Sie Abstand zu kranken Menschen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Wollen Sie mehr über das Corona-Virus wissen?</statement>
+            <statement>
+               <refextern>
+                  <style_element type="hu">Hier sind Informationen in Leichter Sprache.</style_element>
+               </refextern>
+            </statement>
+            <statement>
+               <refextern>
+                  <style_element type="hu">Und hier sind Informationen in schwerer Sprache.</style_element>
+               </refextern>
+            </statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

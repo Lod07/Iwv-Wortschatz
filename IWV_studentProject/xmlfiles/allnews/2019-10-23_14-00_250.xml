@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2019-10-23_14-00_250.xml">
+   <title>Bürgermeister·wahl in Kiel</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-23_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-10-23_14-00_250-full.png" type="screenshot" url="2019-10-23_14-00_250-full.png"/>
+      <resource id="2" name="2019-10-23_14-00_250_plaintext.txt" type="plaintext" url="2019-10-23_14-00_250_plaintext.txt"/>
+      <resource id="3" name="2019-10-23_14-00_250_quellcode.txt" type="sourcecode" url="2019-10-23_14-00_250_quellcode.txt"/>
+      <resource id="4" name="2019-10-23_14-00_250.docx" type="formatedText" url="2019-10-23_14-00_250.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Bürgermeister·wahl in Kiel</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Kiel ist bald eine wichtige Wahl.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Kiel ist die Haupt·stadt von Schleswig-Holstein.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Diese Wahl ist am Sonntag.</statement>
+            <explanation_marker>
+               <statement>Und bei dieser Wahl wählen die Menschen in Kiel einen neuen Bürgermeister.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Ein Bürgermeister ist der wichtigste Politiker von einer Stadt.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei der Wahl können fast 200.000 Menschen aus Kiel mitmachen.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Diese Menschen können einen von 4 Politikern wählen:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <explanation_marker>
+                        <statement>• Ulf Kämpfer.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>Ulf Kämpfer ist jetzt Bürgermeister von Kiel.</statement>
+                           </explanation>
+                           <explanation id="2">
+                              <explanation_marker>
+                                 <statement>Und Ulf Kämpfer ist von der SPD.</statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement>
+                                          <style_element type="hi">SPD ist die Abkürzung für <style_element type="hb">S</style_element>ozial·demokratische <style_element type="hb">P</style_element>artei <style_element type="hb">D</style_element>eutschlands.</style_element>
+                                       </statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>                             
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>                    
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <statement>• Andreas Ellendt.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement>Andreas Ellendt ist von der CDU.</statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement>
+                                          <style_element type="hi">CDU ist die Abkürzung für <style_element type="hb">C</style_element>hristlich <style_element type="hb">D</style_element>emokratische <style_element type="hb">U</style_element>nion.</style_element>
+                                       </statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>                             
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>                    
+                  </enumeration>
+                  <enumeration id="3">
+                     <explanation_marker>
+                        <statement>• Björn Thoroe.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>Björn Thoroe ist von der Partei Die Linke.</statement>                    
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>                    
+                  </enumeration>
+                  <enumeration id="4">
+                     <explanation_marker>
+                        <statement>• Und Florian Wrobel.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>Florian Wrobel ist von der Partei Die Partei.</statement>                    
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>                    
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>  
+         </section>
+         <section id="2">
+            <statement><style_element type="hb">Der NDR hat mehr Informationen über diese 4 Politiker.</style_element></statement>
+            <statement><style_element type="hb">Diese Informationen sind nicht in Leichter Sprache.</style_element></statement>
+            <question><style_element type="hb">Sie wollen diese Informationen lesen?</style_element></question>
+            <statement>
+               <ref>
+                  <style_element type="hb">Dann klicken Sie hier.</style_element>
+               </ref>
+            </statement>
+         </section>
+         <section id="3">
+            <statement>Der gewählte Politiker ist ab April 2020 Bürgermeister von Kiel.</statement>
+            <statement>Bis April 2020 ist noch Ulf Kämpfer Bürgermeister von Kiel.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

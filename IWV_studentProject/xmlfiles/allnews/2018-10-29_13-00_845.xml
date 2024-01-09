@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-10-29_13-00_845.xml">
+   <title>Mehr Nachrichten vom 29.10.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-10-29_13-00</vdate>
+   <resources>
+      <resource id="1" name="2018-10-29_13-00_845-full.png" type="screenshot" url="2018-10-29_13-00_845-full.png"/>
+      <resource id="2" name="2018-10-29_13-00_845_plaintext.txt" type="plaintext" url="2018-10-29_13-00_845_plaintext.txt"/>
+      <resource id="3" name="2018-10-29_13-00_845_quellcode.txt" type="sourcecode" url="2018-10-29_13-00_845_quellcode.txt"/>
+      <resource id="4" name="2018-10-29_13-00_845.docx" type="formatedText" url="2018-10-29_13-00_845.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 29.10.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Neuer Wirtschafts·senator</subheadline>
+               <explanation_marker>
+                  <statement>Hamburg hat bald einen neuen Wirtschafts·senator.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Ein Wirtschafts·senator ist in einem Senat.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Der Senat ist die Regierung von einer großen Stadt.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und ein Wirtschafts·senator kümmert sich um die Wirtschaft.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <headword><style_element type="hi">• Um Firmen.</style_element></headword>
+                              </enumeration>
+                              <enumeration id="1">
+                                 <statement><style_element type="hi">• Und um Arbeits·plätze.</style_element></statement>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Dieser Wirtschafts·senator ist Michael Westhagemann.</statement>
+               <explanation_marker>
+                  <statement>Michael Westhagemann war früher Manager.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Manager arbeitet in der Führung von einem Unternehmen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Und Michael Westhagemann ist parteilos.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Michael Westhagemann ist in <style_element type="hb">keiner</style_element> Partei.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Der alte Wirtschafts·senator war Frank Horch.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Aber Frank Horch hat im September gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ich gebe mein Amt als Wirtschafts·senator ab.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Meine Ehe·frau ist nämlich sehr krank.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb will ich mich mehr um meine Ehe·frau kümmern.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und deshalb kann ich <style_element type="hb">nicht</style_element> mehr Wirtschafts·senator sein.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="2">
+            <statement>Zum Rücktritt von Frank Horch gibt es noch einen Text in Leichter Sprache.</statement>
+            <question>Sie wollen diesen Text lesen oder hören?</question>
+            <statement>
+               <ref>
+                  Dann klicken Sie <style_element type="hu">hier</style_element>.
+               </ref>
+            </statement>
+         </section>
+         <section id="3">
+            <subheadline>Mecklenburg-Vorpommern: Neuer Wind·park</subheadline>
+               <explanation_marker>
+                  <statement>In der Ostsee ist ein neuer Wind·park.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">In einem Wind·park stehen Wind·kraft·anlagen.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Eine Wind·kraft·anlage ist ein sehr hoher Turm.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Auf diesem Turm ist eine Maschine.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">An der Maschine ist ein großes Wind·rad.</style_element></statement>
+                              </explanation>
+                              <explanation id="4">
+                                 <statement><style_element type="hi">Das Wind·rad hat sehr lange Flügel.</style_element></statement>
+                              </explanation>
+                              <explanation id="5">
+                                 <statement><style_element type="hi">Die Flügel drehen sich im Wind.</style_element></statement>
+                              </explanation>
+                              <explanation id="6">
+                                 <statement><style_element type="hi">So macht das Wind·rad Strom.</style_element></statement>
+                              </explanation>
+                              <explanation id="7">
+                                 <statement><style_element type="hi">Dieser Strom heißt Wind·energie.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Der Wind·park ist 30 Kilometer vor Rügen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Rügen ist eine Insel in der Ostsee.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Und in dem Wind·park sind 70 Wind·kraft·anlagen.</statement>
+               <statement>Der Wind·park heißt Wikinger.</statement>
+               <statement>Und der Wind·park ist der größte Wind·park in der deutschen Ostsee.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

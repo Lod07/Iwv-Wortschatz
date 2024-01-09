@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2020-01-16_15-30_33.xml">
+   <title>Strom·leitung fällt auf Zug</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-01-16_15-30</vdate>
+   <resources>
+      <resource id="1" name="2020-01-16_15-30_33-full.png" type="screenshot" url="2020-01-16_15-30_33-full.png"/>
+      <resource id="2" name="2020-01-16_15-30_33_plaintext.txt" type="plaintext" url="2020-01-16_15-30_33_plaintext.txt"/>
+      <resource id="3" name="2020-01-16_15-30_33_quellcode.txt" type="sourcecode" url="2020-01-16_15-30_33_quellcode.txt"/>
+      <resource id="4" name="2020-01-16_15-30_33.docx" type="formatedText" url="2020-01-16_15-30_33.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Strom·leitung fällt auf Zug</headline>
+         <sections>
+            <section id="1">
+               <explanation_marker>
+                  <statement>In der Nähe vom Hamburger Haupt·bahnhof war ein Unfall.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Haupt·bahnhof ist der größte Bahnhof in einer Stadt.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Bei dem Unfall ist eine große Strom·leitung auf einen Zug gefallen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Strom·leitung ist meistens ein Kabel.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Durch eine Strom·leitung fließt Strom.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Deshalb konnte der Zug <style_element type="hb">nicht</style_element> weiter·fahren.</statement> 
+               <statement>Der Zug musste auf den Gleisen stehen bleiben.</statement>
+               <statement>In dem Zug waren viele Menschen.</statement>
+               <statement>Diese Menschen mussten lange in dem Zug warten.</statement>
+               <statement>Arbeiter konnten die kaputte Strom·leitung nämlich <style_element type="hb">nicht</style_element> sofort reparieren.</statement>
+               <statement>Deshalb sind viele Züge in Hamburg <style_element type="hb">nicht</style_element> gefahren.</statement>
+               <statement>Und viele Züge mussten einen Umweg fahren.</statement>
+               <statement>Deshalb hatten viele Züge Verspätung.</statement>
+            </section>
+            <section id="2">
+               <subheadline>Was ist passiert?</subheadline>
+                  <statement>Der Zug ist am Morgen vom Haupt·bahnhof zum Bahnhof Dammtor gefahren.</statement>
+                  <statement>In dem Zug waren 68 Menschen.</statement>
+                  <explanation_marker>
+                     <statement>Danach sollte der Zug nach Flensburg fahren.</statement>
+                     <explanations>
+                        <explanation id="1">
+                           <statement><style_element type="hi">Flensburg ist eine Stadt im Norden von Schleswig-Holstein.</style_element></statement>
+                        </explanation>
+                     </explanations>
+                  </explanation_marker>
+                  <statement>Aber dann haben die Menschen in dem Zug einen lauten Knall gehört.</statement>
+                  <statement>Auf einer Brücke ist nämlich eine Strom·leitung gerissen.</statement>
+                  <statement>Diese Strom·leitung ist auf das Dach von dem Zug gefallen.</statement>
+                  <statement>Bei dem Unfall wurde <style_element type="hb">kein</style_element> Mensch verletzt.</statement> 
+                  <statement>Aber der Zug konnte <style_element type="hb">nicht</style_element> weiter·fahren.</statement>
+            </section>
+            <section id="3">
+               <subheadline>Menschen mussten lange warten</subheadline>
+                  <speech_marker>
+                     <speech_intro>
+                        <statement>Ein Sprecher von der Bahn hat gesagt:</statement>
+                     </speech_intro>
+                     <speeches>
+                        <speech id="1">
+                           <statement>In der Strom·leitung ist viel Strom geflossen.</statement>
+                        </speech>
+                        <speech id="2">
+                           <statement>Dieser Strom ist für Menschen sehr gefährlich.</statement>
+                        </speech>
+                        <speech id="3">
+                           <statement>Deshalb durften die Menschen in dem Zug <style_element type="hb">nicht</style_element> aussteigen.</statement> 
+                        </speech>
+                        <speech id="4">
+                           <statement>Dann haben wir den Strom ausgeschaltet.</statement>
+                        </speech>
+                        <speech id="5">
+                           <explanation_marker>
+                              <statement>Und dann haben wir die Strecke gesperrt.</statement>
+                              <explanations>
+                                 <explanation id="1">
+                                    <headword><style_element type="hi">Das heißt:</style_element></headword>
+                                 </explanation>
+                                 <explanation id="2">
+                                    <statement><style_element type="hi">Auf der Strecke durften <style_element type="hb">keine</style_element> Züge fahren.</style_element></statement>
+                                 </explanation>
+                              </explanations>
+                           </explanation_marker>
+                        </speech>
+                     </speeches>
+                  </speech_marker>
+                  <statement>Deshalb mussten viele andere Züge warten.</statement>
+                  <statement>Mit·arbeiter von der Bahn haben die Menschen aus dem Zug geholt.</statement>
+                  <statement>Dann konnten die Menschen mit Bussen zu anderen Bahnhöfen in Hamburg fahren.</statement>
+            </section>
+         </sections>
+   </content>
+</annotation>

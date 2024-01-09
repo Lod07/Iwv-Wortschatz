@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-24" url="2020-03-02_14-00_130.xml">
+   <title>2 tote Menschen nach Feuer gefunden</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-03-02_14-00</vdate>
+   <resources>
+      <resource id="1" name="2020-03-02_14-00_130-full.png" type="screenshot" url="2020-03-02_14-00_130-full.png"/>
+      <resource id="2" name="2020-03-02_14-00_130_plaintext.txt" type="plaintext" url="2020-03-02_14-00_130_plaintext.txt"/>
+      <resource id="3" name="2020-03-02_14-00_130_quellcode.txt" type="sourcecode" url="2020-03-02_14-00_130_quellcode.txt"/>
+      <resource id="4" name="2020-03-02_14-00_130.docx" type="formatedText" url="2020-03-02_14-00_130.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>2 tote Menschen nach Feuer gefunden</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Mölln war ein Feuer.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Mölln ist eine Stadt im Süd·osten von Schleswig-Holstein.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieses Feuer war in 2 Wohn·wagen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Ein Wohn·wagen ist ein besonderer Anhänger.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">In diesem Anhänger können Menschen schlafen.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Feuer waren mehr als 50 Feuerwehr·leute im Einsatz.</statement>
+            <statement>Die Feuerwehr·leute haben das Feuer gelöscht.</statement>
+            <statement>Nach dem Löschen von dem Feuer haben die Feuerwehr·leute 2 tote Menschen gefunden.</statement>
+            <statement>Diese 2 toten Menschen waren in einem von den 2 Wohn·wagen.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+            <statement>Die 2 Wohn·wagen waren nebeneinander.</statement>
+            <statement>Und die 2 Wohn·wagen waren auf einem Hof.</statement>
+            <explanation_marker>
+               <statement>Dieser Hof ist von einem Auto·haus.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">In einem Auto·haus können Menschen Autos kaufen.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Feuerwehr hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>In den 2 Wohn·wagen war ein Feuer.</statement>
+                  </speech>
+                  <speech id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Wir wissen noch <style_element type="hb">nicht</style_element>:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Warum war das Feuer in den 2 Wohn·wagen?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Das Feuer war sehr groß.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und bei dem Feuer war sehr viel Rauch.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Das Feuer hat die 2 Wohn·wagen zerstört.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Feuerwehr hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Nach dem Löschen von dem Feuer haben wir 2 tote Menschen gefunden.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Diese 2 toten Menschen waren in einem von den 2 Wohn·wagen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und wir haben einen 3. toten Körper gefunden.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Dieser tote Körper ist wahrscheinlich von einem Hund.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Jetzt ermittelt die Polizei.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Die Polizei will nämlich zum Beispiel wissen:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <question>• Wer sind die 2 toten Menschen?</question>
+                  </enumeration>
+                  <enumeration id="2">
+                     <question>• Warum sind die 2 toten Menschen gestorben?</question>
+                  </enumeration>
+                  <enumeration id="3">
+                     <question>• Und warum war das Feuer in den 2 Wohn·wagen?</question>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

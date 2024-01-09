@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-28" url="2018-12-12_13-30_646.xml">
+   <title>Mehr Nachrichten vom 12.12.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-12-12_13-30</vdate>
+   <resources>
+      <resource id="1" name="2018-12-12_13-30_646-full.png" type="screenshot" url="2018-12-12_13-30_646-full.png"/>
+      <resource id="2" name="2018-12-12_13-30_646_plaintext.txt" type="plaintext" url="2018-12-12_13-30_646_plaintext.txt"/>
+      <resource id="3" name="2018-12-12_13-30_646_quellcode.txt" type="sourcecode" url="2018-12-12_13-30_646_quellcode.txt"/>
+      <resource id="4" name="2018-12-12_13-30_646.docx" type="formatedText" url="2018-12-12_13-30_646.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 12.12.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Orden für Politikerin</subheadline>
+               <explanation_marker>
+                  <statement>Eine Politikerin aus Kiel hat einen wichtigen Orden bekommen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Orden ist eine besondere Auszeichnung.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Dieser wichtige Orden heißt Bundes·verdienst·kreuz.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Das Bundes·verdienst·kreuz bekommen Menschen für besondere Leistungen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Politikerin ist Angelika Volquartz.</statement>
+               <explanation_marker>
+                  <statement>Angelika Volquartz war bis 2009 die Bürgermeisterin von Kiel.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Bürgermeisterin ist die Chefin von einer Stadt.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Jetzt ist Ulf Kämpfer der Bürgermeister von Kiel.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Ulf Kämpfer hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Angelika Volquartz kümmert sich sehr viel um Kinder.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und Angelika Volquartz kümmert sich sehr viel um Frauen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb hat Angelika Volquartz das Bundes·verdienst·kreuzbekommen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Ich freue mich sehr für Angelika Volquartz.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Fahrrad·fahrer überfahren</subheadline>
+               <statement>In Bückeburg war ein Unfall.</statement>
+               <statement>Bei dem Unfall ist ein Fahrrad·fahrer gestorben.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Fahrrad·fahrer wollte wahrscheinlich über die Straße fahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann hat wahrscheinlich ein Lkw-Fahrer den Fahrrad·fahrer überfahren.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Nach dem Unfall ist der Lkw-Fahrer wahrscheinlich weggefahren.</statement>
+                     </speech>
+                     <speech id="4"> 
+                        <statement>Das ist <style_element type="hb">nicht</style_element> erlaubt.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Deshalb suchen wir jetzt den Lkw-Fahrer.</statement>
+                     </speech>
+                     <speech id="6">
+                        <explanation_marker>
+                           <statement>Und wir suchen Zeugen von dem Unfall.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Zeugen sind Menschen.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Zeugen haben zum Beispiel einen Unfall gesehen.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Und Zeugen können vielleicht wichtige Hinweise zu einem Unfall geben.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

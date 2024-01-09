@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2020-01-17_15-00_34.xml">
+   <title>Mehr Nachrichten vom 17.01.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-01-17_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-01-17_15-00_34-full.png" type="screenshot" url="2020-01-17_15-00_34-full.png"/>
+      <resource id="2" name="2020-01-17_15-00_34_plaintext.txt" type="plaintext" url="2020-01-17_15-00_34_plaintext.txt"/>
+      <resource id="3" name="2020-01-17_15-00_34_quellcode.txt" type="sourcecode" url="2020-01-17_15-00_34_quellcode.txt"/>
+      <resource id="4" name="2020-01-17_15-00_34.docx" type="formatedText" url="2020-01-17_15-00_34.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 17.01.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Nord·deutschland: Bauern protestieren</subheadline>
+               <statement>In Nord·deutschland haben am Freitag viele Bauern protestiert.</statement>
+               <statement>Die Bauern sind nämlich unzufrieden mit neuen Gesetzen.</statement>
+               <statement>Deshalb sind die Bauern zum Beispiel mit Treckern in Städte gefahren.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <headword>Zum Beispiel:</headword>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <explanation_marker>
+                           <headword>• In Hannover.</headword>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Hannover ist die Haupt·stadt von Niedersachsen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                     <enumeration id="2">
+                        <explanation_marker>
+                           <headword>• In Kiel.</headword>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Kiel ist die Haupt·stadt von Schleswig-Holstein.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                     <enumeration id="3">
+                        <statement>• Und in Bremen.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Deshalb waren in vielen Städten Staus.</statement>
+               <statement>In einigen von den Städten waren mehr als 1000 Trecker.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Bauern haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Regierung hat neue Gesetze gemacht.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Diese neuen Gesetze sind schlecht für die Bauern.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>In den neuen Gesetzen steht zum Beispiel:</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Die Bauern müssen immer mehr Regeln beachten.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Deshalb verdienen die Bauern immer weniger Geld.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Junge stirbt bei Unfall</subheadline>
+               <statement>In Braunschweig war ein schwerer Unfall.</statement>
+               <statement>Der Unfall war im Stadt·teil Nordstadt.</statement>
+               <statement>Bei dem Unfall hat eine Straßen·bahn einen Jungen überfahren.</statement>
+               <statement>Der Junge ist bei dem Unfall gestorben.</statement>
+               <statement>Der Junge war 11 Jahre alt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Eine Gruppe von Kindern stand an einer Halte·stelle.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Eins von den Kindern ist gestürzt.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Dann ist das Kind auf die Gleise von der Straßen·bahn gefallen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und dann ist eine Straßen·bahn gekommen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Der Fahrer von der Straßen·bahn hat das Kind zu spät gesehen.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Deshalb konnte der Fahrer von der Straßen·bahn <style_element type="hb">nicht</style_element> rechtzeitig bremsen.</statement> 
+                     </speech>
+                     <speech id="7">
+                        <statement>Und deshalb hat die Straßen·bahn das Kind überfahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

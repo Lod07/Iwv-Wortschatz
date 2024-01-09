@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-30" url="2018-04-10_15-00_871.xml">
+   <title>Kind getötet: Mann muss ins Gefängnis</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-04-10_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-04-10_15-00_871-full.png" type="screenshot" url="2018-04-10_15-00_871-full.png"/>
+      <resource id="2" name="2018-04-10_15-00_871_plaintext.txt" type="plaintext" url="2018-04-10_15-00_871_plaintext.txt"/>
+      <resource id="3" name="2018-04-10_15-00_871_quellcode.txt" type="sourcecode" url="2018-04-10_15-00_871_quellcode.txt"/>
+      <resource id="4" name="2018-04-10_15-00_871.docx" type="formatedText" url="2018-04-10_15-00_871.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Kind getötet: Mann muss ins Gefängnis</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Niedersachsen war ein Prozess.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Bei einem Prozess entscheidet das Gericht:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question><style_element type="hi">• Hat ein Mensch etwas Verbotenes getan?</style_element></question>
+                           </speech>
+                           <speech id="2">
+                              <statement><style_element type="hi">Dann bekommt dieser Mensch eine Strafe.</style_element></statement>
+                           </speech>
+                           <speech id="3">
+                              <question><style_element type="hi">• Oder hat ein Mensch <style_element type="hb">nichts</style_element> Verbotenes getan?</style_element></question>
+                           </speech>
+                           <speech id="4">
+                              <statement><style_element type="hi">Dann bekommt dieser Mensch <style_element type="hb">keine</style_element> Strafe.</style_element></statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Prozess war in Osnabrück.</statement>
+            <statement>Bei dem Prozess hat ein Gericht einen Mann verurteilt.</statement>
+            <statement>Der Mann hat nämlich ein Kind getötet.</statement>
+            <statement>Das Kind war erst 13 Monate alt.</statement>
+            <statement>Jetzt muss der Mann für 8 Jahre ins Gefängnis.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der Mann hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Meine Freundin hat 2 Kinder.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>An einem Abend war meine Freundin bei anderen Freundinnen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb habe ich allein auf die Kinder aufgepasst.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>In der Nacht ist eins von den 2 Kindern zu mir gekommen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Ich habe schon geschlafen.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Und dieses Kind hat mich geweckt.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Deshalb habe ich mich sehr geärgert.</statement>
+                     </speech>
+                     <speech id="8">
+                        <statement>Und deshalb habe ich das Kind geschüttelt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Der Mann hat das Kind bei dem Schütteln sehr schwer verletzt.</statement>
+            <statement>Deshalb ist das Kind in ein Kranken·haus gekommen.</statement>
+            <statement>Einige Tage später ist das Kind in dem Kranken·haus gestorben.</statement>
+         </section>
+      </sections>
+   </content>
+</annotation>

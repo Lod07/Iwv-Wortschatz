@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-10-25_15-00_842.xml">
+   <title>Kosten·lose Fähre für Menschen mit Geh·behinderung</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-10-25_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-10-25_15-00_842-full.png" type="screenshot" url="2018-10-25_15-00_842-full.png"/>
+      <resource id="2" name="2018-10-25_15-00_842_plaintext.txt" type="plaintext" url="2018-10-25_15-00_842_plaintext.txt"/>
+      <resource id="3" name="2018-10-25_15-00_842_quellcode.txt" type="sourcecode" url="2018-10-25_15-00_842_quellcode.txt"/>
+      <resource id="4" name="2018-10-25_15-00_842.docx" type="formatedText" url="2018-10-25_15-00_842.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Kosten·lose Fähre für Menschen mit Geh·behinderung</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Auf der Nordsee fahren viele Fähren.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Fähre ist ein besonderes Schiff.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Eine Fähre transportiert zum Beispiel Menschen.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <headword><style_element type="hi">Oder Autos.</style_element></headword>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Mit diesen Fähren fahren oft viele Menschen.</statement>
+            <explanation_marker>
+               <statement>Manche von diesen Menschen haben eine Geh·behinderung.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Menschen können <style_element type="hb">nicht</style_element> richtig gehen.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Diese Menschen sitzen zum Beispiel in einem Rollstuhl.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Manche Fähren gehören zu der Ems AG.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Die Ems AG ist eine Reederei.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Eine Reederei ist eine Firma.</style_element></statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Eine Reederei hat Schiffe.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Fähren von der Ems AG fahren nach Borkum.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Borkum ist eine Insel in der Nordsee.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Borkum gehört zu Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und die Fähren von der Ems AG starten zum Beispiel in Emden.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Emden ist eine Stadt in Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Ein Sprecher von der Ems AG hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Mit diesen Fähren dürfen Menschen mit einer Geh·behinderung jetzt kosten·los fahren.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Diese Menschen müssen für diese Fähren <style_element type="hb">kein</style_element> Geld bezahlen.</style_element></statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement><style_element type="hi">Diese Menschen fahren kosten·los zwischen Emden und Borkum.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Mann mit Geh·behinderung hat geklagt</subheadline>
+               <statement>Die Fähre zwischen Emden und Borkum war vorher <style_element type="hb">nicht</style_element> kosten·los.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Aber dann hat ein Mann mit einer Geh·behinderung gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ich wohne auf Borkum.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und ich fahre oft mit der Fähre zwischen Emden und Borkum.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Emden und Borkum sind nah beieinander.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb denke ich:</statement>
+                     </speech>
+                     <speech id="5">
+                        <explanation_marker>
+                           <statement>Die Fähre zwischen Emden und Borkum ist Nah·verkehr.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Zum Nah·verkehr gehören zum Beispiel Busse.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <headword><style_element type="hi">Und Züge.</style_element></headword>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Diese Busse und Züge fahren zwischen Orten.</style_element></statement>
+                              </explanation>
+                              <explanation id="4">
+                                 <statement><style_element type="hi">Diese Orte sind nah beieinander.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="6">
+                        <statement>Im Nah·verkehr dürfen Menschen mit einer Geh·behinderung kosten·los fahren.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Deshalb verstehe ich <style_element type="hb">nicht</style_element>:</statement>
+                     </speech>
+                     <speech id="8">
+                        <question>Warum darf ich <style_element type="hb">nicht</style_element> kosten·los mit der Fähre zwischen Emden und Borkum fahren?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Der Mann hat vor einem Gericht geklagt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Das Gericht hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Mann hat recht.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Die Fähre zwischen Emden und Borkum ist Nah·verkehr.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb muss diese Fähre kosten·los für Menschen mit einer Geh·behinderung sein.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-17" url="2019-03-06_13-30_543.xml">
+   <title>Mehr Nachrichten vom 06.03.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-03-06_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-03-06_13-30_543-full.png" type="screenshot" url="2019-03-06_13-30_543-full.png"/>
+      <resource id="2" name="2019-03-06_13-30_543_plaintext.txt" type="plaintext" url="2019-03-06_13-30_543_plaintext.txt"/>
+      <resource id="3" name="2019-03-06_13-30_543_quellcode.txt" type="sourcecode" url="2019-03-06_13-30_543_quellcode.txt"/>
+      <resource id="4" name="2019-03-06_13-30_543.docx" type="formatedText" url="2019-03-06_13-30_543.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 06.03.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Polizei findet toten Mann</subheadline>
+               <explanation_marker>
+                  <statement>Die Polizei hat in Dammfleth einen toten Mann gefunden.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Dammfleth ist ein Ort in der Nähe von Itzehoe.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ein Mann war seit fast 2 Jahren verschwunden.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Wir haben diesen Mann lange gesucht.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Jetzt haben wir ein Grundstück durchsucht.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Auf diesem Grundstück haben wir einen toten Mann gefunden.</statement>
+                     </speech>
+                     <speech id="5">
+                        <speech_marker>
+                           <speech_intro>
+                              <headword>Wir glauben:</headword>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Das ist der verschwundene Mann.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Auf dem durchsuchten Grundstück leben 2 Menschen:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Eine Frau.</headword>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Die Frau war früher die Freundin von dem toten Mann.</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <statement>• Und den neuen Freund von der Frau.</statement>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+               <statement>Diese 2 Menschen hat die Polizei festgenommen.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei glaubt nämlich:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Vielleicht haben die 2 Menschen den Mann getötet.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Unfall mit Lkw</subheadline>
+               <statement>In der Nähe von Leer war ein Unfall.</statement>
+               <explanation_marker>
+                  <statement>Der Unfall war auf der A 31.</statement>
+                  <explanations>
+                     <explanation id="1"> 
+                        <statement><style_element type="hi">A 31 ist die Abkürzung für <style_element type="hb">A</style_element>utobahn <style_element type="hb">31</style_element>.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Und der Unfall war mit einem Lkw.</statement>
+               <statement>Bei dem Unfall wurden 2 Menschen verletzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <explanation_marker>
+                           <statement>Der Fahrer ist mit seinem Lkw von der Fahr·bahn abgekommen.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Der Fahrer von dem Lkw ist ohne Absicht von der Straße gefahren.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="2">
+                        <statement>Und dann ist der Lkw umgekippt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <explanation_marker>
+                  <statement>Wegen dem Unfall war die A 31 für viele Stunden gesperrt</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Auf der A 31 durfte <style_element type="hb">kein</style_element> Auto fahren.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und <style_element type="hb">kein</style_element> Lkw.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker> 
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

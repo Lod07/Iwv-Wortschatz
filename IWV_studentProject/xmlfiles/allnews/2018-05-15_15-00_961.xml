@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-31" url="2018-05-15_15-00_961.xml">
+   <title>Bau von Pipeline hat begonnen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-05-15_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-05-15_15-00_961-full.png" type="screenshot" url="2018-05-15_15-00_961-full.png"/>
+      <resource id="2" name="2018-05-15_15-00_961_plaintext.txt" type="plaintext" url="2018-05-15_15-00_961_plaintext.txt"/>
+      <resource id="3" name="2018-05-15_15-00_961_quellcode.txt" type="sourcecode" url="2018-05-15_15-00_961_quellcode.txt"/>
+      <resource id="4" name="2018-05-15_15-00_961.docx" type="formatedText" url="2018-05-15_15-00_961.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Bau von Pipeline hat begonnen</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Mecklenburg-Vorpommern hat der Bau von einer besonderen Pipeline begonnen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Pipeline ist ein sehr langes Rohr.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Durch dieses Rohr fließt zum Beispiel Öl.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und dieses Öl kann in dem Rohr von einem Ort zu einem anderen Ort fließen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Durch diese besondere Pipeline soll bald Gas fließen.</statement>
+            <statement>Diese besondere Pipeline heißt Nord Stream 2.</statement>
+         </section>
+         <section id="2">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Ein Fachmann hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Nord Stream 2 soll im Jahr 2019 fertig sein.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und Nord Stream 2 kostet viele Milliarden Euro.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Nord Stream 2 ist nämlich bald 1.200 Kilometer lang.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und Nord Stream 2 liegt in der Ostsee.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Russland will Gas verkaufen</subheadline>
+               <statement>Der Anfang von Nord Stream 2 ist in Russland.</statement>
+               <explanation_marker>
+                  <statement>Und das Ende von Nord Stream 2 ist in Lubmin.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Lubmin ist eine Stadt in Mecklenburg-Vorpommern.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und Lubmin ist in an der Ostsee.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Russland will nämlich Gas an Deutschland verkaufen.</statement>
+               <statement>Deshalb baut eine Firma Nord Stream 2.</statement>
+         </section>
+         <section id="4">
+            <subheadline>Klage gegen Nord Stream 2</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Natur·schützer haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Nord Stream 2 ist schlecht für die Natur.</statement>
+                     </speech>
+                     <speech id="2">
+                        <explanation_marker>
+                           <statement>In der Ostsee sind nämlich Naturschutz·gebiete.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Ein Naturschutz∙gebiet ist ein besonderes Gebiet.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">In diesem Gebiet dürfen Tiere und Pflanzen <style_element type="hb">nicht</style_element> gestört werden.</style_element></statement>
+                              </explanation>
+                              <explanation id="3">
+                                 <statement><style_element type="hi">Deshalb sind Tiere und Pflanzen in diesem Gebiet besonders geschützt.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Nord Stream 2 liegt vielleicht bald in diesen Naturschutz·gebieten.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und dann macht Nord Stream 2 diese Naturschutz·gebiete kaputt.</statement>
+                     </speech>
+                     <speech id="5">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Deshalb wollen wir:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Die Firma darf Nord Stream 2 <style_element type="hb">nicht</style_element> bauen.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="6">
+                        <statement>Und deshalb klagen wir gegen den Bau von Nord Stream 2.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="5">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt muss ein Gericht entscheiden:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Darf die Firma Nord Stream 2 bauen?</question>
+                  </speech>
+                  <speech id="2">
+                     <question>Oder darf die Firma Nord Stream 2 <style_element type="hb">nicht</style_element> bauen?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-07-05_14-00_351.xml">
+   <title>Tennis·spielerin Angelique Kerber verliert</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-07-05_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-07-05_14-00_351-full.png" type="screenshot" url="2019-07-05_14-00_351-full.png"/>
+      <resource id="2" name="2019-07-05_14-00_351_plaintext.txt" type="plaintext" url="2019-07-05_14-00_351_plaintext.txt"/>
+      <resource id="3" name="2019-07-05_14-00_351_quellcode.txt" type="sourcecode" url="2019-07-05_14-00_351_quellcode.txt"/>
+      <resource id="4" name="2019-07-05_14-00_351.docx" type="formatedText" url="2019-07-05_14-00_351.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Tennis·spielerin Angelique Kerber verliert</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Angelique Kerber hat ein wichtiges Tennis·spiel verloren.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Angelique Kerber ist eine Tennis·spielerin aus Kiel.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Kiel ist die Haupt·stadt von Schleswig-Holstein.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Das Tennis·spiel war bei einem Tennis·turnier.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bei einem Tennis·turnier gibt es viele Spiele.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und nur die Gewinner von den Spielen dürfen bei dem Tennis·turnier weiter·spielen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Das Tennis·turnier ist in Wimbledon.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Wimbledon ist in England.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Und Wimbledon ist ein Stadt·teil von London.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">London ist die Haupt·stadt von England.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Wimbledon ist ein besonderes Tennis·turnier.</statement>
+            <statement>In Wimbledon sind alle Tennis·spiele auf Rasen.</statement>
+            <statement>Und Wimbledon ist eins von den 4 wichtigsten Tennis·turnieren von der Welt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Angelique Kerber ist enttäuscht</subheadline>
+               <statement>Das Spiel war das 2. Spiel für Angelique Kerber in Wimbledon.</statement>
+               <explanation_marker>
+                  <statement>Und das Spiel war gegen Lauren Davis.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Lauren Davis ist eine Tennis·spielerin aus den USA.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Zuerst hat Angelique Kerber den 1. Satz mit 6:2 gewonnen.</statement>
+               <statement>Dann hat Angelique Kerber den 2. Satz mit 2:6 verloren.</statement>
+               <statement>Und dann hat Angelique Kerber den 3. Satz mit 1:6 verloren.</statement>
+               <statement>Angelique Kerber hat also 2 Sätze von dem Spiel verloren.</statement>
+               <statement>Deshalb hat Angelique Kerber ihr 2. Spiel in Wimbledon verloren.</statement>
+               <explanation_marker>
+                  <statement>Und deshalb ist Angelique Kerber in Wimbledon ausgeschieden.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Angelique Kerber darf in Wimbledon <style_element type="hb">nicht</style_element> weiter·spielen.</style_element></statement> 
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Nach dem Spiel waren viele Menschen überrascht.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Diese Menschen haben nämlich gedacht:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Angelique Kerber spielt besser als Lauren Davis.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb gewinnt Angelique Kerber wahrscheinlich gegen Lauren Davis.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Angelique Kerber hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ich habe im letzten Jahr das Tennis·turnier in Wimbledon gewonnen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber jetzt bin ich schon nach meinem 2. Spiel ausgeschieden.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb bin ich sehr enttäuscht.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Angelique Kerber spielt noch bei einem großen Tennis·turnier in diesem Jahr.</statement>
+            <explanation_marker>
+               <statement>Das Tennis·turnier ist in New York.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">New York ist eine große Stadt in Amerika.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und das Tennis·turnier heißt US Open.</statement>
+            <speech_marker>
+                  <speech_intro>
+                     <statement>Angelique Kerber hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die US Open sind wichtig für mich</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Die US Open sind das letzte große Tennis·turnier in diesem Jahr.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Bei den US Open will ich mehr Spiele gewinnen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

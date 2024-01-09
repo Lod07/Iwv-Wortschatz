@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-23" url="2018-11-29_14-00_669.xml">
+   <title>Mann von Tier gebissen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-11-29_14-00</vdate>
+   <resources>
+      <resource id="1" name="2018-11-29_14-00_669-full.png" type="screenshot" url="2018-11-29_14-00_669-full.png"/>
+      <resource id="2" name="2018-11-29_14-00_669_plaintext.txt" type="plaintext" url="2018-11-29_14-00_669_plaintext.txt"/>
+      <resource id="3" name="2018-11-29_14-00_669_quellcode.txt" type="sourcecode" url="2018-11-29_14-00_669_quellcode.txt"/>
+      <resource id="4" name="2018-11-29_14-00_669.docx" type="formatedText" url="2018-11-29_14-00_669.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mann von Tier gebissen</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Steinfeld hat ein Tier einen Mann gebissen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Steinfeld ist ein Ort in Niedersachsen.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Und Steinfeld ist zwischen Hamburg und Bremen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Das Tier hat den Mann an der Hand verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der Mann hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Tier war ein Wolf.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt untersuchen Fach·leute:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>War das Tier wirklich ein Wolf?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Fach·leute haben nämlich gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1"> 
+                     <statement>In Deutschland hat noch <style_element type="hb">nie</style_element> ein Wolf einen Menschen angegriffen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <explanation_marker>
+                        <statement>Wölfe sind nämlich scheue Tiere.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Wölfe laufen eigentlich vor Menschen weg.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Der Mann hat alleine an einem Zaun gearbeitet.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der Mann hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ich habe in meine Werkzeug·kiste gegriffen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann hat etwas in meine Hand gebissen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Ich habe mich umgedreht.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Dann habe ich den Wolf gesehen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Ich habe einen Hammer aus der Werkzeug·kiste genommen.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Dann habe ich mit dem Hammer nach dem Wolf geschlagen.</statement>
+                     </speech>
+                     <speech id="7">
+                        <statement>Und dann ist der Wolf weggelaufen.</statement>
+                     </speech>
+                     <speech id="8">
+                        <statement>Ich habe auch noch 3 andere Wölfe gesehen.</statement>
+                     </speech>
+                     <speech id="9">
+                        <statement>Diese 3 anderen Wölfe sind auch weggelaufen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Der Mann ist zu einem Arzt gegangen.</statement>
+               <statement>Und der Mann hat dem Arzt von dem Wolf erzählt.</statement>
+               <statement>Der Arzt hat den Mann untersucht.</statement>
+               <statement>Dann hat der Arzt Fach·leute angerufen.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Suche nach Hinweisen</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Fach·leute untersuchen jetzt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>War das Tier wirklich ein Wolf?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Deshalb haben die Fach·leute Sachen von dem Mann eingesammelt.</statement>
+               <statement>Zum Beispiel den Pullover von dem Mann.</statement>
+               <statement>Und die Fach·leute haben Tier·haare an dem Zaun eingesammelt.</statement>
+               <statement>Diese Sachen werden jetzt untersucht.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die Ergebnisse von der Untersuchung sind sehr wichtig.</statement>
+                     </speech>
+                     <speech id="2">
+                        <question>Ein Wolf hat den Mann gebissen?</question>
+                     </speech>
+                     <speech id="3">
+                        <statement> Dann ist dieser Wolf für alle Menschen gefährlich.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Dann müssen wir diesen Wolf finden.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Und dann müssen wir diesen Wolf töten.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

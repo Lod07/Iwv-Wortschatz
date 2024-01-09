@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-24" url="2018-08-28_15-00_798.xml">
+   <title>Schwerer Unfall auf der Autobahn 2</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-08-28_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-08-28_15-00_798-full.png" type="screenshot" url="2018-08-28_15-00_798-full.png"/>
+      <resource id="2" name="2018-08-28_15-00_798_plaintext.txt" type="plaintext" url="2018-08-28_15-00_798_plaintext.txt"/>
+      <resource id="3" name="2018-08-28_15-00_798_quellcode.txt" type="sourcecode" url="2018-08-28_15-00_798_quellcode.txt"/>
+      <resource id="4" name="2018-08-28_15-00_798.docx" type="formatedText" url="2018-08-28_15-00_798.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Schwerer Unfall auf der Autobahn 2</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Auf der A2 in Niedersachsen war ein schwerer Unfall.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">A2 ist die Abkürzung für Autobahn 2.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Unfall war in der Nähe von Peine.</statement>
+            <statement>Bei diesem Unfall ist ein Lkw in einen anderen Lkw gefahren.</statement>
+            <statement>Und bei diesem Unfall sind 3 Menschen verletzt worden.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Auf der A2 war ein Stau.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber der Lkw-Fahrer hat diesen Stau wahrscheinlich zu spät gesehen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Deshalb hat der Lkw-Fahrer zu spät gebremst.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Und deshalb ist der Lkw-Fahrer in einen anderen Lkw gefahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Auch ein Autofahrer hat den Stau zu spät gesehen.</statement>
+            <statement>Und dieser Autofahrer ist in ein anderes Auto gefahren.</statement>
+         </section>
+         <section id="4">
+            <statement>Bei dem Unfall wurde der Lkw-Fahrer schwer verletzt.</statement>
+            <statement>Die 2 Fahrer von den Autos wurden leicht verletzt.</statement>
+         </section>
+         <section id="5">
+            <explanation_marker>
+               <statement>Nach dem Unfall hat die Polizei die A2 gesperrt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Auf der A2 durften <style_element type="hb">keine</style_element> Autos fahren.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und <style_element type="hb">kein</style_element> Lkw.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

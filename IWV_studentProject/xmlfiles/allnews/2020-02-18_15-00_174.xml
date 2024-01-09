@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2020-02-18_15-00_174.xml">
+   <title>Zu viele Mäuse in Niedersachsen</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-02-18_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-02-18_15-00_174-full.png" type="screenshot" url="2020-02-18_15-00_174-full.png"/>
+      <resource id="2" name="2020-02-18_15-00_174_plaintext.txt" type="plaintext" url="2020-02-18_15-00_174_plaintext.txt"/>
+      <resource id="3" name="2020-02-18_15-00_174_quellcode.txt" type="sourcecode" url="2020-02-18_15-00_174_quellcode.txt"/>
+      <resource id="4" name="2020-02-18_15-00_174.docx" type="formatedText" url="2020-02-18_15-00_174.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Zu viele Mäuse in Niedersachsen</headline>
+      <sections>
+         <section id="1">
+            <statement>Viele Bauern in Niedersachsen haben ein Problem.</statement>
+            <explanation_marker>
+               <statement>In Niedersachen gibt es nämlich eine Mäuse-Plage.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword>
+                        <style_element type="hi">Das heißt:</style_element>
+                     </headword>
+                  </explanation>
+                  <explanation id="2">
+                     <headword>
+                        <style_element type="hi">Es gibt zu viele Mäuse.</style_element>
+                     </headword>
+                  </explanation>
+                  <explanation id="3">
+                     <headword>
+                        <style_element type="hi">Und diese Mäuse machen Probleme.</style_element>
+                     </headword>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Mäuse haben viele Felder von den Bauern zerstört.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt haben wichtige Politiker gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir müssen den Bauern helfen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <statement>Die Mäuse fressen das Gras auf den Feldern.</statement>
+            <statement>Dieses Gras haben die Bauern zum Beispiel als Futter für Kühe angebaut.</statement>
+            <statement>Aber jetzt wächst auf vielen Feldern <style_element type="hb">kein</style_element> Gras mehr.</statement>
+            <statement>Und die Kühe haben <style_element type="hb">kein</style_element> Futter.</statement>
+            <statement>Deshalb müssen die Bauern Futter für die Kühe kaufen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Bauern sagen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir müssen sehr viel Futter kaufen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dieses Futter ist sehr teuer.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb verdienen wir <style_element type="hb">kein</style_element> Geld.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und deshalb brauchen wir Hilfe.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <statement>Politiker kümmern sich um die Bauern.</statement>
+            <statement>Zum Beispiel die Ministerin für Landwirtschaft.</statement>
+            <statement>Die Ministerin für Landwirtschaft von Niedersachsen ist Barbara Otte-Kinast.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Barbara Otte-Kinast hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Bauern in Niedersachsen haben große Probleme.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb müssen wir den Bauern schnell helfen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <subheadline>Bauern hoffen auf kaltes Wetter</subheadline>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Experten haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Im Winter war es sehr warm.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb sind im Winter wenig Mäuse gestorben.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und deshalb gibt es jetzt eine Mäuse-Plage.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="5">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Bauern sagen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Hoffentlich haben wir bald kaltes Wetter.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dann sterben nämlich viele Mäuse.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und dann gibt es <style_element type="hb">keine</style_element> Mäuse-Plage mehr.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

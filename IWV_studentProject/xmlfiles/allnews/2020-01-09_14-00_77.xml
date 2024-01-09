@@ -1,0 +1,192 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2020-01-09_14-00_77.xml">
+   <title>Mann muss lebenslang ins Gefängnis</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-01-09_14-00</vdate>
+   <resources>
+      <resource id="1" name="2020-01-09_14-00_77-full.png" type="screenshot" url="2020-01-09_14-00_77-full.png"/>
+      <resource id="2" name="2020-01-09_14-00_77_plaintext.txt" type="plaintext" url="2020-01-09_14-00_77_plaintext.txt"/>
+      <resource id="3" name="2020-01-09_14-00_77_quellcode.txt" type="sourcecode" url="2020-01-09_14-00_77_quellcode.txt"/>
+      <resource id="4" name="2020-01-09_14-00_77.docx" type="formatedText" url="2020-01-09_14-00_77.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>   
+      <headline>Mann muss lebenslang ins Gefängnis</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+                <statement>In Mecklenburg-Vorpommern war ein Prozess.</statement>
+                <explanations>
+                    <explanation id="1">
+                        <statement><style_element type="hi">Ein Prozess ist ein Streit vor Gericht.</style_element></statement>
+                    </explanation>
+                    <explanation id="2">
+                        <speech_marker>
+                            <speech_intro>
+                                <statement><style_element type="hi">Bei einem Prozess entscheidet das Gericht:</style_element></statement>
+                            </speech_intro>
+                            <speeches>
+                                <speech id="1">
+                                    <question><style_element type="hi">• Hat ein Mensch etwas Verbotenes getan?</style_element></question>
+                                </speech>
+                                <speech id="2">
+                                    <statement><style_element type="hi">Dann bekommt dieser Mensch eine Strafe.</style_element></statement>
+                                </speech>
+                                <speech id="3">
+                                    <question><style_element type="hi">• Oder hat ein Mensch <style_element type="hb">nichts</style_element> Verbotenes getan?</style_element></question>
+                                </speech>
+                                <speech id="4">
+                                    <statement><style_element type="hi">Dann bekommt dieser Mensch <style_element type="hb">keine</style_element> Strafe.</style_element></statement>
+                                </speech>
+                            </speeches>
+                        </speech_marker>
+                    </explanation>
+                </explanations>
+            </explanation_marker>
+            <statement>Der Prozess war in Neubrandenburg.</statement>
+            <statement>Bei dem Prozess hat das Gericht einen Mann verurteilt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Gericht hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Mann muss lebenslang ins Gefängnis.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Der Mann hat nämlich ein Mädchen ermordet.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Und der Mann hat das Mädchen misshandelt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <explanation_marker>
+               <statement>Das Mädchen war die Stief·tochter von dem Mann.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Das Mädchen war <style_element type="hb">nicht</style_element> die Tochter von dem Mann.</style_element></statement> 
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Aber der Mann und die Mutter von dem Mädchen waren ein Paar.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Das Mädchen heißt Leonie.</statement>
+            <statement>Und das Mädchen war 6 Jahre alt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <statement>Vor einem Jahr ging es Leonie sehr schlecht.</statement>
+               <statement>Deshalb haben die Mutter und der Stief·vater Hilfe geholt.</statement>
+               <statement>Dann sind Rettungs·kräfte zu der Wohnung gekommen.</statement>
+               <statement>Aber die Rettungs·kräfte sind <style_element type="hb">nicht</style_element> rechtzeitig gekommen.</statement> 
+               <statement>Leonie war schon tot.</statement>
+               <statement>Die Mutter und der Stief·vater haben die Hilfe nämlich zu spät geholt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Leonie hatte viele Verletzungen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Einige Verletzungen hatte Leonie schon lange.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Andere Verletzungen waren besonders schwer.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>An diesen Verletzungen ist Leonie gestorben.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Stief·vater hat Leonie misshandelt</subheadline>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Der Stief·vater hat vor Gericht gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Leonie ist eine Treppe heruntergefallen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Deshalb hatte Leonie die Verletzungen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Aber das Gericht hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Stief·vater lügt.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Der Stief·vater hat Leonie misshandelt.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Der Stief·vater hat Leonie zum Beispiel geschlagen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <headword>Und getreten.</headword>
+                     </speech>
+                     <speech id="5">
+                        <statement>Deshalb ist Leonie gestorben.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Und deshalb muss der Stief·vater lebenslang ins Gefängnis.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Das Gericht hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die Mutter von Leonie hat noch 2 andere Kinder.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Eins von diesen 2 Kindern hat der Stief·vater auch misshandelt.</statement>
+                  </speech>
+                  <speech id="3">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Die Mutter wusste:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Der Stief·vater misshandelt die Kinder.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="4">
+                     <statement>Aber die Mutter hat <style_element type="hb">keine</style_element> Hilfe geholt.</statement> 
+                  </speech>
+                  <speech id="5">
+                     <statement>Deshalb bekommt die Mutter wahrscheinlich auch eine Strafe.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

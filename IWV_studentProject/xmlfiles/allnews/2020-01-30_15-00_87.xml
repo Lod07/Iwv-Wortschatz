@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-25" url="2020-01-30_15-00_87.xml">
+   <title>Mehr Nachrichten vom 30.01.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-01-30_15-00</vdate>
+   <resources>
+      <resource id="1" name="2020-01-30_15-00_87-full.png" type="screenshot" url="2020-01-30_15-00_87-full.png"/>
+      <resource id="2" name="2020-01-30_15-00_87_plaintext.txt" type="plaintext" url="2020-01-30_15-00_87_plaintext.txt"/>
+      <resource id="3" name="2020-01-30_15-00_87_quellcode.txt" type="sourcecode" url="2020-01-30_15-00_87_quellcode.txt"/>
+      <resource id="4" name="2020-01-30_15-00_87.docx" type="formatedText" url="2020-01-30_15-00_87.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 30.01.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Unfall mit U-Bahn</subheadline>
+               <statement>In Hamburg-Wandsbek war ein Unfall.</statement>
+               <explanation_marker>
+                  <statement>Der Unfall war mit einer U-Bahn.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">U-Bahnen sind Züge.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi"><style_element type="hb">U</style_element> ist die Abkürzung für <style_element type="hb">Untergrund</style_element>. </style_element></statement> 
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">U-Bahnen fahren oft in Tunneln unter der Erde.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Einige U-Bahnen fahren manchmal aber auch über der Erde.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>In der U-Bahn waren 200 Menschen.</statement>
+               <statement>4 von diesen 200 Menschen wurden verletzt.</statement>
+               <statement>60 Feuerwehr·leute waren im Einsatz.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Ein Feuerwehr·mann hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Die U-Bahn ist über der Erde gefahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Dann ist die U-Bahn plötzlich mit einem Baum zusammengestoßen.</statement>
+               <statement>Der Baum hat nämlich auf dem U-Bahn-Gleis gelegen.</statement>
+               <statement>Der U-Bahn-Fahrer hat den Baum <style_element type="hb">nicht</style_element> rechtzeitig gesehen.</statement> 
+               <statement>Die U-Bahn-Strecke war 2 Stunden gesperrt.</statement>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Schauspieler verlässt Fest·spiele</subheadline>
+               <explanation_marker>
+                  <statement>Der Schauspieler Alexander Koll verlässt die Fest·spiele in Ralswiek.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Ralswiek ist ein Ort auf der Rügen.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Rügen ist eine Insel in der Ostsee.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Die Fest·spiele in Ralswiek sind in einem besonderen Theater.</statement>
+               <statement>Dieses Theater ist draußen.</statement>
+               <statement>Und dieses Theater ist direkt an der Ostsee.</statement>
+               <explanation_marker>
+                  <statement>Die Fest·spiele sind die Störtebeker-Fest·spiele.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Störtebeker war ein See·räuber.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">See·räuber sind auf Segel-schiffen gefahren.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Und See·räuber haben andere Segel-schiffe ausgeraubt.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Alexander Koll hat die Haupt·rolle bei den Fest·spielen gespielt.</statement>
+               <statement>Aber jetzt will Alexander Koll <style_element type="hb">nicht</style_element> mehr die Haupt·rolle spielen.</statement> 
+               <statement>Jetzt brauchen die Fest·spiele einen neuen Schauspieler.</statement>
+               <statement>Die Fest·spiele sind jedes Jahr.</statement>
+               <statement>Die nächsten Fest·spiele beginnen wieder im Juni.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-27" url="2019-12-11_14-00_39.xml">
+   <title>Unfall mit 2 Lkw im Elb·tunnel</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-12-11_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-12-11_14-00_39-full.png" type="screenshot" url="2019-12-11_14-00_39-full.png"/>
+      <resource id="2" name="2019-12-11_14-00_39_plaintext.txt" type="plaintext" url="2019-12-11_14-00_39_plaintext.txt"/>
+      <resource id="3" name="2019-12-11_14-00_39_quellcode.txt" type="sourcecode" url="2019-12-11_14-00_39_quellcode.txt"/>
+      <resource id="4" name="2019-12-11_14-00_39.docx" type="formatedText" url="2019-12-11_14-00_39.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Unfall mit 2 Lkw im Elb·tunnel</headline>
+      <sections>
+         <section id="1">
+            <statement>In Hamburg war ein Unfall.</statement>
+            <explanation_marker>
+               <statement>Dieser Unfall war auf der A7.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">A7 ist die Abkürzung für <style_element type="hb">A</style_element>uto·bahn <style_element type="hb">7</style_element>.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Und dieser Unfall war im Elb·tunnel.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Der Elb·tunnel ist in Hamburg.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <explanation_marker>
+                        <statement><style_element type="hi">Und der Elb·tunnel ist ein großer Tunnel unter der Elbe.</style_element></statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Die Elbe ist ein großer Fluss.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                     </explanation>
+                  <explanation id="3"> 
+                     <statement><style_element type="hi">Viele Autos fahren jeden Tag durch den Elb·tunnel.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei dem Unfall ist ein Lkw gegen einen anderen Lkw gefahren.</statement>
+            <statement>Ein Lkw-Fahrer wurde bei dem Unfall leicht verletzt.</statement>
+            <statement>Nach dem Unfall hat die Polizei einen Teil vom Elb·tunnel gesperrt.</statement>
+            <statement>Deshalb war im Süden vom Elb·tunnel ein langer Stau.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+            <statement>Der Unfall war im südlichen Teil vom Elb·tunnel.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Feuerwehr hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Ein Lkw-Fahrer wurde bei dem Unfall eingeklemmt.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb mussten wir diesen Fahrer aus dem Lkw befreien.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dann haben Helfer den Lkw-Fahrer ins Kranken·haus gebracht.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Der andere Lkw-Fahrer wurde <style_element type="hb">nicht</style_element> verletzt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Bei dem Einsatz waren 36 Feuerwehr·leute.</statement>
+            <statement>Dann sind Fach·leute mit großen Fahrzeugen in den Elb·tunnel gefahren.</statement>
+            <statement>Diese Fach·leute wollten nämlich die kaputten Fahr·zeuge aus dem Elbtunnel holen.</statement>
+            <statement>Deshalb hat die Polizei einen Teil von dem Elb·tunnel mehrere Stunden gesperrt.</statement>
+            <explanation_marker>
+               <statement>Und deshalb war im Süden von dem Elb·tunnel ein langer Stau.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Viele Auto·fahrer mussten lange warten.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Stau war 10 Kilometer lang.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>  
+      </sections>
+   </content>
+</annotation>

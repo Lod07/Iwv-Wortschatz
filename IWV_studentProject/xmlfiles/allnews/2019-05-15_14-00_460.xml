@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-27" url="2019-05-15_14-00_460.xml">
+   <title>Moor im Emsland brennt</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-05-15_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-05-15_14-00_460-full.png" type="screenshot" url="2019-05-15_14-00_460-full.png"/>
+      <resource id="2" name="2019-05-15_14-00_460_plaintext.txt" type="plaintext" url="2019-05-15_14-00_460_plaintext.txt"/>
+      <resource id="3" name="2019-05-15_14-00_460_quellcode.txt" type="sourcecode" url="2019-05-15_14-00_460_quellcode.txt"/>
+      <resource id="4" name="2019-05-15_14-00_460.docx" type="formatedText" url="2019-05-15_14-00_460.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Moor im Emsland brennt</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Im Emsland ist ein Feuer.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Das Emsland ist eine Gegend in Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Bei dem Feuer brennt ein Moor.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Moor ist ein besonderes Gebiet.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Ein Moor hat nämlich einen besonderen Boden.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Dieser Boden ist meistens nass.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Das Moor brennt seit Dienstag.</statement>
+            <statement>In dem Moor wohnen <style_element type="hb">keine</style_element> Menschen.</statement>
+            <statement>Deshalb wurden bei dem Feuer <style_element type="hb">keine</style_element> Menschen verletzt.</statement>
+         </section>
+         <section id="2">
+            <statement>Bei dem Feuer waren 250 Feuerwehr·leute im Einsatz.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Feuerwehr hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Das Feuer war sehr groß.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Am Dienstag war nämlich viel Wind.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb ist das Feuer immer größer geworden.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Aber jetzt ist das Feuer <style_element type="hb">nicht</style_element> mehr so groß.</statement>
+                  </speech>
+                  <speech id="5">
+                     <explanation_marker>
+                        <statement>Und wir haben das Feuer unter Kontrolle.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword><style_element type="hi">Das heißt:</style_element></headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement><style_element type="hi">Das Feuer ist <style_element type="hb">nicht</style_element> mehr gefährlich.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="6">
+                     <speech_marker>
+                        <speech_intro>
+                           <headword>Wir glauben:</headword>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Wir können das Feuer bald löschen.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Feuerwehr hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Wir wissen <style_element type="hb">nicht</style_element>:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Wie ist das Feuer in dem Moor entstanden?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Aber im Emsland hat es wenig geregnet.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb ist das Moor sehr trocken.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und deshalb brennt das Moor sehr schnell.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="3">
+            <subheadline>Moor·brand im vergangenen Jahr</subheadline>
+               <statement>Schon im vergangenen Jahr war im Emsland ein Moor·brand.</statement>
+               <statement>Das Löschen von diesem Moor·brand war sehr schwierig.</statement>
+               <statement>Das Feuer war nämlich tief im Boden von diesem Moor.</statement>
+               <statement>Deshalb hat dieses Moor einige Wochen gebrannt.</statement>
+               <explanation_marker>
+                  <statement>Und deshalb war das Feuer in diesem Moor ein Katastrophen·fall.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Bei einem Kastastrophen·fall sind meistens viele Menschen in Gefahr.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <statement><style_element type="hi">Ein Katastrophen·fall ist zum Beispiel:</style_element></statement>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <headword><style_element type="hi">• Ein Erdbeben.</style_element></headword>
+                              </enumeration>
+                              <enumeration id="2">
+                                 <statement><style_element type="hi">• Oder eine Überschwemmung.</style_element></statement>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

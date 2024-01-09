@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-20" url="2019-04-02_13-30_478.xml">
+   <title>Mehr Nachrichten vom 02.04.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-04-02_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-04-02_13-30_478-full.png" type="screenshot" url="2019-04-02_13-30_478-full.png"/>
+      <resource id="2" name="2019-04-02_13-30_478_plaintext.txt" type="plaintext" url="2019-04-02_13-30_478_plaintext.txt"/>
+      <resource id="3" name="2019-04-02_13-30_478_quellcode.txt" type="sourcecode" url="2019-04-02_13-30_478_quellcode.txt"/>
+      <resource id="4" name="2019-04-02_13-30_478.docx" type="formatedText" url="2019-04-02_13-30_478.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 02.04.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Schleswig-Holstein: Spargel·ernte beginnt</subheadline>
+               <statement>Einige Bauern in Schleswig-Holstein freuen sich.</statement>
+               <explanation_marker>
+                  <statement>Diese Bauern können nämlich wieder Spargel ernten.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Spargel ist ein besonderes Gemüse.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und Spargel gibt es nur zu einer bestimmten Zeit.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Diese Zeit beginnt meistens im Mai.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Und diese Zeit endet meistens im Juni.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Fach·leute haben gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>In diesem Jahr können die Bauern schon jetzt Spargel ernten.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Der Februar war nämlich sehr warm.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und sehr trocken.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb ist der Spargel besonders gut gewachsen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Die ersten Bauern in Schleswig-Holstein haben schon mit der Ernte begonnen.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Mann stirbt bei Unfall</subheadline>
+               <statement>In Northeim war ein schwerer Unfall.</statement>
+               <statement>Bei diesem Unfall ist ein Mann gestorben.</statement>
+               <statement>Die Polizei hat gesagt:</statement>
+               <statement>Der Mann ist mit seinem Motorrad auf eine Kreuzung gefahren.</statement>
+               <statement>Auf dieser Kreuzung ist der Mann gegen den Lkw gefahren.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Mann hat noch gebremst.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Aber der Mann ist gegen den Lkw gefahren.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Bei dem Unfall wurde der Mann sehr schwer verletzt.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Im Krankenhaus ist der Mann gestorben.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <statement>Jetzt ermittelt die Polizei.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei will nämlich wissen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Wie genau ist der Unfall passiert?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-17" url="2019-03-05_14-00_542.xml">
+   <title>Sturm in Nord·deutschland</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-03-05_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-03-05_14-00_542-full.png" type="screenshot" url="2019-03-05_14-00_542-full.png"/>
+      <resource id="2" name="2019-03-05_14-00_542_plaintext.txt" type="plaintext" url="2019-03-05_14-00_542_plaintext.txt"/>
+      <resource id="3" name="2019-03-05_14-00_542_quellcode.txt" type="sourcecode" url="2019-03-05_14-00_542_quellcode.txt"/>
+      <resource id="4" name="2019-03-05_14-00_542.docx" type="formatedText" url="2019-03-05_14-00_542.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Sturm in Nord·deutschland</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Nord·deutschland war ein Sturm.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bei einem Sturm weht sehr starker Wind.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Deshalb sind manche Stürme gefährlich.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Sturm hat viele Schäden gemacht.</statement>
+            <statement>Und bei diesem Sturm waren auch Unfälle.</statement>
+            <statement>Bei diesen Unfällen wurde 3 Menschen verletzt.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Bäume auf Straßen und Bahn·schienen</subheadline>
+               <statement>Bei dem Sturm sind viele Bäume umgefallen.</statement>
+               <statement>Einige von diesen Bäumen sind auf Straßen gefallen.</statement>
+               <explanation_marker>
+                  <statement>Zum Beispiel in Abtshagen.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Abtshagen ist ein Ort in Mecklenburg-Vorpommern.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker> 
+               <statement>Gegen diesen Baum sind 2 Autos gefahren.</statement>
+               <statement>2 Menschen in einem Auto wurden verletzt.</statement>
+               <statement>Der Fahrer von dem anderen Auto wurde <style_element type="hb">nicht</style_element> verletzt.</statement>
+         </section>
+         <section id="3">
+            <explanation_marker>
+               <statement>Auch in Neubrandenburg ist ein Auto gegen einen Baum gefahren.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Neubrandenburg ist eine Stadt in Mecklenburg-Vorpommern.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Fahrerin von diesem Auto wurde verletzt.</statement>
+         </section>
+         <section id="4">
+            <statement>Bei dem Sturm sind auch viele Bäume auf Bahn·schienen gefallen.</statement>
+            <statement>Deshalb konnten viele Züge <style_element type="hb">nicht</style_element> fahren.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Bahn hat gesagt:</statement> 
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Arbeiter haben die Bäume von den Bahn·schienen entfernt.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Jetzt können die Züge wieder fahren.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="5">
+            <subheadline>Viele Schäden</subheadline>
+               <statement>Der Sturm hat auch viele Häuser beschädigt.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <headword>Zum Beispiel:</headword>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <explanation_marker>
+                           <statement>• In Neumünster ist ein großer Baum auf ein Haus gefallen.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Neumünster ist eine Stadt in Schleswig-Holstein.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                     <enumeration id="2">
+                        <explanation_marker>
+                           <statement>• Und in Hesel hat der Sturm das Dach von einem Supermarkt weg·geweht.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Hesel ist ein Ort in Niedersachsen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

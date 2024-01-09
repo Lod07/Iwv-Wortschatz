@@ -1,0 +1,188 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2020-02-10_15-30_159.xml">
+   <title>Sturm in Nord·deutschland</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-02-10_15-30</vdate>
+   <resources>
+      <resource id="1" name="2020-02-10_15-30_159-full.png" type="screenshot" url="2020-02-10_15-30_159-full.png"/>
+      <resource id="2" name="2020-02-10_15-30_159_plaintext.txt" type="plaintext" url="2020-02-10_15-30_159_plaintext.txt"/>
+      <resource id="3" name="2020-02-10_15-30_159_quellcode.txt" type="sourcecode" url="2020-02-10_15-30_159_quellcode.txt"/>
+      <resource id="4" name="2020-02-10_15-30_159.docx" type="formatedText" url="2020-02-10_15-30_159.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Sturm in Nord·deutschland</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Nord·deutschland war ein Sturm.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Bei einem Sturm weht sehr starker Wind.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Deshalb sind manche Stürme gefährlich.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Sturm heißt Sabine.</statement>
+            <statement>Und der Sturm war sehr stark.</statement>
+            <statement>Deshalb sind zum Beispiel viele Züge <style_element type="hb">nicht</style_element> gefahren.</statement>
+            <statement>Und einige Schulen waren geschlossen.</statement>
+            <statement>Bei dem Sturm sind viele Bäume umgekippt.</statement>
+            <statement>Diese Bäume sind zum Beispiel auf Straßen gefallen.</statement>
+            <statement>Bei dem Sturm wurden einige Menschen leicht verletzt.</statement>
+            <statement>Eine Frau in Niedersachsen ist zum Beispiel bei dem Sturm vom Fahrrad gefallen.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Warnungen vor dem Sturm</subheadline>
+            <statement>Stürme sind manchmal gefährlich.</statement>
+            <explanation_marker>
+               <statement>Deshalb hat der Deutsche Wetter·dienst vor dem Sturm gewarnt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Beim Deutschen Wetter·dienst arbeiten viele Fach·leute.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Diese Fach·leute beobachten jeden Tag das Wetter.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Deshalb können die Fach·leute vom Deutschen Wetter·dienst sagen:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>
+                                 <style_element type="hi">So wird das Wetter.</style_element>
+                              </statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Der Deutsche Wetter·dienst hat zum Beispiel die Bahn vor dem Sturm gewarnt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Deshalb hat die Bahn gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Bei diesem Sturm fahren <style_element type="hb">keine</style_element> Züge.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Wir sperren viele Bahn·strecken.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Der Deutsche Wetter·dienst hat auch die Schulen in Niedersachsen gewarnt.</statement>
+            <statement>Deshalb waren einige Schulen geschlossen.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Zum Beispiel in:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Goslar.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Leer.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <headword>• Und in Delmenhorst.</headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="3">
+            <subheadline>Menschen müssen Wohnungen verlassen</subheadline>
+            <explanation_marker>
+               <statement>In Pinneberg mussten 120 Menschen ihre Wohnungen verlassen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Pinneberg ist eine Stadt in Schleswig-Holstein.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Neben den Häusern von diesen Menschen steht nämlich ein großer Kran.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Ein Kran ist ein großes Gerät.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Ein Kran ist zum Beispiel auf einer Baustelle.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Ein Kran kann schwere Dinge bewegen.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dieser Kran hat bei dem Sturm sehr gewackelt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Deshalb hat die Polizei gewarnt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Kran kann bei dem Sturm umkippen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und der Kran kann auf die Häuser fallen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Jetzt ist der Sturm weniger geworden.</statement>
+            <explanation_marker>
+               <statement>Aber jetzt warnen Fach·leute vor einer Sturm·flut in Nord·deutschland.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Eine Sturm·flut entsteht bei starkem Wind.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Zum Beispiel an der Ostsee.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Oder an der Nordsee.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement>
+                        <style_element type="hi">Bei einer Sturm·flut fließt oft Wasser über die Ufer.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

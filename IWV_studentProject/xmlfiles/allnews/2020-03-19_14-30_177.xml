@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-24" url="2020-03-19_14-30_177.xml">
+   <title>Mehr Nachrichten vom 19.03.2020</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2020-03-19_14-30</vdate>
+   <resources>
+      <resource id="1" name="2020-03-19_14-30_177-full.png" type="screenshot" url="2020-03-19_14-30_177-full.png"/>
+      <resource id="2" name="2020-03-19_14-30_177_plaintext.txt" type="plaintext" url="2020-03-19_14-30_177_plaintext.txt"/>
+      <resource id="3" name="2020-03-19_14-30_177_quellcode.txt" type="sourcecode" url="2020-03-19_14-30_177_quellcode.txt"/>
+      <resource id="4" name="2020-03-19_14-30_177.docx" type="formatedText" url="2020-03-19_14-30_177.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 19.03.2020</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Schulen bis nach Ostern geschlossen</subheadline>
+            <statement>Die Schulen sind bis zum 19. April geschlossen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Schul·behörde hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir müssen die Schüler vor dem Corona-Virus schützen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und wir müssen die Lehrer vor dem Corona-Virus schützen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb schließen wir die Schulen jetzt noch länger.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <explanation_marker>
+               <statement>Auch Kitas sind bis zum 19. April geschlossen.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Kita ist die Abkürzung für <style_element type="hb">K</style_element>inder·<style_element type="hb">ta</style_element>ges·stätte.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>In einer Kita kümmern sich Erzieher um Kinder.</statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>Und in einer Kita können Kinder zum Beispiel mit anderen Kindern spielen.</statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Die Kitas haben aber eine Not·betreuung.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <headword><style_element type="hi">Das heißt:</style_element></headword>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Eltern wissen nicht:</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <question><style_element type="hi">Wo können wir unsere Kinder hinbringen?</style_element></question>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Dann können diese Eltern ihre Kinder in die Kita bringen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Lange Staus</subheadline>
+            <explanation_marker>
+               <statement>An der Grenze zu Polen sind lange Staus.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Polen ist ein Land östlich von Mecklenburg-Vorpommern.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Diese Staus sind auf der A11.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">A11 ist die Abkürzung für <style_element type="hb">A</style_element>utobahn <style_element type="hb">11</style_element>.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und diese Staus sind von Lkw.</statement>
+            <statement>Polen hat jetzt nämlich an seinen Grenzen strenge Kontrollen.</statement>
+            <statement>Polen will zum Beispiel wissen:</statement>
+            <question>Hat ein Fahrer vielleicht das Corona-Virus?</question>
+            <statement>Deshalb kontrolliert Polen jetzt jeden Fahrer.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

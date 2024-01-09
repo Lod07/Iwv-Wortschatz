@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-11-26" url="2018-10-09_15-00_822.xml">
+   <title>Kreuz·fahrt·schiff fährt über die Ems</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-10-09_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-10-09_15-00_822-full.png" type="screenshot" url="2018-10-09_15-00_822-full.png"/>
+      <resource id="2" name="2018-10-09_15-00_822_plaintext.txt" type="plaintext" url="2018-10-09_15-00_822_plaintext.txt"/>
+      <resource id="3" name="2018-10-09_15-00_822_quellcode.txt" type="sourcecode" url="2018-10-09_15-00_822_quellcode.txt"/>
+      <resource id="4" name="2018-10-09_15-00_822.docx" type="formatedText" url="2018-10-09_15-00_822.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Kreuz·fahrt·schiff fährt über die Ems</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Niedersachsen haben Arbeiter ein Kreuz·fahrt·schiff gebaut.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Auf einem Kreuz·fahrt·schiff machen Menschen Urlaub.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">In diesem Urlaub lernen die Menschen viele Orte kennen.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Ein Kreuz·fahrt·schiff fährt nämlich zu vielen Orten.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Dieses Kreuz·fahrt·schiff haben die Arbeiter auf einer Werft gebaut.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Werft ist eine große Firma.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Auf einer Werft bauen Arbeiter Schiffe.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Diese Werft ist in Papenburg.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Papenburg ist eine Stadt in Niedersachsen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und diese Werft heißt: Meyer Werft.</statement>
+            <statement>Jetzt hat das Kreuz·fahrt·schiff die Meyer Werft verlassen.</statement>
+            <statement>Und jetzt fährt das Kreuz·fahrt·schiff in die Nordsee.</statement>
+         </section>
+         <section id="2">
+            <subheadline>Viele Zuschauer an der Ems</subheadline>
+               <statement>Das Kreuz·fahrt·schiff soll auf dem Meer fahren.</statement>
+               <statement>Aber die Meyer Werft ist <style_element type="hb">nicht</style_element> am Meer.</statement>
+               <explanation_marker>
+                  <statement>Die Meyer Werft ist an der Ems.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Die Ems ist ein Fluss in Niedersachsen.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und die Ems fließt in die Nordsee.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Deshalb muss das Kreuz·fahrt·schiff über die Ems fahren.</statement>
+               <statement>Am Ufer von der Ems sind viele Zuschauer.</statement>
+               <statement>Diese Zuschauer wollen das Kreuz·fahrt·schiff sehen.</statement>
+               <explanation_marker>
+                  <statement>Viele Zuschauer waren zum Beispiel am Sperr·werk.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Ein Sperr·werk ist ein besonderes Bau·werk im Wasser.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <statement><style_element type="hi">Und ein Sperr·werk hat zum Beispiel große Tore.</style_element></statement>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <question><style_element type="hi">• Die Tore sind auf?</style_element></question>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </explanation>
+                     <explanation id="3">
+                        <enumeration_marker>
+                           <enumeration_intro>
+                              <statement><style_element type="hi">Dann fließt das Wasser durch das Sperr·werk.</style_element></statement>
+                           </enumeration_intro>
+                           <enumerations>
+                              <enumeration id="1">
+                                 <question><style_element type="hi">• Die Tore sind <style_element type="hb">nicht</style_element> auf?</style_element></question>
+                              </enumeration>
+                           </enumerations>
+                        </enumeration_marker>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Dann fließt <style_element type="hb">kein</style_element> Wasser durch das Sperr·werk.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Das Kreuz·fahrt·schiff ist nämlich durch das Sperr·werk gefahren.</statement>
+         </section>
+         <section id="3">
+            <subheadline>Kreuz·fahrt·schiff fährt mit Erd·gas</subheadline>
+               <statement>Das Kreuz·fahrt·schiff ist ein besonderes Schiff.</statement>
+               <explanation_marker>
+                  <statement>Das Kreuz·fahrt·schiff fährt nämlich mit Erd·gas.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Erd·gas ist ein Treib·stoff.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Ein Treib·stoff kann einen Motor bewegen.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Meyer Werft hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Noch <style_element type="hb">nie</style_element> ist ein Kreuz·fahrt·schiff nur mit Erd·gas gefahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <explanation_marker>
+                           <statement>Viele Kreuz·fahrt·schiffe fahren nämlich mit Diesel.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Diesel ist ein Treib·stoff.</style_element></statement>
+                              </explanation>
+                              <explanation id="2">
+                                 <explanation_marker>
+                                    <statement><style_element type="hi">Und Diesel macht sehr viele Schad·stoffe.</style_element></statement>
+                                    <explanations>
+                                       <explanation id="1">
+                                          <statement><style_element type="hi">Schad·stoffe sind gefährliche Stoffe.</style_element></statement>
+                                       </explanation>
+                                       <explanation id="2">
+                                          <statement><style_element type="hi">Manche Schad·stoffe machen zum Beispiel die Luft schmutzig.</style_element></statement>
+                                       </explanation>
+                                       <explanation id="3">
+                                          <statement><style_element type="hi">Oder das Meer.</style_element></statement>
+                                       </explanation>
+                                       <explanation id="4">
+                                          <statement><style_element type="hi">Deshalb sind Schad·stoffe schlecht für die Natur.</style_element></statement>
+                                       </explanation>
+                                       <explanation id="5">
+                                          <statement><style_element type="hi">Und für die Menschen.</style_element></statement>
+                                       </explanation>
+                                    </explanations>
+                                 </explanation_marker>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Aber das neue Kreuz·fahrt·schiff fährt mit Erd·gas.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb macht das neue Kreuz·fahrt·schiff weniger Schad·stoffe.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

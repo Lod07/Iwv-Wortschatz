@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-25" url="2019-07-10_14-00_357.xml">
+   <title>Feuer auf Fähre: Fahrten fallen aus</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-07-10_14-00</vdate>
+   <resources>
+      <resource id="1" name="2019-07-10_14-00_357-full.png" type="screenshot" url="2019-07-10_14-00_357-full.png"/>
+      <resource id="2" name="2019-07-10_14-00_357_plaintext.txt" type="plaintext" url="2019-07-10_14-00_357_plaintext.txt"/>
+      <resource id="3" name="2019-07-10_14-00_357_quellcode.txt" type="sourcecode" url="2019-07-10_14-00_357_quellcode.txt"/>
+      <resource id="4" name="2019-07-10_14-00_357.docx" type="formatedText" url="2019-07-10_14-00_357.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Feuer auf Fähre: Fahrten fallen aus</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>Am Dienstag·abend war ein Feuer auf einer Fähre.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Eine Fähre ist ein Schiff.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Eine Fähre transportiert zum Beispiel Menschen.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <headword>
+                        <style_element type="hi">Oder Autos.</style_element>
+                     </headword>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Die Fähre war in der Ostsee.</statement>
+            <explanation_marker>
+               <statement>Und die Fähre war in der Nähe von Lübeck.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Lübeck ist eine Stadt in Schleswig-Holstein.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Auf der Fähre waren 330 Menschen.</statement>
+            <statement>Bei dem Feuer wurde <style_element type="hb">kein</style_element> Mensch verletzt.</statement>
+            <statement>Aber das Feuer hat Schäden an der Fähre gemacht.</statement>
+            <statement>Deshalb kann die Fähre <style_element type="hb">nicht</style_element> mehr richtig fahren.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Und deshalb sind am Mittwoch einige Fahrten ausgefallen:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <explanation_marker>
+                        <statement>• Von Schweden nach Lübeck.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Schweden ist ein Land in Nord·europa.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="2">
+                     <explanation_marker>
+                        <statement>• Von Schweden nach Rostock.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement>
+                                 <style_element type="hi">Rostock ist eine Stadt in Mecklenburg-Vorpommern.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">Und Rostock ist an der Ostsee.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </enumeration>
+                  <enumeration id="3">
+                     <statement>• Und von Rostock nach Lübeck.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+            <statement>Die Fähre ist aus Schweden gekommen.</statement>
+            <explanation_marker>
+               <statement>Und die Fähre sollte nach Travemünde fahren.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Travemünde ist ein Stadt·teil von Lübeck.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Dann war ein Feuer auf der Fähre.</statement>
+            <statement>Die Menschen auf der Fähre konnten das Feuer löschen.</statement>
+            <statement>Aber das Feuer hat Schäden an der Fähre gemacht.</statement>
+            <statement>Deshalb konnte die Fähre <style_element type="hb">nicht</style_element> mehr richtig fahren.</statement>
+            <explanation_marker>
+               <statement>Und deshalb haben Schlepper die Fähre nach Travemünde gebracht.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Ein Schlepper ist ein kleines Schiff.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Aber ein Schlepper hat einen sehr starken Motor.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement>
+                        <style_element type="hi">Deshalb kann ein Schlepper zum Beispiel große Schiffe ziehen.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>In der Nacht ist die Fähre in Travemünde angekommen.</statement>
+         </section>
+         <section id="3">
+            <statement>Jetzt untersuchen Fach·leute die Fähre.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Fach·leute wollen nämlich wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum war das Feuer auf der Fähre?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

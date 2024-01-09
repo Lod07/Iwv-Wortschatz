@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-30" url="2018-04-05_15-00_876.xml">
+   <title>Ermittlungen wegen sexueller Belästigung</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-04-05_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-04-05_15-00_876-full.png" type="screenshot" url="2018-04-05_15-00_876-full.png"/>
+      <resource id="2" name="2018-04-05_15-00_876_plaintext.txt" type="plaintext" url="2018-04-05_15-00_876_plaintext.txt"/>
+      <resource id="3" name="2018-04-05_15-00_876_quellcode.txt" type="sourcecode" url="2018-04-05_15-00_876_quellcode.txt"/>
+      <resource id="4" name="2018-04-05_15-00_876.docx" type="formatedText" url="2018-04-05_15-00_876.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Ermittlungen wegen sexueller Belästigung</headline>
+      <sections>
+         <section id="1">
+            <explanation_marker>
+               <statement>In Schleswig-Holstein ermittelt die Staats·anwaltschaft gegen einen Mann.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die Staats·anwaltschaft ist eine Behörde.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <statement><style_element type="hi">Die Staats·anwaltschaft prüft:</style_element></statement>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <question><style_element type="hi">• Hat ein Mensch etwas Verbotenes getan?</style_element></question>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+                  <explanation id="3">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement><style_element type="hi">Dann fordert die Staats·anwaltschaft vor Gericht:</style_element></statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement><style_element type="hi">Dieser Mensch soll eine Strafe bekommen.</style_element></statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </explanation>
+                  <explanation id="4">
+                     <question><style_element type="hi">• Oder hat ein Mensch <style_element type="hb">nichts</style_element> Verbotenes getan?</style_element></question>
+                  </explanation>
+                  <explanation id="5">
+                     <statement><style_element type="hi">Dann bekommt der Mensch <style_element type="hb">keine</style_element> Strafe.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+             <speech_marker>
+                <speech_intro>
+                   <statement>Die Staats·anwaltschaft prüft nämlich:</statement>
+                </speech_intro>
+                <speeches>
+                   <speech id="1">
+                      <explanation_marker>
+                         <question>Hat der Mann mehrere Frauen sexuell belästigt?</question>
+                         <explanations>
+                            <explanation id="1">
+                               <statement><style_element type="hi">Sexuelle Belästigung ist eine Straf·tat.</style_element></statement>
+                            </explanation>
+                            <explanation id="2">
+                               <statement><style_element type="hi">Bei sexueller Belästigung fasst ein Täter einem Opfer zum Beispiel zwischen die Beine.</style_element></statement>
+                            </explanation>
+                            <explanation id="3">
+                               <statement><style_element type="hi">Das ist verboten.</style_element></statement>
+                            </explanation>
+                         </explanations>
+                      </explanation_marker>
+                   </speech>
+                </speeches>
+             </speech_marker>
+         </section>
+         <section id="2">
+            <subheadline>Was ist passiert?</subheadline>
+               <explanation_marker>
+                  <statement>Der Mann war in einer großen Organisation.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Eine Organisation ist eine Gruppe von Menschen.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Diese Organisation heißt Weißer Ring.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Der Weiße Ring hilft Opfern von Verbrechen.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Zum Beispiel wenn ein Mensch von einem anderen Menschen verletzt wird.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Oder wenn ein Mensch überfallen wird.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Den Weißen Ring gibt es in vielen Städten in Deutschland.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Der Mann war der Chef vom Weißen Ring in Lübeck.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Lübeck ist eine Stadt in Schleswig-Holstein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <section id="3">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Staats·anwaltschaft hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Mann hat sich mit Opfern von Verbrechen getroffen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Viele von diesen Opfern sind Frauen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Der Mann sollte diesen Frauen helfen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Aber Hinweise haben gezeigt:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Der Mann hat den Frauen <style_element type="hb">nicht</style_element> geholfen.</statement>
+                           </speech>
+                           <speech id="2">
+                              <statement>Der Mann hat die Frauen wahrscheinlich sexuell belästigt.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="4">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Der Mann hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Ich habe die Frauen <style_element type="hb">nicht</style_element> sexuell belästigt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="5">
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt muss die Staats·anwaltschaft herausfinden:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Hat der Mann die Frauen sexuell belästigt?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-29" url="2018-03-16_15-00_951.xml">
+   <title>Viele Fähren fahren nicht</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-03-16_15-00</vdate>
+   <resources>
+      <resource id="1" name="2018-03-16_15-00_951-full.png" type="screenshot" url="2018-03-16_15-00_951-full.png"/>
+      <resource id="2" name="2018-03-16_15-00_951_plaintext.txt" type="plaintext" url="2018-03-16_15-00_951_plaintext.txt"/>
+      <resource id="3" name="2018-03-16_15-00_951_quellcode.txt" type="sourcecode" url="2018-03-16_15-00_951_quellcode.txt"/>
+      <resource id="4" name="2018-03-16_15-00_951.docx" type="formatedText" url="2018-03-16_15-00_951.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Viele Fähren fahren nicht</headline>
+      <sections>
+         <section id="1">
+            <statement>In vielen Orten in Nord·deutschland ist es sehr windig.</statement>
+            <explanation_marker>
+               <statement>Deshalb fahren viele Fähren in Nord·deutschland nicht.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Eine Fähre ist ein Schiff.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Eine Fähre transportiert zum Beispiel Menschen.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <headword><style_element type="hi">Oder Autos.</style_element></headword>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Viele Fähren von der Reederei Frisia fahren zum Beispiel <style_element type="hb">nicht</style_element>.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Die Reederei Frisia ist eine Firma.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Diese Firma hat Schiffe.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Diese Schiffe fahren auf der Nord·see.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Reederei Frisia hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Wind ist sehr stark.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Und der Wind ist gefährlich für Fähren.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb dürfen unsere Fähren <style_element type="hb">nicht</style_element> fahren.</statement>
+                  </speech>
+                  <speech id="4">
+                     <explanation_marker>
+                        <statement>Zum Beispiel unsere Fähren nach Juist.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement><style_element type="hi">Juist ist eine Ostfriesische Insel.</style_element></statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement><style_element type="hi">Die Ostfriesischen Inseln sind Inseln in der Nord·see.</style_element></statement>
+                                    </explanation>
+                                    <explanation id="2">
+                                       <statement><style_element type="hi">Die Ostfriesischen Inseln gehören zu Niedersachsen.</style_element></statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="5">
+                     <statement>Wahrscheinlich dürfen unsere Fähren nach Juist erst am Montag wieder fahren.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <section id="2">
+            <statement>Auch viele andere Fähren sind am Freitag <style_element type="hb">nicht</style_element> gefahren.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Zum Beispiel die Fähren zu den Ostfriesischen Inseln:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Wangerooge.</headword>
+                  </enumeration>
+                  <enumeration id="2">
+                     <headword>• Norderney.</headword>
+                  </enumeration>
+                  <enumeration id="3">
+                     <headword>• Und Baltrum.</headword>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+         </section>
+         <section id="3">
+            <subheadline>Auch Fähren in der Ost·see fahren nicht</subheadline>
+               <explanation_marker>
+                  <statement>Auch in Rostock sind viele Fähren <style_element type="hb">nicht</style_element> gefahren.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Rostock ist eine Stadt in Mecklenburg-Vorpommern.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Diese Fähren sind von der Reederei Scandlines.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Die Reederei Scandlines ist eine große Firma.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Diese große Firma hat viele Schiffe.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Diese Schiffe fahren auf der Ost·see.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Und diese Fähren fahren zwischen Rostock und Gedser.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <explanation_marker>
+                           <statement><style_element type="hi">Gedser ist eine Stadt in Dänemark.</style_element></statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <statement><style_element type="hi">Dänemark ist ein Land in Europa.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

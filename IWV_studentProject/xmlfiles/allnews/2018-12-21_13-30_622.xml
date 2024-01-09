@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-29" url="2018-12-21_13-30_622.xml">
+   <title>Mehr Nachrichten vom 21.12.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-12-21_13-30</vdate>
+   <resources>
+      <resource id="1" name="2018-12-21_13-30_622-full.png" type="screenshot" url="2018-12-21_13-30_622-full.png"/>
+      <resource id="2" name="2018-12-21_13-30_622_plaintext.txt" type="plaintext" url="2018-12-21_13-30_622_plaintext.txt"/>
+      <resource id="3" name="2018-12-21_13-30_622_quellcode.txt" type="sourcecode" url="2018-12-21_13-30_622_quellcode.txt"/>
+      <resource id="4" name="2018-12-21_13-30_622.docx" type="formatedText" url="2018-12-21_13-30_622.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 21.12.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Feuer zerstört großes Haus</subheadline>
+               <statement>In Buxtehude war ein Feuer.</statement>
+               <statement>Das Feuer hat ein großes Haus zerstört.</statement>
+               <statement>In dem Haus war früher ein Restaurant.</statement>
+               <statement>Bei dem Feuer war <style_element type="hb">kein</style_element> Mensch in dem Haus.</statement>
+               <statement>Deshalb wurde bei dem Feuer <style_element type="hb">kein</style_element> Mensch verletzt.</statement>
+               <speech_marker>
+                  <speech_intro> 
+                     <statement>Die Feuerwehr hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Ein Mensch hat uns angerufen.</statement>
+                     </speech>
+                     <speech id="2">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement>Und dieser Mensch hat gesagt:</statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement>Das Haus brennt.</statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </speech>
+                     <speech id="3">
+                        <statement>Wir wollten das Haus löschen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Aber wir konnten das Haus <style_element type="hb">nicht</style_element> löschen.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Deshalb hat das Feuer das Haus zerstört.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Jetzt will die Polizei wissen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Warum hat das Haus gebrannt?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Mann mit Messer verletzt</subheadline>
+               <statement>Im Stadt·teil Altona war ein schlimmer Streit.</statement>
+               <statement>Bei dem Streit hat ein Mensch einen jungen Mann verletzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Mehrere Menschen haben zusammen gefeiert.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Dann sind andere Menschen auf die Feier gekommen.</statement>
+                     </speech>
+                     <speech id="3"> 
+                        <statement>Aber diese Menschen waren <style_element type="hb">nicht</style_element> zu der Feier eingeladen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Deshalb hat es einen Streit gegeben.</statement>
+                     </speech>
+                     <speech id="5">
+                        <statement>Bei diesem Streit hat ein Mensch einen jungen Mann angegriffen.</statement>
+                     </speech>
+                     <speech id="6">
+                        <statement>Der Mensch hat dem jungen Mann mit einem Messer am Hintern verletzt.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Jetzt will die Polizei wissen:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <question>Wer ist dieser Mensch?</question>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

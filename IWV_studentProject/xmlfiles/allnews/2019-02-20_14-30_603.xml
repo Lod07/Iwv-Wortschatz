@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-10-14" url="2019-02-20_14-30_603.xml">
+   <title>Mehr Nachrichten vom 20.02.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-02-20_14-30</vdate>
+   <resources>
+      <resource id="1" name="2019-02-20_14-30_603-full.png" type="screenshot" url="2019-02-20_14-30_603-full.png"/>
+      <resource id="2" name="2019-02-20_14-30_603_plaintext.txt" type="plaintext" url="2019-02-20_14-30_603_plaintext.txt"/>
+      <resource id="3" name="2019-02-20_14-30_603_quellcode.txt" type="sourcecode" url="2019-02-20_14-30_603_quellcode.txt"/>
+      <resource id="4" name="2019-02-20_14-30_603.docx" type="formatedText" url="2019-02-20_14-30_603.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 20.02.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Hamburg: Neuer Mitarbeiter beim HSV</subheadline>
+               <explanation_marker>
+                  <statement>Der HSV hat bald einen neuen Mitarbeiter.</statement> 
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">HSV ist die Abkürzung für <style_element type="hb">H</style_element>amburger <style_element type="hb">S</style_element>port-<style_element type="hb">V</style_element>erein.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Der HSV ist ein Fußball·verein.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Und der HSV spielt in der 2. Bundesliga.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Dieser neue Mitarbeiter ist Michael Mutzel.</statement>
+               <explanation_marker>
+                  <statement>Michael Mutzel wird der neue Sport·chef vom HSV.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <speech_marker>
+                           <speech_intro>
+                              <statement><style_element type="hi">Ein Sport·chef sagt zum Beispiel:</style_element></statement>
+                           </speech_intro>
+                           <speeches>
+                              <speech id="1">
+                                 <statement><style_element type="hi">Diesen Spieler soll der Verein kaufen.</style_element></statement>
+                              </speech>
+                           </speeches>
+                        </speech_marker>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <explanation_marker>
+                  <statement>Michael Mutzel hat vorher bei der TSG Hoffenheim gearbeitet.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Die TSG Hoffenheim ist ein Fußball·verein aus Baden-Württemberg.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und die TSG Hoffenheim spielt in der 1. Bundesliga.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Hamburg: Streiks an Schulen</subheadline>
+               <explanation_marker>
+                  <statement>Viele Menschen in Nord·deutschland streiken.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <headword><style_element type="hi">Das heißt:</style_element></headword> 
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Diese Menschen arbeiten <style_element type="hb">nicht</style_element>.</style_element></statement>
+                     </explanation>
+                     <explanation id="3">
+                        <statement><style_element type="hi">Diese Menschen sind nämlich mit ihrer Arbeit <style_element type="hb">nicht</style_element> zufrieden.</style_element></statement>
+                     </explanation>
+                     <explanation id="4">
+                        <statement><style_element type="hi">Diese Menschen wollen zum Beispiel mehr Geld.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Diese Menschen arbeiten im öffentlichen Dienst.</statement>
+               <enumeration_marker>
+                  <enumeration_intro>
+                     <statement>Im öffentlichen Dienst arbeiten zum Beispiel:</statement>
+                  </enumeration_intro>
+                  <enumerations>
+                     <enumeration id="1">
+                        <headword>• Straßen·reiniger.</headword>
+                     </enumeration>
+                     <enumeration id="2">
+                        <headword>• Oder Lehrer.</headword>
+                     </enumeration>
+                  </enumerations>
+               </enumeration_marker> 
+               <statement>Am Mittwoch haben in Hamburg viele Mitarbeiter von Schulen gestreikt.</statement>
+               <statement>In vielen Schulen von Hamburg war trotzdem Unterricht.</statement>
+               <statement>Viele Mitarbeiter in den Schulen dürfen nämlich <style_element type="hb">nicht</style_element> streiken.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

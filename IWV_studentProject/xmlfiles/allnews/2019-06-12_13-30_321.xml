@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-26" url="2019-06-12_13-30_321.xml">
+   <title>Mehr Nachrichten vom 12.06.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-06-12_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-06-12_13-30_321-full.png" type="screenshot" url="2019-06-12_13-30_321-full.png"/>
+      <resource id="2" name="2019-06-12_13-30_321_plaintext.txt" type="plaintext" url="2019-06-12_13-30_321_plaintext.txt"/>
+      <resource id="3" name="2019-06-12_13-30_321_quellcode.txt" type="sourcecode" url="2019-06-12_13-30_321_quellcode.txt"/>
+      <resource id="4" name="2019-06-12_13-30_321.docx" type="formatedText" url="2019-06-12_13-30_321.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 12.06.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Mecklenburg-Vorpommern: Polizisten festgenommen</subheadline>
+            <statement>Die Polizei hat 4 Polizisten festgenommen.</statement>
+            <statement>Diese 4 Polizisten sollen nämlich die Polizei bestohlen haben.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>3 von den Polizisten haben jahrelang Munition gestohlen.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <statement><style_element type="hi">Munition sind zum Beispiel die Kugeln für Pistolen.</style_element></statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Diese Munition haben die 3 Polizisten dem 4. Polizisten gegeben.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <explanation_marker>
+               <statement>Der Innen·minister von Mecklenburg-Vorpommern ist Lorenz Caffier.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Ein Innen·minister ist ein wichtiger Politiker in der Regierung.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Der Innen·minister kümmert sich zum Beispiel um die Polizei.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Lorenz Caffier hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die 4 Polizisten haben gegen Gesetze verstoßen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Das ist besonders schlimm.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Polizisten sind nämlich Vorbilder.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Niedersachsen: Verletzte bei Unfall</subheadline>
+            <statement>Auf der Autobahn 1 war ein schlimmer Unfall.</statement>
+            <explanation_marker>
+               <statement>Der Unfall war in der Nähe von Bramsche.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Bramsche ist ein Ort in der Nähe von Osnabrück.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei diesem Unfall wurden 3 Männer verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Die 3 Männer waren in einem Auto.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dieses Auto ist gegen einen Lkw gefahren.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Die 3 Männer sind jetzt in einem Kranken·haus.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Der Fahrer von dem Lkw wurde <style_element type="hb">nicht</style_element> verletzt.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Jetzt will die Polizei wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <question>Warum ist das Auto gegen den Lkw gefahren?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-09-28" url="2018-12-17_13-30_652.xml">
+   <title>Mehr Nachrichten vom 17.12.2018</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2018-12-17_13-30</vdate>
+   <resources>
+      <resource id="1" name="2018-12-17_13-30_652-full.png" type="screenshot" url="2018-12-17_13-30_652-full.png"/>
+      <resource id="2" name="2018-12-17_13-30_652_plaintext.txt" type="plaintext" url="2018-12-17_13-30_652_plaintext.txt"/>
+      <resource id="3" name="2018-12-17_13-30_652_quellcode.txt" type="sourcecode" url="2018-12-17_13-30_652_quellcode.txt"/>
+      <resource id="4" name="2018-12-17_13-30_652.docx" type="formatedText" url="2018-12-17_13-30_652.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 17.12.2018</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Nord·deutschland: NDR sammelt viel Geld</subheadline>
+               <statement>Beim NDR war ein großer Spendentag.</statement>
+               <statement>Bei dem Spenden·tag hat der NDR Geld gesammelt.</statement>
+               <statement>Und bei dem Spenden·tag haben viele Menschen Geld gespendet.</statement>
+               <statement>Die Menschen haben mehr als 1,5 Millionen Euro gespendet.</statement>
+               <statement>Das Geld ist für besondere Vereine.</statement>
+               <explanation_marker>
+               <statement>Diese Vereine helfen Menschen mit Demenz.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Demenz ist eine Krankheit.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Menschen mit Demenz haben viele Probleme.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <enumeration_marker>
+                        <enumeration_intro>
+                           <headword><style_element type="hi">Zum Beispiel:</style_element></headword>
+                        </enumeration_intro>
+                        <enumerations>
+                           <enumeration id="1">
+                              <statement><style_element type="hi">• Menschen mit Demenz vergessen viele Dinge.</style_element></statement>
+                           </enumeration>
+                           <enumeration id="2"> 
+                              <statement><style_element type="hi">• Und Menschen mit Demenz erkennen andere Menschen <style_element type="hb">nicht</style_element> mehr.</style_element></statement>
+                           </enumeration>
+                        </enumerations>
+                     </enumeration_marker>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Deshalb brauchen Menschen mit Demenz Hilfe von anderen Menschen.</style_element></statement>
+                  </explanation>
+                  <explanation id="4">
+                     <statement><style_element type="hi">Demenz bekommen oft alte Menschen.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+         </section>
+         <section id="2">
+            <statement>Zum Spenden·tag beim NDR gibt es auch einen Text in Leichter Sprache.</statement>
+            <statement>
+               <ref>
+                  <style_element type="hu">Diesen Text können Sie hier lesen.</style_element>
+               </ref>
+            </statement>
+         </section>
+         <style_element type="line" />
+         <section id="3">
+            <subheadline>Niedersachsen: Wild·schweine auf Zug·strecke</subheadline>
+               <statement>In Hittfeld war ein Unfall.</statement>
+               <explanation_marker>
+                  <statement>Bei diesem Unfall hat ein Zug mehrere Wild·schweine überfahren.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Wild·schweine sind Wild·tiere.</style_element></statement>
+                     </explanation>
+                     <explanation id="2">
+                        <statement><style_element type="hi">Und Wild·schweine leben im Wald.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker> 
+               <statement>Aber bei diesem Unfall wurde <style_element type="hb">kein</style_element> Mensch verletzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1"> 
+                        <statement>Die Wild·schweine waren auf der Zug·strecke zwischen Buchholz und Hamburg.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Der Fahrer von dem Zug hat die Wild·schweine gesehen.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Aber der Fahrer von dem Zug konnte <style_element type="hb">nicht</style_element> mehr rechtzeitig bremsen.</statement>
+                     </speech>
+                     <speech id="4">
+                        <statement>Dann hat der Zug die Wild·schweine überfahren.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat auch gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Der Zug konnte nach dem Unfall <style_element type="hb">nicht</style_element> weiterfahren.</statement>
+                     </speech>
+                     <speech id="2">
+                        <explanation_marker>
+                           <statement>Und die Zug·strecke war nach dem Unfall 3 Stunden lang gesperrt.</statement>
+                           <explanations>
+                              <explanation id="1">
+                                 <headword><style_element type="hi">Das heißt:</style_element></headword>
+                              </explanation>
+                              <explanation id="2">
+                                 <statement><style_element type="hi">Auf der Zug·strecke konnte 3 Stunden lang <style_element type="hb">kein</style_element> Zug mehr fahren.</style_element></statement>
+                              </explanation>
+                           </explanations>
+                        </explanation_marker>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="4">
+            <subheadline>Nord·deutschland: Unfälle auf glatten Straßen</subheadline>
+               <statement>Auf vielen Straßen in Nord·deutschland ist es sehr glatt.</statement>
+               <statement>Deshalb waren in Nord·deutschland mehrere Unfälle.</statement>
+               <explanation_marker>
+                  <statement>Zum Beispiel in Flensburg.</statement>
+                  <explanations>
+                     <explanation id="1">
+                        <statement><style_element type="hi">Flensburg ist eine Stadt in Schleswig-Holstein.</style_element></statement>
+                     </explanation>
+                  </explanations>
+               </explanation_marker>
+               <statement>Oder in Hamburg.</statement>
+               <statement>Bei einem Unfall in Hamburg wurden zum Beispiel 2 Menschen verletzt.</statement>
+               <speech_marker>
+                  <speech_intro>
+                     <statement>Die Polizei hat gesagt:</statement>
+                  </speech_intro>
+                  <speeches>
+                     <speech id="1">
+                        <statement>Bei dem Unfall ist ein Mann mit seinem Auto auf die andere Fahr·bahn gerutscht.</statement>
+                     </speech>
+                     <speech id="2">
+                        <statement>Auf der anderen Fahr·bahn war ein anderes Auto.</statement>
+                     </speech>
+                     <speech id="3">
+                        <statement>Und der Mann ist mit seinem Auto in das andere Auto gerutscht.</statement>
+                     </speech>
+                  </speeches>
+               </speech_marker>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>

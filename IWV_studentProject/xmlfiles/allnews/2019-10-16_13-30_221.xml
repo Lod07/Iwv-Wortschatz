@@ -1,0 +1,202 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2019-10-16_13-30_221.xml">
+   <title>Mehr Nachrichten vom 16.10.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-16_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-10-16_13-30_221-full.png" type="screenshot" url="2019-10-16_13-30_221-full.png"/>
+      <resource id="2" name="2019-10-16_13-30_221_plaintext.txt" type="plaintext" url="2019-10-16_13-30_221_plaintext.txt"/>
+      <resource id="3" name="2019-10-16_13-30_221_quellcode.txt" type="sourcecode" url="2019-10-16_13-30_221_quellcode.txt"/>
+      <resource id="4" name="2019-10-16_13-30_221.docx" type="formatedText" url="2019-10-16_13-30_221.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 16.10.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: A29 gesperrt</subheadline>
+            <explanation_marker>
+               <statement>Die Polizei hat die A29 gesperrt.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">A29 ist die Abkürzung für <style_element type="hb">A</style_element>utobahn <style_element type="hb">29</style_element>.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Auf der A29 war nämlich ein Unfall.</statement>
+            <explanation_marker>
+               <statement>Der Unfall war in der Nähe von Sandkrug.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Sandkrug ist ein Ort in der Nähe von Oldenburg.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und der Unfall war mit einem Lkw.</statement>
+            <statement>Bei dem Unfall wurde der Lkw-Fahrer leicht verletzt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <explanation_marker>
+                        <statement>Der Lkw-Fahrer ist mit seinem Lkw von der Straße abgekommen.</statement>
+                        <explanations>
+                           <explanation id="1">
+                              <headword>
+                                 <style_element type="hi">Das heißt:</style_element>
+                              </headword>
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">Der Lkw-Fahrer ist <style_element type="hb">ohne</style_element> Absicht von der Straße gefahren.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>
+                  </speech>
+                  <speech id="2">
+                     <statement>Dann ist der Lkw auf die Seite gekippt.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Auf dem Lkw waren einige Fässer.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>In diesen Fässern waren giftige Stoffe.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>5 von den Fässern sind bei dem Unfall kaputt gegangen.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Deshalb sind die giftigen Stoffe zum Beispiel auf die Straße gelaufen.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat auch gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Jetzt holen die Arbeiter die Fässer von der A29.</statement>
+                  </speech>
+                  <speech id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Und die Arbeiter prüfen:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <question>Sind noch giftige Stoffe an der Unfall·stelle?</question>
+                           </speech>
+                        </speeches>
+                     </speech_marker>                 
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb ist die A29 gesperrt.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Die Sperrung ist bis Mittwoch·abend.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>                       
+         </section>
+         <style_element type="line"/>
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Neuer Solar·park</subheadline>
+            <explanation_marker>
+               <statement>In Mecklenburg-Vorpommern bauen Arbeiter einen neuen Solar·park.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <explanation_marker>
+                        <statement>
+                           <style_element type="hi">In einem Solar·park sind Solar·anlagen.</style_element>
+                        </statement>
+                        <explanations>
+                           <explanation id="1">
+                              <explanation_marker>
+                                 <statement>
+                                    <style_element type="hi">Solar·anlagen erzeugen Energie.</style_element>
+                                  </statement>
+                                 <explanations>
+                                    <explanation id="1">
+                                       <statement>
+                                          <style_element type="hi">Energie ist zum Beispiel Strom.   .</style_element>
+                                       </statement>
+                                    </explanation>
+                                 </explanations>
+                              </explanation_marker>                              
+                           </explanation>
+                           <explanation id="2">
+                              <statement>
+                                 <style_element type="hi">Solar·anlagen sehen aus wie große Platten.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="3">
+                              <statement>
+                                 <style_element type="hi">Und Solar·anlagen sind in der Sonne.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="4">
+                              <statement>
+                                 <style_element type="hi">Die Sonne scheint auf die Solar·anlagen.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="5">
+                              <statement>
+                                 <style_element type="hi">Durch das Licht von der Sonne entsteht Energie in den Solar·anlagen.</style_element>
+                              </statement>
+                           </explanation>
+                           <explanation id="6">
+                              <statement>
+                                 <style_element type="hi">So machen Solar·anlagen Strom.</style_element>
+                              </statement>
+                           </explanation>
+                        </explanations>
+                     </explanation_marker>                     
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Diesen Solar·park bauen die Arbeiter in Genzlin.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Genzlin ist ein Ort in der Nähe von Plau am See.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fach·leute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der neue Solar·park ist sehr groß.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb entsteht in dem neuen Solar·park viel Energie.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Der neue Solar·park ist wahrscheinlich im April fertig.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>           
+         </section>
+         <style_element type="line"/>
+      </sections>
+   </content>
+</annotation>

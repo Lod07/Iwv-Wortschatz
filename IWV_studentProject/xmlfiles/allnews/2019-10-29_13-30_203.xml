@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-20" url="2019-10-29_13-30_203.xml">
+   <title>Mehr Nachrichten vom 29.10.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-10-29_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-10-29_13-30_203-full.png" type="screenshot" url="2019-10-29_13-30_203-full.png"/>
+      <resource id="2" name="2019-10-29_13-30_203_plaintext.txt" type="plaintext" url="2019-10-29_13-30_203_plaintext.txt"/>
+      <resource id="3" name="2019-10-29_13-30_203_quellcode.txt" type="sourcecode" url="2019-10-29_13-30_203_quellcode.txt"/>
+      <resource id="4" name="2019-10-29_13-30_203.docx" type="formatedText" url="2019-10-29_13-30_203.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 29.10.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Niedersachsen: Mann festgenommen</subheadline>
+            <explanation_marker>
+               <statement>In Liebenburg war ein Polizei·einsatz.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Liebenburg ist in der Nähe von Goslar.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Bei diesem Einsatz hat die Polizei einen Mann festgenommen.</statement>
+            <statement>Der Mann ist 43 Jahre alt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Mann hat seine Ehe·frau mit einem Messer bedroht.</statement>
+                  </speech>
+                  <speech id="2">
+                     <speech_marker>
+                        <speech_intro>
+                           <statement>Und der Mann hat gesagt:</statement>
+                        </speech_intro>
+                        <speeches>
+                           <speech id="1">
+                              <statement>Ich will viele Menschen töten.</statement>
+                           </speech>
+                        </speeches>
+                     </speech_marker>                    
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb sind wir zu dem Haus von dem Mann gefahren.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Der Mann war in seinem Haus.</statement>
+            <explanation_marker>
+               <statement>Und der Mann hatte eine Arm•brust.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement>
+                        <style_element type="hi">Eine Arm·brust eine besondere Waffe.</style_element>
+                     </statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement>
+                        <style_element type="hi">Mit einer Arm·brust kann ein Mensch zum Beispiel Pfeile abschießen.</style_element>
+                     </statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Mit dieser Arm·brust hat der Mann die Polizei bedroht.</statement>
+            <statement>Aber die Polizei konnte den Mann festnehmen.</statement>
+            <statement>Und der Mann hat <style_element type="hb">keinen</style_element> Menschen verletzt.</statement>
+         </section>
+         <style_element type="line"/>
+         <section id="2">
+            <subheadline>Mecklenburg-Vorpommern: Schlimmer Unfall</subheadline>
+            <statement>Auf der Autobahn 20 war ein schlimmer Unfall.</statement>
+            <statement>Der Unfall war in der Nähe von Pasewalk.</statement>
+            <statement>Und der Unfall war mit einem Auto.</statement>
+            <statement>Bei diesem Unfall wurde ein Mann schwer verletzt.</statement>
+            <statement>Der Mann ist 37 Jahre alt.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Die Polizei hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Der Mann hat die Kontrolle über sein Auto verloren.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb ist der Mann mit seinem Auto von der Straße abgekommen.</statement>
+                  </speech>
+                  <speech id="3">
+                     <statement>Dann hat sich das Auto überschlagen.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Und das Auto ist auf dem Dach liegen·geblieben.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <speech_marker>
+               <speech_intro>
+                   <statement>Jetzt will die Polizei wissen:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                      <question>Warum hat der Mann die Kontrolle über sein Auto verloren?</question>
+                  </speech>
+               </speeches>
+            </speech_marker>           
+         </section>
+         <style_element type="line"/>
+         <section id="3">
+            <subheadline>Schleswig-Holstein: Film·fest beginnt</subheadline>
+            <statement>In Lübeck hat ein Film·fest begonnen.</statement>
+            <statement>Dieses Film·fest heißt Nordische Film·tage.</statement>
+            <statement>Das Film·fest ist in mehreren Kinos.</statement>
+            <statement>Diese Kinos zeigen 196 Filme aus Nord·europa.</statement>
+            <enumeration_marker>
+               <enumeration_intro>
+                  <statement>Zum Beispiel aus:</statement>
+               </enumeration_intro>
+               <enumerations>
+                  <enumeration id="1">
+                     <headword>• Dänemark.</headword>
+                  </enumeration>
+                   <enumeration id="2">
+                     <headword>• Finnland.</headword>
+                  </enumeration>
+                   <enumeration id="3">
+                     <statement>• Oder aus Norwegen.</statement>
+                  </enumeration>
+               </enumerations>
+            </enumeration_marker>
+            <statement>Bei dem Film·fest gibt es 8 Preise.</statement>
+            <statement>Diese 8 Preise sind für die besten Filme.</statement>
+            <statement>Einer von den 8 Preisen ist vom NDR.</statement>
+            <statement>Dieser Preis heißt Spiel·film·preis.</statement>
+            <statement>Das Film·fest ist bis Sonntag.</statement>
+         </section>
+         <style_element type="line"/>        
+      </sections>
+   </content>
+</annotation>

@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<annotation adate="2020-08-19" url="2019-09-09_13-30_413.xml">
+   <title>Mehr Nachrichten vom 09.09.2019</title>
+   <source>NDR Fernsehen</source>
+   <vdate>2019-09-09_13-30</vdate>
+   <resources>
+      <resource id="1" name="2019-09-09_13-30_413-full.png" type="screenshot" url="2019-09-09_13-30_413-full.png"/>
+      <resource id="2" name="2019-09-09_13-30_413_plaintext.txt" type="plaintext" url="2019-09-09_13-30_413_plaintext.txt"/>
+      <resource id="3" name="2019-09-09_13-30_413_quellcode.txt" type="sourcecode" url="2019-09-09_13-30_413_quellcode.txt"/>
+      <resource id="4" name="2019-09-09_13-30_413.docx" type="formatedText" url="2019-09-09_13-30_413.docx"/>
+   </resources>
+   <textlength/>
+   <complexity>
+      <Flesch value=""/>
+      <Amstad value=""/>
+      <Lix value=""/>
+      <WSTF4 value=""/>
+      <gSMOG value=""/>
+   </complexity>
+   <content>
+      <headline>Mehr Nachrichten vom 09.09.2019</headline>
+      <sections>
+         <section id="1">
+            <subheadline>Beach·volleyball: Frauen aus Hamburg gewinnen großes Turnier</subheadline>
+            <statement>Laura Ludwig und Margareta Kozuch haben ein großes Turnier gewonnen.</statement>
+            <statement>Laura Ludwig und Margareta Kozuch sind aus Hamburg.</statement>
+            <explanation_marker>
+               <statement>Und Laura Ludwig und Margareta Kozuch spielen Beach·volleyball.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Beach·volleyball ist eine besondere Art von Volleyball.</style_element></statement>
+                  </explanation>
+                  <explanation id="2">
+                     <statement><style_element type="hi">Beim Beach·volleyball spielen die Mannschaften im Sand.</style_element></statement>
+                  </explanation>
+                  <explanation id="3">
+                     <statement><style_element type="hi">Und beim Beach·volleyball hat jede Mannschaft 2 Spieler.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <explanation_marker>
+               <statement>Das große Turnier war in Rom.</statement>
+               <explanations>
+                  <explanation id="1">
+                     <statement><style_element type="hi">Rom ist die Haupt·stadt von Italien.</style_element></statement>
+                  </explanation>
+               </explanations>
+            </explanation_marker>
+            <statement>Und bei diesem Turnier waren die besten Spieler der Welt.</statement>
+            <statement>Im Endspiel haben Laura Ludwig und Margareta Kozuch gegen Agatha und Duda gespielt.</statement>
+            <statement>Agatha und Duda sind 2 Frauen aus Brasilien.</statement>
+            <statement>Laura Ludwig und Margareta Kozuch haben das Endspiel gewonnen.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Margareta Kozuch hat gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Wir haben das Turnier gewonnen.</statement>
+                  </speech>
+                  <speech id="2">
+                     <statement>Deshalb sind wir sehr glücklich.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+         </section>
+         <style_element type="line" />
+         <section id="2">
+            <subheadline>Schleswig-Holstein: Bauarbeiten auf Brücke</subheadline>
+            <statement>Auf der Autobahn 7 sind besondere Bauarbeiten.</statement>
+            <statement>Diese Bauarbeiten sind in der Nähe von Rendsburg.</statement>
+            <statement>Und diese Bauarbeiten sind auf einer großen Brücke.</statement>
+            <statement>Diese Brücke heißt Rader Hochbrücke.</statement>
+            <speech_marker>
+               <speech_intro>
+                  <statement>Fachleute haben gesagt:</statement>
+               </speech_intro>
+               <speeches>
+                  <speech id="1">
+                     <statement>Über die Rader Hochbrücke fahren sehr viele Autos.</statement>
+                  </speech>
+                  <speech id="2">
+                     <headword>Und Lastwagen.</headword>
+                  </speech>
+                  <speech id="3">
+                     <statement>Deshalb ist die Straße auf der Rader Hochbrücke kaputt.</statement>
+                  </speech>
+                  <speech id="4">
+                     <statement>Jetzt reparieren wir die Straße.</statement>
+                  </speech>
+                  <speech id="5">
+                     <statement>Während der Reparatur können nur wenig Autos über die Brücke fahren.</statement>
+                  </speech>
+                  <speech id="6">
+                     <statement>Deshalb ist vielleicht Stau auf der Brücke.</statement>
+                  </speech>
+               </speeches>
+            </speech_marker>
+            <statement>Die Bauarbeiten sind bis zum Donnerstag.</statement>
+         </section>
+         <style_element type="line" />
+      </sections>
+   </content>
+</annotation>
