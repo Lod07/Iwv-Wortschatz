@@ -9,6 +9,7 @@ from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 from collections import Counter
 from dataLoader import LSNewsData, DatasetOptions
+import pandas as pd
 
 import utils
 
@@ -16,6 +17,8 @@ import utils
 from pathlib import Path
 # LADEBALKEN
 from tqdm import tqdm
+
+ENDINGS = ['heit', 'ie', 'ik', 'ion', 'ismus', 'ität', 'keit', 'nz', 'tur', 'ung']
  
 
 def count_words_and_pos_tags(all_text, nlp):
@@ -59,19 +62,17 @@ def find_unique_words(word_list):
     word_counter = Counter(word for word, _, _ in word_list)
 
     # Liste für Wörter, die nur einmal vorkommen
-    unique_words = [word for word, count in word_counter.items() if count == 1]
+    unique_words = sorted([word for word, count in word_counter.items() if count == 1])
     return unique_words
 
 
-def find_noun_endings(noun_list):
-    # Liste der gesuchten Wort-Endungen
-    endings = ['heit', 'ie', 'ik', 'ion', 'ismus', 'ität', 'keit', 'nz', 'tur', 'ung']
 
+def find_noun_endings(noun_list):
     # Listen für Substantive mit den gesuchten Endungen
-    ending_lists = {ending: [] for ending in endings}
+    ending_lists = {ending: [] for ending in ENDINGS}
 
     for noun in noun_list:
-        for ending in endings:
+        for ending in ENDINGS:
             if noun.endswith(ending):
                 ending_lists[ending].append(noun)
 
@@ -103,6 +104,7 @@ datasetPath = Path(__file__).parent / 'xmlfiles'
 
 
 dataset = LSNewsData(datasetPath, options)
+ending_list_per_document = []
 
 for i in tqdm(range(len(dataset))):
     # Anzahl der Wörter und POS-Tags ermitteln
@@ -118,6 +120,83 @@ for i in tqdm(range(len(dataset))):
 
     # Liste aller individuellen Wörter aktualisieren
     total_word_list.extend(word_list)
+
+    document_nouns = [word for word, pos, _ in word_list if pos in ['NOUN', 'PROPN', 'NE', 'NNE']]
+    document_ending_lists = find_noun_endings(document_nouns)
+    ending_list_per_document.append(document_ending_lists)
+
+ending_means = []
+ending_max = []
+ending_std_devs = []
+
+for ending in ENDINGS:
+    counts = []
+    for doc_elists in ending_list_per_document:
+        counts.append(len(doc_elists[ending]))
+
+    counts_array = np.array(counts)
+    print(ending)
+    print("Min: ", counts_array.min())
+    print("Max: ", counts_array.max())
+    print("Mean: ", counts_array.mean())
+    print("Std Dev: ", counts_array.std(ddof=0))
+    print("Variance: ", counts_array.var())
+    ending_means.append(counts_array.mean())
+    ending_max.append(counts_array.max())
+    ending_std_devs.append(counts_array.std())
+
+
+#sns.boxplot(counts)
+#plt.title(f'Boxplot für Endung "{ending}"')
+#plt.show()
+
+
+
+boxplot_data = {ending: [] for ending in ENDINGS}
+
+for doc_elists in ending_list_per_document:
+    for ending in ENDINGS:
+        noun_count = len(doc_elists[ending])
+        # Überprüfen, ob die Liste leer ist
+        if noun_count > 0:
+            boxplot_data[ending].append(noun_count)
+        else:
+            boxplot_data[ending].append(np.nan)
+
+# Daten für Boxplot in DataFrame umwandeln
+data = pd.DataFrame(boxplot_data)
+
+# Boxplot erstellen
+plt.figure(figsize=(12, 8))
+sns.boxplot(data=data, flierprops = dict(markerfacecolor = '0.50', markersize = 2))
+# Hier setzt du die Einteilung der y-Achse in Zweierschritten
+plt.yticks(np.arange(0, max(counts_array)+1, 2))
+plt.ylim(0,16)
+plt.title("Boxplot für Substantiv-Endungen")
+plt.xlabel("Endungen")
+plt.ylabel("Anzahl")
+plt.show()
+
+
+
+sns.barplot(x=ENDINGS, y=ending_means)
+plt.title("Endungen Substantive Mittelwerte")
+plt.xlabel("Endungen")
+plt.ylabel("Anzahl")
+plt.show()
+
+
+sns.barplot(x=ENDINGS, y=ending_max)
+plt.title("Endungen Substantive Maxima")
+plt.xlabel("Endungen")
+plt.ylabel("Anzahl")
+plt.show()
+
+with open("document_ending_list.txt", "w") as f:
+    for doc_elists in ending_list_per_document:
+        for ending, nouns in doc_elists.items():
+            f.write(f"{ending}: {len(nouns)} - {nouns}\n")
+        f.write("\n-------------------------------------\n")
 
 print(len(total_word_list))
 
@@ -176,6 +255,7 @@ print(f"Ausgabe wurde in der Datei {output_path} gespeichert.")
 
 #Visualisierung 
 
+'''
 # Wordcloud erstellen
 wordcloud_text = ' '.join([word for word, _, _ in total_word_list])
 wordcloud = WordCloud(width=800, height=400, random_state=21, max_font_size=110, background_color='white').generate(wordcloud_text)
@@ -185,10 +265,7 @@ plt.figure(figsize=(10, 5))
 plt.imshow(wordcloud, interpolation="bilinear")
 plt.axis('off')
 plt.show()
-
-
-#OHNE STATISTISCHE WERTE
-
+'''
 
 # Visualisierung Endungen Substantive
 ending_counts = {ending: len(nouns) for ending, nouns in ending_lists.items()}
@@ -206,50 +283,6 @@ ending_counts_relative = {ending: len(words) for ending, words in ending_lists_r
 
 # Plot
 sns.barplot(x=list(ending_counts_relative.keys()), y=list(ending_counts_relative.values()))
-plt.title("Anzahl der Substantive mit den gesuchten Endungen (ohne Duplikate)")
-plt.xlabel("Endungen")
-plt.ylabel("Anzahl")
-plt.show()
-
-# Berechnung von statistischen Kennzahlen
-ending_lengths = [len(words) for words in ending_lists.values()]
-
-# Standardabweichung
-std_deviation = statistics.stdev(ending_lengths)
-print(f"Standardabweichung: {std_deviation}")
-
-# Varianz
-variance = statistics.variance(ending_lengths)
-print(f"Varianz: {variance}")
-
-# Spannweite
-range_value = max(ending_lengths) - min(ending_lengths)
-print(f"Spannweite: {range_value}")
-
-
-#MIT STATISTISCHEN WERTEN
-
-# Visualisierung Endungen Substantive
-ending_counts = {ending: len(nouns) for ending, nouns in ending_lists.items()}
-ending_lengths = [len(nouns) for nouns in ending_lists.values()]
-std_deviation = statistics.stdev(ending_lengths)
-
-sns.barplot(x=list(ending_counts.keys()), y=list(ending_counts.values()), yerr=std_deviation)
-plt.title("Anzahl der Substantive mit den gesuchten Endungen")
-plt.xlabel("Endungen")
-plt.ylabel("Anzahl")
-plt.show()
-
-# Bereinigung der Liste von Duplikaten
-ending_lists_relative = {ending: list(OrderedDict.fromkeys(words)) for ending, words in ending_lists.items()}
-
-# Visualisierung als Balkendiagramm
-ending_counts_relative = {ending: len(words) for ending, words in ending_lists_relative.items()}
-ending_lengths_relative = [len(words) for words in ending_lists_relative.values()]
-std_deviation_relative = statistics.stdev(ending_lengths_relative)
-
-# Plot
-sns.barplot(x=list(ending_counts_relative.keys()), y=list(ending_counts_relative.values()), yerr=std_deviation_relative)
 plt.title("Anzahl der Substantive mit den gesuchten Endungen (ohne Duplikate)")
 plt.xlabel("Endungen")
 plt.ylabel("Anzahl")

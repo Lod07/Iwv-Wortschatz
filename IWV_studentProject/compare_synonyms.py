@@ -7,7 +7,7 @@ with open('D:/documents/Uni/MI_M/IWV/git/Iwv-Wortschatz/IWV_studentProject/xmlfi
     synonym_words = set(synonym_file.read().splitlines())
 
 # Filtern der Wörter, die in beiden Dateien vorkommen
-filtered_words = unique_words - synonym_words
+filtered_words = sorted(unique_words - synonym_words)
 
 # Speichern der verbleibenden Wörter in einer neuen Datei
 output_path = 'D:/documents/Uni/MI_M/IWV/git/Iwv-Wortschatz/IWV_studentProject/xmlfiles/Synonyme_Absolute_Liste.txt'

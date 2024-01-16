@@ -1,567 +1,134 @@
-.keinen: 
-.langenhorn: 
-.nicht: 
-.und: 
-.wangerooge: 
-01.02.2019.: 
-01.03.2019.: 
-01.04.2019.: 
-01.07.2019.: 
-01.08.2019.: 
-01.10.2018.: 
-01.10.2019.: 
-01.11.2019.: 
-02.01.2019.: 
-02.01.2020.: 
-02.03.2020.: 
-02.04.2019.: 
-02.05.2019.: 
-02.07.2019.: 
-02.08.2019.: 
-02.09.2019.: 
-02.10.2018.: 
-03.01.2020.: 
-03.03.2020.: 
-03.04.2019.: 
-03.05.2019.: 
-03.09.2018.: 
-03.09.2019.: 
-03.12.2018.: 
-03.12.2019.: 
-04.01.2019.: 
-04.02.2019.: 
-04.02.2020.: 
-04.03.2020.: 
-04.04.2019.: 
-04.04.2020.: 
-04.06.2019.: 
-04.07.2019.: 
-04.09.2018.: 
-04.09.2019.: 
-04.10.2018.: 
-04.10.2019.: 
-04.11.2019.: 
-04.12.2018.: 
-04.12.2019.: 
-05.02.2020.: 
-05.03.2019.: 
-05.03.2020.: 
-05.04.2019.: 
-05.06.2019.: 
-05.09.2019.: 
-05.10.2018.: 
-05.11.2018.: 
-05.11.2019.: 
-05.12.2018.: 
-05.12.2019.: 
-06.01.2020.: 
-06.02.2019.: 
-06.02.2020.: 
-06.03.2019.: 
-06.03.2020.: 
-06.04.2020.: 
-06.06.2019.: 
-06.08.2019.: 
-06.09.2018.: 
-06.09.2019.: 
-06.11.2019.: 
-06.12.2018.: 
-06.12.2019.: 
-07.01.2019.: 
-07.01.2020.: 
-07.02.2019.: 
-07.02.2020.: 
-07.03.2019.: 
-07.04.2020.: 
-07.06.2019.: 
-07.08.2019.: 
-07.09.2018.: 
-07.10.2019.: 
-07.11.2018.: 
-07.11.2019.: 
-07.12.2018.: 
-08.01.2019.: 
-08.01.2020.: 
-08.02.2019.: 
-08.03.2019.: 
-08.04.2019.: 
-08.04.2020.: 
-08.07.2019.: 
-08.08.2019.: 
-08.11.2018.: 
-09.01.2019.: 
-09.01.2020.: 
-09.03.2020.: 
-09.04.2019.: 
-09.05.2019.: 
-09.07.2019.: 
-09.08.2019.: 
-09.10.2019.: 
-09.11.2018.: 
-09.12.2019.: 
-0:0.: 
-10.01.2019.: 
-10.01.2020.: 
-10.02.2020.: 
-10.03.2020.: 
-10.04.2019.: 
-10.05.2019.: 
-10.07.2019.: 
-10.09.2018.: 
-10.09.2019.: 
-10.10.2018.: 
-10.10.2019.: 
-10.12.2018.: 
-10.12.2019.: 
-11.01.2019.: 
-11.02.2019.: 
-11.02.2020.: 
-11.03.2019.: 
-11.03.2020.: 
-11.04.2019.: 
-11.07.2019.: 
-11.09.2018.: 
-11.09.2019.: 
-11.10.2018.: 
-11.10.2019.: 
-11.11.2019.: 
-11.12.2018.: 
-11.12.2019.: 
-12.02.2019.: 
-12.02.2020.: 
-12.03.2019.: 
-12.03.2020.: 
-12.04.2019.: 
-12.06.2019.: 
-12.07.2019.: 
-12.08.2019.: 
-12.09.2018.: 
-12.09.2019.: 
-12.10.2018.: 
-12.11.2018.: 
-12.11.2019.: 
-12.12.2018.: 
-12.12.2019.: 
-13.01.2020.: 
-13.02.2019.: 
-13.02.2020.: 
-13.03.2019.: 
-13.03.2020.: 
-13.05.2019.: 
-13.06.2019.: 
-13.08.2019.: 
-13.09.2018.: 
-13.09.2019.: 
-13.11.2018.: 
-13.11.2019.: 
-13.12.2018.: 
-13.12.2019.: 
-14.01.2019.: 
-14.01.2020.: 
-14.02.2019.: 
-14.02.2020.: 
-14.03.2019.: 
-14.05.2019.: 
-14.06.2019.: 
-14.08.2019.: 
-14.09.2018.: 
-14.10.2019.: 
-14.11.2018.: 
-14.11.2019.: 
-14.12.2018.: 
-15.01.2019.: 
-15.01.2020.: 
-15.02.2019.: 
-15.03.2019.: 
-15.04.2019.: 
-15.04.2020.: 
-15.05.2019.: 
-15.07.2019.: 
-15.08.2019.: 
-15.10.2018.: 
-15.10.2019.: 
-15.11.2018.: 
-15.11.2019.: 
-16.01.2019.: 
-16.01.2020.: 
-16.03.2020.: 
-16.04.2019.: 
-16.05.2019.: 
-16.07.2019.: 
-16.08.2019.: 
-16.09.2019.: 
-16.10.2018.: 
-16.10.2019.: 
-16.11.2018.: 
-16.12.2019.: 
-17.01.2019.: 
-17.01.2020.: 
-17.02.2020.: 
-17.03.2020.: 
-17.04.2019.: 
-17.05.2019.: 
-17.06.2019.: 
-17.07.2019.: 
-17.09.2018.: 
-17.09.2019.: 
-17.10.2018.: 
-17.10.2019.: 
-17.12.2018.: 
-17.12.2019.: 
-18.01.2019.: 
-18.02.2019.: 
-18.02.2020.: 
-18.03.2019.: 
-18.03.2020.: 
-18.04.2019.: 
-18.06.2019.: 
-18.07.2019.: 
-18.09.2018.: 
-18.09.2019.: 
-18.10.2018.: 
-18.10.2019.: 
-18.11.2019.: 
-18.12.2018.: 
-18.12.2019.: 
-1880.: 
-18:15: 
-19.02.2019.: 
-19.02.2020.: 
-19.03.2019.: 
-19.03.2020.: 
-19.06.2019.: 
-19.07.2019.: 
-19.08.2019.: 
-19.09.2018.: 
-19.09.2019.: 
-19.10.2018.: 
-19.11.2018.: 
-19.11.2019.: 
-19.12.2018.: 
-19.12.2019.: 
-1956.: 
-1980.: 
-1997.: 
-2-euro-münze: 
-20.01.2020.: 
-20.02.2019.: 
-20.02.2020.: 
-20.03.2019.: 
-20.03.2020.: 
-20.05.2019.: 
-20.06.2019.: 
-20.08.2019.: 
-20.09.2018.: 
-20.09.2019.: 
-20.11.2018.: 
-20.11.2019.: 
-20.12.2018.: 
-20.12.2019.: 
-2013.: 
-2015.: 
-21.01.2019.: 
-21.01.2020.: 
-21.02.2019.: 
-21.02.2020.: 
-21.03.2019.: 
-21.05.2019.: 
-21.06.2019.: 
-21.08.2019.: 
-21.09.2018.: 
-21.10.2019.: 
-21.11.2018.: 
-21.11.2019.: 
-21.12.2018.: 
-22.01.2019.: 
-22.01.2020.: 
-22.02.2019.: 
-22.03.2019.: 
-22.05.2019.: 
-22.07.2019.: 
-22.08.2019.: 
-22.10.2018.: 
-22.10.2019.: 
-22.11.2018.: 
-22.11.2019.: 
-23.01.2019.: 
-23.01.2020.: 
-23.03.2020.: 
-23.04.2019.: 
-23.05.2019.: 
-23.07.2019.: 
-23.08.2019.: 
-23.09.2019.: 
-23.10.2018.: 
-23.10.2019.: 
-23.11.2018.: 
-24.01.2019.: 
-24.01.2020.: 
-24.02.2020.: 
-24.04.2019.: 
-24.05.2019.: 
-24.06.2019.: 
-24.07.2019.: 
-24.09.2018.: 
-24.09.2019.: 
-24.10.2018.: 
-24.10.2019.: 
-25.: 
-25.01.2019.: 
-25.02.2019.: 
-25.02.2020.: 
-25.03.2019.: 
-25.04.2019.: 
-25.06.2019.: 
-25.07.2019.: 
-25.09.2018.: 
-25.09.2019.: 
-25.10.2018.: 
-25.10.2019.: 
-25.11.2019.: 
-26.02.2019.: 
-26.02.2020.: 
-26.03.2019.: 
-26.04.2019.: 
-26.06.2019.: 
-26.07.2019.: 
-26.08.2019.: 
-26.09.2018.: 
-26.09.2019.: 
-26.10.2018.: 
-26.11.2018.: 
-26.11.2019.: 
-26:20: 
-26:25: 
-27.01.2020.: 
-27.02.2019.: 
-27.02.2020.: 
-27.03.2019.: 
-27.05.2019.: 
-27.06.2019.: 
-27.08.2019.: 
-27.09.2018.: 
-27.09.2019.: 
-27.11.2018.: 
-27.11.2019.: 
-28.01.2019.: 
-28.01.2020.: 
-28.02.2019.: 
-28.02.2020.: 
-28.03.2019.: 
-28.05.2019.: 
-28.06.2019.: 
-28.08.2019.: 
-28.09.2018.: 
-28.10.2019.: 
-28.11.2019.: 
-28:31: 
-29.01.2019.: 
-29.01.2020.: 
-29.03.2019.: 
-29.04.2019.: 
-29.05.2019.: 
-29.07.2019.: 
-29.08.2019.: 
-29.10.2018.: 
-29.10.2019.: 
-29.11.2018.: 
-29.11.2019.: 
-30.01.2019.: 
-30.01.2020.: 
-30.03.2020.: 
-30.04.2019.: 
-30.07.2019.: 
-30.10.2018.: 
-30.10.2019.: 
-30.11.2018.: 
-31.01.2019.: 
-31.03.2020.: 
-31.05.2019.: 
-31.07.2019.: 
-31.08.2018.: 
-352.: 
-388.000: 
-3:0: 
-3:2: 
-457.000: 
-498.: 
-51.: 
-56789.: 
-60.: 
-76.: 
-787.: 
-829.: 
-83.500: 
-84:76: 
-9.: 
-90,3.: 
-A11: 
-A11.: 
-A215.: 
-A24.: 
-A27.: 
-A31.: 
-A33.: 
-A39.: 
 Abbau: Auflösung, Beseitigung, Demontage, Destruktion, Rückbau, Zerstörung
 Abflug: Startzeit
 Abitur: Reifeprüfung, Abiturientenexamen, Abiturientenprüfung
 Abiturprüfungen: 
-Absagen: 
 Absturzstelle: 
+Abteilung: Divisio
 Abtshagen: 
 Abwehr: Verteidigung
 Ackerläufer: 
+Afd: 
+Afd.: 
 Affenart: 
+Afrika: der schwarze Erdteil, der schwarze Kontinent
 Akademie: Hochschule, Universität
-Albersdorf: 
+Aldi: 
 Alltag: 
 Alstersee: 
-Alstertal-einkaufszentrum: 
 Altengamme: 
 Altenheime: 
 Alter: Greis, Opa
-Amundsen: 
+Alternative: Adjunktion, Disjunktion
 Anbaugebiet: Weinbaugebiet
 Anbaugebiete: 
 Andy: 
+Angebot: Anerbieten, Bittgesuch, Kostenplan, Offerte, Ratschlag, Vorlage, Vorschlag
+Angebote: 
 Angler: Angeliter, Angelner
 Angriffe: 
 Anheben: 
+Anklam: 
 Anleitungen: 
 Anmerkung: 
 Anträge: 
-Antwerpen: Antorf
 Anwalt: Rechtsvertreter
 Anzeigetafeln: 
-Apfelbäume: 
-Apfelernte: 
-Ard: 
-Arkona: 
 Artisten: 
 Aschenputtel: Aschenbrödel, Ludwig Bechstein
+Atmen: Atemholen, Atemtätigkeit, Atmung, Luftholen, Lungenatmung, Respiration
 Aufstand: Erhebung, Rebellion, Revolte
-Auftritten: 
-Aufträge: 
-Aufträgen: 
 Aufzug: Elevator, Fahrstuhl, Lift
 Auktion: Lizitation, Versteigerung
+Aurich: 
 Ausbreitung: Ausdehnung, Ausstellung, Ausweitung, Darlegung, Dimension, Entfaltung, Entwicklung, Grad, Größe, Maß, Steigerung, Umfang, Vergrößerung, Wachstum, Zunahme
+Ausländerfeindlichkeit: 
 Ausnahmen: 
 Ausparken: 
-Aussichtsturm: 
 Ausstellern: 
 Aussterben: Extinktion
+Ausweise: 
 Auszeichnungen: 
 Auszubildenden: 
-Autohändlern: 
+Autofahrerin: Autolenkerin, Automobilistin
+Autohändler: 
 Autohäusern: 
-Autoren: 
-Autorin: Urheberin, Verfasserin
-Autoverkehr: 
-B106: 
-B106.: 
-B109.: 
+B76.: 
 Badestellen: 
 Badezimmer: Bad, Badestube
 Baggern: 
-Bahnsteige: 
-Bahnsteigen: 
+Bahnen: 
+Bahnsteig: Perron
 Bahnsteigerhöhung: 
 Bahnsteigerhöhungen: 
-Balkone: 
-Balkonen: 
 Baltrum: 
-Bands: 
-Bankräuber: 
 Bargteheide: 
-Barßel: 
-Basketball-bundesliga: 
-Basketballer: Basketballspieler, Korbballspieler
-Basketballspiele: 
+Basketball: 
 Basketballspielen: 
-Basketballverein: 
-Bassum: 
 Batterie: 
 Bauch: Abdomen
-Bauernhöfen: 
 Baufirma: Baubetrieb, Baugeschäft, Bauunternehmen
 Baugenehmigung: Baubewilligung, Baulizenz
 Baumärkte: 
-Bbl: 
-Bbl-pokal: 
+Baustoff: Baumaterial, Werkstoff
 Beamte: Beamtin
 Beerdigung: Begängnis, Begräbnis, Begräbnisfeier, Beisetzung, Bestattnis, Bestattung, Bestattungsfeier, Exequien, Funeralien, Grablegung, Leichenbegängnis, Leichenbestattung, Leichenfeier, Requiem, Sterbeamt, Totenamt, Totenmesse
 Begleiter: Akkompagnist
 Begriff: Benanntes, Benennung, Bezeichnetes, Bezeichnung, Definiertes, Gemeintes
 Begriffen: 
-Behinderungen: 
-Beinbruch: 
+Beifahrerin: 
 Belastung: Anschuldigung, Beanspruchung, Beeinträchtigung, Beladung, Beschuldigung, Beschwerung, Last, Störung, Trübung
 Bendzko: 
-Benefiz: 
+Berge: 
 Bergwerken: 
-Bergwerksloren: 
-Berne: 
 Berufen: 
 Besatzung: Bemannung, Crew
+Beschimpfungen: 
 Bespiel: 
-Betreten: 
+Besuchern: 
 Betrieben: 
+Bett: Falle, Heia, Kiste, Koje, Nest, Federn
 Bewegungen: 
-Bewohnern: 
+Bezirk: Gebiet, Territorium
+Bezirke: 
 Bezirksamtsleiterin: 
 Bezirksleiterin: 
 Bier: Bölkstoff, flüssiges Brot, Gerstenkaltschale, Gerstensaft, Helles, Hirse, Hopfenblütentee, Hopfentee
 Bleckede: 
-Bombenentschärfung: 
+Bombendrohung: Bombenwarnung
 Bonn: 
 Boostedt: 
-Boot-ausstellung: 
 Bordell: Prostitutionsstätte, Sexarbeitsstätte
 Bordelle: 
-Bordkorb: 
-Borstel: 
 Boy: 
 Brachschweig: 
 Brakelmann: 
 Bramstedt: 
-Brandstiftung: Brandlegung
-Bremsen: 
+Braunlage: 
+Bremervörde: 
+Bremse: Blinde Fliege, Blinder Kuckuck, Bräme, Brämer, Brämse, Breme, Brömse, Dase
 Bremsung: 
 Brennstoff: Brennmaterial
-Briefen: 
-Bringentiere: 
-Brinkum: 
-Brust: Rumpf, Brustkasten, Brustkorb, Thorax
-Bränden: 
-Brüdern: 
+Bruder: Genosse, Gevatter, Landsmann, Kamerad, Verbündeter
 Brüste: 
 Bsc: 
-Buchen: Buchung
 Buchstaben: 
-Bulle: Stier, Rammbock
 Bundesfamilienministerin: 
 Bundesligen: 
 Bundesprädident: 
-Bundesverdienstkreuzbekommen: 
 Bundesverkehrsminister: 
 Bundes∙kanzlerin: 
-Burg: Bastion, Befestigung, Bollwerk, Felsennest, Feste, Kastell, Pfalz, Raubnest, Raubschloss, Refugium, Warte, Zitadelle
-Bus-firma: 
+Busunfall: 
 Bärenjägers: 
-Bückeburg: 
-Bürger: Bourgeois
-Bürgermeistervon: 
+Bürgermeisterwahl: 
+Büro: Bürohaus, Bürocontainer, Bürogebäude, Büroturm, Amt
+Caffier: 
 Cappeln: 
-Cent: Eurocent
 Chancen: 
-Chanel: 
-Christuskirche: 
 Clowns: 
-Corona-party: 
-Corona-partys: 
+Computern: 
+Computerprogramm: Computersoftware
 Cyclassics: 
+Dampf: 
 Dampflokomotive: Dampfross
 Dampflokomotiven: 
 Danewerk: 
@@ -569,419 +136,325 @@ Dastennisturnier:
 Datum: Kalendertag
 Deckel: Verschluss
 Deichbrand-festival: 
-Demonstranten: 
+Den: 
 Denkmalschutz: 
 Depublik: 
 Deutsche: 
-Diebstählen: 
-Dienstagnachmittag: 
-Dientagabend: 
 Dier: 
-Dierkow: 
-Dieselmotor: 
-Dietrichsdorf: 
-Ding: Gegenstand, Sache, Teil, Zeug
-Dinosaurier-skelette: 
+Dirk: 
 Diskussion: Disput
 Diskutieren: 
 Dobbertin: 
 Dokumente: 
 Donnerstagmittag: 
-Donnerstagmorgen: 
-Dorsch: Kabeljau
-Drachen: Kite
+Dortmund: Stadt,  Dortmund
 Dream: 
-Drispenstedt: 
 Drogerien: 
 Drohung: 
-Duell: Zweikampf
 Duisburg: 
-Duncan: 
 Dächern: 
-Döllinghareico: 
-Dörfern: 
-Dörverden: 
 Ebenen: 
-Egestorf: 
 Ehre: Ansehen, Ehrgefühl, Selbstgefühl, Stolz, Wertgefühl, Würde
-Ehrenamtliche: Ehrenamtlerin, Ehrenämtlerin
-Ehrenbürger: Honoratior
-Ehrenbürgerin: 
-Eichen: 
 Eichholz: 
-Einbeck: 
+Eidelstedt: 
 Einbrecher-bande: 
-Einbruch: Einbrechen
-Einbrüchen: 
 Einfahrten: 
-Einfamilienhaus: Einfamilienwohnhaus
 Eingängen: 
 Einrichtungen: 
+Eins: sehr gut, Einser
 Einschlag: Holzeinschlag
-Einsätzen: 
 Einzelbewerber: 
 Eisberge: 
+Eisen: 
 Eisenbahnwagen: Waggon
 Eisenkette: 
 Eishockey-nationalmannschaft: 
 Eishockeyliga: 
 Eishockeymeister: 
 Eishockeyspiele: 
-Elbchausee: 
-Elbdome: 
 Elbjazz-festival: 
-Elekromotoren: 
 Elektrobus: E-Bus
-Elektromotor: 
 Elisabeth: 
 Emiraten: 
-Endergebnis: Endresultat
 Engel: 
 Enten: 
-Entschärfen: 
 Erbrechen: Übergeben, Kotzen, Emesis, Vomitio, Vomitus
 Erdbeeren: 
 Ergebnisse: 
 Ergebnissen: 
-Erkältung: Pips, Verkühlung
 Erneuern: 
 Erste: 
 Erster: Erstplatzierter
 Erzählung: 
-Esel: Gevatter Langohr, großes Langohr, Hans Langohr
 Estland: Republik Estland
-Estorf: 
-Ewa: 
+Ex-freund: 
 Ex-schwager: 
 Fahrerflucht: 
 Fahrkarten: 
 Fahrradständer: Seitenständer
-Fahrradwegen: 
+Fahrräder: 
 Fahrrädern: 
-Fahrstühle: 
 Fahrverbote: 
-Fahrzeugkolonne: 
 Fallschirmsprung: 
-Familienmitglied: 
 Familiensenatorin: 
-Farben: 
-Farmsen-berne: 
-Farven: 
 Fehmarn: 
 Feldmuehle: 
 Fensterscheiben: 
 Ferienwohnung: 
 Fernseh-koch: 
-Fernseher: Fernsehapparat, Fernsehempfänger, Fernsehgerät, Televisionsapparat, TV
-Fernsehprogramm: Fernsehanstalt, Fernsehsender
 Feste: Burg, Festung
+Festnahme: Arretierung, Ergreifung, Inhaftierung, Inhaftnahme, Verhaftung
 Feuerwehrauto: Feuerlöschfahrzeug, Löschfahrzeug, Drehleiter
-Feuerwerken: 
-Feuerwerkskörpern: 
+Feuerwehrmänner: 
+Feuerwerke: 
 Filmemacher: 
-Finanzamt: 
-Finanzämter: 
+Filmtage: 
 Finder: 
+Fischart: Fischspezies
 Fischbeck: 
-Fischen: Angeln
-Fischerboot: Fischereiboot
-Fischereihafen: Fischerhafen
-Fischern: 
+Flaschen: 
 Fliegen: 
 Flixtrain: 
-Flottbek: 
 Flug: Flugreise, Sternenreise
 Fluglehrer: 
-Flusskreuzfahrtschiff: 
-Flusskreuzfahrtschiffe: 
+Flugzeugabsturz: 
 Flügeln: 
 Flügen: 
 Forderungen: 
 Form: Bezeichnendes, Signifiant, Signifikant
 Forschung: Bearbeitung, Erforschung, Prüfung
-Fotograf: Lichtbildner, Knipser
 Frage: Diskussionspunkt, Problem, Thema
-Frauen-mannschaften: 
-Frauenfußball: Damenfußball
 Frauenmannschaften: 
-Freibadclique: 
 Freitagmittag: 
 Freitagmorgen: 
 Frese: 
 Freundinnen: 
 Frieden: 
 Friedhöfen: 
+Friedrichskoog: 
 Friesland: 
 Fruchtsäfte: 
 Frühling: Frühjahr, Lenz
-Fuhlsbüttel: 
-Funken: 
+Fuß: Plattfuß
 Fußball-club: 
-Fußball-liga: 
 Fußball-weltmeisterschaft: 
 Fußballfelder: 
+Fußballmannschaften: 
 Fußballspielerin: Fußballerin
 Fußballtrainer: 
 Führung: Leitung
-Führungen: 
-Füttern: 
-Garlstorf: 
 Gaspedal: Beschleunigungspedal
 Gaststätte: Ausschank, Biergarten, Bierhaus, Bierkeller, Bierstube, Bistro, Destille, Diele, Eckkneipe, Gartenlokal, Gästehaus, Gasthaus, Gasthof, Gaststube, Gastwirtschaft, Kantine, Kaschemme, Kneipe, Lokal, Rasthaus, Raststätte, Restaurant, Schänke, Schankstube, Schankwirtschaft, Schenke, Schenkstube, Speisegaststätte, Speisehaus, Speisewirtschaft, Spelunke, Schuppen, Schwemme, Taverne, Trinkstube, Wirtschaft, Wirtshaus, Verzeichnis:Deutsch/Restaurant
 Gedenktag: 
-Gedränge: Drängelei, Drängeln, Gedrängel
 Gedser: 
-Gefahrstoff: 
-Gefahrstoffe: 
-Gefangener: 
 Geflügelhöfen: 
 Gefängnisstrafe: Haftstrafe, Freiheitsstrafe, Gefängnis
-Gefäß: Behälter
-Gefühl: Emotion
-Gegner: Gegenpart, Widerpart, Widersacher
-Gehalt: Anteil, Konzentration
 Geiern: 
 Gelb: Gelbton
-Geldproblemen: 
 Gelsenkirchen: 
 Gemeindevertretung: 
 Generalsekretärin: 
-Gerichte: 
-Gesang: Singen
-Geschenk: Präsent
-Gespräche: 
-Gesprächen: 
+Geschäft: 
 Gestein: Stein
-Gewehr: Langwaffe, Schießgewehr
 Gewehren: 
 Gewicht: 
-Gewittern: 
-Gewässern: 
+Gifhorn: 
 Gitte: 
-Glastür: 
 Global: 
-Glückstadt: 
 Glückwünsche: 
 Glühwein: Gewürzwein, Glühmost
 Gorch: 
+Goslar: 
 Gott: Herr, Herrgott, Allmächtige, Allwissende, Vater, Vaterunser, Schöpfer, Weltenschöpfer, Weltenlenker, Richter, JHWH, Jahwe, Jehova
-Grab: Grabstelle, Grabstätte
-Grabow: 
+Graben: 
 Granate: 
 Grandslam-turnier: 
 Grevesmühlen: 
 Griesbrei: 
-Grippe-tote: 
 Grone: 
 Großbritannien: Britannien, Verzeichnis:Deutsch/Großbritannien
 Großstädte: 
+Grundschulen: 
+Grönemeyer: 
+Gründe: 
 Guppe: 
-Gute: 
 Gute-kita-gesetz: 
-Gutscheinen: 
-Gutshäuser: 
 Gymnasium: österreichisch, Gym, schweizerisch, Gymer, österreichisch, schweizerisch, Gymi
+Haare: 
 Hackfleisch: Faschiertes, Gehacktes, Hack, Haschee
 Haenning: 
 Hafen-dampfschifffahrtsgesellschaft: 
 Hagelage: 
 Hagelkörner: 
-Hagelschauer: Hagelschlag
-Hagenow: 
 Hahnenklee: 
-Hai: Haifisch
-Hainholz: 
-Hamburg-eidelstedt: 
 Hamburg-eppendorf: 
 Hamburg-horn: 
 Hamburg-lohbrügge: 
-Hamburg-nordwest: 
 Hamburg-rotherbaum: 
-Hamburg-st: 
-Hamburg-wandsbek: 
-Hamm: 
+Hamburger: Burger, Fleischbrötchen
+Handball: Handballspiel
 Handballer: Handballspieler
-Handballkarriere: 
+Handballspielen: 
+Handballvereine: 
 Handwerkern: 
 Handyverbot: 
-Hans: Hannes, Hanno, Henning, Henno, Jannes, Johann, Jan, Jo
+Hans-joachim: 
 Hansetage: 
-Hanstedt: 
 Hardeland: 
 Haren: Haren (Ems)
-Harzburg: 
 Haupstadt: 
-Hauptstraße: Vorfahrtsstraße
 Hausbesitzern: 
 Haushalte: 
 Hausmeister: 
-Heim: Daheim, Wohnung, Zuhause
-Heime: 
+Heimfeld: 
 Heimtücke: 
 Heinzmann: 
-Herrenhäuser: 
+Heizungen: 
+Herbert: 
+Hering: Clupea harengus
+Heringe: 
 Herstellern: 
 Herstellung: Anfertigung, Erzeugung, Fertigung, Produktion
 Hertha: 
 Hexe: Kleine
-Hintern: Gesäß, Hinterteil, Popo, Podex, Steiß, vier Buchstaben, Verzeichnis:Deutsch/Gesäß
 Hip-hop: 
 Hirschen: 
-Hittfeld: 
 Hochhäuser: 
 Hochschule: Akademie, Alma Mater, Universität
-Hochspringerin: 
-Hochwasser: Überschwemmung
 Holen: 
 Hollywood: 
 Holstenstraße: 
-Hosen: 
 Hotelbesitzer: Hoteleigentümer
 Hubschraubern: 
-Hundekäfig: 
 Hurricane-festival: 
 Hut: Deckel
+Hälfte: [1] 50&#160;%
 Höhle: 
 Höhlen: 
 Hörern: 
-Hörfilm: 
 Hörnbad: 
 Hühnern: 
 Ice-zügen: 
+Idee: Urbild
 Imbiss: Snack, Zwischenmahlzeit
-Inas: 
-Indigo: 
 Informatiker: ITler
-Innerstestausee: 
-Insekten: 
-Insolvent: 
-Insolvenzverwalter: 
-Insolvenz·verwalter: 
+Informationstechnik: 
+Innenministern: 
 Intensivbett: 
 Intensivstation: Intensivpflegestation, Intensivtherapiestation, Intensivbehandlungsstation
 Interview: 
 Interviews: 
 Island: Republik Island
+Itzehoe: 
 Jachten: 
 Jacke: 
-Jever: 
+Jahreswechsel: Jahreswende
+Jet: Düsenflugzeug, Düsenjet, Strahlflugzeug
 K+s.: 
 Kabeljau: Dorsch
-Kabeln: 
 Kaffeemaschinen: 
+Kaltenkirchen: 
 Kamelen: 
 Kampfhunden: 
 Kapernaum-kirche: 
 Kapitän: Käpt’n
 Karnevalsumzügen: 
-Karriere: Aufstieg, Fortkommen, Vorwärtskommen
 Kartoffelchips: 
-Karussells: 
 Karussels: 
 Katastrophe: 
-Katzen: 
 Kauczinki: 
 Kehrwieder: 
-Kellern: 
+Kindertagesstätte: Ganztagskindergarten, Kindertageseinrichtung
+Kinderwagen: 
 Kino: Filmtheater, Kinovorführraum, Lichtspielhaus, Lichtspieltheater
-Kleider: 
+Kinos: 
 Kleidungsgeschäfte: 
 Klent: 
 Klinikärzte: 
-Knieverletzung: Knieblessur
-Knochengerüst: Skelett
+Kneipen: 
 Koch: Essenzubereiter, Gastronom, Speisebereiter
+Kohlbrot: 
+Kohlernte: 
+Kohltagen: 
 Kontinent: Erdteil, Weltteil
+Konzerten: 
 Kopfschmerzen: 
-Kopfverletzung: 
-Kopien: 
-Krakow: 
 Krankenbett: Krankenlager
 Krankenhausbetten: 
-Kratzer: Riss, Scharte, Schlitz, Schürfung, Verletzung, Wunde
 Krawallen: 
 Kreisvertretung: 
-Kreuz: Malkreuz
 Kreuzfahrt-tage: 
 Kreuzfahrten: 
-Kroatien: Republik Kroatien
+Krise: 
 Krone: Diadem
-Kroymann: 
-Krusenkoppel: 
 Kräuter: 
+Kugel: Patrone, Projektil
+Kugeln: 
 Kuhlage: 
 Kulturzentrum: 
 Kunden: 
 Kunststücke: 
 Kurt: Cord, Curd
+Kurve: Biegung
 Kurven: 
+Kurzarbeitergeld: 
 Kutschen: 
 Kutschfahrt: 
 Kutschfahrten: 
 Käfig: Gehege, Zwinger, Voliere, Bauer
 Köhler: Holzkohlenhersteller, Kohlenbrenner
-Körperverletzung: 
-Kühen: 
 Künstlern: 
+Küsten: 
 Laatzen: 
 Lachen: 
-Ladung: Fracht, Frachtgut, Kargo, Cargo, Fuhre
 Lampen: 
 Landen: 
-Landes: 
 Landeshauptstadt: 
-Landtagspräsident: 
-Landtagspräsidenten: 
-Landwirt: Agrarier, Agronom, Bauer
+Landwirtschaftsausstellung: 
 Langenhagen-wiesenau: 
 Lathen: 
 Laufen: 
-Laurence: 
 Lea: 
+Leben: Dasein
 Lebens-rettungs-gesellschaft: 
+Lebensgefahr: 
 Lebensmitteln: 
 Lebkuchen: brauner Kuchen, Honigkuchen, Pfefferkuchen, Printe
 Lechtenbrink: 
-Leg: 
+Leer: 
 Legen: 
-Leibesübungen: 
 Leid: Elend, Jammer, Kummer, Qual, Pein, Schmerz, Sorge
+Leine: 
 Leinwände: 
-Leistung: 
+Leistungen: 
+Leitern: 
 Leitplanken: 
-Lemgo: 
 Lettland: Republik Lettland
 Leute: 
+Lieder: 
+Lindenberg: 
 Linienbus: 
-Lippe: Lefze, Labium
 Liter: Kubikdezimeter
-Lkw-teile: 
 Lkw-unfall: 
 Lokal: 
+Lokale: 
 Lokomotiven: 
-Luchsen: 
+Lorenz: 
+Ludwigslust: 
 Ludwigslust-parchim: 
 Luftraum: Territorium, Hoheitsgebiet
 Lungenkrankheit: Lungenerkrankung, Lungenleiden
-Lurup: 
 Lust: Begierde
 Löcher: 
 Löhne: 
-Löschbooten: 
 Löschflugzeuge: 
 Löschflugzeugen: 
 Lüftung: Lufterneuerung, Ventilation, Ventilierung
 Lürrsen-werft: 
 Macht: Einfluss
-Malchin: 
-Marco: 
 Margarethe: 
 Maria: 
-Marianne: 
-Marine-übung: 
 Marineschiffen: 
-Markierungen: 
-Marlow: 
 Marquess: 
 Maschinengewehre: 
 Matratze: Bettpolster, Polster
@@ -989,103 +462,83 @@ Matthies:
 Maxima: 
 Maximilan: 
 Maßnahmen: 
+Mecklenburg: 
 Medaillen: 
 Meinungen: 
-Meisterschaften: 
+Meister: Könner
 Meißner: 
-Melsungen: 
 Menschengruppe: 
-Messehallen: 
-Messern: 
 Messerstecher: 
 Messerstichen: 
 Messungen: 
 Mexiko: Vereinigte Mexikanische Staaten
-Michaelis: 
 Mikrofon: 
-Militärschiff: 
 Millionenraub: 
+Minuten: 
 Misshandlungen: 
 Mit.einem: 
 Mitfahren: 
+Mitglied: Angehöriger, Teilnehmer
 Mitgliedern: 
 Mitspielerinnen: 
 Mittwochmitag: 
+Mittwochmittag: 
 Moorbrände: 
 Morde: 
 Mordlust: 
 Morgensendung: 
 Morgensendungen: 
-Motoradfahrer: 
-Motorboote: 
-Motorrad-führerschein: 
-Motorrad-unfall: 
-Mt: 
-Mtv: 
-Musicals: 
+Motorrad: Kraftrad, Krad, Feuerstuhl, Maschine, Ofen
+Museen: 
+Musikclubs: 
+Musikern: 
+Musikgruppe: Band
 Musikinstrument: Instrument
-Musikklubs: 
-Muskeln: 
 Muslimen: 
-Mut: Furchtlosigkeit, Kühnheit, Risikobereitschaft, Rückgrat, Tapferkeit, Unerschrockenheit, Verwegenheit, Wagemut, Courage, Eier, Mumm
 Máxima: 
-Männer-mannschaften: 
 Männermannschaften: 
 Märkte: 
 Möbelhäusern: 
 Möglichkeiten: 
 Möhre: gelbe Rübe, Karotte, Mohrrübe, Wurzel
-Müllsammeln: 
-Müllsäcke: 
+Müllwagen: Abfallsammelfahrzeug, Müllabfuhrwagen, Müllauto, Müllfahrzeug
 Müsli: Körnerfresser
 Nachbarort: 
+Nachfolger: 
 Namika: 
 Nationalspieler: 
 Nationalspielern: 
 Naturschutzgebieten: 
-Naturschützerin: 
-Neuenfelde: 
+Naturschutz∙gebiet: 
+Nebel: Bodenwolke, Stratus
+Netzen: 
+Neugraben-fischbek: 
 Nichtans: 
 Nichtin: 
 Nichts: Leere, Nirvana
-Nichtsverbotenes: 
 Niederlanden: 
 Nordafrika: 
 Norddeutsche: 
 Nordenham: 
 Norderney: 
-Nordfriesland: 
-Nordpferd: 
 Nordsee-hotel: 
-Nordseewerken: 
-Nordstadt: 
+Nordwesten: Nordwest
 Nord∙deutschland: 
 Norma: 
-Notbetreuung: 
-Notfallfahrplan: 
-Nächte: 
+Nürnberg: 
 Nützen: 
 Obachlose: 
-Obdachloser: Penner, Sandler, Strotter
 Oberkörper: 
-Oberleitungen: 
 Obstbrei: 
-Ohren: 
 Oiaf: 
-Oohh: 
 Orang-utan-frau: 
 Orange: Süßorange
-Ordnung: Weltordnung
-Ortsumgehung: Ortsumfahrung, Umfahrung, Umfahrungsstraße, Umfahrungsstrecke, Umgehung, Umgehungsstraße, Umgehungsstrecke
-Ostholstein: 
-Ostseelandwirt: 
-Out: Aus
-Pajor: 
+Othmarschen: 
+Papiere: 
 Papierstückchen: Papierschnipsel
-Parkplätze: 
-Parks: 
 Parlamente: 
 Parlamenten: 
+Passagieren: 
 Passagierflugzeug: 
 Passagierschiff: Fahrgastschiff
 Passwörtern: 
@@ -1093,24 +546,20 @@ Patient:
 Pech: Missgeschick, Unglück
 Peenemünde: 
 Peking: Beijing
-Pella: 
 Perlen: 
 Person: 
-Pflanze: Gewächs
-Pflegern: 
 Plastikflaschen: 
-Plau: Plau am See
+Platten: 
+Plänen: 
 Plätze: 
 Plätzen: 
+Plön: 
 Polarium: 
 Polizeiakademie: 
-Polzisten: 
+Polizeikontrolle: 
 Possehlbrücke: 
-Potsdam: 
-Preisen: 
 Programmierer: 
 Prostituierten: 
-Prtei: 
 Präsident: Staatspräsident
 Prüfung: Check, Durchsicht, Erprobung, Kontrolle, Überprüfung, Untersuchung
 Puan: 
@@ -1118,59 +567,50 @@ Punkten:
 R.: 
 Rad: Radl
 Radarfalle: 
-Rader: 
 Radfahren: Fahrradfahren
 Radfahrern: 
 Radios: 
 Radiosendungen: 
-Rakete: 
 Randalen: 
-Rathäusern: 
+Raubtiere: 
 Rauchen: Schmöken
-Rb: 
+Raum: Zimmer
+Rechte: 
 Reetdachhaus: 
 Regieren: 
-Regierungschef: 
+Regionen: 
 Reihenhäusern: 
+Reisen: 
 Reisende: Touristin
-Reisepass: 
 Rektor: Direktor, Schulrektor
 Relegationsspielen: 
 Religion: 
-Rellingen: 
 Rest: 
 Reste: 
 Rettungsdiensten: 
 Rhede: 
-Rhein: Rheinstrom, Vater Rhein
-Rhein-neckar: 
+Richtung: 
 Riesenrad: 
-Rinder: 
-Rissen: 
-Roald: 
 Rock: Gehrock, Bratenrock
 Rockerbande: 
-Rockmusik: 
 Rollerfahrer: 
 Rollstuhlfahrer: 
-Rolltreppen: 
-Rosenberg: 
 Rostocker: 
-Rucksack: Affe, Knapsack
-Ruhestand: 
+Rotkohl: Blaukraut, Rotkraut
 Rumpelstilzchen: 
-S-bahn-tunnel: 
+Runde: Gruppe, Kreis, Ring, Zirkel
+Rücken: Buckel
+S-bahn-strecke: 
 Sabine: Bine, Sabse
 Salat: Lactuca sativa, grüne Salat, Gartensalat, Lattich
 Sarg: 
 Sasha: 
-Scc: 
+Schalke: 
 Schatten: 
-Schaufenstern: 
 Schauspielern: 
-Scherben: Terracotta
+Scheiben: 
 Schere: Zange
-Scheunen: 
+Scheune: Scheuer, Stadel
 Schießen: 
 Schiffskran: 
 Schiffsunfall: 
@@ -1178,20 +618,13 @@ Schilder:
 Schlaf: Dösen, Nickerchen, Ruhe, Ruhephase, Schlummer
 Schleudern: 
 Schleusentor: 
-Schleuserbande: Schlepperbande, Schleusernetzwerk, Schleuserorganisation, Schleuserring
-Schlimmes: 
-Schlossfestspielen: 
-Schokolade: Trinkschokolade, Kakao, Kakaogetränk, Kakaomilch, Wasserschokolade
+Schlägereien: 
 Schostock: 
+Schranken: Schranke
 Schreck: Schrecken
 Schreibweise: Schreibung
-Schrift: Handschrift, Gekliere, Gekritzel, Geschreibsel, Geschriebsel, Klaue, Schreibart, Schreibweise
-Schulbehörde: 
-Schulbusse: 
-Schulbussen: 
-Schuld: Verbindlichkeiten
 Schultag: 
-Schulter: Achsel
+Schutz: 
 Schutzkleidung: Schutzbekleidung
 Schwangerschaft: Gestation, Gravidität, Trächtigkeit
 Schwarzbuch: 
@@ -1200,38 +633,28 @@ Schwertransport: Schwerguttransport, Schwerguttransporter, Schwerlasttransport, 
 Schwertransportern: 
 Schwimmbädern: 
 Schwimmdock: 
+Schwänen: 
 Schädlinge: 
 Schädlingen: 
 Schütteln: 
 Seebären: 
 Seehofer: 
 Seele: Geist
-Seeweg: 
-Seewege: 
-Segel-schiffe: 
-Segel-schiffen: 
 Segelveranstaltungen: 
+Segler: Turmschwalbe
 Seil: Tau
-Seile: 
-Seiten: 
+Seilen: 
 Seitenstreifen: 
-Selbstvertrauen: Selbstsicherheit, Selbstbewusstsein
 Senzel: 
-Seuche: Epidemie, Infektionskrankheit, Pandemie
 Sicherheitsschleuse: 
 Sicherheitsschleusen: 
 Sicherungsverwahrung: 
 Sieger: Gewinner, Triumphator
-Sietas: 
 Signal: Schild
-Silvester-böller: 
 Silvesterböllern: 
-Silvesternacht: Neujahrsnacht
-Sitze: 
-Skelett: Gerippe, Knochengerüst
+Sitz: Hocker, Platz, Schemel, Sessel, Sitzplatz, Sitzgelegenheit, Stockerl, Stuhl, Thron
 Skiern: 
 Skiurlaub: 
-Soldat: Knecht, Krieger, Kriegsknecht, Kriegsmann, Landser, Wehrmann, Kämpe
 Sommerspiele: 
 Sondermüll: 
 Sonnenbrillen: 
@@ -1239,137 +662,123 @@ Sonnenschein:
 Sonntagabend: 
 Sonntage: 
 Sonntagen: 
+Sonntagmorgen: 
 Sottrum: 
+Spargel: 
 Spd-chefin: 
-Speerwurf: 
 Spende: Opfer, Gabe, Zuwendung
 Spendenabend: 
-Sperrrung: 
 Spielerinnen: 
-Spielfilmpreis: 
-Spielgemeinschaft: 
+Spielplätze: 
 Sport-vverein: 
 Sportgerät: 
+Sporthalle: 
 Sportlern: 
-Sportvereinen: 
-Sport‑verein: 
-Sprünge: 
-Stadtbahnen: 
+Sprecherin: Ansagerin, Programmsprecherin
 Stadtreinigung: 
-Stadttteil: 
 Stahl: 
+Stall: Stallung, Verschlag
+Stars: 
 Starten: 
 Stecke: 
-Sternschanze: 
+Stein: Gestein, Fels
 Steuerverschwendung: 
+Stieftochter: 
+Stimme: Organ
 Stockwerke: 
-Stockwerken: 
 Stolpern: 
 Straßenausbaubeitrag: 
+Straßenbahnfahrer: Tramwayfahrer
 Straßenlaternen: 
-Straßenrand: 
-Straßenreiniger: Straßenfeger, Straßenkehrer
 Streiten: 
+Stroh: 
 Stromausfälle: 
-Stromschlag: 
 Stundenkilometer: Kilometer, Sachen
 Sturz: Entmachtung
 Ställe: 
-Störtebeker: 
-Störung: 
 Stürmerin: Angreiferin, Offensivspielerin
 Suchsdorf: 
+Sängerinnen: 
 Sätze: 
 Sören: 
-Süderstraße: 
+Süddeutschland: 
+Südostasien: 
 Südpol: 
 Talsperre: Stauwerk, Stauanlage
 Tankstellen: 
 Tanz: 
 Tanzen: 
-Tanzsportverein: 
-Tatortreiniger: 
 Taufe: 
 Tausend: 
-Tbv: 
 Technikmesse: 
 Technologie-firma: 
 Telefon: Fernsprecher, Fernsprechgerät, Fernsprechapparat, Telefonapparat
-Telefonanruf: Anruf
 Telefonieren: 
 Temperatur: Wärmegrad
-Tennisspielerinnen: 
 Tennisspielern: 
 Teppiche: 
 Terminen: 
-Terrorist: 
 The: 
 Thülsfelder: 
 Tierbabys: 
 Tierhaare: 
 Tierparks: 
-Tierskelette: 
-Tierärzten: 
+Tiger: getigerte, Katze, tigroide, Katze
 Tischen: 
+Toiletten: 
 Toitenwinkel: 
+Toter: Leiche, Leichnam, Verblichener, Verstorbener
 Transportern: 
 Traum: Begehren, Wunsch, Sehnsucht, Verlangen, Wunschdenken
-Tretroller: 
+Treppen: 
 Trockendocks: 
 Tropfen: Perle
+Tunneln: 
 Tätern: 
 Töchtern: 
-U-bahn-fahrer: 
-U-bahn-gleis: 
+Töten: Tötung
 U-bahn-haltestellen: 
 U5: 
 U5.: 
+Uelzen: 
 Uhrzeit: 
 Umleitung: 
+Umwege: 
 Unfallstellen: 
 Universitätsuklinikum: 
-Unterlage: 
-Unternehmer: Arbeitgeber, Entrepreneur, Erzeuger, Fabrikant, Fabrikbesitzer, Geschäftsmann, Hersteller, Industrieller, Industrielle, Produzent, Wirtschaftstreibende, Wirtschaftstreibender
-Untersuchungen: 
+Untergrund: 
+Unternehmen: Betrieb, Firma
 Urlaubern: 
 Urteile: 
 Valluhn: 
-Vegesack: 
+Verbindung: Übergang, Route, Leitung
 Verbrauchermesse: 
-Verbrechern: 
-Verdacht: Annahme, Vermutung
-Verdienstorden: 
-Verdächtiges: 
-Verfolgung: Beschattung, Bespitzelung, Ermittlung, Fahndung, Jagd, Suche, Überwachung, Verfolgungsjagd
+Verbrecher: 
 Verhalten: 
+Verkehrsbetrieben: 
 Verkehrsgewerkschaft: 
 Verkehrsschilder: 
 Verluste: 
 Vermisster: 
 Versammlungen: 
 Versorgungsschiffe: 
+Vertrauen: Gewissheit, Glaube, Sicherheit, Zuversicht, Zutrauen
 Verträgen: 
 Verwandten: 
 Vieh: Nutztier, Haustier
 Viehmarkt: 
 Viertel: viertel
 Vinnhorst: 
-Vize-landtagspräsidentin: 
 Vogelmarkern: 
 Volker: 
 Volksdorf: 
+Volksfest: Kirchweih, Kirmes, Rummel
 Volkspark: 
-Volleyballmannschafen: 
-Volleyballverein: 
 Vonschwerin: 
-Vorbilder: 
-Vorfahrt: Vorrang, Vortritt
+Vorpommern: 
 Vorpommern-rügen: 
 Vorsicht: Achtung, Obacht
-Vortrag: Darbietung, Deklamation, Rede, Referat
 Wachen: 
-Wachmann: Wächter
-Waddeweitz: 
 Wade: österreichisch, Wadl
 Wahlentscheidung: 
 Wahlgebiet: 
@@ -1381,139 +790,109 @@ Warnungen:
 Warten: 
 Waschen: Waschung
 Wasserdampf: 
-Wassergraben: 
-Wasserleitungen: 
-Wasserpumpen: 
 Wasserrohre: 
 Wasserschaden: 
 Wasserschläuche: 
 Wasserschläuchen: 
-Wasserspendern: 
-Wedemark: 
-Weener: 
 Wegen: 
-Weiden: 
 Weihnachtslieder: 
 Weihnachtsmusik: 
 Weihnachtsmärkten: 
 Weinbauer: Weingärtner, Weinhauer, Weinzierl, Winzer, Wengerter
 Weinrebe: Rebe
 Weitergerollt: 
-Weitsprung: 
-Weißrussland: innerstaatlicher, Schriftverkehr, Republik Weißrussland
-Wellingsbüttel: 
-Werbeplakate: 
+Weißkohl: Kaps, Kappes, Kabis, Kappus, Kobis, Kraut, Weißkabis, Weißkraut
+Weser: 
 West: Westen
-Westerland: 
-Wichtiges: 
+Wettkampf: Wettstreit
 Wiederverwendung: 
-Wiederverwertung: 
-Wiesen: 
 Wiesmoor: 
-Wildscheine: 
+Wik: 
 Wildtier: 
 Wildtieren: 
 Wildunfall: 
 Windräder: 
 Windrädern: 
 Wind∙kraftanlagen: 
-Winsen: 
-Winterpause: 
 Winterspiele: 
 Winzer: Weingärtner, Weinbauer, Weinhauer, Weinzierl, Wengerter, Rebbauer
 Wissenschaftsminister: 
-Wlan-verbindung: 
 Wohnen: 
-Wohngebiete: 
 Wohnhäusern: 
+Wolfsspuren: 
 Worten: 
-Wriedel: 
-Wucht: 
 Wänden: 
+Würzburg: 
 Wüste: Öde, Ödland, Ödnis
-Yara: 
 Yvonne: 
 Zahlen: 
-Zarrentin: 
 Zauberer: Hexer, Hexenmeister, Magier, Magiker, Magus, Schwarzkünstler, Nigromant
 Zellen: 
+Zeuge: 
 Ziegen: 
 Zoos: 
-Zugfahrt: Bahnfahrt
+Zugführer: Hörsaalleiter, Zugskommandant,  (Österreich)
 Zugführern: 
 Zugverkehr: Eisenbahnverkehr
 Zukunft: Futur I
-Zusammenfassung: Tour d'Horizon, Überblick, Übersicht
 Zusammenschluss: Bund, Union, Ring
 Zusammenstoß: Crash, Karambolage, Kollision, Zusammenprall
 Zuschauen: 
-Zweikampf: Duell
 Zweiter: Zweitplatzierter
 Zähne: 
 a1: 
 a27.: 
-a352.: 
 abbauen: auflösen, beseitigen, demontieren, zurückbauen, zerstören
-abgebrannt: 
-abgeholt: 
+abgebogen: 
 abgelassen: 
+abgelenkt: unaufmerksam, unkonzentriert
 abgeschaltet: 
-abgeschleppt: 
 abgeschlossen: abgetrennt
 abgeschreckt: 
-abgestellt: 
 abgesägt: 
-abholen: abführen, verhaften
 abmachen: 
 abpumpen: 
 abschaffen: 
-absperren: abschließen, zuschließen
 absteigen: 
-abstellen: niederstellen
 abstürzen: 
 abtshagen: 
 akzeptieren: anerkennen, annehmen, befürworten, billigen
-alleingelassen: 
 alone: 
 alster: 
-altenwerder: 
-anbieten: 
 anderem: 
 anders: verschieden
-anfassen: anlangen, anrühren
 angeben: anführen, behaupten, bekannt geben, hinweisen, mitteilen, nennen, vorbringen
-angefasst: 
 angeguckt: 
 angehoben: 
-angekettet: 
 angemeldet: 
-angeschnallt: 
-angeschrien: 
+angesprochen: 
 angetreten: 
 angetrieben: 
 anheben: hochheben, hochziehen, lüpfen
 anhören: 
 ankreuzen: ankreuzeln
-anschließen: beitreten, , sich dazu gesellen
+anlegen: veranlagen
 ansprechen: anreden
 anstrengen: 
 anstrengenden: 
 arbeitslos: beschäftigungslos, ohne, Anstellung, Arbeit, ohne, Beschäftigung, Stellung, erwerbslos, stellenlos, stellungslos, unbeschäftigt
 arm: 
+atmen: Luft, holen
 aufbekommen: 
 auffällige: 
-aufgefahren: 
 aufgefressen: 
 aufgeklärt: 
 aufgemacht: 
+aufgenommen: 
 aufgeregt: beunruhigt, erregt, nervös, durcheinander
 aufgeschüttete: 
 aufgesetzt: 
+aufgestiegen: 
 aufgeteilt: 
-aufstellen: aufrichten, hinstellen
 aufwachsen: aufschießen
-ausbrechen: befreien, fliehen
+ausbreiten: 
 ausfallen: verlieren
+ausgebreitet: 
 ausgebuddelt: 
 ausgegeben: 
 ausgeglichen: 
@@ -1522,75 +901,58 @@ ausgelaufen:
 ausgeruht: 
 ausgeschaltet: 
 ausgetauscht: 
-ausgewildert: 
-auslegen: 
 ausleihen: herleihen, verleihen
+ausländerfeindlich: 
 ausparken: 
-ausrauben: ausplündern
 ausruhen: erholen, entspannen, ausrasten
-aussetzen: entlassen, verstoßen
-auswählen: aussuchen, wählen, selektieren
+ausweichen: 
 ausziehen: herausziehen
-automatisch: selbsttätig
-außer: außerhalb
+außerdem: überdies, zudem, ferner, nebenher, nebenbei, weiteren, Folge, auch, , zusätzlich
 außerhalb: außen, auswärts, draußen
 b6.: 
+backen: braten
 barrierefreie: 
 basteln: 
 bedanke: 
 bedanken: danken
-bedeckt: bewölkt, wolkenverhangen, wolkig
-bedrohen: androhen, bedrängen, drohen, nötigen, zwingen
-beende: 
 befreit: 
 begleitet: 
 behandeln: 
 behält: 
 beibringen: beschaffen, herbeiholen, vorlegen
+bekannt: gewusst
 bekanntes: 
 bekannteste: 
-beleidigt: gekränkt, verunglimpft
 beleuchtet: 
-beliebt: 
-belogen: 
 benachteiligt: 
 benannt: 
+beobachtet: 
 beraubt: 
 bereiten: anrichten, herrichten, ebnen, zurechtmachen
 berührt: 
 beschimpft: 
-beschreibt: 
 beschädigen: 
-beschädigte: 
 beschädigter: 
-besonderem: 
+beschäftigen: beanspruchen, betätigen, widmen
+beschützen: 
 bestellen: anfordern, ordern, buchen, reservieren
 bestellt: 
 bestimmen: 
-bestohlen: 
-beteiligt: 
+bestrafen: strafen
 beten: 
-betreten: verlegen
 betreut: 
 betrunkener: 
-betäubt: narkotisiert
 bewacht: 
-beweglich: agil, dynamisch, flexibel, gelenkig, mobil, variabel
-beworfen: 
-binden: schnüren, fesseln, verknüpfen, festmachen, zusammenfügen, befestigen
-bittet: 
+bietet: 
 brauche: 
-braun: 
 braunen: 
 brechen: durchbrechen
 breitere: 
 bremische: 
 bremischen: 
 brennender: 
-bricht: 
 bunt: mehrfarbig, verschiedenfarbig, vielfarbig
 buntes: 
-böse: 
 christlich-soziale: 
 christliche: 
 dagegen: contra, dawider, konträr
@@ -1599,74 +961,59 @@ darauf: auf,  den, die das
 darfst: 
 davor: 
 days: 
-ddie: 
-ddieses: 
 de: doch
-deine: 
+dehnt: 
 demselben: 
 denn: nämlich, weil, da
 deutsch: 
-dichten: reimen, Reime, machen, Verse, setzen, singen, Verse schmieden, den Pegasus satteln, den Pegasus reiten
+dich: 
+dichter: 
 dicken: abdicken, andicken, binden, eindicken, verdicken
-dies: 
+dickes: 
 digitalisiert: 
 diskutieren: abhandeln, besprechen, bereden, debattieren, durchsprechen, disputieren, erörtern
-dj: 
 doch: 
 dort: da
-dreckiges: 
-dreh: 
 dritten: 
 dritter: 
-drittletzten: 
-drittletzter: 
 drittschnellste: 
-druckt: 
 dufte: 
-dumm: bescheuert, blöd, dämlich, doof, dusselig, idiotisch, Verzeichnis:Deutsch/Dummheit
 dunkles: 
-durchgebissen: 
 durchsuchen: durchforsten, durchstöbern
-durchsuchten: bingen, suchten
 duschen: brausen
-dörverden: 
-dünn: mager, schmal
 dürfen.keine: 
-ehemaliger: 
-ehren: 
-ehrt: 
-eifersüchtig: 
+ehrlich: ungelogen, wirklich, wahr, wahrhaftig, wahrheitsgemäß
 einatmen: Atem holen, Luft holen, Luft schnappen
 einbauen: installieren, montieren
-einbetoniert: 
-einbrechen: eindringen
+einfach: leicht
 einfrieren: durchfrieren, gefrieren
 eingeben: abgeben, aushändigen
-eingeladen: 
 eingeschlagen: 
 eingeschleust: 
-eingeschlossen: 
 eingesetzt: 
 einsam: abgeschieden, abgelegen, entfernt, entlegen, gottverlassen, isoliert, verlassen, verwaist
-einschlafen: einpennen
+einschläfern: einlullen
 einsetzen: verwenden, disponieren
-einstellen: anstellen
+einsteigen: 
 einzelne: 
 einzelnen: 
 eisenbahn-: 
 eitzum: 
-elektrischen: 
+elektrische: 
 elektronische: 
 empfiehlt: 
+enden: aufhören, schließen
 eng: schmal, knapp
 englischen: 
 englisches: 
+entdeckt: 
+entfernen: 
+entgegengekommen: 
 entkommen: enteilen, entlaufen, verlassen
 entladen: 
+entlastet: 
 entschuldigen: 
-entwirft: 
 erfolgreichen: 
-erfolgreicher: 
 erfolgreichsten: 
 erfüllt: 
 erholen: 
@@ -1676,76 +1023,70 @@ erhöht:
 erkannt: 
 erkennt: 
 erkältet: 
+erlaubt: 
+erneuern: modernisieren, renovieren, wiederherstellen
 erpressen: abnötigen, abpressen, nötigen, zwingen
 erpresst: 
 erreicht: 
-erschlagen: totschlagen
-ersetzen: austauschen, auswechseln, substituieren
 ersetzt: 
 erwarten: 
 erwartet: 
-erzeugt: 
+erwischt: 
+erwürgt: 
+erzeugen: produzieren, generieren
 erzählen: berichten, wiedergeben
 etzt: 
-evakuieren: räumen
 evangelischen: 
 explodierten: 
 extra: eigens
 fahre: 
-fahrende: 
-fahrendes: 
 faire: far,  (alternative Infinitivform)
-falsches: 
-farven: 
+falschen: 
 fasst: 
+fehlen: mangeln
 feste: 
 festmachen: 
-fischen: 
+filmen: 
 flach: eben
 flensburg-handewitt: 
 fliehen: flüchten
 flüchtet: 
+flüssig: 
 forschen: untersuchen
-französische: 
-freien: ehelichen, heiraten
 freigemacht: 
-freitags: 
-freiwilligen: 
 fremdsprachigen: 
-freundlich: heiter, sonnig
 friedlich: friedvoll, gewaltlos
 friedliche: 
 friedliches: 
 frisch: 
 frites: 
+froh: 
 frühestens: 
-fuhren: 
-fälscht: 
+fängt: 
 fördern: 
-füllen: 
+gab: 
 geachtet: 
 geantwortet: 
-gebadet: 
 gebildet: gelehrt, klug, intelligent, weise
-geblüht: 
 gebohrt: 
 gebratenem: 
 gebuddelt: 
 gedankt: 
 gedroht: 
-gedruckt: 
-gedrängt: 
+gedrückt: 
 gedser: 
-gefesselte: 
+gefesselt: 
+geflossen: 
 geflügelhöfe: 
 gefordert: 
 gefriert: 
 gefroren: 
+gefährlicher: 
 gefährliches: 
+gefälschte: 
 gefüllt: 
-gefüttert: 
-gegossen: 
 gegriffen: 
+geguckt: 
 gehagelt: 
 gehe: 
 geheim: 
@@ -1754,206 +1095,172 @@ geistiger:
 gejagt: 
 gekannt: 
 geklaute: 
-geklingelt: 
-gekümmert: 
-geleistet: 
-geleitet: 
+gelassen: besonnen, cool, geduldig, lässig, ruhig
+geldautomat: 
+gelegen: geeignet, passend
 geliebt: begehrt, beliebt, geschätzt, lieb, teuer, wertvoll, traut
 geliehen: 
-gelobt: 
 gelockt: 
 genervt: 
 gepasst: 
+gepflanzt: 
 geplanten: 
+geplatzt: 
 gepumpt: 
-gequält: 
-gerannt: 
 geraubt: 
-geraucht: 
 gerechte: 
 geredet: 
-geschaut: 
-geschlachtet: 
 geschlossene: 
 geschlossenen: 
 geschmückt: 
-geschrien: 
-geschwankt: 
+geschubst: 
 geschwänzt: 
 geschüttelt: 
-gespritzt: 
 gespürt: 
 gesteckt: 
-gesteht: 
-gestoben: 
-gesunde: 
+gestochen: 
+gestoßen: 
 getanzt: 
 getragen: 
 getrieben: 
-getöteten: 
 gewackelt: 
 gewechselt: 
-gewehrt: 
-gewendet: 
+geweckt: 
 gewählte: 
+gewürgt: 
 gezerrt: 
+gezogen: 
+geärgert: 
 gib: 
-gibst: 
+ging: 
 glatte: 
-gleichberechtigt: 
+gleichzeitig: 
 globe: 
 golden: gülden
 greife: 
 greift: 
+größere: 
 größter: 
 größtes: 
-gründen: anfangen, beginnen, einrichten, eröffnen
+gründlich: 
+guten: 
 günstige: 
-günstigen: 
 günstiger: 
-hafen100: 
+halunder: 
 handeln: 
 handelt: 
-hatten.keinen: 
 heimlich: versteckt, geheim, verborgen, klammheimlich
-heiraten: Bund der Ehe, schließen, hochzeiten, in den Ehestand treten, sich vermählen
 heißes: 
+helfe: 
 helft: 
 heran: ran, &#91;1&#93;, herzu
 herangekommen: 
-herausgehen: 
-herausgekommen: 
 herausgeschleudert: 
-hergestellt: 
 herum: 
-herumfahren: 
-herunter: runter
 herunterfallen: hinunterfallen, runterfallen
 herunterfliegen: 
 hieß: 
-hin: in Richtung
-hinbringen: 
 hineingehen: betreten
+hinten: achtern
 hinterlassen: zurücklassen
 hoffe: 
-holt: 
-home: 
 höhere: 
-impfen: 
-ine: 
 informiert: 
 insgesamt: zusammen, alles in allem, summa summarum, vereint
+insolvent: bankrott, zahlungsunfähig
 intelligent: aufgeweckt, ausgeklügelt, begabt, clever, einsichtig, geschickt, klug, logisch, rational, verständig, vernünftig
+islamische: 
+islamischen: 
 isolieren: abtrennen, absondern, vereinzeln
-jahrelang: 
 jederzeit: stets, immer
 jemand: einer, irgendwer, wer, etwer
-junges: 
 jünger: 
-jüngsten: 
-kalten: 
 kamen: 
 kannte: 
 kapernaum-kirche: 
 kaputter: 
-kaputtgehen: 
 kastorfer: 
-keien: 
+kaum: wenig
 keinauto: 
 keineanderen: 
-keinmensch: 
-kennenlernen: bekanntmachen
-klassische: 
+kippt: 
+klauen: abstauben, entwenden, lange Finger machen, mausen, mitgehen lassen, mopsen, stehlen, stibitzen, umsonst einkaufen
 klettern: 
-klären: 
-komisch: komödiant
-komplett: 
+klettert: 
+kochen: abbrühen, anrichten, aufbrühen, den Kochlöffel schwingen, erhitzen, garen, zubereiten, zurichten
 konfetti: 
-kreuzen: bastardieren, hybridisieren
-kräftig: 
+kostenlose: 
+kriminell: verbrecherisch
 kämpft: 
 kühlt: 
 kümmere: 
-künstliche: 
 lachen: 
-lagen: 
-lagern: 
 langenfelder: 
 langsames: 
+lauter: aufrichtig, geläutert, redlich
 lebe: 
-lebenslange: 
 lebenslangen: 
 leer: ledig
 leichte: 
-leihen: borgen, herleihen
+leise: 
 leiten: 
+lieber: besser
 liefern: vertreiben, zustellen
 liefert: 
-linke: 
-links: backbord
+linken: betrügen, hereinlegen, hintergehen, täuschen
+lockern: 
 los: befreit, frei,  von
 losgehen: aufbrechen
-luruper: 
 lustig: amüsant, belustigend, humorvoll, komisch, witzig
 längere: 
+lösen: bewältigen
+lügen: 
 lügt: 
-mach: 
-machen.keinen: 
-malen: anstreichen, ausstreichen, bestreichen, streichen
-malt: 
-mecklenburger: 
+man: human
+mecklenburgische: 
 mehrfach: multipel, vielfach
 melden: 
 mitfeiern: 
-mitfliegen: 
 mitgefahren: 
-mitgelaufen: 
+mitgenommen: 
 mitnehmen: 
 mobilen: 
 modern: auf der Höhe der Zeit
-moderner: 
 modernisiert: 
-montags: 
 mutig: 
-männlich: mannhaft, maskulin
-müsst: 
-n: 
+nacheinander: hintereinander
 nachgebaut: 
-nackt: bloß, entblößt, frei, unbedeckt, unbekleidet
 nationalsozialistischer: 
 ndr.de: 
 nein: negativ, niemals, nie, nie und nimmer, nirgendwann, nirgends, nirgendwo, niemand, nirgendwer
 neugierig: interessiert, wissbegierig, wunderfitzig
 neugierige: 
-neuländer: 
-neunmal: 
-nichtgesunken: 
 niedriger: 
 niemandem: 
 niemanden: 
 nord: norr
+nordische: 
 normal: gewöhnlich, regelrecht, regulär, typisch, üblich, vorschriftsmäßig
 normale: 
 normaler: 
 notwendig: erforderlich, nötig, unerlässlich, unverzichtbar
 nutzt: 
-nächstes: 
-nähert: 
 nämlich.nicht: 
-nördliche: 
+nördlich: mitternächtlich, septentrional, gen, Mitternacht
 nützen: nutzen
-of: 
+oben: 
 offen: geöffnet
-oohh: 
 organisiert: 
 ostfriesische: 
 paar: paarig, paarweise
 paaren: 
 panorama: 
 parkende: 
+passt: 
 persische: 
 persischen: 
 plattdeutsch: niederdeutsch
+platzt: 
 politische: 
 pommes: 
 pop: pop musik
@@ -1963,35 +1270,28 @@ pünktlicher:
 radikal: extrem
 rauf: herauf
 raus: heraus, hinaus
-rausgekommen: 
 rausgepumpt: 
 rausgezogen: 
 reagieren: 
-rechts: steuerbord
-reflektiert: 
+rechten: 
 reformieren: 
-regiert: 
 reicher: 
 reicht: 
 reist: 
-rhein-neckar: 
-richtige: 
+riechen: einen Geruch wahrnehmen, schnuppern, schnüffeln
 riecht: 
 rohr: 
+rote: 
 runter: herab
-runtergefahren: 
 runtergelassen: 
 runterholen: herunterholen
 rächen: heimzahlen, vergelten
 rückwärts: mit dem Rücken voran, arschling
-s32: 
-sammeltaxis: 
-saubermachen: säubern, reinigen
 saugt: 
 saßen: 
 schaden: 
 schafft: 
-schaut: 
+scheint: 
 scheue: 
 schief: schräg, schepp
 schlafenden: 
@@ -2001,42 +1301,36 @@ schlucken:
 schmal: eng, dünn
 schmale: 
 schmilzt: 
-schneiden: abschneiden
 schneien: 
 schnelles: 
 schnellsten: 
-schreibt: 
 schränken: 
-schwarz: schwarzhaarig
 schweben: 
 schwebt: 
 schweizer: 
 schweres: 
-schweriner: 
-schwerkranken: 
 schwimmende: 
 schwitzen: transpirieren
+schöner: 
 schönsten: 
 seeburger: 
 selbstfahrende: 
 selbstgemachte: 
 sendet: 
-setzt: 
 sexuellem: 
 sicherer: 
-sichern: 
 silvester: 
 singe: patron
 sollen.keinen: 
 sollen.nicht: 
 sonnig: 
-sozial-demokratische: 
 sozialer: 
 spanische: 
 spannend: 
-spargelernte: 
-spazieren: bummeln, flanieren, promenieren, schlendern, lustwandeln
+sparen: beiseitelegen, auf die hohe Kante legen
 speichert: 
+spiele: 
+springen: hopsen, hüpfen
 spätestens: 
 starkes: 
 startet: 
@@ -2044,35 +1338,31 @@ statt: anstatt
 stattfinden: ablaufen, erfolgen, geschehen, passieren, zutragen
 steckt: 
 steigt.nicht: 
-steile: 
-steilen: 
-stoppt: 
+stiehlt: 
+stinkt: 
+strahlt: 
+streichen: anmalen, anpinseln, anstreichen, auftragen
+streiten: zanken
 streng: 
+stößt: 
+stürzt: 
 sumpfig: 
+sägen: schnarchen
 südlichen: 
-südöstlich: südost-
 tagesstätte: 
-taufen: 
-tauft: 
-technische: 
-technischer: 
-teil: 
 telefoniert: 
 teuren: 
 teures: 
-toben: 
 tolle: 
-tornesch: 
 treten: schreiten, kommen
 trösten: 
 turnen: 
 täglich: 
 töte: 
-u: 
 umdrehen: 
 umgedreht: 
 umgefallene: 
-umgerissen: 
+umgeleitet: 
 umkippen: 
 umleiten: 
 umweltfreundlich: biologisch, ökologisch, umweltschonend, umweltverträglich
@@ -2080,74 +1370,54 @@ umweltfreundliche:
 unbekannte: 
 unechte: 
 unechten: 
-ungesund: gesundheitsgefährdend, gesundheitsschädlich, gesundheitsschädigend, krankmachend
 unterhalten: 
 unterkühlt: 
 unternommen: 
 unterspült: 
 unterstützen: 
+unterstützt: 
+veranstaltet: 
 verbessert: 
-verbinden: bandagieren
 verbotener: 
-verbrannt: 
-verbrennt: 
 verdrängt: 
 vereinbart: 
-verfangen: 
 vergangen: 
-vergangene: 
+vergeben: verteilen, weggeben, austeilen, gewähren, zuteilen
 vergiftet: 
 vergiftete: 
 vergraben: verbuddeln, verscharren
 verhaken: 
 verhakt: 
 verhandeln: besprechen, konferieren
-verhandelt: 
 verhindert: 
+verkleidet: 
 verkleinern: 
-verladen: aufladen, einladen, laden, verstauen
-verlangen: 
-verliehen: 
 verliere: 
-verlädt: 
-verlängern: 
 vermehrt: verstärkt, zunehmend
-vermeiden: 
 vermiete: 
 vermietet: 
-vermissen: ermangeln, missen
-vermisstem: 
-vermissten: 
+vermisste: 
+verreisen: 
 verreist: anderswo, Reisen, außer, Haus, nicht, daheim, gegenwärtig, Hause
-verschenken: 
-verschicken: abschicken, absenden, versenden
-verschickt: 
-verschlossen: 
+verschieben: 
 verschmutzt: befleckt, beschmutzt, dreckig, fleckig, schmuddelig, schmierig, schmutzig, speckig, ungewaschen, unsauber, verschmiert, verpestet, ölig
 verschwendeten: 
-verschwinden: vergehen, sich in Wohlgefallen auflösen
-verschwundene: 
-versenkt: 
 versorgt: 
 versperren: 
 verspätet: unpünktlich, säumig, verzögert
 verstecken: verbergen
+verstehe: 
 verstellen: zustellen
-versunken: untergegangen
 vertragen: 
 vertrauen: bauen, hoffen
-vertreiben: verjagen, verscheuchen
-vertrieben: 
+vertritt: 
 verwandt: versippt
 verwandten: 
 veröffentlicht: 
 vierter: 
-viertgrößte: 
 voneinander: 
+vorbeifahren: passieren, vorüberfahren
 vorbeigefahren: 
-vordere: 
-vorgelesen: 
-vorgeschlagen: 
 vorgeworfen: 
 vorletzten: 
 vorsichtiger: 
@@ -2155,11 +1425,10 @@ vorwärts: voran
 völlig: absolut, ganz, gänzlich, komplett, total, vollkommen, vollständig
 wackeln: 
 wahr: richtig, korrekt, zutreffend
+wartet: 
 wechseln: abwechseln
-weener: 
 weggelegt: 
 weggemacht: 
-weggenommen: 
 weggepumpt: 
 weggesackt: 
 weggetragen: 
@@ -2169,41 +1438,37 @@ wehren:
 weiblichen: 
 weiblicher: 
 weibliches: 
+weich: 
 weil: alldieweil, da, sintemal, denn
 weist: 
 weite: 
 weiten: 
-weiterarbeiten: 
 weiteren: 
 weiterentwickelt: 
-weiterer: 
-weitergehen: 
 weitermachen: fortfahren
+weiße: 
+weißer: 
 welchen: 
 wertvolle: 
-wiederbelebt: 
 wiegen: abwiegen, wägen
 wiegt: 
-wirft: 
+wieso: weshalb, warum, weswegen
 wohin: wo
 wohne: 
 wollt: 
-woran: 
 wünsche: 
-wünschen: anstreben, anvisieren, brennen, den Wunsch haben, sich, erhoffen, erpicht sein, erstreben, sich erträumen, fiebern, herbeisehnen, Sehnsucht haben, streben, träumen, versessen sein, wollen, sich zum Ziel setzen
 zahlt: 
 zerquetscht: 
 zerstören: 
 zerstörten: 
-ziehe: 
 zielt: 
 zubeißen: anbeißen, schnappen, zuschnappen
 zugegangen: 
-zugestochen: 
+zugeschüttet: 
 zugucken: 
+zuletzt: abschließend, letztlich
 zurechtfinden: 
 zurückbringen: 
-zurückgekommen: 
 zurückholen: 
 zurücklegen: 
 zurückzahlen: rückzahlen
@@ -2212,29 +1477,26 @@ zusammengeschoben:
 zusammengetan: 
 zuschauen: zusehen, observieren, beluchsen, zugucken, zukucken, gaffen, glotzen
 zusätzliche: 
-zweimal: 
 zweitgrößte: 
+zwingen: nötigen
 zählen: 
 zählt: 
 Ämter: 
 Ärmel: 
-Öjendorf: 
 Ölprinz: 
-Überholen: 
-Überstunden: 
+Überfällen: 
 ähnliches: 
 ärgere: 
-öffentlich: publik
-östliche: 
+ätzend: 
+übel: 
 überfordert: 
-überfällt: 
 überholt: 
-überladen: überfrachten
-überleben: weiterleben
 überlebt: 
 übernehmen: abnehmen, entgegennehmen, aufnehmen
+überprüfen: evaluieren, herausfinden, kontrollieren, nachprüfen, nachschauen, reevaluieren, testen
+überrascht: 
+überredet: 
+überrollt: 
 überspülen: fluten, überfluten, überschwemmen, übertreten
-überwachen: kontrollieren, beobachten, ausspähen
+übertragen: metaphorisch, sinnbildlich
 überwacht: 
-übrig: restlich
-übt: 
