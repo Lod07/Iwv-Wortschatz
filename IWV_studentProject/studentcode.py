@@ -138,12 +138,48 @@ for ending in ENDINGS:
     print(ending)
     print("Min: ", counts_array.min())
     print("Max: ", counts_array.max())
-    print("Mean: ", counts_array.mean())
-    print("Std Dev: ", counts_array.std(ddof=0))
-    print("Variance: ", counts_array.var())
+    print("Spannweite: ", counts_array.max() - counts_array.min())
+    print("Mittelwert: ", counts_array.mean())
+    print("Standardabweichung: ", counts_array.std(ddof=0))
+    print("Varianz: ", counts_array.var())
+    print("                              ")
     ending_means.append(counts_array.mean())
     ending_max.append(counts_array.max())
     ending_std_devs.append(counts_array.std())
+
+
+
+
+
+
+
+# Erstellen des bar plots mit Error-Bars
+plt.figure(figsize=(10, 6))
+sns.barplot(x=ENDINGS, y=ending_means, errorbar=("sd", 0.1))
+
+
+# Iteriere über jeden Balken und füge einen individuellen Fehlerbalken hinzu
+
+'''
+for i, mean in enumerate(ending_means):
+    std_dev = ending_std_devs[i]
+    plt.errorbar(i, mean, yerr=std_dev, color='black', capsize=5)
+'''
+    
+
+plt.title("Endungen Substantive Mittelwerte mit Standardabweichung")
+plt.xlabel("Endungen")
+plt.ylabel("Anzahl")
+plt.show()
+
+
+
+
+
+
+
+
+
 
 
 #sns.boxplot(counts)
@@ -151,17 +187,17 @@ for ending in ENDINGS:
 #plt.show()
 
 
-
+'''
 boxplot_data = {ending: [] for ending in ENDINGS}
 
 for doc_elists in ending_list_per_document:
     for ending in ENDINGS:
         noun_count = len(doc_elists[ending])
         # Überprüfen, ob die Liste leer ist
-        if noun_count > 0:
-            boxplot_data[ending].append(noun_count)
-        else:
-            boxplot_data[ending].append(np.nan)
+        #if noun_count > 0:
+        #    boxplot_data[ending].append(noun_count)
+        #else:
+        #    boxplot_data[ending].append(np.nan)
 
 # Daten für Boxplot in DataFrame umwandeln
 data = pd.DataFrame(boxplot_data)
@@ -177,6 +213,7 @@ plt.xlabel("Endungen")
 plt.ylabel("Anzahl")
 plt.show()
 
+'''
 
 
 sns.barplot(x=ENDINGS, y=ending_means)
