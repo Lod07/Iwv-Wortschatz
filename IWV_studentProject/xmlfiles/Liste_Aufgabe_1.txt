@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Gesamtzahl aller Wörter: 143901
 
 Wort                     | POS  | Count | TAG   | Lexikalische Vielfalt
@@ -6764,3 +6765,9 @@ genesen                  | VERB | 3     | VVPP  | 0.0020847666103779683
 gelebt                   | VERB | 29    | VVPP  | 0.02015274390032036
 madsen                   | PROPN| 14    | NE    | 0.009728910848430519
 niederlande              | PROPN| 2     | NE    | 0.0013898444069186454
+=======
+Gesamtzahl aller Wörter: 214
+
+Wort       | POS  | Count | TTR
+-----------|------|-------|--------
+>>>>>>> origin/0901_Generalprobe_Phil

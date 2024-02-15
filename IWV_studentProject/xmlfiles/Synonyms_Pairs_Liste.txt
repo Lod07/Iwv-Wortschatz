@@ -1,0 +1,370 @@
+Abflug: Startzeit
+Abwehr: Verteidigung
+Ackerläufer: 
+Affenart: 
+Akademie: Hochschule, Universität
+Albersdorf: 
+Amundsen: 
+Anleitungen: 
+Anmerkung: 
+Anwalt: Rechtsvertreter
+Anzeigetafeln: 
+Ard: 
+Arkona: 
+Artisten: 
+Aschenputtel: Aschenbrödel, Ludwig Bechstein
+Auktion: Lizitation, Versteigerung
+Baggern: 
+Batterie: 
+Beamte: Beamtin
+Bier: Bölkstoff, flüssiges Brot, Gerstenkaltschale, Gerstensaft, Helles, Hirse, Hopfenblütentee, Hopfentee
+Bleckede: 
+Bombenentschärfung: 
+Bonn: 
+Boy: 
+Brust: Rumpf, Brustkasten, Brustkorb, Thorax
+Bränden: 
+Bsc: 
+Bulle: Stier, Rammbock
+Burg: Bastion, Befestigung, Bollwerk, Felsennest, Feste, Kastell, Pfalz, Raubnest, Raubschloss, Refugium, Warte, Zitadelle
+Bus-firma: 
+Bärenjägers: 
+Bückeburg: 
+Cappeln: 
+Cent: Eurocent
+Clowns: 
+Cyclassics: 
+Dastennisturnier: 
+Datum: Kalendertag
+Deckel: Verschluss
+Depublik: 
+Dobbertin: 
+Dokumente: 
+Drachen: Kite
+Duell: Zweikampf
+Duisburg: 
+Dächern: 
+Döllinghareico: 
+Ebenen: 
+Egestorf: 
+Elisabeth: 
+Emiraten: 
+Endergebnis: Endresultat
+Erbrechen: Übergeben, Kotzen, Emesis, Vomitio, Vomitus
+Erdbeeren: 
+Erneuern: 
+Esel: Gevatter Langohr, großes Langohr, Hans Langohr
+Ewa: 
+Ex-schwager: 
+Fehmarn: 
+Feldmuehle: 
+Fensterscheiben: 
+Filmemacher: 
+Flottbek: 
+Fotograf: Lichtbildner, Knipser
+Fruchtsäfte: 
+Funken: 
+Füttern: 
+Garlstorf: 
+Gemeindevertretung: 
+Gitte: 
+Gorch: 
+Gott: Herr, Herrgott, Allmächtige, Allwissende, Vater, Vaterunser, Schöpfer, Weltenschöpfer, Weltenlenker, Richter, JHWH, Jahwe, Jehova
+Guppe: 
+Gymnasium: österreichisch, Gym, schweizerisch, Gymer, österreichisch, schweizerisch, Gymi
+Hackfleisch: Faschiertes, Gehacktes, Hack, Haschee
+Haenning: 
+Hafen-dampfschifffahrtsgesellschaft: 
+Hahnenklee: 
+Hexe: Kleine
+Hip-hop: 
+Hirschen: 
+Hittfeld: 
+Hosen: 
+Hotelbesitzer: Hoteleigentümer
+Hubschraubern: 
+Hundekäfig: 
+Hurricane-festival: 
+Hut: Deckel
+Hühnern: 
+Ice-zügen: 
+Imbiss: Snack, Zwischenmahlzeit
+Inas: 
+Indigo: 
+Innerstestausee: 
+Island: Republik Island
+Jever: 
+Kaffeemaschinen: 
+Kauczinki: 
+Kehrwieder: 
+Kellern: 
+Kino: Filmtheater, Kinovorführraum, Lichtspielhaus, Lichtspieltheater
+Klinikärzte: 
+Knieverletzung: Knieblessur
+Knochengerüst: Skelett
+Koch: Essenzubereiter, Gastronom, Speisebereiter
+Krusenkoppel: 
+Kuhlage: 
+Kulturzentrum: 
+Käfig: Gehege, Zwinger, Voliere, Bauer
+Köhler: Holzkohlenhersteller, Kohlenbrenner
+Körperverletzung: 
+Laatzen: 
+Ladung: Fracht, Frachtgut, Kargo, Cargo, Fuhre
+Lampen: 
+Lathen: 
+Lea: 
+Lechtenbrink: 
+Lemgo: 
+Lettland: Republik Lettland
+Leute: 
+Lippe: Lefze, Labium
+Liter: Kubikdezimeter
+Luchsen: 
+Ludwigslust-parchim: 
+Luftraum: Territorium, Hoheitsgebiet
+Lungenkrankheit: Lungenerkrankung, Lungenleiden
+Löcher: 
+Löhne: 
+Lüftung: Lufterneuerung, Ventilation, Ventilierung
+Lürrsen-werft: 
+Maschinengewehre: 
+Maßnahmen: 
+Medaillen: 
+Menschengruppe: 
+Mexiko: Vereinigte Mexikanische Staaten
+Michaelis: 
+Mikrofon: 
+Misshandlungen: 
+Moorbrände: 
+Mt: 
+Mtv: 
+Máxima: 
+Märkte: 
+Möbelhäusern: 
+Möglichkeiten: 
+Möhre: gelbe Rübe, Karotte, Mohrrübe, Wurzel
+Namika: 
+Obachlose: 
+Obdachloser: Penner, Sandler, Strotter
+Obstbrei: 
+Ohren: 
+Oiaf: 
+Ordnung: Weltordnung
+Ortsumgehung: Ortsumfahrung, Umfahrung, Umfahrungsstraße, Umfahrungsstrecke, Umgehung, Umgehungsstraße, Umgehungsstrecke
+Out: Aus
+Pajor: 
+Papierstückchen: Papierschnipsel
+Patient: 
+Pech: Missgeschick, Unglück
+Peenemünde: 
+Peking: Beijing
+Pella: 
+Possehlbrücke: 
+Potsdam: 
+Preisen: 
+Prtei: 
+Präsident: Staatspräsident
+Prüfung: Check, Durchsicht, Erprobung, Kontrolle, Überprüfung, Untersuchung
+Puan: 
+Punkten: 
+Rakete: 
+Randalen: 
+Rathäusern: 
+Rb: 
+Reetdachhaus: 
+Rektor: Direktor, Schulrektor
+Rettungsdiensten: 
+Rinder: 
+Rissen: 
+Roald: 
+Rucksack: Affe, Knapsack
+Ruhestand: 
+Rumpelstilzchen: 
+S-bahn-tunnel: 
+Sabine: Bine, Sabse
+Salat: Lactuca sativa, grüne Salat, Gartensalat, Lattich
+Sarg: 
+Sasha: 
+Scc: 
+Seuche: Epidemie, Infektionskrankheit, Pandemie
+Signal: Schild
+Sitze: 
+Skelett: Gerippe, Knochengerüst
+Sommerspiele: 
+Sottrum: 
+Spd-chefin: 
+Sprünge: 
+Ställe: 
+Stürmerin: Angreiferin, Offensivspielerin
+Suchsdorf: 
+Sätze: 
+Sören: 
+Talsperre: Stauwerk, Stauanlage
+Tatortreiniger: 
+Tbv: 
+Temperatur: Wärmegrad
+Teppiche: 
+The: 
+Thülsfelder: 
+Tischen: 
+Toitenwinkel: 
+Tätern: 
+Töchtern: 
+Uhrzeit: 
+Unfallstellen: 
+Universitätsuklinikum: 
+Urlaubern: 
+Urteile: 
+Valluhn: 
+Vegesack: 
+Vinnhorst: 
+Vize-landtagspräsidentin: 
+Vogelmarkern: 
+Wedemark: 
+Wichtiges: 
+Wissenschaftsminister: 
+Wlan-verbindung: 
+Wriedel: 
+Wucht: 
+Wänden: 
+Wüste: Öde, Ödland, Ödnis
+Yara: 
+Yvonne: 
+Zarrentin: 
+Zauberer: Hexer, Hexenmeister, Magier, Magiker, Magus, Schwarzkünstler, Nigromant
+Zellen: 
+Zoos: 
+Zukunft: Futur I
+abholen: abführen, verhaften
+abmachen: 
+abpumpen: 
+akzeptieren: anerkennen, annehmen, befürworten, billigen
+alone: 
+anfassen: anlangen, anrühren
+ankreuzen: ankreuzeln
+arbeitslos: beschäftigungslos, ohne, Anstellung, Arbeit, ohne, Beschäftigung, Stellung, erwerbslos, stellenlos, stellungslos, unbeschäftigt
+arm: 
+befreit: 
+binden: schnüren, fesseln, verknüpfen, festmachen, zusammenfügen, befestigen
+bittet: 
+böse: 
+dagegen: contra, dawider, konträr
+davor: 
+days: 
+de: doch
+digitalisiert: 
+dj: 
+doch: 
+druckt: 
+dufte: 
+dumm: bescheuert, blöd, dämlich, doof, dusselig, idiotisch, Verzeichnis:Deutsch/Dummheit
+duschen: brausen
+dünn: mager, schmal
+dürfen.keine: 
+ehemaliger: 
+eifersüchtig: 
+eitzum: 
+empfiehlt: 
+erreicht: 
+etzt: 
+explodierten: 
+extra: eigens
+faire: far,  (alternative Infinitivform)
+fasst: 
+flach: eben
+flensburg-handewitt: 
+fälscht: 
+fördern: 
+füllen: 
+gejagt: 
+gequält: 
+gezerrt: 
+gleichberechtigt: 
+golden: gülden
+gründen: anfangen, beginnen, einrichten, eröffnen
+hatten.keinen: 
+helft: 
+hieß: 
+hoffe: 
+home: 
+impfen: 
+ine: 
+isolieren: abtrennen, absondern, vereinzeln
+jahrelang: 
+jederzeit: stets, immer
+jemand: einer, irgendwer, wer, etwer
+junges: 
+kalten: 
+kannte: 
+kastorfer: 
+kennenlernen: bekanntmachen
+klassische: 
+klären: 
+kämpft: 
+kümmere: 
+leer: ledig
+längere: 
+lügt: 
+mecklenburger: 
+mehrfach: multipel, vielfach
+mobilen: 
+montags: 
+n: 
+ndr.de: 
+nein: negativ, niemals, nie, nie und nimmer, nirgendwann, nirgends, nirgendwo, niemand, nirgendwer
+nutzt: 
+nähert: 
+nämlich.nicht: 
+nördliche: 
+of: 
+offen: geöffnet
+organisiert: 
+panorama: 
+pommes: 
+pop: pop musik
+private: 
+pünktlicher: 
+reagieren: 
+rechts: steuerbord
+richtige: 
+rohr: 
+rächen: heimzahlen, vergelten
+rückwärts: mit dem Rücken voran, arschling
+sammeltaxis: 
+saßen: 
+setzt: 
+sexuellem: 
+singe: patron
+spätestens: 
+sumpfig: 
+tagesstätte: 
+teil: 
+toben: 
+tolle: 
+tornesch: 
+trösten: 
+turnen: 
+täglich: 
+töte: 
+u: 
+umdrehen: 
+umkippen: 
+unbekannte: 
+ungesund: gesundheitsgefährdend, gesundheitsschädlich, gesundheitsschädigend, krankmachend
+völlig: absolut, ganz, gänzlich, komplett, total, vollkommen, vollständig
+wechseln: abwechseln
+wehren: 
+wirft: 
+wollt: 
+zubeißen: anbeißen, schnappen, zuschnappen
+Ämter: 
+Ärmel: 
+Öjendorf: 
+Ölprinz: 
+ähnliches: 
+ärgere: 
+öffentlich: publik
+östliche: 
+übrig: restlich
+übt: 
