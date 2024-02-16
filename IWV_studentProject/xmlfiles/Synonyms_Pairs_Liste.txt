@@ -1,0 +1,299 @@
+abends: 
+abholen: abführen, verhaften
+abreißen: herunterreißen, abszindieren
+abteilung: 
+achtung: 
+afrika: 
+ahrensburg: 
+alarm: system alarmowy
+albersdorf: 
+alstertal-einkaufszentrum: 
+altenwerder: 
+ampeln: 
+amundsen: 
+anbieten: 
+anfassen: anlangen, anrühren
+antwerpen: 
+ard: 
+arkona: 
+arme: 
+august: kolovoz
+babys: 
+backen: braten
+barßel: 
+beachten: zur Kenntnis nehmen
+beende: 
+befestigen: befesten
+beginn: 
+bekannten: 
+beobachtet: 
+bezirke: 
+bietet: 
+binden: schnüren, fesseln, verknüpfen, festmachen, zusammenfügen, befestigen
+bittet: 
+blockiert: 
+bombenentschärfung: 
+brust: 
+bränden: 
+bulle: 
+burg: 
+böse: 
+bückeburg: 
+cent: centaine
+chanel: 
+christuskirche: 
+dampf: 
+deine: 
+demonstranten: 
+des: 
+deutsch: 
+direkt: gerade, geradeaus, geradewegs, gradewegs, geradezu
+drachen: 
+druckt: 
+du: 
+duell: 
+dumm: bescheuert, blöd, dämlich, doof, dusselig, idiotisch, Verzeichnis:Deutsch/Dummheit
+duncan: 
+döllinghareico: 
+dörfern: 
+dünn: mager, schmal
+düsseldorf: 
+egestorf: 
+ehemaliger: 
+eichen: eichern
+eifersüchtig: 
+eisschicht: 
+endergebnis: 
+erdbeben: 
+erinnern: einfallen, entsinnen
+erwachsene: 
+esel: donkie
+estorf: 
+ewa: 
+ex-freund: 
+falsches: 
+familienmitglied: 
+fehlen: mangeln
+feiert: 
+filmtage: 
+flaschen: 
+flottbek: 
+fordern: abverlangen, beanspruchen, einfordern, verlangen
+fotograf: 
+froh: 
+frühen: 
+futter: 
+fälscht: 
+füllen: 
+garlstorf: 
+gemerkt: 
+genügend: genug, ausreichend, hinlänglich, hinreichend, sattsam
+georgsmarienhütte: 
+geplatzt: 
+gequält: 
+gezogen: 
+geärgert: 
+geübt: 
+gibst: 
+grenzen: 
+grippe-tote: 
+gruppe: 
+größere: 
+günstigen: 
+güterzug: 
+haare: 
+haft: 
+hatten.keinen: 
+hexen: 
+hirsche: 
+hittfeld: 
+holt: 
+hosen: 
+häftling: 
+hände: 
+höchste: 
+höhe: 
+hörfilm: 
+impfen: 
+inas: 
+ine: 
+informationstechnik: 
+it: ita
+jagen: hetzen
+jever: 
+joachim: 
+jüngsten: 
+kabeln: telegrafieren
+kampf: 
+kaputtgehen: 
+kastastrophenfall: 
+katzen: 
+kellern: 
+kilo: kilogram
+kindertagesstätte: 
+kippt: 
+kira: 
+kiste: 
+kleider: 
+klären: 
+knieverletzung: 
+knochengerüst: 
+kochen: abbrühen, anrichten, aufbrühen, den Kochlöffel schwingen, erhitzen, garen, zubereiten, zurichten
+kostenlose: 
+krusenkoppel: 
+kräftig: 
+kurze: 
+käufer: 
+kühen: 
+künstliche: 
+küsten: 
+leg: limb, prop
+lemgo: 
+licht: hell
+lippe: 
+lkw-teile: 
+lockern: 
+luchsen: 
+lässt: 
+löschbooten: 
+lügen: 
+lüneburger: 
+mehrmals: mehrfach, zehnmal, hundertmal
+melsungen: 
+meppen: 
+metall: 
+michaelis: 
+miete: 
+militärschiff: 
+moderner: 
+mord: 
+mt: 
+mtv: 
+mundschutz: 
+mut: 
+mv: 
+möchten: 
+müde: ermüdet, ruhebedürftig, übermüdet, übernächtigt
+müsst: 
+n: 
+name: 
+nebel: 
+nennen: 
+niebüll: 
+nähert: 
+obdachloser: 
+oberleitungen: 
+obst: 
+ohren: 
+opfer: 
+ordnung: 
+organisation: 
+ortsumgehung: 
+othmarschen: 
+paar: paarig, paarweise
+paderborn: 
+pajor: 
+pausen: 
+pella: 
+pferd: 
+pinneberg: 
+pistolen: 
+plänen: 
+plön: 
+polzisten: 
+potsdam: 
+preisen: feiern, glorifizieren, loben, lobsingen, bewundern, erhöhen, rühmen, verherrlichen
+problemen: 
+prtei: 
+prüft: 
+pullover: 
+pumpen: fördern, transportieren
+randale: 
+rb: 
+reflektiert: 
+rellingen: 
+rettungskräfte: 
+rhein: 
+richtige: 
+riechen: einen Geruch wahrnehmen, schnuppern, schnüffeln
+rinder: 
+rissen: 
+roald: 
+roboter: 
+rockmusik: 
+rosenberg: 
+rucksack: backpack, back pack, haversack, knapsack, packsack
+rufen: 
+ruhestand: 
+runtergefahren: 
+rutschig: 
+saison: 
+scc: 
+setzt: 
+seuche: 
+sietas: 
+singt: 
+skelett: benrangel
+sozial-demokratische: 
+stimme: 
+studenten: 
+ständen: 
+suche: 
+sägen: schnarchen
+tanzsportverein: 
+tatortreiniger: 
+tbv: 
+telefonanruf: 
+terrorist: 
+teure: 
+thüringen: 
+toben: 
+tonne: 
+tretroller: 
+trockene: 
+tunneln: 
+tut: 
+u: 
+ueckermünde: 
+umwege: 
+unbekannter: 
+ungesund: gesundheitsgefährdend, gesundheitsschädlich, gesundheitsschädigend, krankmachend
+uwe: 
+vegesack: 
+viertgrößte: 
+vize-landtagspräsidentin: 
+wachmann: 
+waddeweitz: 
+walkenhorst: 
+wand: 
+wartet: 
+wedemark: 
+weht: 
+wem: 
+wettfahrten: 
+wirft: 
+wlan-verbindung: 
+wofür: 
+wolfsspuren: 
+woran: 
+wriedel: 
+wucht: 
+wände: 
+wärmer: 
+wünschen: anstreben, anvisieren, brennen, den Wunsch haben, sich, erhoffen, erpicht sein, erstreben, sich erträumen, fiebern, herbeisehnen, Sehnsucht haben, streben, träumen, versessen sein, wollen, sich zum Ziel setzen
+würste: 
+yara: 
+zarrentin: 
+zelten: 
+zentrum: 
+zeuge: 
+zwingen: nötigen
+ähnlich: similär
+älteste: 
+ätzend: 
+öffentlich: publik
+öjendorf: 
+östliche: 
+übrig: restlich
+übt: 
+übungsplatz: 

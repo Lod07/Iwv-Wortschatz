@@ -12,7 +12,7 @@ import pandas as pd
 
 import utils
 
-
+import compare_synonyms as cs
 import psutil
 import threading
 import time
@@ -31,8 +31,20 @@ from pathlib import Path
 # LADEBALKEN
 from tqdm import tqdm
 
+'''
+Optionen für das Laden der Dateien. 
+includeOverviews und includeSingleNews müssen entweder true oder false gesetzt werden, je nachdem welcher Korpus geladen werden soll
+'''
+options = DatasetOptions()
+options.removeMedioPoint = True
+options.includeOverviews = True
+options.includeSingleNews = True
+datasetPath = Path(__file__).parent / 'xmlfiles' 
+dataset = LSNewsData(datasetPath, options)
+
 def createUniqueKey(word, pos, tag):
     return f'{word}_{pos}_{tag}'
+
 ENDINGS = ['heit', 'ie', 'ik', 'ion', 'ismus', 'ität', 'keit', 'nz', 'tur', 'ung']
 
 
@@ -88,11 +100,6 @@ def get_prefix(word):
     # In diesem Beispiel wird das Präfix als die ersten drei Buchstaben des Wortes genommen
     return word[:3].lower()
 
-
-
-
-
-
 def find_noun_endings(noun_list):
     # Listen für Substantive mit den gesuchten Endungen
     ending_lists = {ending: [] for ending in ENDINGS}
@@ -128,23 +135,12 @@ def main():
     tr.stopSystemMonitor()
     tr.endTimeSection('ModelLoading')
 
-dataset = LSNewsData(datasetPath, options)
-
     # Dictionary zur Verfolgung der Gesamtanzahl der Wörter pro Wortart
     total_pos_count = {}
 
     # Liste für alle individuellen Wörter mit ihrer Häufigkeit und Wortart
     total_word_list = []
 
-    options = DatasetOptions()
-    options.removeMedioPoint = True
-    datasetPath = Path(__file__).parent / 'xmlfiles' 
-
-    # Liste aller individuellen Wörter aktualisieren
-    total_word_list.extend(word_list)
-
-
-    dataset = LSNewsData(datasetPath, options)
     ending_list_per_document = []
 
     tr.startTimeSection('WordsEinlesen')
@@ -153,37 +149,20 @@ dataset = LSNewsData(datasetPath, options)
     for i in tqdm(range(len(dataset))):
         # Anzahl der Wörter und POS-Tags ermitteln
         document = dataset[i]
-        pos_count, word_list = count_words_and_pos_tags(document, nlp)
-    output_path = os.path.join(str(datasetPath), "Liste_Aufgabe_1.txt")
-    output_path_csv = os.path.join(str(datasetPath), "Liste_Aufgabe_1.csv")
-    out_csv = open(output_path_csv, 'w', encoding='utf-8')
-    with open(output_path, 'w', encoding='utf-8') as output_file:
-        output_file.write(f"Gesamtzahl aller Wörter: {total_word_count}\n\n")
-        
-        output_file.write("Wort                     | POS  | Count | TAG   | Lexikalische Vielfalt\n")
-        out_csv.write("Wort, POS, Count, TAG, Lexikalische Vielfalt\n")
-        output_file.write("-------------------------|------|-------|-------|--------\n")
-
         # Gesamtanzahl der Wörter aktualisieren
+        pos_count, word_list = count_words_and_pos_tags(document, nlp)
         total_word_count += sum(pos_count.values())
-        vocabulary = set(total_word_list)
-
-        for word, pos, tag in vocabulary:
-            uKey = createUniqueKey(word, pos, tag)
-            output_file.write(f"{word.ljust(25)}| {pos.ljust(5)}| {str(total_pos_count[uKey]).ljust(6)}| {tag.ljust(6)}| {total_pos_count[uKey] * 100 / total_word_count}\n")
-            out_csv.write(f"{word}, {pos}, {str(total_pos_count[uKey])}, {tag}, {total_pos_count[uKey] * 100 / total_word_count:.8f}\n")
         # Gesamtanzahl der Wörter pro Wortart aktualisieren
         for pos, count in pos_count.items():
             total_pos_count[pos] = total_pos_count.get(pos, 0) + count
 
         # Liste aller individuellen Wörter aktualisieren
         total_word_list.extend(word_list)
-        out_csv.close()
 
         document_nouns = [word for word, pos, _ in word_list if pos in ['NOUN', 'PROPN', 'NE', 'NNE']]
         document_ending_lists = find_noun_endings(document_nouns)
         ending_list_per_document.append(document_ending_lists)
-    print(f"Ausgabe wurde in der Datei {output_path} gespeichert.")
+    
 
     tr.stopSystemMonitor()
     tr.endTimeSection('WordsEinlesen')
@@ -215,110 +194,7 @@ dataset = LSNewsData(datasetPath, options)
     tr.stopSystemMonitor()
     tr.endTimeSection('EndungenBerechnen')
 
-print(f"Ausgabe wurde in der Datei {output_path} gespeichert.")
-
-    #Visualisierung 
-
-output_path = os.path.join(str(datasetPath), "Liste_Aufgabe_1_unique_words.txt")
-with open(output_path, 'w', encoding='utf-8') as output_file2:
-    for unique_word in unique_words:
-        output_file2.write(f"{unique_word}\n")
-
-print(f"Ausgabe wurde in der Datei {output_path} gespeichert.")
-
-    # # Iteriere über jeden Balken und füge einen individuellen Fehlerbalken hinzu
-    # for i, mean in enumerate(ending_means):
-    #     std_dev = ending_std_devs[i]
-    #     plt.errorbar(i, mean, yerr=std_dev, color='black', capsize=5)  
-
-
-    '''
-    for ending in ENDINGS:    
-        sns.boxplot(data = counts)
-        plt.title(f'Boxplot für Endung "{ending}"')
-        plt.show()
-    '''
-
-    # # Daten für Boxplot vorbereiten
-    # boxplot_data = {ending: pd.Series([len(doc_elists[ending]) for doc_elists in ending_list_per_document]) for ending in ENDINGS}
-
-
-
-    # # Daten für Boxplot in DataFrame umwandeln
-    # data = pd.DataFrame(boxplot_data)
-
-    # # Boxplot erstellen
-    # plt.figure(figsize=(12, 8))
-    # sns.boxplot(data=data, flierprops=dict(markerfacecolor='0.50', markersize=2))
-    # plt.yticks(np.arange(0, max(ending_max)+1, 2))
-    # plt.ylim(0, max(ending_max)+1)
-    # plt.title("Boxplot für Substantiv-Endungen")
-    # plt.xlabel("Endungen")
-    # plt.ylabel("Anzahl")
-    # plt.show()
-
-
-    # # Boxplot erstellen
-    # plt.figure(figsize=(12, 8))
-    # #sns.boxplot(data=data, flierprops=dict(markerfacecolor='0.50', markersize=2))
-    # sns.boxplot(data=data, showfliers = False)
-    # plt.yticks(np.arange(0, max(ending_max)+1, 2))
-    # plt.ylim(0, 2)
-    # plt.title("Boxplot für Substantiv-Endungen")
-    # plt.xlabel("Endungen")
-    # plt.ylabel("Anzahl")
-    # plt.show()
-
-    '''
-    boxplot_data = {ending: [] for ending in ENDINGS}
-
-    for doc_elists in ending_list_per_document:
-        for ending in ENDINGS:
-            noun_count = len(doc_elists[ending])
-            # Überprüfen, ob die Liste leer ist
-            #if noun_count > 0:
-            #    boxplot_data[ending].append(noun_count)
-            #else:
-            #    boxplot_data[ending].append(np.nan)
-
-    # Daten für Boxplot in DataFrame umwandeln
-    data = pd.DataFrame(boxplot_data)
-
-    # Boxplot erstellen
-    plt.figure(figsize=(12, 8))
-    sns.boxplot(data=data, flierprops = dict(markerfacecolor = '0.50', markersize = 2))
-    # Hier setzt du die Einteilung der y-Achse in Zweierschritten
-    plt.yticks(np.arange(0, max(counts_array)+1, 2))
-    plt.ylim(0,16)
-    plt.title("Boxplot für Substantiv-Endungen")
-    plt.xlabel("Endungen")
-    plt.ylabel("Anzahl")
-    plt.show()
-
-    '''
-
-
-
-    # sns.barplot(x=ENDINGS, y=ending_means)
-    # plt.title("Endungen Substantive Mittelwerte")
-    # plt.xlabel("Endungen")
-    # plt.ylabel("Anzahl")
-    # plt.show()
-
-    # sns.barplot(x=ENDINGS, y=ending_max)
-    # plt.title("Endungen Substantive Maxima")
-    # plt.xlabel("Endungen")
-    # plt.ylabel("Anzahl")
-    # plt.show()
-
-    with open("document_ending_list.txt", "w") as f:
-        for doc_elists in ending_list_per_document:
-            for ending, nouns in doc_elists.items():
-                f.write(f"{ending}: {len(nouns)} - {nouns}\n")
-            f.write("\n-------------------------------------\n")
-
-    print(len(total_word_list))
-
+    #print(f"Ausgabe wurde in der Datei {output_path} gespeichert.")
 
     tr.startTimeSection('finduniquewords')
     tr.startSystemMonitor()
@@ -338,19 +214,40 @@ print(f"Ausgabe wurde in der Datei {output_path} gespeichert.")
     tr.stopSystemMonitor()
     tr.endTimeSection('IdentifiziereSubstantive')
 
+#----------   ERGEBNISSE   -----------#
+
+    # Ausgabe Liste Aufgabe 1&2
+    output_path = os.path.join(str(datasetPath), "Liste_Aufgabe_1&2.txt")
+    output_path_csv = os.path.join(str(datasetPath), "Liste_Aufgabe_1&2.csv")
+    out_csv = open(output_path_csv, 'w', encoding='utf-8')
+    with open(output_path, 'w', encoding='utf-8') as output_file1:
+        output_file1.write(f"Gesamtzahl aller Wörter: {total_word_count}\n\n")
+        
+        output_file1.write("Wort                     | POS  | Count | TAG   | Lexikalische Vielfalt\n")
+        out_csv.write("Wort, POS, Count, TAG, Lexikalische Vielfalt\n")
+        output_file1.write("-------------------------|------|-------|-------|--------\n")
 
 
+        vocabulary = set(total_word_list)
 
-    # Ausgabe 
+        for word, pos, tag in vocabulary:
+            uKey = createUniqueKey(word, pos, tag)
+            output_file1.write(f"{word.ljust(25)}| {pos.ljust(5)}| {str(total_pos_count[uKey]).ljust(6)}| {tag.ljust(6)}| {total_pos_count[uKey] * 100 / total_word_count}\n")
+            out_csv.write(f"{word}, {pos}, {str(total_pos_count[uKey])}, {tag}, {total_pos_count[uKey] * 100 / total_word_count:.8f}\n")
+
+        out_csv.close()
+
+    '''
     output_path = os.path.join(str(datasetPath), "Liste_Aufgabe_1.txt")
     with open(output_path, 'w', encoding='utf-8') as output_file:
         output_file.write(f"Gesamtzahl aller Wörter: {total_word_count}\n\n")
         output_file.write("Anzahl Wortarten:\n")
         for pos, count in total_pos_count.items():
             output_file.write(f"{pos}: {count}\n")
+    
+    print(f"Ausgabe wurde in der Datei {output_path} gespeichert.")
 
-
-
+    
         # daten umformatieren hier
         final = {}
         for word, pos, tag in total_word_list:
@@ -366,67 +263,57 @@ print(f"Ausgabe wurde in der Datei {output_path} gespeichert.")
         output_file.write("\nWort - Wortart nach pos - Wortart nach tag- Anzahl\n")
         for word_info in final:
             output_file.write(str(word_info) + " " + str(final[word_info]) + "\n")
+    '''
 
-        output_file.write("\nSubstantive mit den gesuchten Endungen:\n")
-        for ending, nouns in ending_lists.items():
-            output_file.write(f"{ending}: {len(nouns)} - {nouns}\n")
-
-    print(f"Ausgabe wurde in der Datei {output_path} gespeichert.")
-
-
-
-    #Herausfiltern unique words
-    output_path = os.path.join(str(datasetPath), "Liste_Aufgabe_1_unique_words.txt")
-    with open(output_path, 'w', encoding='utf-8') as output_file2:
+     #Herausfiltern unique words Aufgabe 3
+    output_path = os.path.join(str(datasetPath), "Liste_Aufgabe_3_unique_words.txt")
+    with open(output_path, 'w', encoding='utf-8') as output_file3:
         for unique_word in unique_words:
-            output_file2.write(f"{unique_word}\n")
+            output_file3.write(f"{unique_word}\n")
 
     print(f"Ausgabe wurde in der Datei {output_path} gespeichert.")
+    
+    utils.create_synonyms_list()
+    cs.compare_synonyms()
 
-
-
-    # #Visualisierung 
-
-    # # Visualisierung Endungen Substantive
-    # ending_counts = {ending: len(nouns) for ending, nouns in ending_lists.items()}
-    # sns.barplot(x=list(ending_counts.keys()), y=list(ending_counts.values()))
-    # plt.title("Anzahl der Substantive mit den gesuchten Endungen")
-    # plt.xlabel("Endungen")
-    # plt.ylabel("Anzahl")
-    # plt.show()
-
-    # # Bereinigung der Liste von Duplikaten
-    # ending_lists_relative = {ending: list(OrderedDict.fromkeys(words)) for ending, words in ending_lists.items()}
-
-    # # Visualisierung als Balkendiagramm
-    # ending_counts_relative = {ending: len(words) for ending, words in ending_lists_relative.items()}
-
-    # # Plot
-    # sns.barplot(x=list(ending_counts_relative.keys()), y=list(ending_counts_relative.values()))
-    # plt.title("Anzahl der Substantive mit den gesuchten Endungen (ohne Duplikate)")
-    # plt.xlabel("Endungen")
-    # plt.ylabel("Anzahl")
-    # plt.show()
-
-
-
-    '''
-    # Wordcloud erstellen
-    wordcloud_text = ' '.join([word for word, _, _ in total_word_list])
-    wordcloud = WordCloud(width=800, height=400, random_state=21, max_font_size=110, background_color='white').generate(wordcloud_text)
-
-    # Wordcloud anzeigen
-    plt.figure(figsize=(10, 5))
-    plt.imshow(wordcloud, interpolation="bilinear")
-    plt.axis('off')
-    plt.show()
-    '''
-    tr.close()
-
-if __name__ == "__main__":
+    #Visualisierung Aufgabe 4
+    output_path = os.path.join(str(datasetPath), "Liste_Aufgabe_4.txt")
+    with open(output_path, 'w', encoding='utf-8') as output_file4:
+        output_file4.write("\nSubstantive mit den gesuchten Endungen:\n")
+        for ending, nouns in ending_lists.items():
+            output_file4.write(f"{ending}: {len(nouns)} - {nouns}\n")
     
 
+    ending_counts = {ending:len(nouns) for ending, nouns in ending_lists.items()}
+    sns.barplot(x=list(ending_counts.keys()), y=list(ending_counts.values()))
+    plt.title ("Anzahl der Substantive mit den gesuchten Endungen")
+    plt.xlabel ("Endungen")
+    plt.ylabel ("Anzahl")
+    plt.show ()
 
+    ending_lists_relative = {ending: list(nouns) for ending, nouns in ending_lists.items()}
+    ending_counts_relative = {ending: len(word) for ending, word in ending_lists_relative.items()}
+       
+    sns.barplot(x=list(ending_counts_relative.keys()), y=list(ending_counts_relative.values()))
+    plt.title ("Anzhal der Substantive mit den gesuchten Endungen (Ohne Duplikate)")
+    plt.xlabel ("Endungen")
+    plt.ylabel ("Anzahl")
+    plt.show ()
+
+
+    plt.figure(figsize=(10, 6))
+    sns.barplot (x=ENDINGS, y=ending_means, errorbar=("sd",0.1))
+    plt.title ("Endungen Substantive Mittelwerte mit Standardabweichung")
+    plt.xlabel ("Endungen")
+    plt.ylabel ("Anzahl")
+    plt.show ()
+
+    
+   
+    
+
+def compute(dokument):
+    print(dokument)
     cp = CProfiler()
     cp.profileCall(main)
 

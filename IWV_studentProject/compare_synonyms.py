@@ -1,17 +1,25 @@
-# Einlesen der Wörter aus der unique-words-Datei
-with open('D:/documents/Uni/MI_M/IWV/git/Iwv-Wortschatz/IWV_studentProject/xmlfiles/Liste_Aufgabe_1_Unique_words.txt', 'r', encoding='utf-8') as unique_file:
-    unique_words = set(unique_file.read().splitlines())
+import os
+from pathlib import Path
 
-# Einlesen der Wörter aus der Synonyme_Liste-Datei
-with open('D:/documents/Uni/MI_M/IWV/git/Iwv-Wortschatz/IWV_studentProject/xmlfiles/Synonyme_Liste.txt', 'r', encoding='utf-8') as synonym_file:
-    synonym_words = set(synonym_file.read().splitlines())
+datasetPath = Path(__file__).parent / 'xmlfiles' 
 
-# Filtern der Wörter, die in beiden Dateien vorkommen
-filtered_words = sorted(unique_words - synonym_words)
+def compare_synonyms():
+    # Einlesen der Wörter aus der unique-words-Datei
+    file_path_task3 = os.path.join(str(datasetPath), "Liste_Aufgabe_3_Unique_words.txt")
+    with open(file_path_task3, 'r', encoding='utf-8') as unique_file:
+        unique_words = set(unique_file.read().splitlines())
 
-# Speichern der verbleibenden Wörter in einer neuen Datei
-output_path = 'D:/documents/Uni/MI_M/IWV/git/Iwv-Wortschatz/IWV_studentProject/xmlfiles/Synonyme_Absolute_Liste.txt'
-with open(output_path, 'w', encoding='utf-8') as output_file:
-    output_file.write('\n'.join(filtered_words))
+    file_path_synonyms = os.path.join(str(datasetPath), "Synonyme_Liste.txt")
+    # Einlesen der Wörter aus der Synonyme_Liste-Datei
+    with open(file_path_synonyms, 'r', encoding='utf-8') as synonym_file:
+        synonym_words = set(synonym_file.read().splitlines())
 
-print(f"Die gefilterte Liste wurde in {output_path} gespeichert.")
+    # Filtern der Wörter, die in beiden Dateien vorkommen
+    filtered_words = sorted(unique_words - synonym_words)
+
+    file_path_synonyms_absolute = os.path.join(str(datasetPath), "Synonyme_Absolute_Liste.txt")
+    # Speichern der verbleibenden Wörter in einer neuen Datei
+    with open(file_path_synonyms_absolute, 'w', encoding='utf-8') as output_file:
+        output_file.write('\n'.join(filtered_words))
+
+    print(f"Die gefilterte Liste wurde in {file_path_synonyms_absolute} gespeichert.")

@@ -1,8 +1,13 @@
 import requests
 import json
 
+import os
+from pathlib import Path
 
-dateipfad = 'D:/documents/Uni/MI_M/IWV/git/Iwv-Wortschatz/IWV_studentProject/xmlfiles/Liste_Aufgabe_1_Unique_words.txt'
+datasetPath = Path(__file__).parent / 'xmlfiles' 
+
+
+dateipfad = os.path.join(str(datasetPath), "Liste_Aufgabe_3_Unique_words.txt")
 unique = []
 unique_final = {}
 
@@ -75,10 +80,7 @@ def getSynonymsWikitionary(token):
 
     return output
 
-
-
-if __name__ == "__main__":
-
+def create_synonyms_list():
     with open(dateipfad, 'r', encoding='utf-8') as datei:
         unique = datei.read().splitlines()
 
@@ -104,8 +106,8 @@ if __name__ == "__main__":
     for pair in synonyms_pairs:
         print(pair)
 
-    output_dateipfad = 'D:/documents/Uni/MI_M/IWV/git/Iwv-Wortschatz/IWV_studentProject/xmlfiles/Synonyme_Liste.txt'
-    output_dateipfad_pairs = 'D:/documents/Uni/MI_M/IWV/git/Iwv-Wortschatz/IWV_studentProject/xmlfiles/Synonyms_Pairs_Liste.txt'
+    output_dateipfad = os.path.join(str(datasetPath), "Synonyme_Liste.txt")
+    output_dateipfad_pairs = os.path.join(str(datasetPath), "Synonyms_Pairs_Liste.txt")
 
     with open(output_dateipfad, 'w', encoding='utf-8') as output_datei:
         for element in unique_final:
@@ -114,4 +116,10 @@ if __name__ == "__main__":
     with open(output_dateipfad_pairs, 'w', encoding='utf-8') as output_datei_pairs:
         for pair in synonyms_pairs:
             output_datei_pairs.write(pair + '\n')
+
+
+
+if __name__ == "__main__":
+
+    create_synonyms_list()
 
